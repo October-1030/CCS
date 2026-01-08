@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-08T19:29:40.633Z",
-  "totalSkills": 91,
+  "lastSync": "2026-01-08T19:33:11.004Z",
+  "totalSkills": 93,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -1071,6 +1071,30 @@
       "stars": 145,
       "updatedAt": "2026-01-08T08:10:21Z",
       "repoUrl": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next"
+    },
+    {
+      "id": "tripleyak-skillforge",
+      "name": "skillforge",
+      "description": "Intelligent skill router and creator. Analyzes ANY input to recommend existing skills, improve them, or create new ones. Uses deep iterative analysis with 11 thinking models, regression questioning, evolution lens, and multi-agent synthesis panel. Phase 0 triage ensures you never duplicate existing functionality.",
+      "category": "development",
+      "tags": [
+        "claude-ai",
+        "claude-code",
+        "claude-skills"
+      ],
+      "stars": 226,
+      "updatedAt": "2026-01-08T16:39:00Z",
+      "repoUrl": "https://github.com/tripleyak/SkillForge"
+    },
+    {
+      "id": "metaskills-skill-builder",
+      "name": "skill-builder",
+      "description": "Use this skill when creating new Claude Code skills from scratch, editing existing skills to improve their descriptions or structure, or converting Claude Code sub-agents to skills. This includes designing skill workflows, writing SKILL.md files, organizing supporting files with intention-revealing names, and leveraging CLI tools and Node.js scripting.",
+      "category": "development",
+      "tags": [],
+      "stars": 53,
+      "updatedAt": "2026-01-07T08:02:20Z",
+      "repoUrl": "https://github.com/metaskills/skill-builder"
     }
   ]
 }

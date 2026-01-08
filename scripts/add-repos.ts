@@ -14,51 +14,27 @@ import matter from "gray-matter";
 config({ path: resolve(process.cwd(), ".env.local") });
 
 const REPOS_TO_ADD = [
-  // Batch 4 - High quality from travisvn & BehiSecc awesome lists
+  // Batch 5 - Meta skills and tools (high star count)
 
-  // Core & Superpowers
-  "obra/superpowers",
-  "obra/superpowers-skills",
-  "obra/superpowers-lab",
+  // Meta Skills (skill generators)
+  "tripleyak/SkillForge",          // 226 stars - meta-skill for generating skills
+  "metaskills/skill-builder",       // 50 stars - skills builder
 
-  // Development Tools
-  "conorluddy/ios-simulator-skill",
-  "lackeyjb/playwright-skill",
-  "chrisvoncsefalvay/claude-d3js-skill",
-  "zxkane/aws-skills",
-  "raintree-technology/claude-starter",
-  "1NickPappas/move-code-quality-skill",
-  "bluzername/claude-code-terminal-title",
-  "ivan-magda/claude-code-plugin-template",
+  // Individual Quality Skills
+  "ykdojo/claude-code-tips",        // reddit-fetch + dx plugin
+  "BayramAnnakov/claude-reflect",
+  "brunoasm/my_claude_skills",
 
-  // Data & Analysis
-  "coffeefuelbump/csv-data-summarizer-claude-skill",
+  // More from search
   "sanjay3290/ai-skills",
-  "omkamal/pypict-claude-skill",
-
-  // Scientific & Research
-  "K-Dense-AI/claude-scientific-skills",
-  "HeshamFS/materials-simulation-skills",
-
-  // Content & Media
+  "zxkane/aws-skills",
+  "lackeyjb/playwright-skill",
   "ryanbbrown/revealjs-skill",
   "smerchek/claude-epub-skill",
   "alonw0/web-asset-generator",
-
-  // Knowledge & Learning
-  "michalparkola/tapestry-skills-for-claude-code",
   "yusufkaraaslan/Skill_Seekers",
-
-  // Collaboration & Project Management
-  "mhattingpete/claude-skills-marketplace",
-  "wrsmith108/linear-claude-skill",
-  "Valian/linear-cli-skill",
-
-  // Advanced/Multi-agent
-  "asklokesh/claudeskill-loki-mode",
-
-  // Other Quality Skills
-  "emaynard/claude-family-history-research-skill",
+  "bluzername/claude-code-terminal-title",
+  "HeshamFS/materials-simulation-skills",
 ];
 
 interface SkillData {
