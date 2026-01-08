@@ -1,0 +1,250 @@
+[
+  {
+    "id": "bayramannakov-claude-reflect",
+    "name": "claude-reflect",
+    "description": "Self-learning system that captures corrections during sessions and reminds users to run /reflect to update CLAUDE.md. Use when discussing learnings, corrections, or when the user mentions remembering something for future sessions.",
+    "category": "tools-productivity",
+    "tags": [
+      "claude-code",
+      "claude-skills",
+      "memory",
+      "productivity",
+      "self-learning",
+      "corrections",
+      "sessions",
+      "when",
+      "self",
+      "learning"
+    ],
+    "stars": 265,
+    "updatedAt": "2026-01-07T23:46:34Z",
+    "repoUrl": "https://github.com/BayramAnnakov/claude-reflect"
+  },
+  {
+    "id": "ait88-claude-workflow-toolkit",
+    "name": "claude-workflow-toolkit",
+    "description": "Reusable workflow optimization toolkit for Claude Code agents.",
+    "category": "tools-productivity",
+    "tags": [
+      "agentic-workflow",
+      "claude-code",
+      "claude-skills",
+      "gh-cli",
+      "token-optimization",
+      "reusable",
+      "workflow",
+      "optimization",
+      "toolkit",
+      "claude"
+    ],
+    "stars": 1,
+    "updatedAt": "2026-01-07T02:14:55Z",
+    "repoUrl": "https://github.com/ait88/claude-workflow-toolkit"
+  },
+  {
+    "id": "blacktop-ipsw-skill",
+    "name": "ipsw",
+    "description": "Apple firmware and binary reverse engineering with the ipsw CLI tool. Use when analyzing iOS/macOS binaries, disassembling functions in dyld_shared_cache, dumping Objective-C headers from private frameworks, downloading IPSWs or kernelcaches, extracting entitlements, analyzing Mach-O files, or researching Apple security. Triggers on requests involving Apple RE, iOS internals, kernel analysis, KEXT extraction, or vulnerability research on Apple platforms.",
+    "category": "tools-productivity",
+    "tags": [
+      "apple",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "ipsw",
+      "reverse-engineering",
+      "skill",
+      "vulnerability-research",
+      "analyzing",
+      "firmware"
+    ],
+    "stars": 30,
+    "updatedAt": "2026-01-05T03:48:38Z",
+    "repoUrl": "https://github.com/blacktop/ipsw-skill"
+  },
+  {
+    "id": "texmeijin-video-to-gif-skill",
+    "name": "video-to-gif",
+    "description": "Convert multiple video files (MOV/MP4) into a single merged GIF with customizable speed per segment.\nUse this skill when users want to:\n- Merge multiple videos into one GIF\n- Create demo GIFs from screen recordings\n- Combine video clips with different playback speeds\n- Convert videos to optimized GIFs with compression\nTriggers: \"create GIF from videos\", \"merge videos to GIF\", \"convert MOV to GIF\", \"combine videos into animated GIF\"\n",
+    "category": "tools-productivity",
+    "tags": [
+      "claude-code-skill",
+      "claude-skills",
+      "videos",
+      "convert",
+      "into",
+      "with",
+      "multiple"
+    ],
+    "stars": 0,
+    "updatedAt": "2026-01-04T09:01:47Z",
+    "repoUrl": "https://github.com/TeXmeijin/video-to-gif-skill"
+  },
+  {
+    "id": "finelagusaz-proofread-ja",
+    "name": "proofread-ja",
+    "description": "日本語テキストの誤字脱字チェック、表記揺れの検出と修正。小説、技術文書、ブログ記事などで使用。ユーザーが「誤字脱字をチェック」「表記の揺れを確認」「校正して」などと依頼した時、または文書の品質向上が必要な時に使用。",
+    "category": "tools-productivity",
+    "tags": [
+      "claude-code-skill",
+      "claude-skills"
+    ],
+    "stars": 1,
+    "updatedAt": "2026-01-03T09:12:17Z",
+    "repoUrl": "https://github.com/finelagusaz/proofread-ja"
+  },
+  {
+    "id": "anthropics-skills-algorithmic-art",
+    "name": "algorithmic-art",
+    "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/algorithmic-art"
+  },
+  {
+    "id": "anthropics-skills-internal-comms",
+    "name": "internal-comms",
+    "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/internal-comms"
+  },
+  {
+    "id": "anthropics-skills-pdf",
+    "name": "pdf",
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/pdf"
+  },
+  {
+    "id": "emaynard-claude-family-history-research-skill",
+    "name": "family-history-planning",
+    "description": "Provides assistance with planning family history and genealogy research projects.",
+    "category": "tools-productivity",
+    "tags": [
+      "claude",
+      "family-history",
+      "genealogy"
+    ],
+    "stars": 21,
+    "updatedAt": "2026-01-05T18:51:48Z",
+    "repoUrl": "https://github.com/emaynard/claude-family-history-research-skill"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-file-organizer",
+    "name": "file-organizer",
+    "description": "Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load and keeps your digital workspace tidy without manual effort.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer"
+  },
+  {
+    "id": "pleaseprompto-notebooklm-skill",
+    "name": "notebooklm",
+    "description": "Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. Browser automation, library management, persistent auth. Drastically reduced hallucinations through document-only responses.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1340,
+    "updatedAt": "2026-01-08T17:57:44Z",
+    "repoUrl": "https://github.com/PleasePrompto/notebooklm-skill"
+  },
+  {
+    "id": "obra-superpowers-executing-plans",
+    "name": "executing-plans",
+    "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/executing-plans"
+  },
+  {
+    "id": "obra-superpowers-dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents",
+    "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents"
+  },
+  {
+    "id": "obra-superpowers-subagent-driven-development",
+    "name": "subagent-driven-development",
+    "description": "Use when executing implementation plans with independent tasks in the current session",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development"
+  },
+  {
+    "id": "michalparkola-tapestry-skills-for-claude-code-tapestry",
+    "name": "tapestry",
+    "description": "Unified content extraction and action planning. Use when user says \"tapestry <URL>\", \"weave <URL>\", \"help me plan <URL>\", \"extract and plan <URL>\", \"make this actionable <URL>\", or similar phrases indicating they want to extract content and create an action plan. Automatically detects content type (YouTube video, article, PDF) and processes accordingly.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 145,
+    "updatedAt": "2026-01-08T08:10:21Z",
+    "repoUrl": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry"
+  },
+  {
+    "id": "michalparkola-tapestry-skills-for-claude-code-youtube-transcript",
+    "name": "youtube-transcript",
+    "description": "Download YouTube video transcripts when user provides a YouTube URL or asks to download/get/fetch a transcript from YouTube. Also use when user wants to transcribe or get captions/subtitles from a YouTube video.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 145,
+    "updatedAt": "2026-01-08T08:10:21Z",
+    "repoUrl": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript"
+  },
+  {
+    "id": "michalparkola-tapestry-skills-for-claude-code-article-extractor",
+    "name": "article-extractor",
+    "description": "Extract clean article content from URLs (blog posts, articles, tutorials) and save as readable text. Use when user wants to download, extract, or save an article/blog post from a URL without ads, navigation, or clutter.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 145,
+    "updatedAt": "2026-01-08T08:10:21Z",
+    "repoUrl": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor"
+  },
+  {
+    "id": "michalparkola-tapestry-skills-for-claude-code-ship-learn-next",
+    "name": "ship-learn-next",
+    "description": "Transform learning content (like YouTube transcripts, articles, tutorials) into actionable implementation plans using the Ship-Learn-Next framework. Use when user wants to turn advice, lessons, or educational content into concrete action steps, reps, or a learning quest.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 145,
+    "updatedAt": "2026-01-08T08:10:21Z",
+    "repoUrl": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-claude-code",
+    "name": "claude-code",
+    "description": "",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/claude-code"
+  },
+  {
+    "id": "jeffallan-claude-skills-atlassian-mcp",
+    "name": "atlassian-mcp",
+    "description": "Use when querying Jira issues, searching Confluence pages, creating tickets, updating documentation, or integrating Atlassian tools via MCP protocol.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T09:49:44Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/atlassian-mcp"
+  }
+]

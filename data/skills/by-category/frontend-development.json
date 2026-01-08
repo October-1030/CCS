@@ -1,0 +1,952 @@
+[
+  {
+    "id": "maryanohit549-wiggle-claude-skill",
+    "name": "wiggle",
+    "description": "Create animated logo files (Lottie JSON, GIF, MP4) from static logo images. This skill should be used when users provide a logo image (PNG/SVG/JPG) and request any kind of logo animation, motion graphics, animated logo effect, waveform animation, bouncing logo, rotating logo, pulsing logo, wiggling logo, or ask to \"animate my logo\" or \"make my logo move\". Outputs standalone animation files (not React/HTML artifacts). Generates Lottie JSON with automatic GIF/MP4 rendering, perfect loop validation, and professional motion design patterns.",
+    "category": "frontend-development",
+    "tags": [
+      "ai",
+      "animation",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-desktop",
+      "claude-skills",
+      "logo",
+      "lottie",
+      "lottie-animation"
+    ],
+    "stars": 2,
+    "updatedAt": "2026-01-07T23:01:11Z",
+    "repoUrl": "https://github.com/Maryanohit549/wiggle-claude-skill"
+  },
+  {
+    "id": "jjmartres-reachy-mini-sdk-skill",
+    "name": "reachy-mini-sdk",
+    "description": "Programming guide for Reachy Mini robot using Python SDK v1.2.6 and REST API. Use when controlling Reachy Mini robots, programming movements (head/antennas/body), accessing sensors (camera/microphone/IMU), recording motions, building AI applications, deploying to Hugging Face, or using the daemon REST API. Covers SDK patterns, coordinate systems, interpolation methods, app management, and OpenAPI client generation.",
+    "category": "frontend-development",
+    "tags": [
+      "agentskills",
+      "claude-code",
+      "claude-skills",
+      "programming",
+      "reachy",
+      "mini",
+      "using",
+      "rest"
+    ],
+    "stars": 3,
+    "updatedAt": "2026-01-06T20:29:23Z",
+    "repoUrl": "https://github.com/jjmartres/reachy-mini-sdk-skill"
+  },
+  {
+    "id": "anthropics-skills-brand-guidelines",
+    "name": "brand-guidelines",
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines"
+  },
+  {
+    "id": "anthropics-skills-canvas-design",
+    "name": "canvas-design",
+    "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/canvas-design"
+  },
+  {
+    "id": "anthropics-skills-doc-coauthoring",
+    "name": "doc-coauthoring",
+    "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring"
+  },
+  {
+    "id": "anthropics-skills-frontend-design",
+    "name": "frontend-design",
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/frontend-design"
+  },
+  {
+    "id": "anthropics-skills-mcp-builder",
+    "name": "mcp-builder",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder"
+  },
+  {
+    "id": "anthropics-skills-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/skill-creator"
+  },
+  {
+    "id": "anthropics-skills-web-artifacts-builder",
+    "name": "web-artifacts-builder",
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 35375,
+    "updatedAt": "2026-01-08T06:06:13Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder"
+  },
+  {
+    "id": "anthropics-skills-webapp-testing",
+    "name": "webapp-testing",
+    "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 35375,
+    "updatedAt": "2026-01-08T06:06:13Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing"
+  },
+  {
+    "id": "conorluddy-ios-simulator-skill",
+    "name": "ios-simulator-skill",
+    "description": "21 production-ready scripts for iOS app testing, building, and automation. Provides semantic UI navigation, build automation, accessibility testing, and simulator lifecycle management. Optimized for AI agents with minimal token output.",
+    "category": "frontend-development",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "claudecode",
+      "claudeskills",
+      "dx",
+      "ios",
+      "iossimulator",
+      "mcp",
+      "mcp-tools",
+      "python",
+      "simulator",
+      "skills",
+      "testing",
+      "tooling",
+      "xcode"
+    ],
+    "stars": 270,
+    "updatedAt": "2026-01-08T13:22:06Z",
+    "repoUrl": "https://github.com/conorluddy/ios-simulator-skill"
+  },
+  {
+    "id": "chrisvoncsefalvay-claude-d3js-skill",
+    "name": "d3-viz",
+    "description": "Creating interactive data visualisations using d3.js. This skill should be used when creating custom charts, graphs, network diagrams, geographic visualisations, or any complex SVG-based data visualisation that requires fine-grained control over visual elements, transitions, or interactions. Use this for bespoke visualisations beyond standard charting libraries, whether in React, Vue, Svelte, vanilla JavaScript, or any other environment.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 59,
+    "updatedAt": "2026-01-07T09:50:42Z",
+    "repoUrl": "https://github.com/chrisvoncsefalvay/claude-d3js-skill"
+  },
+  {
+    "id": "asklokesh-claudeskill-loki-mode",
+    "name": "loki-mode",
+    "description": "Multi-agent autonomous startup system for Claude Code. Triggers on \"Loki Mode\". Orchestrates 100+ specialized agents across engineering, QA, DevOps, security, data/ML, business operations, marketing, HR, and customer success. Takes PRD to fully deployed, revenue-generating product with zero human intervention. Features Task tool for subagent dispatch, parallel code review with 3 specialized reviewers, severity-based issue triage, distributed task queue with dead letter handling, automatic deployment to cloud providers, A/B testing, customer feedback loops, incident response, circuit breakers, and self-healing. Handles rate limits via distributed state checkpoints and auto-resume with exponential backoff. Requires --dangerously-skip-permissions flag.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 425,
+    "updatedAt": "2026-01-08T12:05:28Z",
+    "repoUrl": "https://github.com/asklokesh/claudeskill-loki-mode"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-marketing-demand-acquisition",
+    "name": "marketing-demand-acquisition",
+    "description": "Multi-channel demand generation, paid media optimization, SEO strategy, and partnership programs for Series A+ startups. Includes CAC calculator, channel playbooks, HubSpot integration, and international expansion tactics. Use when planning demand generation campaigns, optimizing paid media, building SEO strategies, establishing partnerships, or when user mentions demand gen, paid ads, LinkedIn ads, Google ads, CAC, acquisition, lead generation, or pipeline generation.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/marketing-demand-acquisition"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-marketing-strategy-pmm",
+    "name": "marketing-strategy-pmm",
+    "description": "Product marketing, positioning, GTM strategy, and competitive intelligence. Includes ICP definition, April Dunford positioning methodology, launch playbooks, competitive battlecards, and international market entry guides. Use when developing positioning, planning product launches, creating messaging, analyzing competitors, entering new markets, enabling sales, or when user mentions product marketing, positioning, GTM, go-to-market, competitive analysis, market entry, or sales enablement.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/marketing-strategy-pmm"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-ceo-advisor",
+    "name": "ceo-advisor",
+    "description": "Executive leadership guidance for strategic decision-making, organizational development, and stakeholder management. Includes strategy analyzer, financial scenario modeling, board governance frameworks, and investor relations playbooks. Use when planning strategy, preparing board presentations, managing investors, developing organizational culture, making executive decisions, or when user mentions CEO, strategic planning, board meetings, investor updates, organizational leadership, or executive strategy.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/ceo-advisor"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-cto-advisor",
+    "name": "cto-advisor",
+    "description": "Technical leadership guidance for engineering teams, architecture decisions, and technology strategy. Includes tech debt analyzer, team scaling calculator, engineering metrics frameworks, technology evaluation tools, and ADR templates. Use when assessing technical debt, scaling engineering teams, evaluating technologies, making architecture decisions, establishing engineering metrics, or when user mentions CTO, tech debt, technical debt, team scaling, architecture decisions, technology evaluation, engineering metrics, DORA metrics, or technology strategy.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/cto-advisor"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-product-manager-toolkit",
+    "name": "product-manager-toolkit",
+    "description": "Comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, discovery frameworks, and go-to-market strategies. Use for feature prioritization, user research synthesis, requirement documentation, and product strategy development.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/product-team/product-manager-toolkit"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-product-strategist",
+    "name": "product-strategist",
+    "description": "Strategic product leadership toolkit for Head of Product including OKR cascade generation, market analysis, vision setting, and team scaling. Use for strategic planning, goal alignment, competitive analysis, and organizational design.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/product-team/product-strategist"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-ux-researcher-designer",
+    "name": "ux-researcher-designer",
+    "description": "UX research and design toolkit for Senior UX Designer/Researcher including data-driven persona generation, journey mapping, usability testing frameworks, and research synthesis. Use for user research, persona creation, journey mapping, and design validation.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/product-team/ux-researcher-designer"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-ui-design-system",
+    "name": "ui-design-system",
+    "description": "UI design system toolkit for Senior UI Designer including design token generation, component documentation, responsive design calculations, and developer handoff tools. Use for creating design systems, maintaining visual consistency, and facilitating design-dev collaboration.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/product-team/ui-design-system"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-tdd-guide",
+    "name": "tdd-guide",
+    "description": "Comprehensive Test Driven Development guide for engineering subagents with multi-framework support, coverage analysis, and intelligent test generation",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/tdd-guide"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-senior-data-scientist",
+    "name": "senior-data-scientist",
+    "description": "World-class data science skill for statistical modeling, experimentation, causal inference, and advanced analytics. Expertise in Python (NumPy, Pandas, Scikit-learn), R, SQL, statistical methods, A/B testing, time series, and business intelligence. Includes experiment design, feature engineering, model evaluation, and stakeholder communication. Use when designing experiments, building predictive models, performing causal analysis, or driving data-driven decisions.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-data-scientist"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-senior-data-engineer",
+    "name": "senior-data-engineer",
+    "description": "World-class data engineering skill for building scalable data pipelines, ETL/ELT systems, and data infrastructure. Expertise in Python, SQL, Spark, Airflow, dbt, Kafka, and modern data stack. Includes data modeling, pipeline orchestration, data quality, and DataOps. Use when designing data architectures, building data pipelines, optimizing data workflows, or implementing data governance.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-data-engineer"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-senior-prompt-engineer",
+    "name": "senior-prompt-engineer",
+    "description": "World-class prompt engineering skill for LLM optimization, prompt patterns, structured outputs, and AI product development. Expertise in Claude, GPT-4, prompt design patterns, few-shot learning, chain-of-thought, and AI evaluation. Includes RAG optimization, agent design, and LLM system architecture. Use when building AI products, optimizing LLM performance, designing agentic systems, or implementing advanced prompting techniques.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-prompt-engineer"
+  },
+  {
+    "id": "coffeefuelbump-csv-data-summarizer-claude-skill",
+    "name": "csv-data-summarizer",
+    "description": "Analyzes CSV files, generates summary stats, and plots quick visualizations using Python and pandas.",
+    "category": "frontend-development",
+    "tags": [
+      "claude-skills"
+    ],
+    "stars": 147,
+    "updatedAt": "2026-01-08T07:04:46Z",
+    "repoUrl": "https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill"
+  },
+  {
+    "id": "omkamal-pypict-claude-skill",
+    "name": "pict-test-designer",
+    "description": "Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for any piece of requirements or code. Analyzes inputs, generates PICT models with parameters, values, and constraints for valid scenarios using pairwise testing. Outputs the PICT model, markdown table of test cases, and expected results.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T01:20:47Z",
+    "repoUrl": "https://github.com/omkamal/pypict-claude-skill"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering",
+    "name": "context-engineering-collection",
+    "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6136,
+    "updatedAt": "2026-01-08T18:40:25Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
+  },
+  {
+    "id": "shadowpr0-security-bluebook-builder",
+    "name": "security-bluebook-builder",
+    "description": "Create or refine a concise, normative security policy (\"Blue Book\") for sensitive applications. Use when users need a threat model, data classification rules, auth/session policy, logging and audit requirements, retention/deletion expectations, incident response, or security gates for apps handling PII/PHI/financial data.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2025-12-31T16:03:25Z",
+    "repoUrl": "https://github.com/SHADOWPR0/security-bluebook-builder"
+  },
+  {
+    "id": "frmoretto-stream-coding",
+    "name": "stream-coding",
+    "description": "Documentation-first development methodology. The goal is AI-ready documentation - when docs are clear enough, code generation becomes automatic. Triggers on \"Build\", \"Create\", \"Implement\", \"Document\", or \"Spec out\". Version 3.4 adds complete 13-item Clarity Gate with scoring rubric and self-assessment.",
+    "category": "frontend-development",
+    "tags": [
+      "ai-accelerated",
+      "ai-coding",
+      "ai-development",
+      "claude",
+      "claude-code",
+      "context-engineering",
+      "cursor",
+      "developer-tools",
+      "documentation-first",
+      "llm",
+      "methodology",
+      "sdd",
+      "software-engineering",
+      "specification-driven-development",
+      "technical-debt",
+      "velocity"
+    ],
+    "stars": 21,
+    "updatedAt": "2026-01-08T07:06:34Z",
+    "repoUrl": "https://github.com/frmoretto/stream-coding"
+  },
+  {
+    "id": "obra-superpowers-verification-before-completion",
+    "name": "verification-before-completion",
+    "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/verification-before-completion"
+  },
+  {
+    "id": "obra-superpowers-brainstorming",
+    "name": "brainstorming",
+    "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/brainstorming"
+  },
+  {
+    "id": "obra-superpowers-writing-plans",
+    "name": "writing-plans",
+    "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/writing-plans"
+  },
+  {
+    "id": "obra-superpowers-requesting-code-review",
+    "name": "requesting-code-review",
+    "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/requesting-code-review"
+  },
+  {
+    "id": "obra-superpowers-receiving-code-review",
+    "name": "receiving-code-review",
+    "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/receiving-code-review"
+  },
+  {
+    "id": "obra-superpowers-finishing-a-development-branch",
+    "name": "finishing-a-development-branch",
+    "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch"
+  },
+  {
+    "id": "obra-superpowers-using-superpowers",
+    "name": "using-superpowers",
+    "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/using-superpowers"
+  },
+  {
+    "id": "metaskills-skill-builder",
+    "name": "skill-builder",
+    "description": "Use this skill when creating new Claude Code skills from scratch, editing existing skills to improve their descriptions or structure, or converting Claude Code sub-agents to skills. This includes designing skill workflows, writing SKILL.md files, organizing supporting files with intention-revealing names, and leveraging CLI tools and Node.js scripting.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 53,
+    "updatedAt": "2026-01-07T08:02:20Z",
+    "repoUrl": "https://github.com/metaskills/skill-builder"
+  },
+  {
+    "id": "francyjglisboa-agent-skill-creator",
+    "name": "agent-skill-creator",
+    "description": "This enhanced skill should be used when the user asks to create an agent, automate a repetitive workflow, create a custom skill, or needs advanced agent creation capabilities. Activates with phrases like every day, daily I have to, I need to repeat, create agent for, automate workflow, create skill for, need to automate, turn process into agent. Supports single agents, multi-agent suites, transcript processing, template-based creation, and interactive configuration. Claude will use the enhanced protocol to research APIs, define analyses, structure everything, implement functional code, and create complete skills autonomously with optional user guidance.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 178,
+    "updatedAt": "2026-01-08T19:22:16Z",
+    "repoUrl": "https://github.com/FrancyJGLisboa/agent-skill-creator"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-aesthetic",
+    "name": "aesthetic",
+    "description": "Create aesthetically beautiful interfaces following proven design principles. Use when building UI/UX, analyzing designs from inspiration sites, generating design images with ai-multimodal, implementing visual hierarchy and color theory, adding micro-interactions, or creating design documentation. Includes workflows for capturing and analyzing inspiration screenshots with chrome-devtools and ai-multimodal, iterative design image generation until aesthetic standards are met, and comprehensive design system guidance covering BEAUTIFUL (aesthetic principles), RIGHT (functionality/accessibility), SATISFYING (micro-interactions), and PEAK (storytelling) stages. Integrates with chrome-devtools, ai-multimodal, media-processing, ui-styling, and web-frameworks skills.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/aesthetic"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-backend-development",
+    "name": "backend-development",
+    "description": "Build robust backend systems with modern technologies (Node.js, Python, Go, Rust), frameworks (NestJS, FastAPI, Django), databases (PostgreSQL, MongoDB, Redis), APIs (REST, GraphQL, gRPC), authentication (OAuth 2.1, JWT), testing strategies, security best practices (OWASP Top 10), performance optimization, scalability patterns (microservices, caching, sharding), DevOps practices (Docker, Kubernetes, CI/CD), and monitoring. Use when designing APIs, implementing authentication, optimizing database queries, setting up CI/CD pipelines, handling security vulnerabilities, building microservices, or developing production-ready backend systems.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/backend-development"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-better-auth",
+    "name": "better-auth",
+    "description": "Implement authentication and authorization with Better Auth - a framework-agnostic TypeScript authentication framework. Features include email/password authentication with verification, OAuth providers (Google, GitHub, Discord, etc.), two-factor authentication (TOTP, SMS), passkeys/WebAuthn support, session management, role-based access control (RBAC), rate limiting, and database adapters. Use when adding authentication to applications, implementing OAuth flows, setting up 2FA/MFA, managing user sessions, configuring authorization rules, or building secure authentication systems for web applications.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/better-auth"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-code-review",
+    "name": "code-review",
+    "description": "Use when receiving code review feedback (especially if unclear or technically questionable), when completing tasks or major features requiring review before proceeding, or before making any completion/success claims. Covers three practices - receiving feedback with technical rigor over performative agreement, requesting reviews via code-reviewer subagent, and verification gates requiring evidence before any status claims. Essential for subagent-driven development, pull requests, and preventing false completion claims.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/code-review"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-context-engineering",
+    "name": "context-engineering",
+    "description": "Master context engineering for AI agent systems. Use when designing agent architectures, debugging context failures, optimizing token usage, implementing memory systems, building multi-agent coordination, evaluating agent performance, or developing LLM-powered pipelines. Covers context fundamentals, degradation patterns, optimization techniques (compaction, masking, caching), compression strategies, memory architectures, multi-agent patterns, LLM-as-Judge evaluation, tool design, and project development.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/context-engineering"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-databases",
+    "name": "databases",
+    "description": "Work with MongoDB (document database, BSON documents, aggregation pipelines, Atlas cloud) and PostgreSQL (relational database, SQL queries, psql CLI, pgAdmin). Use when designing database schemas, writing queries and aggregations, optimizing indexes for performance, performing database migrations, configuring replication and sharding, implementing backup and restore strategies, managing database users and permissions, analyzing query performance, or administering production databases.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/databases"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-devops",
+    "name": "devops",
+    "description": "Deploy and manage cloud infrastructure on Cloudflare (Workers, R2, D1, KV, Pages, Durable Objects, Browser Rendering), Docker containers, and Google Cloud Platform (Compute Engine, GKE, Cloud Run, App Engine, Cloud Storage). Use when deploying serverless functions to the edge, configuring edge computing solutions, managing Docker containers and images, setting up CI/CD pipelines, optimizing cloud infrastructure costs, implementing global caching strategies, working with cloud databases, or building cloud-native applications.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/devops"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-frontend-design",
+    "name": "frontend-design",
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applications. Generates creative, polished code that avoids generic AI aesthetics.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/frontend-design"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-frontend-development",
+    "name": "frontend-dev-guidelines",
+    "description": "Frontend development guidelines for React/TypeScript applications. Modern patterns including Suspense, lazy loading, useSuspenseQuery, file organization with features directory, MUI v7 styling, TanStack Router, performance optimization, and TypeScript best practices. Use when creating components, pages, features, fetching data, styling, routing, or working with frontend code.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/frontend-development"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-mcp-builder",
+    "name": "mcp-builder",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mcp-builder"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-sequential-thinking",
+    "name": "sequential-thinking",
+    "description": "Use when complex problems require systematic step-by-step reasoning with ability to revise thoughts, branch into alternative approaches, or dynamically adjust scope. Ideal for multi-stage analysis, design planning, problem decomposition, or tasks with initially unclear scope.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/sequential-thinking"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-shopify",
+    "name": "shopify",
+    "description": "Build Shopify applications, extensions, and themes using GraphQL/REST APIs, Shopify CLI, Polaris UI components, and Liquid templating. Capabilities include app development with OAuth authentication, checkout UI extensions for customizing checkout flow, admin UI extensions for dashboard integration, POS extensions for retail, theme development with Liquid, webhook management, billing API integration, product/order/customer management. Use when building Shopify apps, implementing checkout customizations, creating admin interfaces, developing themes, integrating payment processing, managing store data via APIs, or extending Shopify functionality.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/shopify"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/skill-creator"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-ui-styling",
+    "name": "ui-styling",
+    "description": "Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind), Tailwind CSS utility-first styling, and canvas-based visual designs. Use when building user interfaces, implementing design systems, creating responsive layouts, adding accessible components (dialogs, dropdowns, forms, tables), customizing themes and colors, implementing dark mode, generating visual designs and posters, or establishing consistent styling patterns across applications.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/ui-styling"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-web-frameworks",
+    "name": "web-frameworks",
+    "description": "Build modern full-stack web applications with Next.js (App Router, Server Components, RSC, PPR, SSR, SSG, ISR), Turborepo (monorepo management, task pipelines, remote caching, parallel execution), and RemixIcon (3100+ SVG icons in outlined/filled styles). Use when creating React applications, implementing server-side rendering, setting up monorepos with multiple packages, optimizing build performance and caching strategies, adding icon libraries, managing shared dependencies, or working with TypeScript full-stack projects.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/web-frameworks"
+  },
+  {
+    "id": "jeffallan-claude-skills-chaos-engineer",
+    "name": "chaos-engineer",
+    "description": "Use when designing chaos experiments, implementing failure injection frameworks, or conducting game day exercises. Invoke for chaos experiments, resilience testing, blast radius control, game days, antifragile systems.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T09:49:44Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/chaos-engineer"
+  },
+  {
+    "id": "jeffallan-claude-skills-game-developer",
+    "name": "game-developer",
+    "description": "Use when building game systems, implementing Unity/Unreal features, or optimizing game performance. Invoke for Unity, Unreal, game patterns, ECS, physics, networking, performance optimization.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T09:49:44Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/game-developer"
+  },
+  {
+    "id": "jeffallan-claude-skills-ml-pipeline",
+    "name": "ml-pipeline",
+    "description": "Use when building ML pipelines, orchestrating training workflows, automating model lifecycle, implementing feature stores, or managing experiment tracking systems.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T09:49:44Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/ml-pipeline"
+  },
+  {
+    "id": "jeffallan-claude-skills-prompt-engineer",
+    "name": "prompt-engineer",
+    "description": "Use when designing prompts for LLMs, optimizing model performance, building evaluation frameworks, or implementing advanced prompting techniques like chain-of-thought, few-shot learning, or structured outputs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T09:49:44Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/prompt-engineer"
+  },
+  {
+    "id": "jeffallan-claude-skills-rag-architect",
+    "name": "rag-architect",
+    "description": "Use when building RAG systems, vector databases, or knowledge-grounded AI applications requiring semantic search, document retrieval, or context augmentation.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T09:49:44Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/rag-architect"
+  },
+  {
+    "id": "jeffallan-claude-skills-shopify-expert",
+    "name": "shopify-expert",
+    "description": "Use when building Shopify themes, apps, custom storefronts, or e-commerce solutions. Invoke for Liquid templating, Storefront API, app development, checkout customization, Shopify Plus features.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T09:49:44Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/shopify-expert"
+  },
+  {
+    "id": "jeffallan-claude-skills-spark-engineer",
+    "name": "spark-engineer",
+    "description": "Use when building Apache Spark applications, distributed data processing pipelines, or optimizing big data workloads. Invoke for DataFrame API, Spark SQL, RDD operations, performance tuning, streaming analytics.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T09:49:44Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/spark-engineer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-linux-commands-guide",
+    "name": "linux-commands-guide",
+    "description": "Manage linux commands guide operations. Auto-activating skill for DevOps Basics.\nTriggers on: linux commands guide, linux commands guide\nPart of the DevOps Basics skill category. Use when working with linux commands guide functionality. Trigger with phrases like \"linux commands guide\", \"linux guide\", \"linux\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/linux-commands-guide"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-accessibility-audit-runner",
+    "name": "accessibility-audit-runner",
+    "description": "Run accessibility audit runner operations. Auto-activating skill for Frontend Development.\nTriggers on: accessibility audit runner, accessibility audit runner\nPart of the Frontend Development skill category. Use when analyzing or auditing accessibility audit runner. Trigger with phrases like \"accessibility audit runner\", \"accessibility runner\", \"accessibility\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/accessibility-audit-runner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-aria-attribute-helper",
+    "name": "aria-attribute-helper",
+    "description": "Configure with aria attribute helper operations. Auto-activating skill for Frontend Development.\nTriggers on: aria attribute helper, aria attribute helper\nPart of the Frontend Development skill category. Use when working with aria attribute helper functionality. Trigger with phrases like \"aria attribute helper\", \"aria helper\", \"aria\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/aria-attribute-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-bundle-size-analyzer",
+    "name": "bundle-size-analyzer",
+    "description": "Analyze bundle size analyzer operations. Auto-activating skill for Frontend Development.\nTriggers on: bundle size analyzer, bundle size analyzer\nPart of the Frontend Development skill category. Use when analyzing or auditing bundle size analyzer. Trigger with phrases like \"bundle size analyzer\", \"bundle analyzer\", \"analyze bundle size r\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/bundle-size-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-code-splitting-helper",
+    "name": "code-splitting-helper",
+    "description": "Configure with code splitting helper operations. Auto-activating skill for Frontend Development.\nTriggers on: code splitting helper, code splitting helper\nPart of the Frontend Development skill category. Use when working with code splitting helper functionality. Trigger with phrases like \"code splitting helper\", \"code helper\", \"code\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/code-splitting-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-color-contrast-checker",
+    "name": "color-contrast-checker",
+    "description": "Validate color contrast checker operations. Auto-activating skill for Frontend Development.\nTriggers on: color contrast checker, color contrast checker\nPart of the Frontend Development skill category. Use when working with color contrast checker functionality. Trigger with phrases like \"color contrast checker\", \"color checker\", \"color\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/color-contrast-checker"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-css-module-generator",
+    "name": "css-module-generator",
+    "description": "Generate css module generator operations. Auto-activating skill for Frontend Development.\nTriggers on: css module generator, css module generator\nPart of the Frontend Development skill category. Use when working with css module generator functionality. Trigger with phrases like \"css module generator\", \"css generator\", \"css\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/css-module-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-image-optimization-helper",
+    "name": "image-optimization-helper",
+    "description": "Configure with image optimization helper operations. Auto-activating skill for Frontend Development.\nTriggers on: image optimization helper, image optimization helper\nPart of the Frontend Development skill category. Use when working with image optimization helper functionality. Trigger with phrases like \"image optimization helper\", \"image helper\", \"image\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/image-optimization-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-keyboard-navigation-tester",
+    "name": "keyboard-navigation-tester",
+    "description": "Test keyboard navigation tester operations. Auto-activating skill for Frontend Development.\nTriggers on: keyboard navigation tester, keyboard navigation tester\nPart of the Frontend Development skill category. Use when writing or running tests. Trigger with phrases like \"keyboard navigation tester\", \"keyboard tester\", \"keyboard\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/keyboard-navigation-tester"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-lazy-loading-implementer",
+    "name": "lazy-loading-implementer",
+    "description": "Execute lazy loading implementer operations. Auto-activating skill for Frontend Development.\nTriggers on: lazy loading implementer, lazy loading implementer\nPart of the Frontend Development skill category. Use when working with lazy loading implementer functionality. Trigger with phrases like \"lazy loading implementer\", \"lazy implementer\", \"lazy\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/lazy-loading-implementer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-open-graph-creator",
+    "name": "open-graph-creator",
+    "description": "Create open graph creator operations. Auto-activating skill for Frontend Development.\nTriggers on: open graph creator, open graph creator\nPart of the Frontend Development skill category. Use when working with open graph creator functionality. Trigger with phrases like \"open graph creator\", \"open creator\", \"open\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/open-graph-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-performance-lighthouse-runner",
+    "name": "performance-lighthouse-runner",
+    "description": "Manage performance lighthouse runner operations. Auto-activating skill for Frontend Development.\nTriggers on: performance lighthouse runner, performance lighthouse runner\nPart of the Frontend Development skill category. Use when working with performance lighthouse runner functionality. Trigger with phrases like \"performance lighthouse runner\", \"performance runner\", \"performance\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/performance-lighthouse-runner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pinia-store-setup",
+    "name": "pinia-store-setup",
+    "description": "Configure pinia store setup operations. Auto-activating skill for Frontend Development.\nTriggers on: pinia store setup, pinia store setup\nPart of the Frontend Development skill category. Use when working with pinia store setup functionality. Trigger with phrases like \"pinia store setup\", \"pinia setup\", \"pinia\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/pinia-store-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pwa-manifest-generator",
+    "name": "pwa-manifest-generator",
+    "description": "Generate pwa manifest generator operations. Auto-activating skill for Frontend Development.\nTriggers on: pwa manifest generator, pwa manifest generator\nPart of the Frontend Development skill category. Use when working with pwa manifest generator functionality. Trigger with phrases like \"pwa manifest generator\", \"pwa generator\", \"pwa\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/pwa-manifest-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-react-component-generator",
+    "name": "react-component-generator",
+    "description": "Generate react component generator operations. Auto-activating skill for Frontend Development.\nTriggers on: react component generator, react component generator\nPart of the Frontend Development skill category. Use when working with react component generator functionality. Trigger with phrases like \"react component generator\", \"react generator\", \"react\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/react-component-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-react-context-setup",
+    "name": "react-context-setup",
+    "description": "Configure react context setup operations. Auto-activating skill for Frontend Development.\nTriggers on: react context setup, react context setup\nPart of the Frontend Development skill category. Use when working with react context setup functionality. Trigger with phrases like \"react context setup\", \"react setup\", \"react\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/react-context-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-react-hook-creator",
+    "name": "react-hook-creator",
+    "description": "Create react hook creator operations. Auto-activating skill for Frontend Development.\nTriggers on: react hook creator, react hook creator\nPart of the Frontend Development skill category. Use when working with react hook creator functionality. Trigger with phrases like \"react hook creator\", \"react creator\", \"react\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/react-hook-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-redux-slice-generator",
+    "name": "redux-slice-generator",
+    "description": "Generate redux slice generator operations. Auto-activating skill for Frontend Development.\nTriggers on: redux slice generator, redux slice generator\nPart of the Frontend Development skill category. Use when working with redux slice generator functionality. Trigger with phrases like \"redux slice generator\", \"redux generator\", \"redux\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/redux-slice-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-responsive-breakpoint-analyzer",
+    "name": "responsive-breakpoint-analyzer",
+    "description": "Analyze responsive breakpoint analyzer operations. Auto-activating skill for Frontend Development.\nTriggers on: responsive breakpoint analyzer, responsive breakpoint analyzer\nPart of the Frontend Development skill category. Use when analyzing or auditing responsive breakpoint analyzer. Trigger with phrases like \"responsive breakpoint analyzer\", \"responsive analyzer\", \"analyze responsive breakpoint r\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/responsive-breakpoint-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-seo-meta-generator",
+    "name": "seo-meta-generator",
+    "description": "Generate seo meta generator operations. Auto-activating skill for Frontend Development.\nTriggers on: seo meta generator, seo meta generator\nPart of the Frontend Development skill category. Use when working with seo meta generator functionality. Trigger with phrases like \"seo meta generator\", \"seo generator\", \"seo\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/seo-meta-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-styled-components-helper",
+    "name": "styled-components-helper",
+    "description": "Configure with styled components helper operations. Auto-activating skill for Frontend Development.\nTriggers on: styled components helper, styled components helper\nPart of the Frontend Development skill category. Use when working with styled components helper functionality. Trigger with phrases like \"styled components helper\", \"styled helper\", \"styled\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/styled-components-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-tailwind-class-optimizer",
+    "name": "tailwind-class-optimizer",
+    "description": "Optimize tailwind class optimizer operations. Auto-activating skill for Frontend Development.\nTriggers on: tailwind class optimizer, tailwind class optimizer\nPart of the Frontend Development skill category. Use when working with tailwind class optimizer functionality. Trigger with phrases like \"tailwind class optimizer\", \"tailwind optimizer\", \"tailwind\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/tailwind-class-optimizer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-vue-component-generator",
+    "name": "vue-component-generator",
+    "description": "Generate vue component generator operations. Auto-activating skill for Frontend Development.\nTriggers on: vue component generator, vue component generator\nPart of the Frontend Development skill category. Use when working with vue component generator functionality. Trigger with phrases like \"vue component generator\", \"vue generator\", \"vue\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/vue-component-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-vue-composable-creator",
+    "name": "vue-composable-creator",
+    "description": "Create vue composable creator operations. Auto-activating skill for Frontend Development.\nTriggers on: vue composable creator, vue composable creator\nPart of the Frontend Development skill category. Use when working with vue composable creator functionality. Trigger with phrases like \"vue composable creator\", \"vue creator\", \"vue\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/vue-composable-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-web-vitals-monitor",
+    "name": "web-vitals-monitor",
+    "description": "Monitor web vitals monitor operations. Auto-activating skill for Frontend Development.\nTriggers on: web vitals monitor, web vitals monitor\nPart of the Frontend Development skill category. Use when monitoring systems or services. Trigger with phrases like \"web vitals monitor\", \"web monitor\", \"web\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/web-vitals-monitor"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-zustand-store-creator",
+    "name": "zustand-store-creator",
+    "description": "Create zustand store creator operations. Auto-activating skill for Frontend Development.\nTriggers on: zustand store creator, zustand store creator\nPart of the Frontend Development skill category. Use when working with zustand store creator functionality. Trigger with phrases like \"zustand store creator\", \"zustand creator\", \"zustand\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/zustand-store-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-database-schema-designer",
+    "name": "database-schema-designer",
+    "description": "Build database schema designer operations. Auto-activating skill for Backend Development.\nTriggers on: database schema designer, database schema designer\nPart of the Backend Development skill category. Use when working with database schema designer functionality. Trigger with phrases like \"database schema designer\", \"database designer\", \"database\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/database-schema-designer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-fastapi-router-creator",
+    "name": "fastapi-router-creator",
+    "description": "Create fastapi router creator operations. Auto-activating skill for Backend Development.\nTriggers on: fastapi router creator, fastapi router creator\nPart of the Backend Development skill category. Use when working with APIs or building integrations. Trigger with phrases like \"fastapi router creator\", \"fastapi creator\", \"fastapi\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/fastapi-router-creator"
+  }
+]
