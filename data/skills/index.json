@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-08T19:33:11.004Z",
-  "totalSkills": 93,
+  "lastSync": "2026-01-08T19:42:24.932Z",
+  "totalSkills": 118,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -1095,6 +1095,256 @@
       "stars": 53,
       "updatedAt": "2026-01-07T08:02:20Z",
       "repoUrl": "https://github.com/metaskills/skill-builder"
+    },
+    {
+      "id": "francyjglisboa-agent-skill-creator",
+      "name": "agent-skill-creator",
+      "description": "This enhanced skill should be used when the user asks to create an agent, automate a repetitive workflow, create a custom skill, or needs advanced agent creation capabilities. Activates with phrases like every day, daily I have to, I need to repeat, create agent for, automate workflow, create skill for, need to automate, turn process into agent. Supports single agents, multi-agent suites, transcript processing, template-based creation, and interactive configuration. Claude will use the enhanced protocol to research APIs, define analyses, structure everything, implement functional code, and create complete skills autonomously with optional user guidance.",
+      "category": "development",
+      "tags": [],
+      "stars": 178,
+      "updatedAt": "2026-01-08T19:22:16Z",
+      "repoUrl": "https://github.com/FrancyJGLisboa/agent-skill-creator"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-aesthetic",
+      "name": "aesthetic",
+      "description": "Create aesthetically beautiful interfaces following proven design principles. Use when building UI/UX, analyzing designs from inspiration sites, generating design images with ai-multimodal, implementing visual hierarchy and color theory, adding micro-interactions, or creating design documentation. Includes workflows for capturing and analyzing inspiration screenshots with chrome-devtools and ai-multimodal, iterative design image generation until aesthetic standards are met, and comprehensive design system guidance covering BEAUTIFUL (aesthetic principles), RIGHT (functionality/accessibility), SATISFYING (micro-interactions), and PEAK (storytelling) stages. Integrates with chrome-devtools, ai-multimodal, media-processing, ui-styling, and web-frameworks skills.",
+      "category": "development",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/aesthetic"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-ai-multimodal",
+      "name": "ai-multimodal",
+      "description": "Process and generate multimedia content using Google Gemini API. Capabilities include analyze audio files (transcription with timestamps, summarization, speech understanding, music/sound analysis up to 9.5 hours), understand images (captioning, object detection, OCR, visual Q&A, segmentation), process videos (scene detection, Q&A, temporal analysis, YouTube URLs, up to 6 hours), extract from documents (PDF tables, forms, charts, diagrams, multi-page), generate images (text-to-image, editing, composition, refinement). Use when working with audio/video files, analyzing images or screenshots, processing PDF documents, extracting structured data from media, creating images from text prompts, or implementing multimodal AI features. Supports multiple models (Gemini 2.5/2.0) with context windows up to 2M tokens.",
+      "category": "ai",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/ai-multimodal"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-backend-development",
+      "name": "backend-development",
+      "description": "Build robust backend systems with modern technologies (Node.js, Python, Go, Rust), frameworks (NestJS, FastAPI, Django), databases (PostgreSQL, MongoDB, Redis), APIs (REST, GraphQL, gRPC), authentication (OAuth 2.1, JWT), testing strategies, security best practices (OWASP Top 10), performance optimization, scalability patterns (microservices, caching, sharding), DevOps practices (Docker, Kubernetes, CI/CD), and monitoring. Use when designing APIs, implementing authentication, optimizing database queries, setting up CI/CD pipelines, handling security vulnerabilities, building microservices, or developing production-ready backend systems.",
+      "category": "backend",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/backend-development"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-better-auth",
+      "name": "better-auth",
+      "description": "Implement authentication and authorization with Better Auth - a framework-agnostic TypeScript authentication framework. Features include email/password authentication with verification, OAuth providers (Google, GitHub, Discord, etc.), two-factor authentication (TOTP, SMS), passkeys/WebAuthn support, session management, role-based access control (RBAC), rate limiting, and database adapters. Use when adding authentication to applications, implementing OAuth flows, setting up 2FA/MFA, managing user sessions, configuring authorization rules, or building secure authentication systems for web applications.",
+      "category": "security",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/better-auth"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-chrome-devtools",
+      "name": "chrome-devtools",
+      "description": "Browser automation, debugging, and performance analysis using Puppeteer CLI scripts. Use for automating browsers, taking screenshots, analyzing performance, monitoring network traffic, web scraping, form automation, and JavaScript debugging.",
+      "category": "devops",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/chrome-devtools"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-claude-code",
+      "name": "claude-code",
+      "description": "",
+      "category": "development",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/claude-code"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-code-review",
+      "name": "code-review",
+      "description": "Use when receiving code review feedback (especially if unclear or technically questionable), when completing tasks or major features requiring review before proceeding, or before making any completion/success claims. Covers three practices - receiving feedback with technical rigor over performative agreement, requesting reviews via code-reviewer subagent, and verification gates requiring evidence before any status claims. Essential for subagent-driven development, pull requests, and preventing false completion claims.",
+      "category": "development",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/code-review"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-context-engineering",
+      "name": "context-engineering",
+      "description": "Master context engineering for AI agent systems. Use when designing agent architectures, debugging context failures, optimizing token usage, implementing memory systems, building multi-agent coordination, evaluating agent performance, or developing LLM-powered pipelines. Covers context fundamentals, degradation patterns, optimization techniques (compaction, masking, caching), compression strategies, memory architectures, multi-agent patterns, LLM-as-Judge evaluation, tool design, and project development.",
+      "category": "ai",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/context-engineering"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-databases",
+      "name": "databases",
+      "description": "Work with MongoDB (document database, BSON documents, aggregation pipelines, Atlas cloud) and PostgreSQL (relational database, SQL queries, psql CLI, pgAdmin). Use when designing database schemas, writing queries and aggregations, optimizing indexes for performance, performing database migrations, configuring replication and sharding, implementing backup and restore strategies, managing database users and permissions, analyzing query performance, or administering production databases.",
+      "category": "backend",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/databases"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-devops",
+      "name": "devops",
+      "description": "Deploy and manage cloud infrastructure on Cloudflare (Workers, R2, D1, KV, Pages, Durable Objects, Browser Rendering), Docker containers, and Google Cloud Platform (Compute Engine, GKE, Cloud Run, App Engine, Cloud Storage). Use when deploying serverless functions to the edge, configuring edge computing solutions, managing Docker containers and images, setting up CI/CD pipelines, optimizing cloud infrastructure costs, implementing global caching strategies, working with cloud databases, or building cloud-native applications.",
+      "category": "devops",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/devops"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-docs-seeker",
+      "name": "docs-seeker",
+      "description": "Searching internet for technical documentation using llms.txt standard, GitHub repositories via Repomix, and parallel exploration. Use when user needs: (1) Latest documentation for libraries/frameworks, (2) Documentation in llms.txt format, (3) GitHub repository analysis, (4) Documentation without direct llms.txt support, (5) Multiple documentation sources in parallel",
+      "category": "documentation",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/docs-seeker"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-frontend-design",
+      "name": "frontend-design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applications. Generates creative, polished code that avoids generic AI aesthetics.",
+      "category": "frontend",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/frontend-design"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-frontend-development",
+      "name": "frontend-dev-guidelines",
+      "description": "Frontend development guidelines for React/TypeScript applications. Modern patterns including Suspense, lazy loading, useSuspenseQuery, file organization with features directory, MUI v7 styling, TanStack Router, performance optimization, and TypeScript best practices. Use when creating components, pages, features, fetching data, styling, routing, or working with frontend code.",
+      "category": "frontend",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/frontend-development"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-google-adk-python",
+      "name": "google-adk-python",
+      "description": "",
+      "category": "development",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/google-adk-python"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-mcp-builder",
+      "name": "mcp-builder",
+      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+      "category": "frontend",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mcp-builder"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-mcp-management",
+      "name": "mcp-management",
+      "description": "Manage Model Context Protocol (MCP) servers - discover, analyze, and execute tools/prompts/resources from configured MCP servers. Use when working with MCP integrations, need to discover available MCP capabilities, filter MCP tools for specific tasks, execute MCP tools programmatically, access MCP prompts/resources, or implement MCP client functionality. Supports intelligent tool selection, multi-server management, and context-efficient capability discovery.",
+      "category": "tools",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mcp-management"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-media-processing",
+      "name": "media-processing",
+      "description": "Process multimedia files with FFmpeg (video/audio encoding, conversion, streaming, filtering, hardware acceleration) and ImageMagick (image manipulation, format conversion, batch processing, effects, composition). Use when converting media formats, encoding videos with specific codecs (H.264, H.265, VP9), resizing/cropping images, extracting audio from video, applying filters and effects, optimizing file sizes, creating streaming manifests (HLS/DASH), generating thumbnails, batch processing images, creating composite images, or implementing media processing pipelines. Supports 100+ formats, hardware acceleration (NVENC, QSV), and complex filtergraphs.",
+      "category": "media",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/media-processing"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-mermaidjs-v11",
+      "name": "mermaidjs-v11",
+      "description": "Create diagrams and visualizations using Mermaid.js v11 syntax. Use when generating flowcharts, sequence diagrams, class diagrams, state diagrams, ER diagrams, Gantt charts, user journeys, timelines, architecture diagrams, or any of 24+ diagram types. Supports JavaScript API integration, CLI rendering to SVG/PNG/PDF, theming, configuration, and accessibility features. Essential for documentation, technical diagrams, project planning, system architecture, and visual communication.",
+      "category": "ai",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mermaidjs-v11"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-repomix",
+      "name": "repomix",
+      "description": "Package entire code repositories into single AI-friendly files using Repomix. Capabilities include pack codebases with customizable include/exclude patterns, generate multiple output formats (XML, Markdown, plain text), preserve file structure and context, optimize for AI consumption with token counting, filter by file types and directories, add custom headers and summaries. Use when packaging codebases for AI analysis, creating repository snapshots for LLM context, analyzing third-party libraries, preparing for security audits, generating documentation context, or evaluating unfamiliar codebases.",
+      "category": "development",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/repomix"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-sequential-thinking",
+      "name": "sequential-thinking",
+      "description": "Use when complex problems require systematic step-by-step reasoning with ability to revise thoughts, branch into alternative approaches, or dynamically adjust scope. Ideal for multi-stage analysis, design planning, problem decomposition, or tasks with initially unclear scope.",
+      "category": "development",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/sequential-thinking"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-shopify",
+      "name": "shopify",
+      "description": "Build Shopify applications, extensions, and themes using GraphQL/REST APIs, Shopify CLI, Polaris UI components, and Liquid templating. Capabilities include app development with OAuth authentication, checkout UI extensions for customizing checkout flow, admin UI extensions for dashboard integration, POS extensions for retail, theme development with Liquid, webhook management, billing API integration, product/order/customer management. Use when building Shopify apps, implementing checkout customizations, creating admin interfaces, developing themes, integrating payment processing, managing store data via APIs, or extending Shopify functionality.",
+      "category": "e-commerce",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/shopify"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-skill-creator",
+      "name": "skill-creator",
+      "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+      "category": "development",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/skill-creator"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-ui-styling",
+      "name": "ui-styling",
+      "description": "Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind), Tailwind CSS utility-first styling, and canvas-based visual designs. Use when building user interfaces, implementing design systems, creating responsive layouts, adding accessible components (dialogs, dropdowns, forms, tables), customizing themes and colors, implementing dark mode, generating visual designs and posters, or establishing consistent styling patterns across applications.",
+      "category": "frontend",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/ui-styling"
+    },
+    {
+      "id": "mrgoonie-claudekit-skills-web-frameworks",
+      "name": "web-frameworks",
+      "description": "Build modern full-stack web applications with Next.js (App Router, Server Components, RSC, PPR, SSR, SSG, ISR), Turborepo (monorepo management, task pipelines, remote caching, parallel execution), and RemixIcon (3100+ SVG icons in outlined/filled styles). Use when creating React applications, implementing server-side rendering, setting up monorepos with multiple packages, optimizing build performance and caching strategies, adding icon libraries, managing shared dependencies, or working with TypeScript full-stack projects.",
+      "category": "development",
+      "tags": [],
+      "stars": 1227,
+      "updatedAt": "2026-01-08T19:34:24Z",
+      "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/web-frameworks"
     }
   ]
 }
