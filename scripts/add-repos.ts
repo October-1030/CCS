@@ -14,27 +14,19 @@ import matter from "gray-matter";
 config({ path: resolve(process.cwd(), ".env.local") });
 
 const REPOS_TO_ADD = [
-  // Batch 5 - Meta skills and tools (high star count)
+  // Batch 7 - Specialized skills (database, API, devops)
 
-  // Meta Skills (skill generators)
-  "tripleyak/SkillForge",          // 226 stars - meta-skill for generating skills
-  "metaskills/skill-builder",       // 50 stars - skills builder
+  // Comprehensive Skill Collections
+  "mrgoonie/claudekit-skills",                   // ClaudeKit.cc powerful skills collection
+  "istealersn-dev/claude-code-init",             // Project init toolkit
+  "timescale/pg-aiguide",                        // Postgres MCP server + skills
 
-  // Individual Quality Skills
-  "ykdojo/claude-code-tips",        // reddit-fetch + dx plugin
-  "BayramAnnakov/claude-reflect",
+  // API & Testing
+  "wrsmith108/linear-claude-skill",              // Linear + GraphQL (already tried, but retry)
+
+  // From previous search
   "brunoasm/my_claude_skills",
-
-  // More from search
-  "sanjay3290/ai-skills",
-  "zxkane/aws-skills",
-  "lackeyjb/playwright-skill",
-  "ryanbbrown/revealjs-skill",
-  "smerchek/claude-epub-skill",
-  "alonw0/web-asset-generator",
-  "yusufkaraaslan/Skill_Seekers",
-  "bluzername/claude-code-terminal-title",
-  "HeshamFS/materials-simulation-skills",
+  "mkdev-me/claude-skills",
 ];
 
 interface SkillData {
