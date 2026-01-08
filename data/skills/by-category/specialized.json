@@ -18,5 +18,505 @@
     "stars": 521,
     "updatedAt": "2026-01-08T12:36:14Z",
     "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/tech-stack-evaluator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-key-manager",
+    "name": "api-key-manager",
+    "description": "Manage api key manager operations. Auto-activating skill for Security Fundamentals.\nTriggers on: api key manager, api key manager\nPart of the Security Fundamentals skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api key manager\", \"api manager\", \"api\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/api-key-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-code-injection-detector",
+    "name": "code-injection-detector",
+    "description": "Detect code injection detector operations. Auto-activating skill for Security Fundamentals.\nTriggers on: code injection detector, code injection detector\nPart of the Security Fundamentals skill category. Use when working with code injection detector functionality. Trigger with phrases like \"code injection detector\", \"code detector\", \"code\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/code-injection-detector"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-content-security-policy-generator",
+    "name": "content-security-policy-generator",
+    "description": "Generate content security policy generator operations. Auto-activating skill for Security Fundamentals.\nTriggers on: content security policy generator, content security policy generator\nPart of the Security Fundamentals skill category. Use when working with content security policy generator functionality. Trigger with phrases like \"content security policy generator\", \"content generator\", \"content\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/content-security-policy-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cookie-security-analyzer",
+    "name": "cookie-security-analyzer",
+    "description": "Analyze cookie security analyzer operations. Auto-activating skill for Security Fundamentals.\nTriggers on: cookie security analyzer, cookie security analyzer\nPart of the Security Fundamentals skill category. Use when analyzing or auditing cookie security analyzer. Trigger with phrases like \"cookie security analyzer\", \"cookie analyzer\", \"analyze cookie security r\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/cookie-security-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cors-policy-validator",
+    "name": "cors-policy-validator",
+    "description": "Validate cors policy validator operations. Auto-activating skill for Security Fundamentals.\nTriggers on: cors policy validator, cors policy validator\nPart of the Security Fundamentals skill category. Use when working with cors policy validator functionality. Trigger with phrases like \"cors policy validator\", \"cors validator\", \"cors\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/cors-policy-validator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-csrf-protection-validator",
+    "name": "csrf-protection-validator",
+    "description": "Validate csrf protection validator operations. Auto-activating skill for Security Fundamentals.\nTriggers on: csrf protection validator, csrf protection validator\nPart of the Security Fundamentals skill category. Use when working with csrf protection validator functionality. Trigger with phrases like \"csrf protection validator\", \"csrf validator\", \"csrf\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/csrf-protection-validator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-dependency-vulnerability-checker",
+    "name": "dependency-vulnerability-checker",
+    "description": "Validate dependency vulnerability checker operations. Auto-activating skill for Security Fundamentals.\nTriggers on: dependency vulnerability checker, dependency vulnerability checker\nPart of the Security Fundamentals skill category. Use when working with dependency vulnerability checker functionality. Trigger with phrases like \"dependency vulnerability checker\", \"dependency checker\", \"dependency\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/dependency-vulnerability-checker"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-env-secret-detector",
+    "name": "env-secret-detector",
+    "description": "Detect env secret detector operations. Auto-activating skill for Security Fundamentals.\nTriggers on: env secret detector, env secret detector\nPart of the Security Fundamentals skill category. Use when working with env secret detector functionality. Trigger with phrases like \"env secret detector\", \"env detector\", \"env\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/env-secret-detector"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-hardcoded-credential-finder",
+    "name": "hardcoded-credential-finder",
+    "description": "Manage hardcoded credential finder operations. Auto-activating skill for Security Fundamentals.\nTriggers on: hardcoded credential finder, hardcoded credential finder\nPart of the Security Fundamentals skill category. Use when working with hardcoded credential finder functionality. Trigger with phrases like \"hardcoded credential finder\", \"hardcoded finder\", \"hardcoded\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/hardcoded-credential-finder"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-http-header-security-audit",
+    "name": "http-header-security-audit",
+    "description": "Execute http header security audit operations. Auto-activating skill for Security Fundamentals.\nTriggers on: http header security audit, http header security audit\nPart of the Security Fundamentals skill category. Use when analyzing or auditing http header security audit. Trigger with phrases like \"http header security audit\", \"http audit\", \"http\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/http-header-security-audit"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-https-certificate-checker",
+    "name": "https-certificate-checker",
+    "description": "Validate https certificate checker operations. Auto-activating skill for Security Fundamentals.\nTriggers on: https certificate checker, https certificate checker\nPart of the Security Fundamentals skill category. Use when working with https certificate checker functionality. Trigger with phrases like \"https certificate checker\", \"https checker\", \"https\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/https-certificate-checker"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-input-validation-checker",
+    "name": "input-validation-checker",
+    "description": "Validate input validation checker operations. Auto-activating skill for Security Fundamentals.\nTriggers on: input validation checker, input validation checker\nPart of the Security Fundamentals skill category. Use when working with input validation checker functionality. Trigger with phrases like \"input validation checker\", \"input checker\", \"input\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/input-validation-checker"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-insecure-deserialization-checker",
+    "name": "insecure-deserialization-checker",
+    "description": "Validate insecure deserialization checker operations. Auto-activating skill for Security Fundamentals.\nTriggers on: insecure deserialization checker, insecure deserialization checker\nPart of the Security Fundamentals skill category. Use when working with insecure deserialization checker functionality. Trigger with phrases like \"insecure deserialization checker\", \"insecure checker\", \"insecure\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/insecure-deserialization-checker"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-jwt-token-validator",
+    "name": "jwt-token-validator",
+    "description": "Validate jwt token validator operations. Auto-activating skill for Security Fundamentals.\nTriggers on: jwt token validator, jwt token validator\nPart of the Security Fundamentals skill category. Use when working with jwt token validator functionality. Trigger with phrases like \"jwt token validator\", \"jwt validator\", \"jwt\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/jwt-token-validator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-license-compliance-scanner",
+    "name": "license-compliance-scanner",
+    "description": "Scan license compliance scanner operations. Auto-activating skill for Security Fundamentals.\nTriggers on: license compliance scanner, license compliance scanner\nPart of the Security Fundamentals skill category. Use when working with license compliance scanner functionality. Trigger with phrases like \"license compliance scanner\", \"license scanner\", \"license\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/license-compliance-scanner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-oauth2-flow-helper",
+    "name": "oauth2-flow-helper",
+    "description": "Configure with oauth2 flow helper operations. Auto-activating skill for Security Fundamentals.\nTriggers on: oauth2 flow helper, oauth2 flow helper\nPart of the Security Fundamentals skill category. Use when working with oauth2 flow helper functionality. Trigger with phrases like \"oauth2 flow helper\", \"oauth2 helper\", \"oauth2\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/oauth2-flow-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-password-hash-generator",
+    "name": "password-hash-generator",
+    "description": "Generate password hash generator operations. Auto-activating skill for Security Fundamentals.\nTriggers on: password hash generator, password hash generator\nPart of the Security Fundamentals skill category. Use when working with password hash generator functionality. Trigger with phrases like \"password hash generator\", \"password generator\", \"password\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/password-hash-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-password-strength-analyzer",
+    "name": "password-strength-analyzer",
+    "description": "Analyze password strength analyzer operations. Auto-activating skill for Security Fundamentals.\nTriggers on: password strength analyzer, password strength analyzer\nPart of the Security Fundamentals skill category. Use when analyzing or auditing password strength analyzer. Trigger with phrases like \"password strength analyzer\", \"password analyzer\", \"analyze password strength r\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/password-strength-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-path-traversal-finder",
+    "name": "path-traversal-finder",
+    "description": "Manage path traversal finder operations. Auto-activating skill for Security Fundamentals.\nTriggers on: path traversal finder, path traversal finder\nPart of the Security Fundamentals skill category. Use when working with path traversal finder functionality. Trigger with phrases like \"path traversal finder\", \"path finder\", \"path\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/path-traversal-finder"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-rate-limiter-config",
+    "name": "rate-limiter-config",
+    "description": "Configure rate limiter config operations. Auto-activating skill for Security Fundamentals.\nTriggers on: rate limiter config, rate limiter config\nPart of the Security Fundamentals skill category. Use when configuring systems or services. Trigger with phrases like \"rate limiter config\", \"rate config\", \"rate\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/rate-limiter-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-secret-scanner",
+    "name": "secret-scanner",
+    "description": "Scan secret scanner operations. Auto-activating skill for Security Fundamentals.\nTriggers on: secret scanner, secret scanner\nPart of the Security Fundamentals skill category. Use when working with secret scanner functionality. Trigger with phrases like \"secret scanner\", \"secret scanner\", \"secret\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/secret-scanner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-security-headers-generator",
+    "name": "security-headers-generator",
+    "description": "Generate security headers generator operations. Auto-activating skill for Security Fundamentals.\nTriggers on: security headers generator, security headers generator\nPart of the Security Fundamentals skill category. Use when working with security headers generator functionality. Trigger with phrases like \"security headers generator\", \"security generator\", \"security\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/security-headers-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-session-security-checker",
+    "name": "session-security-checker",
+    "description": "Validate session security checker operations. Auto-activating skill for Security Fundamentals.\nTriggers on: session security checker, session security checker\nPart of the Security Fundamentals skill category. Use when working with session security checker functionality. Trigger with phrases like \"session security checker\", \"session checker\", \"session\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/session-security-checker"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sql-injection-detector",
+    "name": "sql-injection-detector",
+    "description": "Detect sql injection detector operations. Auto-activating skill for Security Fundamentals.\nTriggers on: sql injection detector, sql injection detector\nPart of the Security Fundamentals skill category. Use when working with sql injection detector functionality. Trigger with phrases like \"sql injection detector\", \"sql detector\", \"sql\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/sql-injection-detector"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-xss-vulnerability-scanner",
+    "name": "xss-vulnerability-scanner",
+    "description": "Scan xss vulnerability scanner operations. Auto-activating skill for Security Fundamentals.\nTriggers on: xss vulnerability scanner, xss vulnerability scanner\nPart of the Security Fundamentals skill category. Use when working with xss vulnerability scanner functionality. Trigger with phrases like \"xss vulnerability scanner\", \"xss scanner\", \"xss\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/xss-vulnerability-scanner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-attack-surface-analyzer",
+    "name": "attack-surface-analyzer",
+    "description": "Analyze attack surface analyzer operations. Auto-activating skill for Security Advanced.\nTriggers on: attack surface analyzer, attack surface analyzer\nPart of the Security Advanced skill category. Use when analyzing or auditing attack surface analyzer. Trigger with phrases like \"attack surface analyzer\", \"attack analyzer\", \"analyze attack surface r\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/attack-surface-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-certificate-lifecycle-manager",
+    "name": "certificate-lifecycle-manager",
+    "description": "Manage certificate lifecycle manager operations. Auto-activating skill for Security Advanced.\nTriggers on: certificate lifecycle manager, certificate lifecycle manager\nPart of the Security Advanced skill category. Use when working with certificate lifecycle manager functionality. Trigger with phrases like \"certificate lifecycle manager\", \"certificate manager\", \"certificate\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/certificate-lifecycle-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cloud-security-posture",
+    "name": "cloud-security-posture",
+    "description": "Manage cloud security posture operations. Auto-activating skill for Security Advanced.\nTriggers on: cloud security posture, cloud security posture\nPart of the Security Advanced skill category. Use when working with cloud security posture functionality. Trigger with phrases like \"cloud security posture\", \"cloud posture\", \"cloud\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/cloud-security-posture"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-container-security-auditor",
+    "name": "container-security-auditor",
+    "description": "Audit container security auditor operations. Auto-activating skill for Security Advanced.\nTriggers on: container security auditor, container security auditor\nPart of the Security Advanced skill category. Use when analyzing or auditing container security auditor. Trigger with phrases like \"container security auditor\", \"container auditor\", \"container\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/container-security-auditor"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-encryption-at-rest-checker",
+    "name": "encryption-at-rest-checker",
+    "description": "Validate encryption at rest checker operations. Auto-activating skill for Security Advanced.\nTriggers on: encryption at rest checker, encryption at rest checker\nPart of the Security Advanced skill category. Use when working with encryption at rest checker functionality. Trigger with phrases like \"encryption at rest checker\", \"encryption checker\", \"encryption\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/encryption-at-rest-checker"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-forensics-data-collector",
+    "name": "forensics-data-collector",
+    "description": "Process forensics data collector operations. Auto-activating skill for Security Advanced.\nTriggers on: forensics data collector, forensics data collector\nPart of the Security Advanced skill category. Use when working with forensics data collector functionality. Trigger with phrases like \"forensics data collector\", \"forensics collector\", \"forensics\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/forensics-data-collector"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-gdpr-compliance-scanner",
+    "name": "gdpr-compliance-scanner",
+    "description": "Scan gdpr compliance scanner operations. Auto-activating skill for Security Advanced.\nTriggers on: gdpr compliance scanner, gdpr compliance scanner\nPart of the Security Advanced skill category. Use when working with gdpr compliance scanner functionality. Trigger with phrases like \"gdpr compliance scanner\", \"gdpr scanner\", \"gdpr\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/gdpr-compliance-scanner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-hipaa-audit-helper",
+    "name": "hipaa-audit-helper",
+    "description": "Assist with hipaa audit helper operations. Auto-activating skill for Security Advanced.\nTriggers on: hipaa audit helper, hipaa audit helper\nPart of the Security Advanced skill category. Use when analyzing or auditing hipaa audit helper. Trigger with phrases like \"hipaa audit helper\", \"hipaa helper\", \"hipaa\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/hipaa-audit-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-iam-policy-reviewer",
+    "name": "iam-policy-reviewer",
+    "description": "Execute iam policy reviewer operations. Auto-activating skill for Security Advanced.\nTriggers on: iam policy reviewer, iam policy reviewer\nPart of the Security Advanced skill category. Use when working with iam policy reviewer functionality. Trigger with phrases like \"iam policy reviewer\", \"iam reviewer\", \"iam\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/iam-policy-reviewer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-incident-response-planner",
+    "name": "incident-response-planner",
+    "description": "Configure incident response planner operations. Auto-activating skill for Security Advanced.\nTriggers on: incident response planner, incident response planner\nPart of the Security Advanced skill category. Use when working with incident response planner functionality. Trigger with phrases like \"incident response planner\", \"incident planner\", \"incident\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/incident-response-planner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-iso27001-gap-analyzer",
+    "name": "iso27001-gap-analyzer",
+    "description": "Analyze iso27001 gap analyzer operations. Auto-activating skill for Security Advanced.\nTriggers on: iso27001 gap analyzer, iso27001 gap analyzer\nPart of the Security Advanced skill category. Use when analyzing or auditing iso27001 gap analyzer. Trigger with phrases like \"iso27001 gap analyzer\", \"iso27001 analyzer\", \"analyze iso27001 gap r\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/iso27001-gap-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-key-rotation-manager",
+    "name": "key-rotation-manager",
+    "description": "Manage key rotation manager operations. Auto-activating skill for Security Advanced.\nTriggers on: key rotation manager, key rotation manager\nPart of the Security Advanced skill category. Use when working with key rotation manager functionality. Trigger with phrases like \"key rotation manager\", \"key manager\", \"key\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/key-rotation-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-rbac-analyzer",
+    "name": "kubernetes-rbac-analyzer",
+    "description": "Analyze kubernetes rbac analyzer operations. Auto-activating skill for Security Advanced.\nTriggers on: kubernetes rbac analyzer, kubernetes rbac analyzer\nPart of the Security Advanced skill category. Use when analyzing or auditing kubernetes rbac analyzer. Trigger with phrases like \"kubernetes rbac analyzer\", \"kubernetes analyzer\", \"analyze kubernetes rbac r\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/kubernetes-rbac-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-log-analysis-security",
+    "name": "log-analysis-security",
+    "description": "Execute log analysis security operations. Auto-activating skill for Security Advanced.\nTriggers on: log analysis security, log analysis security\nPart of the Security Advanced skill category. Use when working with log analysis security functionality. Trigger with phrases like \"log analysis security\", \"log security\", \"log\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/log-analysis-security"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-network-security-scanner",
+    "name": "network-security-scanner",
+    "description": "Scan network security scanner operations. Auto-activating skill for Security Advanced.\nTriggers on: network security scanner, network security scanner\nPart of the Security Advanced skill category. Use when working with network security scanner functionality. Trigger with phrases like \"network security scanner\", \"network scanner\", \"network\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/network-security-scanner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pci-dss-validator",
+    "name": "pci-dss-validator",
+    "description": "Validate pci dss validator operations. Auto-activating skill for Security Advanced.\nTriggers on: pci dss validator, pci dss validator\nPart of the Security Advanced skill category. Use when working with pci dss validator functionality. Trigger with phrases like \"pci dss validator\", \"pci validator\", \"pci\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/pci-dss-validator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-penetration-test-planner",
+    "name": "penetration-test-planner",
+    "description": "Plan penetration test planner operations. Auto-activating skill for Security Advanced.\nTriggers on: penetration test planner, penetration test planner\nPart of the Security Advanced skill category. Use when writing or running tests. Trigger with phrases like \"penetration test planner\", \"penetration planner\", \"penetration\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/penetration-test-planner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-security-benchmark-runner",
+    "name": "security-benchmark-runner",
+    "description": "Manage security benchmark runner operations. Auto-activating skill for Security Advanced.\nTriggers on: security benchmark runner, security benchmark runner\nPart of the Security Advanced skill category. Use when working with security benchmark runner functionality. Trigger with phrases like \"security benchmark runner\", \"security runner\", \"security\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/security-benchmark-runner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-security-policy-generator",
+    "name": "security-policy-generator",
+    "description": "Generate security policy generator operations. Auto-activating skill for Security Advanced.\nTriggers on: security policy generator, security policy generator\nPart of the Security Advanced skill category. Use when working with security policy generator functionality. Trigger with phrases like \"security policy generator\", \"security generator\", \"security\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/security-policy-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-siem-rule-generator",
+    "name": "siem-rule-generator",
+    "description": "Generate siem rule generator operations. Auto-activating skill for Security Advanced.\nTriggers on: siem rule generator, siem rule generator\nPart of the Security Advanced skill category. Use when working with siem rule generator functionality. Trigger with phrases like \"siem rule generator\", \"siem generator\", \"siem\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/siem-rule-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-soc2-compliance-checker",
+    "name": "soc2-compliance-checker",
+    "description": "Validate soc2 compliance checker operations. Auto-activating skill for Security Advanced.\nTriggers on: soc2 compliance checker, soc2 compliance checker\nPart of the Security Advanced skill category. Use when working with soc2 compliance checker functionality. Trigger with phrases like \"soc2 compliance checker\", \"soc2 checker\", \"soc2\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/soc2-compliance-checker"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-threat-model-creator",
+    "name": "threat-model-creator",
+    "description": "Create threat model creator operations. Auto-activating skill for Security Advanced.\nTriggers on: threat model creator, threat model creator\nPart of the Security Advanced skill category. Use when working with threat model creator functionality. Trigger with phrases like \"threat model creator\", \"threat creator\", \"threat\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/threat-model-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-vulnerability-report-generator",
+    "name": "vulnerability-report-generator",
+    "description": "Generate vulnerability report generator operations. Auto-activating skill for Security Advanced.\nTriggers on: vulnerability report generator, vulnerability report generator\nPart of the Security Advanced skill category. Use when working with vulnerability report generator functionality. Trigger with phrases like \"vulnerability report generator\", \"vulnerability generator\", \"vulnerability\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/vulnerability-report-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-waf-rule-creator",
+    "name": "waf-rule-creator",
+    "description": "Create waf rule creator operations. Auto-activating skill for Security Advanced.\nTriggers on: waf rule creator, waf rule creator\nPart of the Security Advanced skill category. Use when working with waf rule creator functionality. Trigger with phrases like \"waf rule creator\", \"waf creator\", \"waf\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/waf-rule-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-zero-trust-config-helper",
+    "name": "zero-trust-config-helper",
+    "description": "Configure with zero trust config helper operations. Auto-activating skill for Security Advanced.\nTriggers on: zero trust config helper, zero trust config helper\nPart of the Security Advanced skill category. Use when configuring systems or services. Trigger with phrases like \"zero trust config helper\", \"zero helper\", \"zero\".\n",
+    "category": "specialized",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/zero-trust-config-helper"
   }
 ]

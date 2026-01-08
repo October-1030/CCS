@@ -1,14 +1,14 @@
 {
-  "totalSkills": 205,
+  "totalSkills": 627,
   "byCategory": {
-    "ai-data-science": 22,
+    "ai-data-science": 122,
     "frontend-development": 89,
-    "tools-productivity": 20,
-    "business-marketing": 10,
-    "testing-quality": 8,
-    "backend-development": 28,
-    "specialized": 2,
-    "devops-infrastructure": 26
+    "tools-productivity": 68,
+    "business-marketing": 60,
+    "testing-quality": 58,
+    "backend-development": 77,
+    "specialized": 52,
+    "devops-infrastructure": 101
   },
   "topTags": [
     {
@@ -213,26 +213,26 @@
     }
   ],
   "recentlyUpdated": [
-    "mrgoonie-claudekit-skills-aesthetic",
-    "mrgoonie-claudekit-skills-ai-multimodal",
-    "mrgoonie-claudekit-skills-backend-development",
-    "mrgoonie-claudekit-skills-better-auth",
-    "mrgoonie-claudekit-skills-chrome-devtools",
-    "mrgoonie-claudekit-skills-claude-code",
-    "mrgoonie-claudekit-skills-code-review",
-    "mrgoonie-claudekit-skills-context-engineering",
-    "mrgoonie-claudekit-skills-databases",
-    "mrgoonie-claudekit-skills-devops",
-    "mrgoonie-claudekit-skills-docs-seeker",
-    "mrgoonie-claudekit-skills-frontend-design",
-    "mrgoonie-claudekit-skills-frontend-development",
-    "mrgoonie-claudekit-skills-google-adk-python",
-    "mrgoonie-claudekit-skills-mcp-builder",
-    "mrgoonie-claudekit-skills-mcp-management",
-    "mrgoonie-claudekit-skills-media-processing",
-    "mrgoonie-claudekit-skills-mermaidjs-v11",
-    "mrgoonie-claudekit-skills-repomix",
-    "mrgoonie-claudekit-skills-sequential-thinking"
+    "jeremylongshore-claude-code-plugins-plus-skills-alertmanager-rules-config",
+    "jeremylongshore-claude-code-plugins-plus-skills-ansible-playbook-generator",
+    "jeremylongshore-claude-code-plugins-plus-skills-ansible-role-creator",
+    "jeremylongshore-claude-code-plugins-plus-skills-argocd-app-deployer",
+    "jeremylongshore-claude-code-plugins-plus-skills-cert-manager-setup",
+    "jeremylongshore-claude-code-plugins-plus-skills-consul-service-discovery",
+    "jeremylongshore-claude-code-plugins-plus-skills-elasticsearch-index-manager",
+    "jeremylongshore-claude-code-plugins-plus-skills-envoy-proxy-config",
+    "jeremylongshore-claude-code-plugins-plus-skills-fluentd-config-generator",
+    "jeremylongshore-claude-code-plugins-plus-skills-flux-gitops-setup",
+    "jeremylongshore-claude-code-plugins-plus-skills-grafana-dashboard-creator",
+    "jeremylongshore-claude-code-plugins-plus-skills-helm-chart-generator",
+    "jeremylongshore-claude-code-plugins-plus-skills-helm-values-manager",
+    "jeremylongshore-claude-code-plugins-plus-skills-istio-service-mesh-config",
+    "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-configmap-handler",
+    "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-deployment-creator",
+    "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-ingress-config",
+    "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-secrets-manager",
+    "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-service-manager",
+    "jeremylongshore-claude-code-plugins-plus-skills-nginx-ingress-manager"
   ],
-  "lastSyncTime": "2026-01-08T20:49:46.873Z"
+  "lastSyncTime": "2026-01-08T21:26:52.122Z"
 }

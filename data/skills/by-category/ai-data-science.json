@@ -263,5 +263,1005 @@
     "stars": 24,
     "updatedAt": "2026-01-08T09:49:44Z",
     "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/pandas-pro"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-confusion-matrix-generator",
+    "name": "confusion-matrix-generator",
+    "description": "Generate confusion matrix generator operations. Auto-activating skill for ML Training.\nTriggers on: confusion matrix generator, confusion matrix generator\nPart of the ML Training skill category. Use when working with confusion matrix generator functionality. Trigger with phrases like \"confusion matrix generator\", \"confusion generator\", \"confusion\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/confusion-matrix-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cross-validation-setup",
+    "name": "cross-validation-setup",
+    "description": "Configure cross validation setup operations. Auto-activating skill for ML Training.\nTriggers on: cross validation setup, cross validation setup\nPart of the ML Training skill category. Use when working with cross validation setup functionality. Trigger with phrases like \"cross validation setup\", \"cross setup\", \"cross\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/cross-validation-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-data-augmentation-pipeline",
+    "name": "data-augmentation-pipeline",
+    "description": "Process data augmentation pipeline operations. Auto-activating skill for ML Training.\nTriggers on: data augmentation pipeline, data augmentation pipeline\nPart of the ML Training skill category. Use when working with data augmentation pipeline functionality. Trigger with phrases like \"data augmentation pipeline\", \"data pipeline\", \"data\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/data-augmentation-pipeline"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-data-normalization-tool",
+    "name": "data-normalization-tool",
+    "description": "Process data normalization tool operations. Auto-activating skill for ML Training.\nTriggers on: data normalization tool, data normalization tool\nPart of the ML Training skill category. Use when working with data normalization tool functionality. Trigger with phrases like \"data normalization tool\", \"data tool\", \"data\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/data-normalization-tool"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-dataset-loader-creator",
+    "name": "dataset-loader-creator",
+    "description": "Create dataset loader creator operations. Auto-activating skill for ML Training.\nTriggers on: dataset loader creator, dataset loader creator\nPart of the ML Training skill category. Use when working with dataset loader creator functionality. Trigger with phrases like \"dataset loader creator\", \"dataset creator\", \"dataset\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/dataset-loader-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-distributed-training-setup",
+    "name": "distributed-training-setup",
+    "description": "Configure distributed training setup operations. Auto-activating skill for ML Training.\nTriggers on: distributed training setup, distributed training setup\nPart of the ML Training skill category. Use when working with distributed training setup functionality. Trigger with phrases like \"distributed training setup\", \"distributed setup\", \"distributed\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/distributed-training-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-early-stopping-callback",
+    "name": "early-stopping-callback",
+    "description": "Manage early stopping callback operations. Auto-activating skill for ML Training.\nTriggers on: early stopping callback, early stopping callback\nPart of the ML Training skill category. Use when working with early stopping callback functionality. Trigger with phrases like \"early stopping callback\", \"early callback\", \"early\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/early-stopping-callback"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-feature-engineering-helper",
+    "name": "feature-engineering-helper",
+    "description": "Configure with feature engineering helper operations. Auto-activating skill for ML Training.\nTriggers on: feature engineering helper, feature engineering helper\nPart of the ML Training skill category. Use when working with feature engineering helper functionality. Trigger with phrases like \"feature engineering helper\", \"feature helper\", \"feature\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/feature-engineering-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-feature-importance-analyzer",
+    "name": "feature-importance-analyzer",
+    "description": "Analyze feature importance analyzer operations. Auto-activating skill for ML Training.\nTriggers on: feature importance analyzer, feature importance analyzer\nPart of the ML Training skill category. Use when analyzing or auditing feature importance analyzer. Trigger with phrases like \"feature importance analyzer\", \"feature analyzer\", \"analyze feature importance r\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/feature-importance-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-gradient-clipping-helper",
+    "name": "gradient-clipping-helper",
+    "description": "Configure with gradient clipping helper operations. Auto-activating skill for ML Training.\nTriggers on: gradient clipping helper, gradient clipping helper\nPart of the ML Training skill category. Use when working with gradient clipping helper functionality. Trigger with phrases like \"gradient clipping helper\", \"gradient helper\", \"gradient\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/gradient-clipping-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-hyperparameter-tuner",
+    "name": "hyperparameter-tuner",
+    "description": "Manage hyperparameter tuner operations. Auto-activating skill for ML Training.\nTriggers on: hyperparameter tuner, hyperparameter tuner\nPart of the ML Training skill category. Use when working with hyperparameter tuner functionality. Trigger with phrases like \"hyperparameter tuner\", \"hyperparameter tuner\", \"hyperparameter\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/hyperparameter-tuner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-learning-rate-scheduler",
+    "name": "learning-rate-scheduler",
+    "description": "Manage learning rate scheduler operations. Auto-activating skill for ML Training.\nTriggers on: learning rate scheduler, learning rate scheduler\nPart of the ML Training skill category. Use when working with learning rate scheduler functionality. Trigger with phrases like \"learning rate scheduler\", \"learning scheduler\", \"learning\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/learning-rate-scheduler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mixed-precision-trainer",
+    "name": "mixed-precision-trainer",
+    "description": "Manage mixed precision trainer operations. Auto-activating skill for ML Training.\nTriggers on: mixed precision trainer, mixed precision trainer\nPart of the ML Training skill category. Use when working with mixed precision trainer functionality. Trigger with phrases like \"mixed precision trainer\", \"mixed trainer\", \"mixed\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/mixed-precision-trainer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mlflow-tracking-setup",
+    "name": "mlflow-tracking-setup",
+    "description": "Configure mlflow tracking setup operations. Auto-activating skill for ML Training.\nTriggers on: mlflow tracking setup, mlflow tracking setup\nPart of the ML Training skill category. Use when working with mlflow tracking setup functionality. Trigger with phrases like \"mlflow tracking setup\", \"mlflow setup\", \"mlflow\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/mlflow-tracking-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-model-checkpoint-manager",
+    "name": "model-checkpoint-manager",
+    "description": "Manage model checkpoint manager operations. Auto-activating skill for ML Training.\nTriggers on: model checkpoint manager, model checkpoint manager\nPart of the ML Training skill category. Use when working with model checkpoint manager functionality. Trigger with phrases like \"model checkpoint manager\", \"model manager\", \"model\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/model-checkpoint-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-model-evaluation-metrics",
+    "name": "model-evaluation-metrics",
+    "description": "Build model evaluation metrics operations. Auto-activating skill for ML Training.\nTriggers on: model evaluation metrics, model evaluation metrics\nPart of the ML Training skill category. Use when working with model evaluation metrics functionality. Trigger with phrases like \"model evaluation metrics\", \"model metrics\", \"model\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/model-evaluation-metrics"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-model-explainability-tool",
+    "name": "model-explainability-tool",
+    "description": "Build model explainability tool operations. Auto-activating skill for ML Training.\nTriggers on: model explainability tool, model explainability tool\nPart of the ML Training skill category. Use when working with model explainability tool functionality. Trigger with phrases like \"model explainability tool\", \"model tool\", \"model\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/model-explainability-tool"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-optuna-study-creator",
+    "name": "optuna-study-creator",
+    "description": "Create optuna study creator operations. Auto-activating skill for ML Training.\nTriggers on: optuna study creator, optuna study creator\nPart of the ML Training skill category. Use when working with optuna study creator functionality. Trigger with phrases like \"optuna study creator\", \"optuna creator\", \"optuna\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/optuna-study-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pytorch-model-trainer",
+    "name": "pytorch-model-trainer",
+    "description": "Build pytorch model trainer operations. Auto-activating skill for ML Training.\nTriggers on: pytorch model trainer, pytorch model trainer\nPart of the ML Training skill category. Use when working with pytorch model trainer functionality. Trigger with phrases like \"pytorch model trainer\", \"pytorch trainer\", \"pytorch\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/pytorch-model-trainer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-roc-curve-plotter",
+    "name": "roc-curve-plotter",
+    "description": "Manage roc curve plotter operations. Auto-activating skill for ML Training.\nTriggers on: roc curve plotter, roc curve plotter\nPart of the ML Training skill category. Use when working with roc curve plotter functionality. Trigger with phrases like \"roc curve plotter\", \"roc plotter\", \"roc\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/roc-curve-plotter"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sklearn-pipeline-builder",
+    "name": "sklearn-pipeline-builder",
+    "description": "Build sklearn pipeline builder operations. Auto-activating skill for ML Training.\nTriggers on: sklearn pipeline builder, sklearn pipeline builder\nPart of the ML Training skill category. Use when working with sklearn pipeline builder functionality. Trigger with phrases like \"sklearn pipeline builder\", \"sklearn builder\", \"sklearn\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/sklearn-pipeline-builder"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-tensorboard-visualizer",
+    "name": "tensorboard-visualizer",
+    "description": "Generate tensorboard visualizer operations. Auto-activating skill for ML Training.\nTriggers on: tensorboard visualizer, tensorboard visualizer\nPart of the ML Training skill category. Use when working with tensorboard visualizer functionality. Trigger with phrases like \"tensorboard visualizer\", \"tensorboard visualizer\", \"tensorboard\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/tensorboard-visualizer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-tensorflow-model-trainer",
+    "name": "tensorflow-model-trainer",
+    "description": "Build tensorflow model trainer operations. Auto-activating skill for ML Training.\nTriggers on: tensorflow model trainer, tensorflow model trainer\nPart of the ML Training skill category. Use when working with tensorflow model trainer functionality. Trigger with phrases like \"tensorflow model trainer\", \"tensorflow trainer\", \"tensorflow\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/tensorflow-model-trainer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-train-test-splitter",
+    "name": "train-test-splitter",
+    "description": "Test train test splitter operations. Auto-activating skill for ML Training.\nTriggers on: train test splitter, train test splitter\nPart of the ML Training skill category. Use when writing or running tests. Trigger with phrases like \"train test splitter\", \"train splitter\", \"train\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/train-test-splitter"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-wandb-experiment-logger",
+    "name": "wandb-experiment-logger",
+    "description": "Execute wandb experiment logger operations. Auto-activating skill for ML Training.\nTriggers on: wandb experiment logger, wandb experiment logger\nPart of the ML Training skill category. Use when working with wandb experiment logger functionality. Trigger with phrases like \"wandb experiment logger\", \"wandb logger\", \"wandb\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/wandb-experiment-logger"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-a-b-test-config-creator",
+    "name": "a-b-test-config-creator",
+    "description": "Create a b test config creator operations. Auto-activating skill for ML Deployment.\nTriggers on: a b test config creator, a b test config creator\nPart of the ML Deployment skill category. Use when writing or running tests. Trigger with phrases like \"a b test config creator\", \"a creator\", \"a\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/a-b-test-config-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-azure-ml-deployer",
+    "name": "azure-ml-deployer",
+    "description": "Deploy azure ml deployer operations. Auto-activating skill for ML Deployment.\nTriggers on: azure ml deployer, azure ml deployer\nPart of the ML Deployment skill category. Use when deploying applications or services. Trigger with phrases like \"azure ml deployer\", \"azure deployer\", \"deploy azure ml er\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/azure-ml-deployer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-batch-inference-pipeline",
+    "name": "batch-inference-pipeline",
+    "description": "Execute batch inference pipeline operations. Auto-activating skill for ML Deployment.\nTriggers on: batch inference pipeline, batch inference pipeline\nPart of the ML Deployment skill category. Use when working with batch inference pipeline functionality. Trigger with phrases like \"batch inference pipeline\", \"batch pipeline\", \"batch\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/batch-inference-pipeline"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-canary-deployment-setup",
+    "name": "canary-deployment-setup",
+    "description": "Configure canary deployment setup operations. Auto-activating skill for ML Deployment.\nTriggers on: canary deployment setup, canary deployment setup\nPart of the ML Deployment skill category. Use when deploying applications or services. Trigger with phrases like \"canary deployment setup\", \"canary setup\", \"deploy canary ment setup\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/canary-deployment-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-fastapi-ml-endpoint",
+    "name": "fastapi-ml-endpoint",
+    "description": "Configure fastapi ml endpoint operations. Auto-activating skill for ML Deployment.\nTriggers on: fastapi ml endpoint, fastapi ml endpoint\nPart of the ML Deployment skill category. Use when working with APIs or building integrations. Trigger with phrases like \"fastapi ml endpoint\", \"fastapi endpoint\", \"fastapi\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/fastapi-ml-endpoint"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-feature-store-connector",
+    "name": "feature-store-connector",
+    "description": "Execute feature store connector operations. Auto-activating skill for ML Deployment.\nTriggers on: feature store connector, feature store connector\nPart of the ML Deployment skill category. Use when working with feature store connector functionality. Trigger with phrases like \"feature store connector\", \"feature connector\", \"feature\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/feature-store-connector"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-flask-ml-api-creator",
+    "name": "flask-ml-api-creator",
+    "description": "Create flask ml api creator operations. Auto-activating skill for ML Deployment.\nTriggers on: flask ml api creator, flask ml api creator\nPart of the ML Deployment skill category. Use when working with APIs or building integrations. Trigger with phrases like \"flask ml api creator\", \"flask creator\", \"flask\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/flask-ml-api-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-gpu-resource-optimizer",
+    "name": "gpu-resource-optimizer",
+    "description": "Optimize gpu resource optimizer operations. Auto-activating skill for ML Deployment.\nTriggers on: gpu resource optimizer, gpu resource optimizer\nPart of the ML Deployment skill category. Use when working with gpu resource optimizer functionality. Trigger with phrases like \"gpu resource optimizer\", \"gpu optimizer\", \"gpu\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/gpu-resource-optimizer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-inference-latency-profiler",
+    "name": "inference-latency-profiler",
+    "description": "Profile inference latency profiler operations. Auto-activating skill for ML Deployment.\nTriggers on: inference latency profiler, inference latency profiler\nPart of the ML Deployment skill category. Use when working with inference latency profiler functionality. Trigger with phrases like \"inference latency profiler\", \"inference profiler\", \"inference\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/inference-latency-profiler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-model-drift-detector",
+    "name": "model-drift-detector",
+    "description": "Detect model drift detector operations. Auto-activating skill for ML Deployment.\nTriggers on: model drift detector, model drift detector\nPart of the ML Deployment skill category. Use when working with model drift detector functionality. Trigger with phrases like \"model drift detector\", \"model detector\", \"model\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/model-drift-detector"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-model-export-helper",
+    "name": "model-export-helper",
+    "description": "Assist with model export helper operations. Auto-activating skill for ML Deployment.\nTriggers on: model export helper, model export helper\nPart of the ML Deployment skill category. Use when working with model export helper functionality. Trigger with phrases like \"model export helper\", \"model helper\", \"model\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/model-export-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-model-pruning-helper",
+    "name": "model-pruning-helper",
+    "description": "Assist with model pruning helper operations. Auto-activating skill for ML Deployment.\nTriggers on: model pruning helper, model pruning helper\nPart of the ML Deployment skill category. Use when working with model pruning helper functionality. Trigger with phrases like \"model pruning helper\", \"model helper\", \"model\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/model-pruning-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-model-quantization-tool",
+    "name": "model-quantization-tool",
+    "description": "Build model quantization tool operations. Auto-activating skill for ML Deployment.\nTriggers on: model quantization tool, model quantization tool\nPart of the ML Deployment skill category. Use when working with model quantization tool functionality. Trigger with phrases like \"model quantization tool\", \"model tool\", \"model\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/model-quantization-tool"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-model-registry-manager",
+    "name": "model-registry-manager",
+    "description": "Manage model registry manager operations. Auto-activating skill for ML Deployment.\nTriggers on: model registry manager, model registry manager\nPart of the ML Deployment skill category. Use when working with model registry manager functionality. Trigger with phrases like \"model registry manager\", \"model manager\", \"model\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/model-registry-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-model-versioning-manager",
+    "name": "model-versioning-manager",
+    "description": "Manage model versioning manager operations. Auto-activating skill for ML Deployment.\nTriggers on: model versioning manager, model versioning manager\nPart of the ML Deployment skill category. Use when working with model versioning manager functionality. Trigger with phrases like \"model versioning manager\", \"model manager\", \"model\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/model-versioning-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-onnx-converter",
+    "name": "onnx-converter",
+    "description": "Convert onnx converter operations. Auto-activating skill for ML Deployment.\nTriggers on: onnx converter, onnx converter\nPart of the ML Deployment skill category. Use when working with onnx converter functionality. Trigger with phrases like \"onnx converter\", \"onnx converter\", \"onnx\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/onnx-converter"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-prediction-monitor",
+    "name": "prediction-monitor",
+    "description": "Monitor prediction monitor operations. Auto-activating skill for ML Deployment.\nTriggers on: prediction monitor, prediction monitor\nPart of the ML Deployment skill category. Use when monitoring systems or services. Trigger with phrases like \"prediction monitor\", \"prediction monitor\", \"prediction\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/prediction-monitor"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sagemaker-endpoint-deployer",
+    "name": "sagemaker-endpoint-deployer",
+    "description": "Deploy sagemaker endpoint deployer operations. Auto-activating skill for ML Deployment.\nTriggers on: sagemaker endpoint deployer, sagemaker endpoint deployer\nPart of the ML Deployment skill category. Use when deploying applications or services. Trigger with phrases like \"sagemaker endpoint deployer\", \"sagemaker deployer\", \"deploy sagemaker endpoint er\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/sagemaker-endpoint-deployer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-streaming-inference-setup",
+    "name": "streaming-inference-setup",
+    "description": "Configure streaming inference setup operations. Auto-activating skill for ML Deployment.\nTriggers on: streaming inference setup, streaming inference setup\nPart of the ML Deployment skill category. Use when working with streaming inference setup functionality. Trigger with phrases like \"streaming inference setup\", \"streaming setup\", \"streaming\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/streaming-inference-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-tensorflow-savedmodel-creator",
+    "name": "tensorflow-savedmodel-creator",
+    "description": "Create tensorflow savedmodel creator operations. Auto-activating skill for ML Deployment.\nTriggers on: tensorflow savedmodel creator, tensorflow savedmodel creator\nPart of the ML Deployment skill category. Use when working with tensorflow savedmodel creator functionality. Trigger with phrases like \"tensorflow savedmodel creator\", \"tensorflow creator\", \"tensorflow\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/tensorflow-savedmodel-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-tensorflow-serving-setup",
+    "name": "tensorflow-serving-setup",
+    "description": "Configure tensorflow serving setup operations. Auto-activating skill for ML Deployment.\nTriggers on: tensorflow serving setup, tensorflow serving setup\nPart of the ML Deployment skill category. Use when working with tensorflow serving setup functionality. Trigger with phrases like \"tensorflow serving setup\", \"tensorflow setup\", \"tensorflow\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/tensorflow-serving-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-torchscript-exporter",
+    "name": "torchscript-exporter",
+    "description": "Export torchscript exporter operations. Auto-activating skill for ML Deployment.\nTriggers on: torchscript exporter, torchscript exporter\nPart of the ML Deployment skill category. Use when working with torchscript exporter functionality. Trigger with phrases like \"torchscript exporter\", \"torchscript exporter\", \"torchscript\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/torchscript-exporter"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-torchserve-config-generator",
+    "name": "torchserve-config-generator",
+    "description": "Generate torchserve config generator operations. Auto-activating skill for ML Deployment.\nTriggers on: torchserve config generator, torchserve config generator\nPart of the ML Deployment skill category. Use when configuring systems or services. Trigger with phrases like \"torchserve config generator\", \"torchserve generator\", \"torchserve\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/torchserve-config-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-triton-inference-config",
+    "name": "triton-inference-config",
+    "description": "Configure triton inference config operations. Auto-activating skill for ML Deployment.\nTriggers on: triton inference config, triton inference config\nPart of the ML Deployment skill category. Use when configuring systems or services. Trigger with phrases like \"triton inference config\", \"triton config\", \"triton\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/triton-inference-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-vertex-ai-deployer",
+    "name": "vertex-ai-deployer",
+    "description": "Deploy vertex ai deployer operations. Auto-activating skill for ML Deployment.\nTriggers on: vertex ai deployer, vertex ai deployer\nPart of the ML Deployment skill category. Use when deploying applications or services. Trigger with phrases like \"vertex ai deployer\", \"vertex deployer\", \"deploy vertex ai er\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/vertex-ai-deployer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-airflow-dag-generator",
+    "name": "airflow-dag-generator",
+    "description": "Generate airflow dag generator operations. Auto-activating skill for Data Pipelines.\nTriggers on: airflow dag generator, airflow dag generator\nPart of the Data Pipelines skill category. Use when working with airflow dag generator functionality. Trigger with phrases like \"airflow dag generator\", \"airflow generator\", \"airflow\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/airflow-dag-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-airflow-operator-creator",
+    "name": "airflow-operator-creator",
+    "description": "Create airflow operator creator operations. Auto-activating skill for Data Pipelines.\nTriggers on: airflow operator creator, airflow operator creator\nPart of the Data Pipelines skill category. Use when working with airflow operator creator functionality. Trigger with phrases like \"airflow operator creator\", \"airflow creator\", \"airflow\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/airflow-operator-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-beam-pipeline-builder",
+    "name": "beam-pipeline-builder",
+    "description": "Build beam pipeline builder operations. Auto-activating skill for Data Pipelines.\nTriggers on: beam pipeline builder, beam pipeline builder\nPart of the Data Pipelines skill category. Use when working with beam pipeline builder functionality. Trigger with phrases like \"beam pipeline builder\", \"beam builder\", \"beam\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/beam-pipeline-builder"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cdc-pipeline-creator",
+    "name": "cdc-pipeline-creator",
+    "description": "Create cdc pipeline creator operations. Auto-activating skill for Data Pipelines.\nTriggers on: cdc pipeline creator, cdc pipeline creator\nPart of the Data Pipelines skill category. Use when working with cdc pipeline creator functionality. Trigger with phrases like \"cdc pipeline creator\", \"cdc creator\", \"cdc\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/cdc-pipeline-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-compression-optimizer",
+    "name": "compression-optimizer",
+    "description": "Optimize compression optimizer operations. Auto-activating skill for Data Pipelines.\nTriggers on: compression optimizer, compression optimizer\nPart of the Data Pipelines skill category. Use when working with compression optimizer functionality. Trigger with phrases like \"compression optimizer\", \"compression optimizer\", \"compression\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/compression-optimizer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-dagster-pipeline-creator",
+    "name": "dagster-pipeline-creator",
+    "description": "Create dagster pipeline creator operations. Auto-activating skill for Data Pipelines.\nTriggers on: dagster pipeline creator, dagster pipeline creator\nPart of the Data Pipelines skill category. Use when working with dagster pipeline creator functionality. Trigger with phrases like \"dagster pipeline creator\", \"dagster creator\", \"dagster\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/dagster-pipeline-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-data-catalog-updater",
+    "name": "data-catalog-updater",
+    "description": "Process data catalog updater operations. Auto-activating skill for Data Pipelines.\nTriggers on: data catalog updater, data catalog updater\nPart of the Data Pipelines skill category. Use when working with data catalog updater functionality. Trigger with phrases like \"data catalog updater\", \"data updater\", \"data\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/data-catalog-updater"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-data-lineage-tracker",
+    "name": "data-lineage-tracker",
+    "description": "Track data lineage tracker operations. Auto-activating skill for Data Pipelines.\nTriggers on: data lineage tracker, data lineage tracker\nPart of the Data Pipelines skill category. Use when working with data lineage tracker functionality. Trigger with phrases like \"data lineage tracker\", \"data tracker\", \"data\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/data-lineage-tracker"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-data-partitioner",
+    "name": "data-partitioner",
+    "description": "Process data partitioner operations. Auto-activating skill for Data Pipelines.\nTriggers on: data partitioner, data partitioner\nPart of the Data Pipelines skill category. Use when working with data partitioner functionality. Trigger with phrases like \"data partitioner\", \"data partitioner\", \"data\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/data-partitioner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-data-quality-checker",
+    "name": "data-quality-checker",
+    "description": "Validate data quality checker operations. Auto-activating skill for Data Pipelines.\nTriggers on: data quality checker, data quality checker\nPart of the Data Pipelines skill category. Use when working with data quality checker functionality. Trigger with phrases like \"data quality checker\", \"data checker\", \"data\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/data-quality-checker"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-dbt-model-generator",
+    "name": "dbt-model-generator",
+    "description": "Generate dbt model generator operations. Auto-activating skill for Data Pipelines.\nTriggers on: dbt model generator, dbt model generator\nPart of the Data Pipelines skill category. Use when working with dbt model generator functionality. Trigger with phrases like \"dbt model generator\", \"dbt generator\", \"dbt\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/dbt-model-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-dbt-test-creator",
+    "name": "dbt-test-creator",
+    "description": "Create dbt test creator operations. Auto-activating skill for Data Pipelines.\nTriggers on: dbt test creator, dbt test creator\nPart of the Data Pipelines skill category. Use when writing or running tests. Trigger with phrases like \"dbt test creator\", \"dbt creator\", \"dbt\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/dbt-test-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-file-format-converter",
+    "name": "file-format-converter",
+    "description": "Convert file format converter operations. Auto-activating skill for Data Pipelines.\nTriggers on: file format converter, file format converter\nPart of the Data Pipelines skill category. Use when working with file format converter functionality. Trigger with phrases like \"file format converter\", \"file converter\", \"file\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/file-format-converter"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-flink-job-creator",
+    "name": "flink-job-creator",
+    "description": "Create flink job creator operations. Auto-activating skill for Data Pipelines.\nTriggers on: flink job creator, flink job creator\nPart of the Data Pipelines skill category. Use when working with flink job creator functionality. Trigger with phrases like \"flink job creator\", \"flink creator\", \"flink\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/flink-job-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-incremental-load-setup",
+    "name": "incremental-load-setup",
+    "description": "Configure incremental load setup operations. Auto-activating skill for Data Pipelines.\nTriggers on: incremental load setup, incremental load setup\nPart of the Data Pipelines skill category. Use when working with incremental load setup functionality. Trigger with phrases like \"incremental load setup\", \"incremental setup\", \"incremental\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/incremental-load-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-kafka-stream-processor",
+    "name": "kafka-stream-processor",
+    "description": "Process kafka stream processor operations. Auto-activating skill for Data Pipelines.\nTriggers on: kafka stream processor, kafka stream processor\nPart of the Data Pipelines skill category. Use when working with kafka stream processor functionality. Trigger with phrases like \"kafka stream processor\", \"kafka processor\", \"kafka\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/kafka-stream-processor"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-luigi-task-generator",
+    "name": "luigi-task-generator",
+    "description": "Generate luigi task generator operations. Auto-activating skill for Data Pipelines.\nTriggers on: luigi task generator, luigi task generator\nPart of the Data Pipelines skill category. Use when working with luigi task generator functionality. Trigger with phrases like \"luigi task generator\", \"luigi generator\", \"luigi\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/luigi-task-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-metadata-extractor",
+    "name": "metadata-extractor",
+    "description": "Process metadata extractor operations. Auto-activating skill for Data Pipelines.\nTriggers on: metadata extractor, metadata extractor\nPart of the Data Pipelines skill category. Use when working with metadata extractor functionality. Trigger with phrases like \"metadata extractor\", \"metadata extractor\", \"metadata\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/metadata-extractor"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pipeline-monitoring-setup",
+    "name": "pipeline-monitoring-setup",
+    "description": "Configure pipeline monitoring setup operations. Auto-activating skill for Data Pipelines.\nTriggers on: pipeline monitoring setup, pipeline monitoring setup\nPart of the Data Pipelines skill category. Use when monitoring systems or services. Trigger with phrases like \"pipeline monitoring setup\", \"pipeline setup\", \"pipeline\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/pipeline-monitoring-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-prefect-flow-builder",
+    "name": "prefect-flow-builder",
+    "description": "Build prefect flow builder operations. Auto-activating skill for Data Pipelines.\nTriggers on: prefect flow builder, prefect flow builder\nPart of the Data Pipelines skill category. Use when working with prefect flow builder functionality. Trigger with phrases like \"prefect flow builder\", \"prefect builder\", \"prefect\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/prefect-flow-builder"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pyspark-transformer",
+    "name": "pyspark-transformer",
+    "description": "Transform pyspark transformer operations. Auto-activating skill for Data Pipelines.\nTriggers on: pyspark transformer, pyspark transformer\nPart of the Data Pipelines skill category. Use when working with pyspark transformer functionality. Trigger with phrases like \"pyspark transformer\", \"pyspark transformer\", \"pyspark\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/pyspark-transformer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-schema-validator",
+    "name": "schema-validator",
+    "description": "Validate schema validator operations. Auto-activating skill for Data Pipelines.\nTriggers on: schema validator, schema validator\nPart of the Data Pipelines skill category. Use when working with schema validator functionality. Trigger with phrases like \"schema validator\", \"schema validator\", \"schema\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/schema-validator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-spark-job-creator",
+    "name": "spark-job-creator",
+    "description": "Create spark job creator operations. Auto-activating skill for Data Pipelines.\nTriggers on: spark job creator, spark job creator\nPart of the Data Pipelines skill category. Use when working with spark job creator functionality. Trigger with phrases like \"spark job creator\", \"spark creator\", \"spark\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/spark-job-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-spark-sql-optimizer",
+    "name": "spark-sql-optimizer",
+    "description": "Optimize spark sql optimizer operations. Auto-activating skill for Data Pipelines.\nTriggers on: spark sql optimizer, spark sql optimizer\nPart of the Data Pipelines skill category. Use when working with spark sql optimizer functionality. Trigger with phrases like \"spark sql optimizer\", \"spark optimizer\", \"spark\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/spark-sql-optimizer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sql-transform-helper",
+    "name": "sql-transform-helper",
+    "description": "Assist with sql transform helper operations. Auto-activating skill for Data Pipelines.\nTriggers on: sql transform helper, sql transform helper\nPart of the Data Pipelines skill category. Use when working with sql transform helper functionality. Trigger with phrases like \"sql transform helper\", \"sql helper\", \"sql\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/sql-transform-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-ab-test-analyzer",
+    "name": "ab-test-analyzer",
+    "description": "Analyze ab test analyzer operations. Auto-activating skill for Data Analytics.\nTriggers on: ab test analyzer, ab test analyzer\nPart of the Data Analytics skill category. Use when writing or running tests. Trigger with phrases like \"ab test analyzer\", \"ab analyzer\", \"analyze ab test r\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/ab-test-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-aggregation-helper",
+    "name": "aggregation-helper",
+    "description": "Configure with aggregation helper operations. Auto-activating skill for Data Analytics.\nTriggers on: aggregation helper, aggregation helper\nPart of the Data Analytics skill category. Use when working with aggregation helper functionality. Trigger with phrases like \"aggregation helper\", \"aggregation helper\", \"aggregation\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/aggregation-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-anomaly-detector",
+    "name": "anomaly-detector",
+    "description": "Detect anomaly detector operations. Auto-activating skill for Data Analytics.\nTriggers on: anomaly detector, anomaly detector\nPart of the Data Analytics skill category. Use when working with anomaly detector functionality. Trigger with phrases like \"anomaly detector\", \"anomaly detector\", \"anomaly\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/anomaly-detector"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-chart-type-recommender",
+    "name": "chart-type-recommender",
+    "description": "Manage chart type recommender operations. Auto-activating skill for Data Analytics.\nTriggers on: chart type recommender, chart type recommender\nPart of the Data Analytics skill category. Use when working with chart type recommender functionality. Trigger with phrases like \"chart type recommender\", \"chart recommender\", \"chart\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/chart-type-recommender"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-churn-analysis-helper",
+    "name": "churn-analysis-helper",
+    "description": "Configure with churn analysis helper operations. Auto-activating skill for Data Analytics.\nTriggers on: churn analysis helper, churn analysis helper\nPart of the Data Analytics skill category. Use when working with churn analysis helper functionality. Trigger with phrases like \"churn analysis helper\", \"churn helper\", \"churn\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/churn-analysis-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cohort-analysis-creator",
+    "name": "cohort-analysis-creator",
+    "description": "Create cohort analysis creator operations. Auto-activating skill for Data Analytics.\nTriggers on: cohort analysis creator, cohort analysis creator\nPart of the Data Analytics skill category. Use when working with cohort analysis creator functionality. Trigger with phrases like \"cohort analysis creator\", \"cohort creator\", \"cohort\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/cohort-analysis-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-complex-join-helper",
+    "name": "complex-join-helper",
+    "description": "Configure with complex join helper operations. Auto-activating skill for Data Analytics.\nTriggers on: complex join helper, complex join helper\nPart of the Data Analytics skill category. Use when working with complex join helper functionality. Trigger with phrases like \"complex join helper\", \"complex helper\", \"complex\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/complex-join-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-correlation-analyzer",
+    "name": "correlation-analyzer",
+    "description": "Analyze correlation analyzer operations. Auto-activating skill for Data Analytics.\nTriggers on: correlation analyzer, correlation analyzer\nPart of the Data Analytics skill category. Use when analyzing or auditing correlation analyzer. Trigger with phrases like \"correlation analyzer\", \"correlation analyzer\", \"analyze correlation r\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/correlation-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cte-query-builder",
+    "name": "cte-query-builder",
+    "description": "Build cte query builder operations. Auto-activating skill for Data Analytics.\nTriggers on: cte query builder, cte query builder\nPart of the Data Analytics skill category. Use when working with cte query builder functionality. Trigger with phrases like \"cte query builder\", \"cte builder\", \"cte\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/cte-query-builder"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-dashboard-layout-planner",
+    "name": "dashboard-layout-planner",
+    "description": "Configure dashboard layout planner operations. Auto-activating skill for Data Analytics.\nTriggers on: dashboard layout planner, dashboard layout planner\nPart of the Data Analytics skill category. Use when working with dashboard layout planner functionality. Trigger with phrases like \"dashboard layout planner\", \"dashboard planner\", \"dashboard\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/dashboard-layout-planner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-data-story-outliner",
+    "name": "data-story-outliner",
+    "description": "Process data story outliner operations. Auto-activating skill for Data Analytics.\nTriggers on: data story outliner, data story outliner\nPart of the Data Analytics skill category. Use when working with data story outliner functionality. Trigger with phrases like \"data story outliner\", \"data outliner\", \"data\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/data-story-outliner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-date-range-analyzer",
+    "name": "date-range-analyzer",
+    "description": "Analyze date range analyzer operations. Auto-activating skill for Data Analytics.\nTriggers on: date range analyzer, date range analyzer\nPart of the Data Analytics skill category. Use when analyzing or auditing date range analyzer. Trigger with phrases like \"date range analyzer\", \"date analyzer\", \"analyze date range r\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/date-range-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-forecast-generator",
+    "name": "forecast-generator",
+    "description": "Generate forecast generator operations. Auto-activating skill for Data Analytics.\nTriggers on: forecast generator, forecast generator\nPart of the Data Analytics skill category. Use when working with forecast generator functionality. Trigger with phrases like \"forecast generator\", \"forecast generator\", \"forecast\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/forecast-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-funnel-analysis-builder",
+    "name": "funnel-analysis-builder",
+    "description": "Build funnel analysis builder operations. Auto-activating skill for Data Analytics.\nTriggers on: funnel analysis builder, funnel analysis builder\nPart of the Data Analytics skill category. Use when working with funnel analysis builder functionality. Trigger with phrases like \"funnel analysis builder\", \"funnel builder\", \"funnel\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/funnel-analysis-builder"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-kpi-definition-helper",
+    "name": "kpi-definition-helper",
+    "description": "Configure with kpi definition helper operations. Auto-activating skill for Data Analytics.\nTriggers on: kpi definition helper, kpi definition helper\nPart of the Data Analytics skill category. Use when working with kpi definition helper functionality. Trigger with phrases like \"kpi definition helper\", \"kpi helper\", \"kpi\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/kpi-definition-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-metric-calculator",
+    "name": "metric-calculator",
+    "description": "Configure and manage - Calculate metric calculator operations. Auto-activating skill for Data Analytics.\nTriggers on: metric calculator, metric calculator\nPart of the Data Analytics skill category. Use when working with metric calculator functionality. Trigger with phrases like \"metric calculator\", \"metric calculator\", \"metric\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/metric-calculator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pivot-table-creator",
+    "name": "pivot-table-creator",
+    "description": "Create pivot table creator operations. Auto-activating skill for Data Analytics.\nTriggers on: pivot table creator, pivot table creator\nPart of the Data Analytics skill category. Use when working with pivot table creator functionality. Trigger with phrases like \"pivot table creator\", \"pivot creator\", \"pivot\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/pivot-table-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-regression-analysis-helper",
+    "name": "regression-analysis-helper",
+    "description": "Configure with regression analysis helper operations. Auto-activating skill for Data Analytics.\nTriggers on: regression analysis helper, regression analysis helper\nPart of the Data Analytics skill category. Use when working with regression analysis helper functionality. Trigger with phrases like \"regression analysis helper\", \"regression helper\", \"regression\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/regression-analysis-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-report-template-generator",
+    "name": "report-template-generator",
+    "description": "Generate report template generator operations. Auto-activating skill for Data Analytics.\nTriggers on: report template generator, report template generator\nPart of the Data Analytics skill category. Use when working with report template generator functionality. Trigger with phrases like \"report template generator\", \"report generator\", \"report\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/report-template-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-retention-calculator",
+    "name": "retention-calculator",
+    "description": "Configure and manage - Calculate retention calculator operations. Auto-activating skill for Data Analytics.\nTriggers on: retention calculator, retention calculator\nPart of the Data Analytics skill category. Use when working with retention calculator functionality. Trigger with phrases like \"retention calculator\", \"retention calculator\", \"retention\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/retention-calculator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sql-query-optimizer",
+    "name": "sql-query-optimizer",
+    "description": "Optimize sql query optimizer operations. Auto-activating skill for Data Analytics.\nTriggers on: sql query optimizer, sql query optimizer\nPart of the Data Analytics skill category. Use when working with sql query optimizer functionality. Trigger with phrases like \"sql query optimizer\", \"sql optimizer\", \"sql\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/sql-query-optimizer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-statistical-significance-calculator",
+    "name": "statistical-significance-calculator",
+    "description": "Configure and manage - Calculate statistical significance calculator operations. Auto-activating skill for Data Analytics.\nTriggers on: statistical significance calculator, statistical significance calculator\nPart of the Data Analytics skill category. Use when working with statistical significance calculator functionality. Trigger with phrases like \"statistical significance calculator\", \"statistical calculator\", \"statistical\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/statistical-significance-calculator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-time-series-decomposer",
+    "name": "time-series-decomposer",
+    "description": "Manage time series decomposer operations. Auto-activating skill for Data Analytics.\nTriggers on: time series decomposer, time series decomposer\nPart of the Data Analytics skill category. Use when working with time series decomposer functionality. Trigger with phrases like \"time series decomposer\", \"time decomposer\", \"time\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/time-series-decomposer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-visualization-best-practices",
+    "name": "visualization-best-practices",
+    "description": "Manage visualization best practices operations. Auto-activating skill for Data Analytics.\nTriggers on: visualization best practices, visualization best practices\nPart of the Data Analytics skill category. Use when working with visualization best practices functionality. Trigger with phrases like \"visualization best practices\", \"visualization practices\", \"visualization\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/visualization-best-practices"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-window-function-generator",
+    "name": "window-function-generator",
+    "description": "Generate window function generator operations. Auto-activating skill for Data Analytics.\nTriggers on: window function generator, window function generator\nPart of the Data Analytics skill category. Use when working with window function generator functionality. Trigger with phrases like \"window function generator\", \"window generator\", \"window\".\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/window-function-generator"
   }
 ]
