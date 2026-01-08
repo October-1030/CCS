@@ -43,7 +43,8 @@ async function addAnthropicSkills() {
   const indexData = JSON.parse(readFileSync(indexPath, "utf-8"));
   const fullData = JSON.parse(readFileSync(fullPath, "utf-8"));
 
-  const existingIds = new Set(indexData.skills.map((s: any) => s.id));
+  // Check if skill exists in fullData (not just index)
+  const existingIds = new Set(Object.keys(fullData));
 
   // Ensure fullData is an object (not an array)
   if (Array.isArray(fullData)) {
