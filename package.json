@@ -1,0 +1,42 @@
+{
+  "name": "skills-marketplace",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "sync": "tsx scripts/sync-skills.ts",
+    "sync:full": "tsx scripts/sync-skills.ts --full",
+    "sync:test": "tsx scripts/sync-skills-limited.ts",
+    "build:index": "tsx scripts/build-index.ts",
+    "validate": "tsx scripts/validate-data.ts"
+  },
+  "dependencies": {
+    "@octokit/rest": "^21.0.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "fuse.js": "^7.0.0",
+    "gray-matter": "^4.0.3",
+    "lucide-react": "^0.468.0",
+    "next": "^15.1.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^2.6.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.0.1",
+    "dotenv": "^17.2.3",
+    "eslint": "^9",
+    "eslint-config-next": "^15.1.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,63 @@
+name: Sync Skills Data
+
+on:
+  # Run every 6 hours
+  schedule:
+    - cron: '0 */6 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      full_sync:
+        description: 'Perform full sync (reset all data)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run sync script
+        env:
+          GITHUB_TOKEN: ${{ secrets.SYNC_GITHUB_TOKEN }}
+        run: |
+          if [ "${{ github.event.inputs.full_sync }}" == "true" ]; then
+            npm run sync:full
+          else
+            npm run sync
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Skills Sync Bot"
+          git config user.email "bot@skillsmarketplace.com"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || \
+          git commit -m "chore: sync skills data $(date +'%Y-%m-%d %H:%M')"
+          git push
+        continue-on-error: true
+
+      - name: Upload sync artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sync-logs
+          path: |
+            data/metadata/stats.json
+          retention-days: 7

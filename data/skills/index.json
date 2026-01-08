@@ -1,0 +1,382 @@
+{
+  "version": "1.0.0",
+  "lastSync": "2026-01-08T05:26:40.784Z",
+  "totalSkills": 27,
+  "skills": [
+    {
+      "id": "junayedahmedd-gemini-cli-skill",
+      "name": "gemini-cli",
+      "description": "Wield Google's Gemini CLI as a powerful auxiliary tool for code generation, review, analysis, and web research. Use when tasks benefit from a second AI perspective, current web information via Google Search, codebase architecture analysis, or parallel code generation. Also use when user explicitly requests Gemini operations.",
+      "category": "tools",
+      "tags": [
+        "ai-agent",
+        "ai-tools",
+        "anthropic",
+        "caching",
+        "claude-code",
+        "claude-skills",
+        "claude-skills-creator",
+        "codex",
+        "codex-cli",
+        "gemini"
+      ],
+      "stars": 2,
+      "updatedAt": "2026-01-07T23:15:48Z",
+      "repoUrl": "https://github.com/Junayedahmedd/gemini_cli_skill"
+    },
+    {
+      "id": "moido1092-algo-sensei",
+      "name": "algo-sensei",
+      "description": "Your personal DSA & LeetCode mentor. Use for problem explanations, progressive hints, code reviews, mock interviews, pattern recognition, complexity analysis, and custom problem generation. Automatically adapts to your learning style and request type.",
+      "category": "tools",
+      "tags": [
+        "ai",
+        "ai-tutor",
+        "assistant",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-skills",
+        "coding-interview",
+        "coding-interviews",
+        "competitive-programming"
+      ],
+      "stars": 1,
+      "updatedAt": "2026-01-07T23:02:35Z",
+      "repoUrl": "https://github.com/moido1092/algo-sensei"
+    },
+    {
+      "id": "maryanohit549-wiggle-claude-skill",
+      "name": "wiggle",
+      "description": "Create animated logo files (Lottie JSON, GIF, MP4) from static logo images. This skill should be used when users provide a logo image (PNG/SVG/JPG) and request any kind of logo animation, motion graphics, animated logo effect, waveform animation, bouncing logo, rotating logo, pulsing logo, wiggling logo, or ask to \"animate my logo\" or \"make my logo move\". Outputs standalone animation files (not React/HTML artifacts). Generates Lottie JSON with automatic GIF/MP4 rendering, perfect loop validation, and professional motion design patterns.",
+      "category": "development",
+      "tags": [
+        "ai",
+        "animation",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-desktop",
+        "claude-skills",
+        "logo",
+        "lottie",
+        "lottie-animation"
+      ],
+      "stars": 2,
+      "updatedAt": "2026-01-07T23:01:11Z",
+      "repoUrl": "https://github.com/Maryanohit549/wiggle-claude-skill"
+    },
+    {
+      "id": "bayramannakov-claude-reflect",
+      "name": "claude-reflect",
+      "description": "Self-learning system that captures corrections during sessions and reminds users to run /reflect to update CLAUDE.md. Use when discussing learnings, corrections, or when the user mentions remembering something for future sessions.",
+      "category": "tools",
+      "tags": [
+        "claude-code",
+        "claude-skills",
+        "memory",
+        "productivity",
+        "self-learning",
+        "corrections",
+        "sessions",
+        "when",
+        "self",
+        "learning"
+      ],
+      "stars": 265,
+      "updatedAt": "2026-01-07T23:46:34Z",
+      "repoUrl": "https://github.com/BayramAnnakov/claude-reflect"
+    },
+    {
+      "id": "ait88-claude-workflow-toolkit",
+      "name": "claude-workflow-toolkit",
+      "description": "Reusable workflow optimization toolkit for Claude Code agents.",
+      "category": "tools",
+      "tags": [
+        "agentic-workflow",
+        "claude-code",
+        "claude-skills",
+        "gh-cli",
+        "token-optimization",
+        "reusable",
+        "workflow",
+        "optimization",
+        "toolkit",
+        "claude"
+      ],
+      "stars": 1,
+      "updatedAt": "2026-01-07T02:14:55Z",
+      "repoUrl": "https://github.com/ait88/claude-workflow-toolkit"
+    },
+    {
+      "id": "santiago-afonso-codex-sandbox-preflight",
+      "name": "codex-sandbox-preflight",
+      "description": "Use at the start of a Codex session (especially sandboxed) to run `scripts/codex-sandbox-preflight.sh` and interpret network + writable_roots constraints.",
+      "category": "development",
+      "tags": [
+        "claude-skills",
+        "codex",
+        "skills",
+        "start",
+        "session",
+        "especially",
+        "sandboxed"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-06T15:04:26Z",
+      "repoUrl": "https://github.com/santiago-afonso/codex-sandbox-preflight"
+    },
+    {
+      "id": "blacktop-ipsw-skill",
+      "name": "ipsw",
+      "description": "Apple firmware and binary reverse engineering with the ipsw CLI tool. Use when analyzing iOS/macOS binaries, disassembling functions in dyld_shared_cache, dumping Objective-C headers from private frameworks, downloading IPSWs or kernelcaches, extracting entitlements, analyzing Mach-O files, or researching Apple security. Triggers on requests involving Apple RE, iOS internals, kernel analysis, KEXT extraction, or vulnerability research on Apple platforms.",
+      "category": "tools",
+      "tags": [
+        "apple",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "ipsw",
+        "reverse-engineering",
+        "skill",
+        "vulnerability-research",
+        "analyzing",
+        "firmware"
+      ],
+      "stars": 30,
+      "updatedAt": "2026-01-05T03:48:38Z",
+      "repoUrl": "https://github.com/blacktop/ipsw-skill"
+    },
+    {
+      "id": "jjmartres-reachy-mini-sdk-skill",
+      "name": "reachy-mini-sdk",
+      "description": "Programming guide for Reachy Mini robot using Python SDK v1.2.6 and REST API. Use when controlling Reachy Mini robots, programming movements (head/antennas/body), accessing sensors (camera/microphone/IMU), recording motions, building AI applications, deploying to Hugging Face, or using the daemon REST API. Covers SDK patterns, coordinate systems, interpolation methods, app management, and OpenAPI client generation.",
+      "category": "development",
+      "tags": [
+        "agentskills",
+        "claude-code",
+        "claude-skills",
+        "programming",
+        "reachy",
+        "mini",
+        "using",
+        "rest"
+      ],
+      "stars": 3,
+      "updatedAt": "2026-01-06T20:29:23Z",
+      "repoUrl": "https://github.com/jjmartres/reachy-mini-sdk-skill"
+    },
+    {
+      "id": "texmeijin-video-to-gif-skill",
+      "name": "video-to-gif",
+      "description": "Convert multiple video files (MOV/MP4) into a single merged GIF with customizable speed per segment.\nUse this skill when users want to:\n- Merge multiple videos into one GIF\n- Create demo GIFs from screen recordings\n- Combine video clips with different playback speeds\n- Convert videos to optimized GIFs with compression\nTriggers: \"create GIF from videos\", \"merge videos to GIF\", \"convert MOV to GIF\", \"combine videos into animated GIF\"\n",
+      "category": "development",
+      "tags": [
+        "claude-code-skill",
+        "claude-skills",
+        "videos",
+        "convert",
+        "into",
+        "with",
+        "multiple"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-04T09:01:47Z",
+      "repoUrl": "https://github.com/TeXmeijin/video-to-gif-skill"
+    },
+    {
+      "id": "finelagusaz-proofread-ja",
+      "name": "proofread-ja",
+      "description": "日本語テキストの誤字脱字チェック、表記揺れの検出と修正。小説、技術文書、ブログ記事などで使用。ユーザーが「誤字脱字をチェック」「表記の揺れを確認」「校正して」などと依頼した時、または文書の品質向上が必要な時に使用。",
+      "category": "development",
+      "tags": [
+        "claude-code-skill",
+        "claude-skills"
+      ],
+      "stars": 1,
+      "updatedAt": "2026-01-03T09:12:17Z",
+      "repoUrl": "https://github.com/finelagusaz/proofread-ja"
+    },
+    {
+      "id": "abra5umente-radarr-skill",
+      "name": "radarr",
+      "description": "Manage movies via Radarr - search, add, monitor downloads, check wanted list. Use when user asks about movies to download, checking download queue, adding films to library, or managing their Radarr instance. Triggers on mentions of Radarr, movie downloads, adding movies, download queue, wanted movies.",
+      "category": "data-ai",
+      "tags": [
+        "ai",
+        "claude",
+        "claude-skills",
+        "claude-skills-library",
+        "homelab",
+        "radarr",
+        "movies",
+        "download",
+        "downloads",
+        "wanted"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-02T05:30:14Z",
+      "repoUrl": "https://github.com/abra5umente/radarr-skill"
+    },
+    {
+      "id": "anthropics-skills-algorithmic-art",
+      "name": "algorithmic-art",
+      "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/algorithmic-art"
+    },
+    {
+      "id": "anthropics-skills-brand-guidelines",
+      "name": "brand-guidelines",
+      "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines"
+    },
+    {
+      "id": "anthropics-skills-canvas-design",
+      "name": "canvas-design",
+      "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/canvas-design"
+    },
+    {
+      "id": "anthropics-skills-doc-coauthoring",
+      "name": "doc-coauthoring",
+      "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring"
+    },
+    {
+      "id": "anthropics-skills-docx",
+      "name": "docx",
+      "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/docx"
+    },
+    {
+      "id": "anthropics-skills-frontend-design",
+      "name": "frontend-design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/frontend-design"
+    },
+    {
+      "id": "anthropics-skills-internal-comms",
+      "name": "internal-comms",
+      "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/internal-comms"
+    },
+    {
+      "id": "anthropics-skills-mcp-builder",
+      "name": "mcp-builder",
+      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder"
+    },
+    {
+      "id": "anthropics-skills-pdf",
+      "name": "pdf",
+      "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/pdf"
+    },
+    {
+      "id": "anthropics-skills-pptx",
+      "name": "pptx",
+      "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/pptx"
+    },
+    {
+      "id": "anthropics-skills-skill-creator",
+      "name": "skill-creator",
+      "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/skill-creator"
+    },
+    {
+      "id": "anthropics-skills-slack-gif-creator",
+      "name": "slack-gif-creator",
+      "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator"
+    },
+    {
+      "id": "anthropics-skills-theme-factory",
+      "name": "theme-factory",
+      "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/theme-factory"
+    },
+    {
+      "id": "anthropics-skills-web-artifacts-builder",
+      "name": "web-artifacts-builder",
+      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder"
+    },
+    {
+      "id": "anthropics-skills-webapp-testing",
+      "name": "webapp-testing",
+      "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing"
+    },
+    {
+      "id": "anthropics-skills-xlsx",
+      "name": "xlsx",
+      "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+      "category": "official",
+      "tags": [],
+      "stars": 35350,
+      "updatedAt": "2026-01-08T05:23:05Z",
+      "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/xlsx"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "abra5umente-radarr-skill",
+    "name": "radarr",
+    "description": "Manage movies via Radarr - search, add, monitor downloads, check wanted list. Use when user asks about movies to download, checking download queue, adding films to library, or managing their Radarr instance. Triggers on mentions of Radarr, movie downloads, adding movies, download queue, wanted movies.",
+    "category": "data-ai",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-skills",
+      "claude-skills-library",
+      "homelab",
+      "radarr",
+      "movies",
+      "download",
+      "downloads",
+      "wanted"
+    ],
+    "stars": 0,
+    "updatedAt": "2026-01-02T05:30:14Z",
+    "repoUrl": "https://github.com/abra5umente/radarr-skill"
+  }
+]

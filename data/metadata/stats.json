@@ -1,0 +1,224 @@
+{
+  "totalSkills": 11,
+  "byCategory": {
+    "tools": 5,
+    "development": 5,
+    "data-ai": 1
+  },
+  "topTags": [
+    {
+      "tag": "claude-skills",
+      "count": 11
+    },
+    {
+      "tag": "claude-code",
+      "count": 7
+    },
+    {
+      "tag": "claude",
+      "count": 4
+    },
+    {
+      "tag": "codex",
+      "count": 3
+    },
+    {
+      "tag": "ai",
+      "count": 3
+    },
+    {
+      "tag": "claude-ai",
+      "count": 2
+    },
+    {
+      "tag": "claude-code-skill",
+      "count": 2
+    },
+    {
+      "tag": "ai-agent",
+      "count": 1
+    },
+    {
+      "tag": "ai-tools",
+      "count": 1
+    },
+    {
+      "tag": "anthropic",
+      "count": 1
+    },
+    {
+      "tag": "caching",
+      "count": 1
+    },
+    {
+      "tag": "claude-skills-creator",
+      "count": 1
+    },
+    {
+      "tag": "codex-cli",
+      "count": 1
+    },
+    {
+      "tag": "gemini",
+      "count": 1
+    },
+    {
+      "tag": "ai-tutor",
+      "count": 1
+    },
+    {
+      "tag": "assistant",
+      "count": 1
+    },
+    {
+      "tag": "coding-interview",
+      "count": 1
+    },
+    {
+      "tag": "coding-interviews",
+      "count": 1
+    },
+    {
+      "tag": "competitive-programming",
+      "count": 1
+    },
+    {
+      "tag": "animation",
+      "count": 1
+    },
+    {
+      "tag": "claude-desktop",
+      "count": 1
+    },
+    {
+      "tag": "logo",
+      "count": 1
+    },
+    {
+      "tag": "lottie",
+      "count": 1
+    },
+    {
+      "tag": "lottie-animation",
+      "count": 1
+    },
+    {
+      "tag": "memory",
+      "count": 1
+    },
+    {
+      "tag": "productivity",
+      "count": 1
+    },
+    {
+      "tag": "self-learning",
+      "count": 1
+    },
+    {
+      "tag": "corrections",
+      "count": 1
+    },
+    {
+      "tag": "sessions",
+      "count": 1
+    },
+    {
+      "tag": "when",
+      "count": 1
+    },
+    {
+      "tag": "self",
+      "count": 1
+    },
+    {
+      "tag": "learning",
+      "count": 1
+    },
+    {
+      "tag": "agentic-workflow",
+      "count": 1
+    },
+    {
+      "tag": "gh-cli",
+      "count": 1
+    },
+    {
+      "tag": "token-optimization",
+      "count": 1
+    },
+    {
+      "tag": "reusable",
+      "count": 1
+    },
+    {
+      "tag": "workflow",
+      "count": 1
+    },
+    {
+      "tag": "optimization",
+      "count": 1
+    },
+    {
+      "tag": "toolkit",
+      "count": 1
+    },
+    {
+      "tag": "skills",
+      "count": 1
+    },
+    {
+      "tag": "start",
+      "count": 1
+    },
+    {
+      "tag": "session",
+      "count": 1
+    },
+    {
+      "tag": "especially",
+      "count": 1
+    },
+    {
+      "tag": "sandboxed",
+      "count": 1
+    },
+    {
+      "tag": "apple",
+      "count": 1
+    },
+    {
+      "tag": "ipsw",
+      "count": 1
+    },
+    {
+      "tag": "reverse-engineering",
+      "count": 1
+    },
+    {
+      "tag": "skill",
+      "count": 1
+    },
+    {
+      "tag": "vulnerability-research",
+      "count": 1
+    },
+    {
+      "tag": "analyzing",
+      "count": 1
+    }
+  ],
+  "recentlyUpdated": [
+    "bayramannakov-claude-reflect",
+    "junayedahmedd-gemini-cli-skill",
+    "moido1092-algo-sensei",
+    "maryanohit549-wiggle-claude-skill",
+    "ait88-claude-workflow-toolkit",
+    "jjmartres-reachy-mini-sdk-skill",
+    "santiago-afonso-codex-sandbox-preflight",
+    "blacktop-ipsw-skill",
+    "texmeijin-video-to-gif-skill",
+    "finelagusaz-proofread-ja",
+    "abra5umente-radarr-skill"
+  ],
+  "lastSyncTime": "2026-01-08T05:05:02.886Z"
+}
