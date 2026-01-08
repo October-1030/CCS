@@ -5,7 +5,7 @@ import { Category } from "@/types/skill";
  */
 export const CATEGORIES: Category[] = [
   {
-    id: "Frontend Development",
+    id: "frontend-development",
     name: "Frontend Development",
     description: "React, Vue, Angular, UI/UX design, and modern web interfaces",
     icon: "🎨",
@@ -13,7 +13,7 @@ export const CATEGORIES: Category[] = [
     keywords: ["frontend", "ui", "react", "vue", "angular", "nextjs", "design", "web"],
   },
   {
-    id: "Backend Development",
+    id: "backend-development",
     name: "Backend Development",
     description: "APIs, databases, servers, and backend frameworks",
     icon: "⚙️",
@@ -21,7 +21,7 @@ export const CATEGORIES: Category[] = [
     keywords: ["backend", "api", "server", "database", "sql", "graphql"],
   },
   {
-    id: "AI & Data Science",
+    id: "ai-data-science",
     name: "AI & Data Science",
     description: "Machine learning, data analysis, and AI-powered tools",
     icon: "🤖",
@@ -29,7 +29,7 @@ export const CATEGORIES: Category[] = [
     keywords: ["ai", "ml", "data", "machine learning", "analytics", "data science"],
   },
   {
-    id: "DevOps & Infrastructure",
+    id: "devops-infrastructure",
     name: "DevOps & Infrastructure",
     description: "CI/CD, cloud platforms, Docker, Kubernetes, and infrastructure",
     icon: "🚀",
@@ -37,7 +37,7 @@ export const CATEGORIES: Category[] = [
     keywords: ["devops", "infrastructure", "cloud", "kubernetes", "docker", "terraform", "ci-cd"],
   },
   {
-    id: "Tools & Productivity",
+    id: "tools-productivity",
     name: "Tools & Productivity",
     description: "CLI tools, workflows, MCP servers, and productivity enhancers",
     icon: "🛠️",
@@ -45,7 +45,7 @@ export const CATEGORIES: Category[] = [
     keywords: ["tools", "productivity", "cli", "mcp", "workflow", "automation"],
   },
   {
-    id: "Testing & Quality",
+    id: "testing-quality",
     name: "Testing & Quality",
     description: "Testing frameworks, QA, debugging, and code review",
     icon: "🧪",
@@ -53,7 +53,7 @@ export const CATEGORIES: Category[] = [
     keywords: ["test", "testing", "qa", "quality", "debug", "playwright"],
   },
   {
-    id: "Business & Marketing",
+    id: "business-marketing",
     name: "Business & Marketing",
     description: "Marketing, e-commerce, product management, and business tools",
     icon: "💼",
@@ -61,7 +61,7 @@ export const CATEGORIES: Category[] = [
     keywords: ["business", "marketing", "product", "ecommerce", "shopify", "sales"],
   },
   {
-    id: "Specialized",
+    id: "specialized",
     name: "Specialized",
     description: "Security, gaming, mobile, blockchain, and niche domains",
     icon: "🎯",

@@ -1,14 +1,14 @@
 {
   "totalSkills": 205,
   "byCategory": {
-    "AI & Data Science": 22,
-    "Frontend Development": 86,
-    "Tools & Productivity": 20,
-    "Business & Marketing": 10,
-    "Testing & Quality": 8,
-    "Backend Development": 30,
-    "Specialized": 2,
-    "DevOps & Infrastructure": 27
+    "ai-data-science": 22,
+    "frontend-development": 89,
+    "tools-productivity": 20,
+    "business-marketing": 10,
+    "testing-quality": 8,
+    "backend-development": 28,
+    "specialized": 2,
+    "devops-infrastructure": 26
   },
   "topTags": [
     {
@@ -234,5 +234,5 @@
     "mrgoonie-claudekit-skills-repomix",
     "mrgoonie-claudekit-skills-sequential-thinking"
   ],
-  "lastSyncTime": "2026-01-08T20:43:45.858Z"
+  "lastSyncTime": "2026-01-08T20:49:46.873Z"
 }

@@ -6,54 +6,54 @@
 import { readFileSync, writeFileSync } from "fs";
 import { resolve } from "path";
 
-// 新的分类系统：8个主要类别
+// 新的分类系统：8个主要类别（使用 URL-friendly slug）
 const CATEGORY_MAPPING = {
   // 1. 前端开发
-  "Frontend Development": [
+  "frontend-development": [
     "frontend", "ui", "react", "vue", "angular", "nextjs", "design",
     "web-frameworks", "ui-styling", "frontend-development", "frontend-design"
   ],
 
   // 2. 后端开发
-  "Backend Development": [
+  "backend-development": [
     "backend", "api", "server", "database", "postgres", "sql",
     "backend-development", "databases", "graphql", "nestjs", "fastapi"
   ],
 
   // 3. DevOps & 基础设施
-  "DevOps & Infrastructure": [
+  "devops-infrastructure": [
     "devops", "infrastructure", "cloud", "kubernetes", "docker", "terraform",
     "deployment", "ci-cd", "sre", "monitoring", "chrome-devtools"
   ],
 
   // 4. AI & 数据科学
-  "AI & Data Science": [
+  "ai-data-science": [
     "ai", "ml", "data", "machine-learning", "data-science", "analytics",
     "data-ml", "data-ai", "ai-multimodal", "context-engineering",
     "google-adk-python", "sequential-thinking"
   ],
 
   // 5. 测试 & 质量保证
-  "Testing & Quality": [
+  "testing-quality": [
     "testing", "test", "qa", "quality", "debugging", "code-review",
     "playwright", "systematic-debugging", "verification"
   ],
 
   // 6. 工具 & 工作流
-  "Tools & Productivity": [
+  "tools-productivity": [
     "tools", "productivity", "workflow", "cli", "mcp", "skill-creator",
     "repomix", "media-processing", "mcp-builder", "mcp-management",
     "tapestry", "article-extractor", "youtube-transcript", "ship-learn-next"
   ],
 
   // 7. 商业 & 营销
-  "Business & Marketing": [
+  "business-marketing": [
     "business", "marketing", "product", "e-commerce", "shopify",
     "salesforce", "commerce", "growth", "content", "creative"
   ],
 
   // 8. 专业领域
-  "Specialized": [
+  "specialized": [
     "specialized", "security", "blockchain", "game", "mobile",
     "embedded", "wordpress", "scientific", "compliance", "documentation",
     "better-auth", "aesthetic", "mermaidjs", "docs-seeker", "knowledge"
