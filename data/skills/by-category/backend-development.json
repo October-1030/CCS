@@ -1,0 +1,282 @@
+[
+  {
+    "id": "alirezarezvani-claude-skills-aws-solution-architect",
+    "name": "aws-solution-architect",
+    "description": "Expert AWS solution architecture for startups focusing on serverless, scalable, and cost-effective cloud infrastructure with modern DevOps practices and infrastructure-as-code",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/aws-solution-architect"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-ai-multimodal",
+    "name": "ai-multimodal",
+    "description": "Process and generate multimedia content using Google Gemini API. Capabilities include analyze audio files (transcription with timestamps, summarization, speech understanding, music/sound analysis up to 9.5 hours), understand images (captioning, object detection, OCR, visual Q&A, segmentation), process videos (scene detection, Q&A, temporal analysis, YouTube URLs, up to 6 hours), extract from documents (PDF tables, forms, charts, diagrams, multi-page), generate images (text-to-image, editing, composition, refinement). Use when working with audio/video files, analyzing images or screenshots, processing PDF documents, extracting structured data from media, creating images from text prompts, or implementing multimodal AI features. Supports multiple models (Gemini 2.5/2.0) with context windows up to 2M tokens.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/ai-multimodal"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-chrome-devtools",
+    "name": "chrome-devtools",
+    "description": "Browser automation, debugging, and performance analysis using Puppeteer CLI scripts. Use for automating browsers, taking screenshots, analyzing performance, monitoring network traffic, web scraping, form automation, and JavaScript debugging.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/chrome-devtools"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-mcp-management",
+    "name": "mcp-management",
+    "description": "Manage Model Context Protocol (MCP) servers - discover, analyze, and execute tools/prompts/resources from configured MCP servers. Use when working with MCP integrations, need to discover available MCP capabilities, filter MCP tools for specific tasks, execute MCP tools programmatically, access MCP prompts/resources, or implement MCP client functionality. Supports intelligent tool selection, multi-server management, and context-efficient capability discovery.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mcp-management"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-mermaidjs-v11",
+    "name": "mermaidjs-v11",
+    "description": "Create diagrams and visualizations using Mermaid.js v11 syntax. Use when generating flowcharts, sequence diagrams, class diagrams, state diagrams, ER diagrams, Gantt charts, user journeys, timelines, architecture diagrams, or any of 24+ diagram types. Supports JavaScript API integration, CLI rendering to SVG/PNG/PDF, theming, configuration, and accessibility features. Essential for documentation, technical diagrams, project planning, system architecture, and visual communication.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mermaidjs-v11"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-background-worker-creator",
+    "name": "background-worker-creator",
+    "description": "Create background worker creator operations. Auto-activating skill for Backend Development.\nTriggers on: background worker creator, background worker creator\nPart of the Backend Development skill category. Use when working with background worker creator functionality. Trigger with phrases like \"background worker creator\", \"background creator\", \"background\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/background-worker-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cron-job-scheduler",
+    "name": "cron-job-scheduler",
+    "description": "Manage cron job scheduler operations. Auto-activating skill for Backend Development.\nTriggers on: cron job scheduler, cron job scheduler\nPart of the Backend Development skill category. Use when working with cron job scheduler functionality. Trigger with phrases like \"cron job scheduler\", \"cron scheduler\", \"cron\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/cron-job-scheduler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-django-view-generator",
+    "name": "django-view-generator",
+    "description": "Generate django view generator operations. Auto-activating skill for Backend Development.\nTriggers on: django view generator, django view generator\nPart of the Backend Development skill category. Use when working with django view generator functionality. Trigger with phrases like \"django view generator\", \"django generator\", \"django\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/django-view-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-error-handler-middleware",
+    "name": "error-handler-middleware",
+    "description": "Manage error handler middleware operations. Auto-activating skill for Backend Development.\nTriggers on: error handler middleware, error handler middleware\nPart of the Backend Development skill category. Use when working with error handler middleware functionality. Trigger with phrases like \"error handler middleware\", \"error middleware\", \"error\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/error-handler-middleware"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-express-route-generator",
+    "name": "express-route-generator",
+    "description": "Generate express route generator operations. Auto-activating skill for Backend Development.\nTriggers on: express route generator, express route generator\nPart of the Backend Development skill category. Use when working with express route generator functionality. Trigger with phrases like \"express route generator\", \"express generator\", \"express\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/express-route-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-fastify-plugin-creator",
+    "name": "fastify-plugin-creator",
+    "description": "Create fastify plugin creator operations. Auto-activating skill for Backend Development.\nTriggers on: fastify plugin creator, fastify plugin creator\nPart of the Backend Development skill category. Use when working with fastify plugin creator functionality. Trigger with phrases like \"fastify plugin creator\", \"fastify creator\", \"fastify\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/fastify-plugin-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-flask-blueprint-creator",
+    "name": "flask-blueprint-creator",
+    "description": "Create flask blueprint creator operations. Auto-activating skill for Backend Development.\nTriggers on: flask blueprint creator, flask blueprint creator\nPart of the Backend Development skill category. Use when working with flask blueprint creator functionality. Trigger with phrases like \"flask blueprint creator\", \"flask creator\", \"flask\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/flask-blueprint-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-gin-middleware-creator",
+    "name": "gin-middleware-creator",
+    "description": "Create gin middleware creator operations. Auto-activating skill for Backend Development.\nTriggers on: gin middleware creator, gin middleware creator\nPart of the Backend Development skill category. Use when working with gin middleware creator functionality. Trigger with phrases like \"gin middleware creator\", \"gin creator\", \"gin\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/gin-middleware-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-go-handler-generator",
+    "name": "go-handler-generator",
+    "description": "Generate go handler generator operations. Auto-activating skill for Backend Development.\nTriggers on: go handler generator, go handler generator\nPart of the Backend Development skill category. Use when working with go handler generator functionality. Trigger with phrases like \"go handler generator\", \"go generator\", \"go\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/go-handler-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-graphql-resolver-creator",
+    "name": "graphql-resolver-creator",
+    "description": "Create graphql resolver creator operations. Auto-activating skill for Backend Development.\nTriggers on: graphql resolver creator, graphql resolver creator\nPart of the Backend Development skill category. Use when working with graphql resolver creator functionality. Trigger with phrases like \"graphql resolver creator\", \"graphql creator\", \"graphql\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/graphql-resolver-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-grpc-service-generator",
+    "name": "grpc-service-generator",
+    "description": "Generate grpc service generator operations. Auto-activating skill for Backend Development.\nTriggers on: grpc service generator, grpc service generator\nPart of the Backend Development skill category. Use when working with grpc service generator functionality. Trigger with phrases like \"grpc service generator\", \"grpc generator\", \"grpc\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/grpc-service-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-kafka-producer-consumer",
+    "name": "kafka-producer-consumer",
+    "description": "Manage kafka producer consumer operations. Auto-activating skill for Backend Development.\nTriggers on: kafka producer consumer, kafka producer consumer\nPart of the Backend Development skill category. Use when working with kafka producer consumer functionality. Trigger with phrases like \"kafka producer consumer\", \"kafka consumer\", \"kafka\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/kafka-producer-consumer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-memcached-config-helper",
+    "name": "memcached-config-helper",
+    "description": "Configure with memcached config helper operations. Auto-activating skill for Backend Development.\nTriggers on: memcached config helper, memcached config helper\nPart of the Backend Development skill category. Use when configuring systems or services. Trigger with phrases like \"memcached config helper\", \"memcached helper\", \"memcached\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/memcached-config-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-nestjs-module-generator",
+    "name": "nestjs-module-generator",
+    "description": "Generate nestjs module generator operations. Auto-activating skill for Backend Development.\nTriggers on: nestjs module generator, nestjs module generator\nPart of the Backend Development skill category. Use when working with nestjs module generator functionality. Trigger with phrases like \"nestjs module generator\", \"nestjs generator\", \"nestjs\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/nestjs-module-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-prisma-schema-helper",
+    "name": "prisma-schema-helper",
+    "description": "Configure with prisma schema helper operations. Auto-activating skill for Backend Development.\nTriggers on: prisma schema helper, prisma schema helper\nPart of the Backend Development skill category. Use when working with prisma schema helper functionality. Trigger with phrases like \"prisma schema helper\", \"prisma helper\", \"prisma\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/prisma-schema-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-rabbitmq-queue-setup",
+    "name": "rabbitmq-queue-setup",
+    "description": "Configure rabbitmq queue setup operations. Auto-activating skill for Backend Development.\nTriggers on: rabbitmq queue setup, rabbitmq queue setup\nPart of the Backend Development skill category. Use when working with rabbitmq queue setup functionality. Trigger with phrases like \"rabbitmq queue setup\", \"rabbitmq setup\", \"rabbitmq\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/rabbitmq-queue-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-rate-limit-middleware",
+    "name": "rate-limit-middleware",
+    "description": "Manage rate limit middleware operations. Auto-activating skill for Backend Development.\nTriggers on: rate limit middleware, rate limit middleware\nPart of the Backend Development skill category. Use when working with rate limit middleware functionality. Trigger with phrases like \"rate limit middleware\", \"rate middleware\", \"rate\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/rate-limit-middleware"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-redis-cache-manager",
+    "name": "redis-cache-manager",
+    "description": "Manage redis cache manager operations. Auto-activating skill for Backend Development.\nTriggers on: redis cache manager, redis cache manager\nPart of the Backend Development skill category. Use when working with redis cache manager functionality. Trigger with phrases like \"redis cache manager\", \"redis manager\", \"redis\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/redis-cache-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-request-validator-generator",
+    "name": "request-validator-generator",
+    "description": "Generate request validator generator operations. Auto-activating skill for Backend Development.\nTriggers on: request validator generator, request validator generator\nPart of the Backend Development skill category. Use when working with request validator generator functionality. Trigger with phrases like \"request validator generator\", \"request generator\", \"request\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/request-validator-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sequelize-model-creator",
+    "name": "sequelize-model-creator",
+    "description": "Create sequelize model creator operations. Auto-activating skill for Backend Development.\nTriggers on: sequelize model creator, sequelize model creator\nPart of the Backend Development skill category. Use when working with sequelize model creator functionality. Trigger with phrases like \"sequelize model creator\", \"sequelize creator\", \"sequelize\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/sequelize-model-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sql-migration-generator",
+    "name": "sql-migration-generator",
+    "description": "Generate sql migration generator operations. Auto-activating skill for Backend Development.\nTriggers on: sql migration generator, sql migration generator\nPart of the Backend Development skill category. Use when working with sql migration generator functionality. Trigger with phrases like \"sql migration generator\", \"sql generator\", \"sql\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/sql-migration-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-typeorm-entity-generator",
+    "name": "typeorm-entity-generator",
+    "description": "Generate typeorm entity generator operations. Auto-activating skill for Backend Development.\nTriggers on: typeorm entity generator, typeorm entity generator\nPart of the Backend Development skill category. Use when working with typeorm entity generator functionality. Trigger with phrases like \"typeorm entity generator\", \"typeorm generator\", \"typeorm\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/typeorm-entity-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-websocket-handler-setup",
+    "name": "websocket-handler-setup",
+    "description": "Configure websocket handler setup operations. Auto-activating skill for Backend Development.\nTriggers on: websocket handler setup, websocket handler setup\nPart of the Backend Development skill category. Use when working with websocket handler setup functionality. Trigger with phrases like \"websocket handler setup\", \"websocket setup\", \"websocket\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/websocket-handler-setup"
+  }
+]

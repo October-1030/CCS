@@ -1,0 +1,102 @@
+[
+  {
+    "id": "anthropics-skills-docx",
+    "name": "docx",
+    "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/docx"
+  },
+  {
+    "id": "anthropics-skills-pptx",
+    "name": "pptx",
+    "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/pptx"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-content-creator",
+    "name": "content-creator",
+    "description": "Create SEO-optimized marketing content with consistent brand voice. Includes brand voice analyzer, SEO optimizer, content frameworks, and social media templates. Use when writing blog posts, creating social media content, analyzing brand voice, optimizing SEO, planning content calendars, or when user mentions content creation, brand voice, SEO optimization, social media marketing, or content strategy.",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/content-creator"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-app-store-optimization",
+    "name": "app-store-optimization",
+    "description": "Complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance on Apple App Store and Google Play Store",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/app-store-optimization"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-agile-product-owner",
+    "name": "agile-product-owner",
+    "description": "Agile product ownership toolkit for Senior Product Owner including INVEST-compliant user story generation, sprint planning, backlog management, and velocity tracking. Use for story writing, sprint planning, stakeholder communication, and agile ceremonies.",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/product-team/agile-product-owner"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-changelog-generator",
+    "name": "changelog-generator",
+    "description": "Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns hours of manual changelog writing into minutes of automated generation.",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/changelog-generator"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-invoice-organizer",
+    "name": "invoice-organizer",
+    "description": "Automatically organizes invoices and receipts for tax preparation by reading messy files, extracting key information, renaming them consistently, and sorting them into logical folders. Turns hours of manual bookkeeping into minutes of automated organization.",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-meeting-insights-analyzer",
+    "name": "meeting-insights-analyzer",
+    "description": "Analyzes meeting transcripts and recordings to uncover behavioral patterns, communication insights, and actionable feedback. Identifies when you avoid conflict, use filler words, dominate conversations, or miss opportunities to listen. Perfect for professionals seeking to improve their communication and leadership skills.",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer"
+  },
+  {
+    "id": "jeffallan-claude-skills-salesforce-developer",
+    "name": "salesforce-developer",
+    "description": "Use when developing Salesforce applications, Apex code, Lightning Web Components, SOQL queries, triggers, integrations, or CRM customizations. Invoke for governor limits, bulk processing, platform events, Salesforce DX.",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T09:49:44Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/salesforce-developer"
+  },
+  {
+    "id": "jeffallan-claude-skills-wordpress-pro",
+    "name": "wordpress-pro",
+    "description": "Use when developing WordPress themes, plugins, customizing Gutenberg blocks, implementing WooCommerce features, or optimizing WordPress performance and security.",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T09:49:44Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/wordpress-pro"
+  }
+]

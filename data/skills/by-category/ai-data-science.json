@@ -1,0 +1,267 @@
+[
+  {
+    "id": "junayedahmedd-gemini-cli-skill",
+    "name": "gemini-cli",
+    "description": "Wield Google's Gemini CLI as a powerful auxiliary tool for code generation, review, analysis, and web research. Use when tasks benefit from a second AI perspective, current web information via Google Search, codebase architecture analysis, or parallel code generation. Also use when user explicitly requests Gemini operations.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-agent",
+      "ai-tools",
+      "anthropic",
+      "caching",
+      "claude-code",
+      "claude-skills",
+      "claude-skills-creator",
+      "codex",
+      "codex-cli",
+      "gemini"
+    ],
+    "stars": 2,
+    "updatedAt": "2026-01-07T23:15:48Z",
+    "repoUrl": "https://github.com/Junayedahmedd/gemini_cli_skill"
+  },
+  {
+    "id": "moido1092-algo-sensei",
+    "name": "algo-sensei",
+    "description": "Your personal DSA & LeetCode mentor. Use for problem explanations, progressive hints, code reviews, mock interviews, pattern recognition, complexity analysis, and custom problem generation. Automatically adapts to your learning style and request type.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "ai-tutor",
+      "assistant",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "coding-interview",
+      "coding-interviews",
+      "competitive-programming"
+    ],
+    "stars": 1,
+    "updatedAt": "2026-01-07T23:02:35Z",
+    "repoUrl": "https://github.com/moido1092/algo-sensei"
+  },
+  {
+    "id": "santiago-afonso-codex-sandbox-preflight",
+    "name": "codex-sandbox-preflight",
+    "description": "Use at the start of a Codex session (especially sandboxed) to run `scripts/codex-sandbox-preflight.sh` and interpret network + writable_roots constraints.",
+    "category": "ai-data-science",
+    "tags": [
+      "claude-skills",
+      "codex",
+      "skills",
+      "start",
+      "session",
+      "especially",
+      "sandboxed"
+    ],
+    "stars": 0,
+    "updatedAt": "2026-01-06T15:04:26Z",
+    "repoUrl": "https://github.com/santiago-afonso/codex-sandbox-preflight"
+  },
+  {
+    "id": "abra5umente-radarr-skill",
+    "name": "radarr",
+    "description": "Manage movies via Radarr - search, add, monitor downloads, check wanted list. Use when user asks about movies to download, checking download queue, adding films to library, or managing their Radarr instance. Triggers on mentions of Radarr, movie downloads, adding movies, download queue, wanted movies.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-skills",
+      "claude-skills-library",
+      "homelab",
+      "radarr",
+      "movies",
+      "download",
+      "downloads",
+      "wanted"
+    ],
+    "stars": 0,
+    "updatedAt": "2026-01-02T05:30:14Z",
+    "repoUrl": "https://github.com/abra5umente/radarr-skill"
+  },
+  {
+    "id": "anthropics-skills-slack-gif-creator",
+    "name": "slack-gif-creator",
+    "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator"
+  },
+  {
+    "id": "anthropics-skills-theme-factory",
+    "name": "theme-factory",
+    "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 35374,
+    "updatedAt": "2026-01-08T06:00:29Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/theme-factory"
+  },
+  {
+    "id": "anthropics-skills-xlsx",
+    "name": "xlsx",
+    "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 35375,
+    "updatedAt": "2026-01-08T06:06:13Z",
+    "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/xlsx"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-social-media-analyzer",
+    "name": "social-media-analyzer",
+    "description": "Analyzes social media campaign performance across platforms with engagement metrics, ROI calculations, and audience insights for data-driven marketing decisions",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/social-media-analyzer"
+  },
+  {
+    "id": "1nickpappas-move-code-quality-skill",
+    "name": "move-code-quality",
+    "description": "Analyzes Move language packages against the official Move Book Code Quality Checklist. Use this skill when reviewing Move code, checking Move 2024 Edition compliance, or analyzing Move packages for best practices. Activates automatically when working with .move files or Move.toml manifests.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2025-12-29T23:14:22Z",
+    "repoUrl": "https://github.com/1NickPappas/move-code-quality-skill"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-competitive-ads-extractor",
+    "name": "competitive-ads-extractor",
+    "description": "Extracts and analyzes competitors' ads from ad libraries (Facebook, LinkedIn, etc.) to understand what messaging, problems, and creative approaches are working. Helps inspire and improve your own ad campaigns.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-developer-growth-analysis",
+    "name": "developer-growth-analysis",
+    "description": "Analyzes your recent Claude Code chat history to identify coding patterns, development gaps, and areas for improvement, curates relevant learning resources from HackerNews, and automatically sends a personalized growth report to your Slack DMs.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/developer-growth-analysis"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-domain-name-brainstormer",
+    "name": "domain-name-brainstormer",
+    "description": "Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, .ai, etc.). Saves hours of brainstorming and manual checking.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-raffle-winner-picker",
+    "name": "raffle-winner-picker",
+    "description": "Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/raffle-winner-picker"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-skill-share",
+    "name": "skill-share",
+    "description": "A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaboration and skill discovery.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-share"
+  },
+  {
+    "id": "shadowpr0-beautiful_prose",
+    "name": "beautiful-prose",
+    "description": "A hard-edged writing style contract for timeless, forceful English prose without modern AI tics. Use when users ask for prose or rewrites that must be clean, exact, concrete, and free of AI cadence, filler, or therapeutic tone.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2025-12-31T16:03:32Z",
+    "repoUrl": "https://github.com/SHADOWPR0/beautiful_prose"
+  },
+  {
+    "id": "obra-superpowers-systematic-debugging",
+    "name": "systematic-debugging",
+    "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/systematic-debugging"
+  },
+  {
+    "id": "tripleyak-skillforge",
+    "name": "skillforge",
+    "description": "Intelligent skill router and creator. Analyzes ANY input to recommend existing skills, improve them, or create new ones. Uses deep iterative analysis with 11 thinking models, regression questioning, evolution lens, and multi-agent synthesis panel. Phase 0 triage ensures you never duplicate existing functionality.",
+    "category": "ai-data-science",
+    "tags": [
+      "claude-ai",
+      "claude-code",
+      "claude-skills"
+    ],
+    "stars": 226,
+    "updatedAt": "2026-01-08T16:39:00Z",
+    "repoUrl": "https://github.com/tripleyak/SkillForge"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-google-adk-python",
+    "name": "google-adk-python",
+    "description": "",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/google-adk-python"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-media-processing",
+    "name": "media-processing",
+    "description": "Process multimedia files with FFmpeg (video/audio encoding, conversion, streaming, filtering, hardware acceleration) and ImageMagick (image manipulation, format conversion, batch processing, effects, composition). Use when converting media formats, encoding videos with specific codecs (H.264, H.265, VP9), resizing/cropping images, extracting audio from video, applying filters and effects, optimizing file sizes, creating streaming manifests (HLS/DASH), generating thumbnails, batch processing images, creating composite images, or implementing media processing pipelines. Supports 100+ formats, hardware acceleration (NVENC, QSV), and complex filtergraphs.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/media-processing"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-repomix",
+    "name": "repomix",
+    "description": "Package entire code repositories into single AI-friendly files using Repomix. Capabilities include pack codebases with customizable include/exclude patterns, generate multiple output formats (XML, Markdown, plain text), preserve file structure and context, optimize for AI consumption with token counting, filter by file types and directories, add custom headers and summaries. Use when packaging codebases for AI analysis, creating repository snapshots for LLM context, analyzing third-party libraries, preparing for security audits, generating documentation context, or evaluating unfamiliar codebases.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/repomix"
+  },
+  {
+    "id": "jeffallan-claude-skills-fine-tuning-expert",
+    "name": "fine-tuning-expert",
+    "description": "Use when fine-tuning LLMs, training custom models, or optimizing model performance for specific tasks. Invoke for parameter-efficient methods, dataset preparation, or model adaptation.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T09:49:44Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/fine-tuning-expert"
+  },
+  {
+    "id": "jeffallan-claude-skills-pandas-pro",
+    "name": "pandas-pro",
+    "description": "Use when working with pandas DataFrames, data cleaning, aggregation, merging, or time series analysis. Invoke for data manipulation, missing value handling, groupby operations, or performance optimization.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 24,
+    "updatedAt": "2026-01-08T09:49:44Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/pandas-pro"
+  }
+]

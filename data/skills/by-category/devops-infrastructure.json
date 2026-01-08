@@ -1,0 +1,272 @@
+[
+  {
+    "id": "gmickel-sheets-cli",
+    "name": "sheets-cli",
+    "description": "Read, write, and update Google Sheets data via CLI. Use when the user asks to read spreadsheet data, update cells, append rows, or work with Google Sheets. Triggers on mentions of spreadsheets, sheets, Google Sheets, tabular data in the cloud, or specific sheet names like \"Projects\" or \"Tasks\".",
+    "category": "devops-infrastructure",
+    "tags": [
+      "agent-skills",
+      "automation",
+      "bun",
+      "claude-code",
+      "cli",
+      "google-sheets",
+      "openai-codex",
+      "spreadsheet",
+      "typescript"
+    ],
+    "stars": 12,
+    "updatedAt": "2026-01-03T11:20:50Z",
+    "repoUrl": "https://github.com/gmickel/sheets-cli"
+  },
+  {
+    "id": "obra-superpowers-writing-skills",
+    "name": "writing-skills",
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/writing-skills"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-bash-script-helper",
+    "name": "bash-script-helper",
+    "description": "Configure with bash script helper operations. Auto-activating skill for DevOps Basics.\nTriggers on: bash script helper, bash script helper\nPart of the DevOps Basics skill category. Use when working with bash script helper functionality. Trigger with phrases like \"bash script helper\", \"bash helper\", \"bash\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/bash-script-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-branch-naming-helper",
+    "name": "branch-naming-helper",
+    "description": "Configure with branch naming helper operations. Auto-activating skill for DevOps Basics.\nTriggers on: branch naming helper, branch naming helper\nPart of the DevOps Basics skill category. Use when working with branch naming helper functionality. Trigger with phrases like \"branch naming helper\", \"branch helper\", \"branch\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/branch-naming-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-changelog-creator",
+    "name": "changelog-creator",
+    "description": "Create changelog creator operations. Auto-activating skill for DevOps Basics.\nTriggers on: changelog creator, changelog creator\nPart of the DevOps Basics skill category. Use when working with changelog creator functionality. Trigger with phrases like \"changelog creator\", \"changelog creator\", \"changelog\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/changelog-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-commit-message-formatter",
+    "name": "commit-message-formatter",
+    "description": "Manage commit message formatter operations. Auto-activating skill for DevOps Basics.\nTriggers on: commit message formatter, commit message formatter\nPart of the DevOps Basics skill category. Use when working with commit message formatter functionality. Trigger with phrases like \"commit message formatter\", \"commit formatter\", \"commit\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/commit-message-formatter"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-docker-compose-creator",
+    "name": "docker-compose-creator",
+    "description": "Create docker compose creator operations. Auto-activating skill for DevOps Basics.\nTriggers on: docker compose creator, docker compose creator\nPart of the DevOps Basics skill category. Use when working with docker compose creator functionality. Trigger with phrases like \"docker compose creator\", \"docker creator\", \"docker\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/docker-compose-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-docker-container-basics",
+    "name": "docker-container-basics",
+    "description": "Manage docker container basics operations. Auto-activating skill for DevOps Basics.\nTriggers on: docker container basics, docker container basics\nPart of the DevOps Basics skill category. Use when working with docker container basics functionality. Trigger with phrases like \"docker container basics\", \"docker basics\", \"docker\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/docker-container-basics"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-dockerfile-generator",
+    "name": "dockerfile-generator",
+    "description": "Generate dockerfile generator operations. Auto-activating skill for DevOps Basics.\nTriggers on: dockerfile generator, dockerfile generator\nPart of the DevOps Basics skill category. Use when working with dockerfile generator functionality. Trigger with phrases like \"dockerfile generator\", \"dockerfile generator\", \"dockerfile\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/dockerfile-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-dotenv-manager",
+    "name": "dotenv-manager",
+    "description": "Manage dotenv manager operations. Auto-activating skill for DevOps Basics.\nTriggers on: dotenv manager, dotenv manager\nPart of the DevOps Basics skill category. Use when working with dotenv manager functionality. Trigger with phrases like \"dotenv manager\", \"dotenv manager\", \"dotenv\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/dotenv-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-environment-variables-handler",
+    "name": "environment-variables-handler",
+    "description": "Manage environment variables handler operations. Auto-activating skill for DevOps Basics.\nTriggers on: environment variables handler, environment variables handler\nPart of the DevOps Basics skill category. Use when working with environment variables handler functionality. Trigger with phrases like \"environment variables handler\", \"environment handler\", \"environment\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/environment-variables-handler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-git-workflow-manager",
+    "name": "git-workflow-manager",
+    "description": "Manage git workflow manager operations. Auto-activating skill for DevOps Basics.\nTriggers on: git workflow manager, git workflow manager\nPart of the DevOps Basics skill category. Use when working with git workflow manager functionality. Trigger with phrases like \"git workflow manager\", \"git manager\", \"git\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/git-workflow-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-github-actions-starter",
+    "name": "github-actions-starter",
+    "description": "Manage github actions starter operations. Auto-activating skill for DevOps Basics.\nTriggers on: github actions starter, github actions starter\nPart of the DevOps Basics skill category. Use when working with github actions starter functionality. Trigger with phrases like \"github actions starter\", \"github starter\", \"github\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/github-actions-starter"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-gitignore-generator",
+    "name": "gitignore-generator",
+    "description": "Generate gitignore generator operations. Auto-activating skill for DevOps Basics.\nTriggers on: gitignore generator, gitignore generator\nPart of the DevOps Basics skill category. Use when working with gitignore generator functionality. Trigger with phrases like \"gitignore generator\", \"gitignore generator\", \"gitignore\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/gitignore-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-gitlab-ci-basics",
+    "name": "gitlab-ci-basics",
+    "description": "Manage gitlab ci basics operations. Auto-activating skill for DevOps Basics.\nTriggers on: gitlab ci basics, gitlab ci basics\nPart of the DevOps Basics skill category. Use when working with gitlab ci basics functionality. Trigger with phrases like \"gitlab ci basics\", \"gitlab basics\", \"gitlab\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/gitlab-ci-basics"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-jenkins-pipeline-intro",
+    "name": "jenkins-pipeline-intro",
+    "description": "Manage jenkins pipeline intro operations. Auto-activating skill for DevOps Basics.\nTriggers on: jenkins pipeline intro, jenkins pipeline intro\nPart of the DevOps Basics skill category. Use when working with jenkins pipeline intro functionality. Trigger with phrases like \"jenkins pipeline intro\", \"jenkins intro\", \"jenkins\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/jenkins-pipeline-intro"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-json-config-manager",
+    "name": "json-config-manager",
+    "description": "Manage json config manager operations. Auto-activating skill for DevOps Basics.\nTriggers on: json config manager, json config manager\nPart of the DevOps Basics skill category. Use when configuring systems or services. Trigger with phrases like \"json config manager\", \"json manager\", \"json\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/json-config-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-makefile-generator",
+    "name": "makefile-generator",
+    "description": "Generate makefile generator operations. Auto-activating skill for DevOps Basics.\nTriggers on: makefile generator, makefile generator\nPart of the DevOps Basics skill category. Use when working with makefile generator functionality. Trigger with phrases like \"makefile generator\", \"makefile generator\", \"makefile\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/makefile-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-npm-scripts-optimizer",
+    "name": "npm-scripts-optimizer",
+    "description": "Optimize npm scripts optimizer operations. Auto-activating skill for DevOps Basics.\nTriggers on: npm scripts optimizer, npm scripts optimizer\nPart of the DevOps Basics skill category. Use when working with npm scripts optimizer functionality. Trigger with phrases like \"npm scripts optimizer\", \"npm optimizer\", \"npm\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/npm-scripts-optimizer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-package-json-manager",
+    "name": "package-json-manager",
+    "description": "Manage package json manager operations. Auto-activating skill for DevOps Basics.\nTriggers on: package json manager, package json manager\nPart of the DevOps Basics skill category. Use when working with package json manager functionality. Trigger with phrases like \"package json manager\", \"package manager\", \"package\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/package-json-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pre-commit-hook-setup",
+    "name": "pre-commit-hook-setup",
+    "description": "Configure pre commit hook setup operations. Auto-activating skill for DevOps Basics.\nTriggers on: pre commit hook setup, pre commit hook setup\nPart of the DevOps Basics skill category. Use when working with pre commit hook setup functionality. Trigger with phrases like \"pre commit hook setup\", \"pre setup\", \"pre\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/pre-commit-hook-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-readme-generator",
+    "name": "readme-generator",
+    "description": "Generate readme generator operations. Auto-activating skill for DevOps Basics.\nTriggers on: readme generator, readme generator\nPart of the DevOps Basics skill category. Use when working with readme generator functionality. Trigger with phrases like \"readme generator\", \"readme generator\", \"readme\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/readme-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-release-notes-generator",
+    "name": "release-notes-generator",
+    "description": "Generate release notes generator operations. Auto-activating skill for DevOps Basics.\nTriggers on: release notes generator, release notes generator\nPart of the DevOps Basics skill category. Use when working with release notes generator functionality. Trigger with phrases like \"release notes generator\", \"release generator\", \"release\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/release-notes-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-ssh-key-manager",
+    "name": "ssh-key-manager",
+    "description": "Manage ssh key manager operations. Auto-activating skill for DevOps Basics.\nTriggers on: ssh key manager, ssh key manager\nPart of the DevOps Basics skill category. Use when working with ssh key manager functionality. Trigger with phrases like \"ssh key manager\", \"ssh manager\", \"ssh\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/ssh-key-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-version-bumper",
+    "name": "version-bumper",
+    "description": "Manage version bumper operations. Auto-activating skill for DevOps Basics.\nTriggers on: version bumper, version bumper\nPart of the DevOps Basics skill category. Use when working with version bumper functionality. Trigger with phrases like \"version bumper\", \"version bumper\", \"version\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/version-bumper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-yaml-config-validator",
+    "name": "yaml-config-validator",
+    "description": "Validate yaml config validator operations. Auto-activating skill for DevOps Basics.\nTriggers on: yaml config validator, yaml config validator\nPart of the DevOps Basics skill category. Use when configuring systems or services. Trigger with phrases like \"yaml config validator\", \"yaml validator\", \"yaml\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 918,
+    "updatedAt": "2026-01-08T17:44:17Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/yaml-config-validator"
+  }
+]

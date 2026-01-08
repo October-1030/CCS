@@ -1,0 +1,82 @@
+[
+  {
+    "id": "alirezarezvani-claude-skills-code-reviewer",
+    "name": "code-reviewer",
+    "description": "Comprehensive code review skill for TypeScript, JavaScript, Python, Swift, Kotlin, Go. Includes automated code analysis, best practice checking, security scanning, and review checklist generation. Use when reviewing pull requests, providing code feedback, identifying issues, or ensuring code quality standards.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 521,
+    "updatedAt": "2026-01-08T12:36:14Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/code-reviewer"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-content-research-writer",
+    "name": "content-research-writer",
+    "description": "Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section. Transforms your writing process from solo effort to collaborative partnership.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-image-enhancer",
+    "name": "image-enhancer",
+    "description": "Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documentation, or social media posts.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-lead-research-assistant",
+    "name": "lead-research-assistant",
+    "description": "Identifies high-quality leads for your product or service by analyzing your business, searching for target companies, and providing actionable contact strategies. Perfect for sales, business development, and marketing professionals.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/lead-research-assistant"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-video-downloader",
+    "name": "youtube-downloader",
+    "description": "Download YouTube videos with customizable quality and format options. Use this skill when the user asks to download, save, or grab YouTube videos. Supports various quality settings (best, 1080p, 720p, 480p, 360p), multiple formats (mp4, webm, mkv), and audio-only downloads as MP3.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 16338,
+    "updatedAt": "2026-01-08T18:51:42Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader"
+  },
+  {
+    "id": "obra-superpowers-test-driven-development",
+    "name": "test-driven-development",
+    "description": "Use when implementing any feature or bugfix, before writing implementation code",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/test-driven-development"
+  },
+  {
+    "id": "obra-superpowers-using-git-worktrees",
+    "name": "using-git-worktrees",
+    "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 14774,
+    "updatedAt": "2026-01-08T19:20:04Z",
+    "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees"
+  },
+  {
+    "id": "mrgoonie-claudekit-skills-docs-seeker",
+    "name": "docs-seeker",
+    "description": "Searching internet for technical documentation using llms.txt standard, GitHub repositories via Repomix, and parallel exploration. Use when user needs: (1) Latest documentation for libraries/frameworks, (2) Documentation in llms.txt format, (3) GitHub repository analysis, (4) Documentation without direct llms.txt support, (5) Multiple documentation sources in parallel",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1227,
+    "updatedAt": "2026-01-08T19:34:24Z",
+    "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/docs-seeker"
+  }
+]
