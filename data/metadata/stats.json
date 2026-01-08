@@ -1,21 +1,30 @@
 {
-  "totalSkills": 11,
+  "totalSkills": 130,
   "byCategory": {
-    "tools": 5,
-    "development": 5,
-    "data-ai": 1
+    "AI & Data Science": 22,
+    "Frontend Development": 61,
+    "Tools & Productivity": 20,
+    "Business & Marketing": 10,
+    "Testing & Quality": 8,
+    "Backend Development": 5,
+    "Specialized": 2,
+    "DevOps & Infrastructure": 2
   },
   "topTags": [
     {
       "tag": "claude-skills",
-      "count": 11
+      "count": 14
     },
     {
       "tag": "claude-code",
-      "count": 7
+      "count": 11
     },
     {
       "tag": "claude",
+      "count": 7
+    },
+    {
+      "tag": "claude-ai",
       "count": 4
     },
     {
@@ -27,7 +36,7 @@
       "count": 3
     },
     {
-      "tag": "claude-ai",
+      "tag": "skills",
       "count": 2
     },
     {
@@ -163,10 +172,6 @@
       "count": 1
     },
     {
-      "tag": "skills",
-      "count": 1
-    },
-    {
       "tag": "start",
       "count": 1
     },
@@ -208,17 +213,26 @@
     }
   ],
   "recentlyUpdated": [
-    "bayramannakov-claude-reflect",
-    "junayedahmedd-gemini-cli-skill",
-    "moido1092-algo-sensei",
-    "maryanohit549-wiggle-claude-skill",
-    "ait88-claude-workflow-toolkit",
-    "jjmartres-reachy-mini-sdk-skill",
-    "santiago-afonso-codex-sandbox-preflight",
-    "blacktop-ipsw-skill",
-    "texmeijin-video-to-gif-skill",
-    "finelagusaz-proofread-ja",
-    "abra5umente-radarr-skill"
+    "mrgoonie-claudekit-skills-aesthetic",
+    "mrgoonie-claudekit-skills-ai-multimodal",
+    "mrgoonie-claudekit-skills-backend-development",
+    "mrgoonie-claudekit-skills-better-auth",
+    "mrgoonie-claudekit-skills-chrome-devtools",
+    "mrgoonie-claudekit-skills-claude-code",
+    "mrgoonie-claudekit-skills-code-review",
+    "mrgoonie-claudekit-skills-context-engineering",
+    "mrgoonie-claudekit-skills-databases",
+    "mrgoonie-claudekit-skills-devops",
+    "mrgoonie-claudekit-skills-docs-seeker",
+    "mrgoonie-claudekit-skills-frontend-design",
+    "mrgoonie-claudekit-skills-frontend-development",
+    "mrgoonie-claudekit-skills-google-adk-python",
+    "mrgoonie-claudekit-skills-mcp-builder",
+    "mrgoonie-claudekit-skills-mcp-management",
+    "mrgoonie-claudekit-skills-media-processing",
+    "mrgoonie-claudekit-skills-mermaidjs-v11",
+    "mrgoonie-claudekit-skills-repomix",
+    "mrgoonie-claudekit-skills-sequential-thinking"
   ],
-  "lastSyncTime": "2026-01-08T05:05:02.886Z"
+  "lastSyncTime": "2026-01-08T20:36:13.459Z"
 }
