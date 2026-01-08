@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-08T14:50:31.718Z",
-  "totalSkills": 30,
+  "lastSync": "2026-01-08T14:58:58.519Z",
+  "totalSkills": 50,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -428,6 +428,206 @@
       "stars": 425,
       "updatedAt": "2026-01-08T12:05:28Z",
       "repoUrl": "https://github.com/asklokesh/claudeskill-loki-mode"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-content-creator",
+      "name": "content-creator",
+      "description": "Create SEO-optimized marketing content with consistent brand voice. Includes brand voice analyzer, SEO optimizer, content frameworks, and social media templates. Use when writing blog posts, creating social media content, analyzing brand voice, optimizing SEO, planning content calendars, or when user mentions content creation, brand voice, SEO optimization, social media marketing, or content strategy.",
+      "category": "marketing",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/content-creator"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-marketing-demand-acquisition",
+      "name": "marketing-demand-acquisition",
+      "description": "Multi-channel demand generation, paid media optimization, SEO strategy, and partnership programs for Series A+ startups. Includes CAC calculator, channel playbooks, HubSpot integration, and international expansion tactics. Use when planning demand generation campaigns, optimizing paid media, building SEO strategies, establishing partnerships, or when user mentions demand gen, paid ads, LinkedIn ads, Google ads, CAC, acquisition, lead generation, or pipeline generation.",
+      "category": "marketing",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/marketing-demand-acquisition"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-marketing-strategy-pmm",
+      "name": "marketing-strategy-pmm",
+      "description": "Product marketing, positioning, GTM strategy, and competitive intelligence. Includes ICP definition, April Dunford positioning methodology, launch playbooks, competitive battlecards, and international market entry guides. Use when developing positioning, planning product launches, creating messaging, analyzing competitors, entering new markets, enabling sales, or when user mentions product marketing, positioning, GTM, go-to-market, competitive analysis, market entry, or sales enablement.",
+      "category": "marketing",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/marketing-strategy-pmm"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-app-store-optimization",
+      "name": "app-store-optimization",
+      "description": "Complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance on Apple App Store and Google Play Store",
+      "category": "marketing",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/app-store-optimization"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-social-media-analyzer",
+      "name": "social-media-analyzer",
+      "description": "Analyzes social media campaign performance across platforms with engagement metrics, ROI calculations, and audience insights for data-driven marketing decisions",
+      "category": "marketing",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/social-media-analyzer"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-ceo-advisor",
+      "name": "ceo-advisor",
+      "description": "Executive leadership guidance for strategic decision-making, organizational development, and stakeholder management. Includes strategy analyzer, financial scenario modeling, board governance frameworks, and investor relations playbooks. Use when planning strategy, preparing board presentations, managing investors, developing organizational culture, making executive decisions, or when user mentions CEO, strategic planning, board meetings, investor updates, organizational leadership, or executive strategy.",
+      "category": "business",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/ceo-advisor"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-cto-advisor",
+      "name": "cto-advisor",
+      "description": "Technical leadership guidance for engineering teams, architecture decisions, and technology strategy. Includes tech debt analyzer, team scaling calculator, engineering metrics frameworks, technology evaluation tools, and ADR templates. Use when assessing technical debt, scaling engineering teams, evaluating technologies, making architecture decisions, establishing engineering metrics, or when user mentions CTO, tech debt, technical debt, team scaling, architecture decisions, technology evaluation, engineering metrics, DORA metrics, or technology strategy.",
+      "category": "business",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/cto-advisor"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-product-manager-toolkit",
+      "name": "product-manager-toolkit",
+      "description": "Comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, discovery frameworks, and go-to-market strategies. Use for feature prioritization, user research synthesis, requirement documentation, and product strategy development.",
+      "category": "product",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/product-team/product-manager-toolkit"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-agile-product-owner",
+      "name": "agile-product-owner",
+      "description": "Agile product ownership toolkit for Senior Product Owner including INVEST-compliant user story generation, sprint planning, backlog management, and velocity tracking. Use for story writing, sprint planning, stakeholder communication, and agile ceremonies.",
+      "category": "product",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/product-team/agile-product-owner"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-product-strategist",
+      "name": "product-strategist",
+      "description": "Strategic product leadership toolkit for Head of Product including OKR cascade generation, market analysis, vision setting, and team scaling. Use for strategic planning, goal alignment, competitive analysis, and organizational design.",
+      "category": "product",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/product-team/product-strategist"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-ux-researcher-designer",
+      "name": "ux-researcher-designer",
+      "description": "UX research and design toolkit for Senior UX Designer/Researcher including data-driven persona generation, journey mapping, usability testing frameworks, and research synthesis. Use for user research, persona creation, journey mapping, and design validation.",
+      "category": "product",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/product-team/ux-researcher-designer"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-ui-design-system",
+      "name": "ui-design-system",
+      "description": "UI design system toolkit for Senior UI Designer including design token generation, component documentation, responsive design calculations, and developer handoff tools. Use for creating design systems, maintaining visual consistency, and facilitating design-dev collaboration.",
+      "category": "product",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/product-team/ui-design-system"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-code-reviewer",
+      "name": "code-reviewer",
+      "description": "Comprehensive code review skill for TypeScript, JavaScript, Python, Swift, Kotlin, Go. Includes automated code analysis, best practice checking, security scanning, and review checklist generation. Use when reviewing pull requests, providing code feedback, identifying issues, or ensuring code quality standards.",
+      "category": "development",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/code-reviewer"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-aws-solution-architect",
+      "name": "aws-solution-architect",
+      "description": "Expert AWS solution architecture for startups focusing on serverless, scalable, and cost-effective cloud infrastructure with modern DevOps practices and infrastructure-as-code",
+      "category": "development",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/aws-solution-architect"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-ms365-tenant-manager",
+      "name": "ms365-tenant-manager",
+      "description": "Comprehensive Microsoft 365 tenant administration skill for setup, configuration, user management, security policies, and organizational structure optimization for Global Administrators",
+      "category": "development",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/ms365-tenant-manager"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-tdd-guide",
+      "name": "tdd-guide",
+      "description": "Comprehensive Test Driven Development guide for engineering subagents with multi-framework support, coverage analysis, and intelligent test generation",
+      "category": "development",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/tdd-guide"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-tech-stack-evaluator",
+      "name": "tech-stack-evaluator",
+      "description": "Comprehensive technology stack evaluation and comparison tool with TCO analysis, security assessment, and intelligent recommendations for engineering teams",
+      "category": "development",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/tech-stack-evaluator"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-senior-data-scientist",
+      "name": "senior-data-scientist",
+      "description": "World-class data science skill for statistical modeling, experimentation, causal inference, and advanced analytics. Expertise in Python (NumPy, Pandas, Scikit-learn), R, SQL, statistical methods, A/B testing, time series, and business intelligence. Includes experiment design, feature engineering, model evaluation, and stakeholder communication. Use when designing experiments, building predictive models, performing causal analysis, or driving data-driven decisions.",
+      "category": "development",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-data-scientist"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-senior-data-engineer",
+      "name": "senior-data-engineer",
+      "description": "World-class data engineering skill for building scalable data pipelines, ETL/ELT systems, and data infrastructure. Expertise in Python, SQL, Spark, Airflow, dbt, Kafka, and modern data stack. Includes data modeling, pipeline orchestration, data quality, and DataOps. Use when designing data architectures, building data pipelines, optimizing data workflows, or implementing data governance.",
+      "category": "development",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-data-engineer"
+    },
+    {
+      "id": "alirezarezvani-claude-skills-senior-prompt-engineer",
+      "name": "senior-prompt-engineer",
+      "description": "World-class prompt engineering skill for LLM optimization, prompt patterns, structured outputs, and AI product development. Expertise in Claude, GPT-4, prompt design patterns, few-shot learning, chain-of-thought, and AI evaluation. Includes RAG optimization, agent design, and LLM system architecture. Use when building AI products, optimizing LLM performance, designing agentic systems, or implementing advanced prompting techniques.",
+      "category": "development",
+      "tags": [],
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-prompt-engineer"
     }
   ]
 }
