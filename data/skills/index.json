@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-08T19:12:30.170Z",
-  "totalSkills": 73,
+  "lastSync": "2026-01-08T19:29:40.633Z",
+  "totalSkills": 91,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -891,6 +891,186 @@
       "stars": 12,
       "updatedAt": "2026-01-03T11:20:50Z",
       "repoUrl": "https://github.com/gmickel/sheets-cli"
+    },
+    {
+      "id": "obra-superpowers-test-driven-development",
+      "name": "test-driven-development",
+      "description": "Use when implementing any feature or bugfix, before writing implementation code",
+      "category": "testing",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/test-driven-development"
+    },
+    {
+      "id": "obra-superpowers-systematic-debugging",
+      "name": "systematic-debugging",
+      "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+      "category": "debugging",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/systematic-debugging"
+    },
+    {
+      "id": "obra-superpowers-verification-before-completion",
+      "name": "verification-before-completion",
+      "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+      "category": "development",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/verification-before-completion"
+    },
+    {
+      "id": "obra-superpowers-brainstorming",
+      "name": "brainstorming",
+      "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+      "category": "collaboration",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/brainstorming"
+    },
+    {
+      "id": "obra-superpowers-writing-plans",
+      "name": "writing-plans",
+      "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+      "category": "collaboration",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/writing-plans"
+    },
+    {
+      "id": "obra-superpowers-executing-plans",
+      "name": "executing-plans",
+      "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+      "category": "collaboration",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/executing-plans"
+    },
+    {
+      "id": "obra-superpowers-dispatching-parallel-agents",
+      "name": "dispatching-parallel-agents",
+      "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+      "category": "development",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents"
+    },
+    {
+      "id": "obra-superpowers-requesting-code-review",
+      "name": "requesting-code-review",
+      "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+      "category": "collaboration",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/requesting-code-review"
+    },
+    {
+      "id": "obra-superpowers-receiving-code-review",
+      "name": "receiving-code-review",
+      "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+      "category": "collaboration",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/receiving-code-review"
+    },
+    {
+      "id": "obra-superpowers-using-git-worktrees",
+      "name": "using-git-worktrees",
+      "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification",
+      "category": "development",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees"
+    },
+    {
+      "id": "obra-superpowers-finishing-a-development-branch",
+      "name": "finishing-a-development-branch",
+      "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+      "category": "development",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch"
+    },
+    {
+      "id": "obra-superpowers-subagent-driven-development",
+      "name": "subagent-driven-development",
+      "description": "Use when executing implementation plans with independent tasks in the current session",
+      "category": "development",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development"
+    },
+    {
+      "id": "obra-superpowers-writing-skills",
+      "name": "writing-skills",
+      "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+      "category": "meta",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/writing-skills"
+    },
+    {
+      "id": "obra-superpowers-using-superpowers",
+      "name": "using-superpowers",
+      "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+      "category": "meta",
+      "tags": [],
+      "stars": 14774,
+      "updatedAt": "2026-01-08T19:20:04Z",
+      "repoUrl": "https://github.com/obra/superpowers/tree/main/skills/using-superpowers"
+    },
+    {
+      "id": "michalparkola-tapestry-skills-for-claude-code-tapestry",
+      "name": "tapestry",
+      "description": "Unified content extraction and action planning. Use when user says \"tapestry <URL>\", \"weave <URL>\", \"help me plan <URL>\", \"extract and plan <URL>\", \"make this actionable <URL>\", or similar phrases indicating they want to extract content and create an action plan. Automatically detects content type (YouTube video, article, PDF) and processes accordingly.",
+      "category": "knowledge",
+      "tags": [],
+      "stars": 145,
+      "updatedAt": "2026-01-08T08:10:21Z",
+      "repoUrl": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry"
+    },
+    {
+      "id": "michalparkola-tapestry-skills-for-claude-code-youtube-transcript",
+      "name": "youtube-transcript",
+      "description": "Download YouTube video transcripts when user provides a YouTube URL or asks to download/get/fetch a transcript from YouTube. Also use when user wants to transcribe or get captions/subtitles from a YouTube video.",
+      "category": "content",
+      "tags": [],
+      "stars": 145,
+      "updatedAt": "2026-01-08T08:10:21Z",
+      "repoUrl": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript"
+    },
+    {
+      "id": "michalparkola-tapestry-skills-for-claude-code-article-extractor",
+      "name": "article-extractor",
+      "description": "Extract clean article content from URLs (blog posts, articles, tutorials) and save as readable text. Use when user wants to download, extract, or save an article/blog post from a URL without ads, navigation, or clutter.",
+      "category": "content",
+      "tags": [],
+      "stars": 145,
+      "updatedAt": "2026-01-08T08:10:21Z",
+      "repoUrl": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor"
+    },
+    {
+      "id": "michalparkola-tapestry-skills-for-claude-code-ship-learn-next",
+      "name": "ship-learn-next",
+      "description": "Transform learning content (like YouTube transcripts, articles, tutorials) into actionable implementation plans using the Ship-Learn-Next framework. Use when user wants to turn advice, lessons, or educational content into concrete action steps, reps, or a learning quest.",
+      "category": "productivity",
+      "tags": [],
+      "stars": 145,
+      "updatedAt": "2026-01-08T08:10:21Z",
+      "repoUrl": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next"
     }
   ]
 }
