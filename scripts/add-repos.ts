@@ -14,19 +14,31 @@ import matter from "gray-matter";
 config({ path: resolve(process.cwd(), ".env.local") });
 
 const REPOS_TO_ADD = [
-  // Batch 7 - Specialized skills (database, API, devops)
+  // Batch 8 - Unique categories: gaming, blockchain, mobile
 
-  // Comprehensive Skill Collections
-  "mrgoonie/claudekit-skills",                   // ClaudeKit.cc powerful skills collection
-  "istealersn-dev/claude-code-init",             // Project init toolkit
-  "timescale/pg-aiguide",                        // Postgres MCP server + skills
+  // Gaming & Creative (NEW!)
+  "Randroids-Dojo/Godot-Claude-Skills",          // Godot 4.x game engine
+  "abagames/claude-one-button-game-creation",    // One-button games
 
-  // API & Testing
-  "wrsmith108/linear-claude-skill",              // Linear + GraphQL (already tried, but retry)
+  // Blockchain/Web3 (NEW!)
+  "0xGval/evm-mcp-tools",                        // Ethereum toolkit (14⭐)
 
-  // From previous search
-  "brunoasm/my_claude_skills",
-  "mkdev-me/claude-skills",
+  // Mobile Development (NEW!)
+  "senaiverse/claude-code-reactnative-expo-agent-system",  // React Native (26⭐)
+  "conorluddy/ios-simulator-skill",              // iOS Simulator
+
+  // Testing & Quality
+  "lackeyjb/playwright-skill",                   // Playwright automation (1.2k⭐)
+
+  // Data Science
+  "treasure-data/td-skills",                     // Data science workflows
+
+  // DevOps
+  "ahmedasmar/devops-claude-skills",             // Terraform, K8s, AWS
+
+  // Collections
+  "claudebase/marketplace",                      // 24 skills + 14 agents
+  "terrylica/cc-skills",                         // Various dev skills
 ];
 
 interface SkillData {
