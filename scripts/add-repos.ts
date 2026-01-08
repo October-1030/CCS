@@ -14,16 +14,23 @@ import matter from "gray-matter";
 config({ path: resolve(process.cwd(), ".env.local") });
 
 const REPOS_TO_ADD = [
-  "obra/superpowers",
-  "obra/superpowers-skills",
-  "obra/superpowers-lab",
-  "conorluddy/ios-simulator-skill",
-  "jthack/ffuf_claude_skill",
-  "chrisvoncsefalvay/claude-d3js-skill",
-  "K-Dense-AI/claude-scientific-skills",
-  "alonw0/web-asset-generator",
-  "asklokesh/claudeskill-loki-mode",
-  "yusufkaraaslan/Skill_Seekers",
+  // New batch - from abubakarsiddik31/claude-skills-collection
+  "ryanbbrown/revealjs-skill",
+  "livelabs-ventures/nano-skills",
+  "michalparkola/tapestry-skills-for-claude-code",
+  "coffeefuelbump/csv-data-summarizer-claude-skill",
+  "sanjay3290/ai-skills",
+  "HeshamFS/materials-simulation-skills",
+  "emaynard/claude-family-history-research-skill",
+  "omkamal/pypict-claude-skill",
+  "zxkane/aws-skills",
+  "raintree-technology/claude-starter",
+  "1NickPappas/move-code-quality-skill",
+  "bluzername/claude-code-terminal-title",
+  "wrsmith108/linear-claude-skill",
+  "Valian/linear-cli-skill",
+  "mhattingpete/claude-skills-marketplace",
+  "smerchek/claude-epub-skill",
 ];
 
 interface SkillData {

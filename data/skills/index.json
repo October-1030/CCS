@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-08T14:58:58.519Z",
-  "totalSkills": 50,
+  "lastSync": "2026-01-08T18:54:00.286Z",
+  "totalSkills": 67,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -628,6 +628,182 @@
       "stars": 521,
       "updatedAt": "2026-01-08T12:36:14Z",
       "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-prompt-engineer"
+    },
+    {
+      "id": "coffeefuelbump-csv-data-summarizer-claude-skill",
+      "name": "csv-data-summarizer",
+      "description": "Analyzes CSV files, generates summary stats, and plots quick visualizations using Python and pandas.",
+      "category": "development",
+      "tags": [
+        "claude-skills"
+      ],
+      "stars": 147,
+      "updatedAt": "2026-01-08T07:04:46Z",
+      "repoUrl": "https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill"
+    },
+    {
+      "id": "emaynard-claude-family-history-research-skill",
+      "name": "family-history-planning",
+      "description": "Provides assistance with planning family history and genealogy research projects.",
+      "category": "development",
+      "tags": [
+        "claude",
+        "family-history",
+        "genealogy"
+      ],
+      "stars": 21,
+      "updatedAt": "2026-01-05T18:51:48Z",
+      "repoUrl": "https://github.com/emaynard/claude-family-history-research-skill"
+    },
+    {
+      "id": "omkamal-pypict-claude-skill",
+      "name": "pict-test-designer",
+      "description": "Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for any piece of requirements or code. Analyzes inputs, generates PICT models with parameters, values, and constraints for valid scenarios using pairwise testing. Outputs the PICT model, markdown table of test cases, and expected results.",
+      "category": "development",
+      "tags": [],
+      "stars": 24,
+      "updatedAt": "2026-01-08T01:20:47Z",
+      "repoUrl": "https://github.com/omkamal/pypict-claude-skill"
+    },
+    {
+      "id": "1nickpappas-move-code-quality-skill",
+      "name": "move-code-quality",
+      "description": "Analyzes Move language packages against the official Move Book Code Quality Checklist. Use this skill when reviewing Move code, checking Move 2024 Edition compliance, or analyzing Move packages for best practices. Activates automatically when working with .move files or Move.toml manifests.",
+      "category": "development",
+      "tags": [],
+      "stars": 8,
+      "updatedAt": "2025-12-29T23:14:22Z",
+      "repoUrl": "https://github.com/1NickPappas/move-code-quality-skill"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-changelog-generator",
+      "name": "changelog-generator",
+      "description": "Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns hours of manual changelog writing into minutes of automated generation.",
+      "category": "content",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/changelog-generator"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-competitive-ads-extractor",
+      "name": "competitive-ads-extractor",
+      "description": "Extracts and analyzes competitors' ads from ad libraries (Facebook, LinkedIn, etc.) to understand what messaging, problems, and creative approaches are working. Helps inspire and improve your own ad campaigns.",
+      "category": "marketing",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-content-research-writer",
+      "name": "content-research-writer",
+      "description": "Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section. Transforms your writing process from solo effort to collaborative partnership.",
+      "category": "content",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-developer-growth-analysis",
+      "name": "developer-growth-analysis",
+      "description": "Analyzes your recent Claude Code chat history to identify coding patterns, development gaps, and areas for improvement, curates relevant learning resources from HackerNews, and automatically sends a personalized growth report to your Slack DMs.",
+      "category": "analytics",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/developer-growth-analysis"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-domain-name-brainstormer",
+      "name": "domain-name-brainstormer",
+      "description": "Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, .ai, etc.). Saves hours of brainstorming and manual checking.",
+      "category": "tools",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-file-organizer",
+      "name": "file-organizer",
+      "description": "Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load and keeps your digital workspace tidy without manual effort.",
+      "category": "productivity",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-image-enhancer",
+      "name": "image-enhancer",
+      "description": "Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documentation, or social media posts.",
+      "category": "creative",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-invoice-organizer",
+      "name": "invoice-organizer",
+      "description": "Automatically organizes invoices and receipts for tax preparation by reading messy files, extracting key information, renaming them consistently, and sorting them into logical folders. Turns hours of manual bookkeeping into minutes of automated organization.",
+      "category": "business",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-lead-research-assistant",
+      "name": "lead-research-assistant",
+      "description": "Identifies high-quality leads for your product or service by analyzing your business, searching for target companies, and providing actionable contact strategies. Perfect for sales, business development, and marketing professionals.",
+      "category": "marketing",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/lead-research-assistant"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-meeting-insights-analyzer",
+      "name": "meeting-insights-analyzer",
+      "description": "Analyzes meeting transcripts and recordings to uncover behavioral patterns, communication insights, and actionable feedback. Identifies when you avoid conflict, use filler words, dominate conversations, or miss opportunities to listen. Perfect for professionals seeking to improve their communication and leadership skills.",
+      "category": "business",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-raffle-winner-picker",
+      "name": "raffle-winner-picker",
+      "description": "Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency.",
+      "category": "productivity",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/raffle-winner-picker"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-skill-share",
+      "name": "skill-share",
+      "description": "A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaboration and skill discovery.",
+      "category": "tools",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-share"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-video-downloader",
+      "name": "youtube-downloader",
+      "description": "Download YouTube videos with customizable quality and format options. Use this skill when the user asks to download, save, or grab YouTube videos. Supports various quality settings (best, 1080p, 720p, 480p, 360p), multiple formats (mp4, webm, mkv), and audio-only downloads as MP3.",
+      "category": "marketing",
+      "tags": [],
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader"
     }
   ]
 }
