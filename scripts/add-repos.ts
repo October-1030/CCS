@@ -14,34 +14,51 @@ import matter from "gray-matter";
 config({ path: resolve(process.cwd(), ".env.local") });
 
 const REPOS_TO_ADD = [
-  // Batch 3 - from VoltAgent & heilcheng awesome lists
-  "VoltAgent/voltagent",
-  "PleasePrompto/notebooklm-skill",
-  "scarletkc/vexor",
-  "fvadicamo/dev-agent-skills",
-  "alinaqi/claude-bootstrap",
-  "muratcankoylan/Agent-Skills-for-Context-Engineering",
-  "NotMyself/claude-win11-speckit-update-skill",
-  "jeffersonwarrior/claudisms",
-  "SHADOWPR0/security-bluebook-builder",
-  "czlonkowski/n8n-skills",
-  "wrsmith108/varlock-claude-skill",
-  "SHADOWPR0/beautiful_prose",
-  "karanb192/awesome-claude-skills",
-  "shajith003/awesome-claude-skills",
-  "GuDaStudio/skills",
-  "DougTrajano/pydantic-ai-skills",
-  "hikanner/agent-skills",
-  "gradion-ai/freeact-skills",
-  "gotalab/skillport",
-  "kylehughes/the-unofficial-swift-concurrency-migration-skill",
-  "gapmiss/obsidian-plugin-skill",
-  "frmoretto/stream-coding",
-  "SawyerHood/dev-browser",
-  "gmickel/sheets-cli",
-  "fabioc-aloha/spotify-skill",
-  "jthack/threat-hunting-with-sigma-rules-skill",
-  "jakedahn/pomodoro",
+  // Batch 4 - High quality from travisvn & BehiSecc awesome lists
+
+  // Core & Superpowers
+  "obra/superpowers",
+  "obra/superpowers-skills",
+  "obra/superpowers-lab",
+
+  // Development Tools
+  "conorluddy/ios-simulator-skill",
+  "lackeyjb/playwright-skill",
+  "chrisvoncsefalvay/claude-d3js-skill",
+  "zxkane/aws-skills",
+  "raintree-technology/claude-starter",
+  "1NickPappas/move-code-quality-skill",
+  "bluzername/claude-code-terminal-title",
+  "ivan-magda/claude-code-plugin-template",
+
+  // Data & Analysis
+  "coffeefuelbump/csv-data-summarizer-claude-skill",
+  "sanjay3290/ai-skills",
+  "omkamal/pypict-claude-skill",
+
+  // Scientific & Research
+  "K-Dense-AI/claude-scientific-skills",
+  "HeshamFS/materials-simulation-skills",
+
+  // Content & Media
+  "ryanbbrown/revealjs-skill",
+  "smerchek/claude-epub-skill",
+  "alonw0/web-asset-generator",
+
+  // Knowledge & Learning
+  "michalparkola/tapestry-skills-for-claude-code",
+  "yusufkaraaslan/Skill_Seekers",
+
+  // Collaboration & Project Management
+  "mhattingpete/claude-skills-marketplace",
+  "wrsmith108/linear-claude-skill",
+  "Valian/linear-cli-skill",
+
+  // Advanced/Multi-agent
+  "asklokesh/claudeskill-loki-mode",
+
+  // Other Quality Skills
+  "emaynard/claude-family-history-research-skill",
 ];
 
 interface SkillData {
