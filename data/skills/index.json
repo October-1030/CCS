@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-08T06:34:18.102Z",
-  "totalSkills": 27,
+  "lastSync": "2026-01-08T14:50:31.718Z",
+  "totalSkills": 30,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -377,6 +377,57 @@
       "stars": 35375,
       "updatedAt": "2026-01-08T06:06:13Z",
       "repoUrl": "https://github.com/anthropics/skills/tree/main/skills/xlsx"
+    },
+    {
+      "id": "conorluddy-ios-simulator-skill",
+      "name": "ios-simulator-skill",
+      "description": "21 production-ready scripts for iOS app testing, building, and automation. Provides semantic UI navigation, build automation, accessibility testing, and simulator lifecycle management. Optimized for AI agents with minimal token output.",
+      "category": "development",
+      "tags": [
+        "agent",
+        "agentic-ai",
+        "ai-agents",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-skills",
+        "claudecode",
+        "claudeskills",
+        "dx",
+        "ios",
+        "iossimulator",
+        "mcp",
+        "mcp-tools",
+        "python",
+        "simulator",
+        "skills",
+        "testing",
+        "tooling",
+        "xcode"
+      ],
+      "stars": 270,
+      "updatedAt": "2026-01-08T13:22:06Z",
+      "repoUrl": "https://github.com/conorluddy/ios-simulator-skill"
+    },
+    {
+      "id": "chrisvoncsefalvay-claude-d3js-skill",
+      "name": "d3-viz",
+      "description": "Creating interactive data visualisations using d3.js. This skill should be used when creating custom charts, graphs, network diagrams, geographic visualisations, or any complex SVG-based data visualisation that requires fine-grained control over visual elements, transitions, or interactions. Use this for bespoke visualisations beyond standard charting libraries, whether in React, Vue, Svelte, vanilla JavaScript, or any other environment.",
+      "category": "development",
+      "tags": [],
+      "stars": 59,
+      "updatedAt": "2026-01-07T09:50:42Z",
+      "repoUrl": "https://github.com/chrisvoncsefalvay/claude-d3js-skill"
+    },
+    {
+      "id": "asklokesh-claudeskill-loki-mode",
+      "name": "loki-mode",
+      "description": "Multi-agent autonomous startup system for Claude Code. Triggers on \"Loki Mode\". Orchestrates 100+ specialized agents across engineering, QA, DevOps, security, data/ML, business operations, marketing, HR, and customer success. Takes PRD to fully deployed, revenue-generating product with zero human intervention. Features Task tool for subagent dispatch, parallel code review with 3 specialized reviewers, severity-based issue triage, distributed task queue with dead letter handling, automatic deployment to cloud providers, A/B testing, customer feedback loops, incident response, circuit breakers, and self-healing. Handles rate limits via distributed state checkpoints and auto-resume with exponential backoff. Requires --dangerously-skip-permissions flag.",
+      "category": "development",
+      "tags": [],
+      "stars": 425,
+      "updatedAt": "2026-01-08T12:05:28Z",
+      "repoUrl": "https://github.com/asklokesh/claudeskill-loki-mode"
     }
   ]
 }
