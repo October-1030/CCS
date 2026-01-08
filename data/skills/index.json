@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-08T18:54:00.286Z",
-  "totalSkills": 67,
+  "lastSync": "2026-01-08T19:12:30.170Z",
+  "totalSkills": 73,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -804,6 +804,93 @@
       "stars": 16338,
       "updatedAt": "2026-01-08T18:51:42Z",
       "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader"
+    },
+    {
+      "id": "pleaseprompto-notebooklm-skill",
+      "name": "notebooklm",
+      "description": "Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. Browser automation, library management, persistent auth. Drastically reduced hallucinations through document-only responses.",
+      "category": "development",
+      "tags": [],
+      "stars": 1340,
+      "updatedAt": "2026-01-08T17:57:44Z",
+      "repoUrl": "https://github.com/PleasePrompto/notebooklm-skill"
+    },
+    {
+      "id": "muratcankoylan-agent-skills-for-context-engineering",
+      "name": "context-engineering-collection",
+      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+      "category": "development",
+      "tags": [],
+      "stars": 6136,
+      "updatedAt": "2026-01-08T18:40:25Z",
+      "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
+    },
+    {
+      "id": "shadowpr0-security-bluebook-builder",
+      "name": "security-bluebook-builder",
+      "description": "Create or refine a concise, normative security policy (\"Blue Book\") for sensitive applications. Use when users need a threat model, data classification rules, auth/session policy, logging and audit requirements, retention/deletion expectations, incident response, or security gates for apps handling PII/PHI/financial data.",
+      "category": "development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2025-12-31T16:03:25Z",
+      "repoUrl": "https://github.com/SHADOWPR0/security-bluebook-builder"
+    },
+    {
+      "id": "shadowpr0-beautiful_prose",
+      "name": "beautiful-prose",
+      "description": "A hard-edged writing style contract for timeless, forceful English prose without modern AI tics. Use when users ask for prose or rewrites that must be clean, exact, concrete, and free of AI cadence, filler, or therapeutic tone.",
+      "category": "development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2025-12-31T16:03:32Z",
+      "repoUrl": "https://github.com/SHADOWPR0/beautiful_prose"
+    },
+    {
+      "id": "frmoretto-stream-coding",
+      "name": "stream-coding",
+      "description": "Documentation-first development methodology. The goal is AI-ready documentation - when docs are clear enough, code generation becomes automatic. Triggers on \"Build\", \"Create\", \"Implement\", \"Document\", or \"Spec out\". Version 3.4 adds complete 13-item Clarity Gate with scoring rubric and self-assessment.",
+      "category": "development",
+      "tags": [
+        "ai-accelerated",
+        "ai-coding",
+        "ai-development",
+        "claude",
+        "claude-code",
+        "context-engineering",
+        "cursor",
+        "developer-tools",
+        "documentation-first",
+        "llm",
+        "methodology",
+        "sdd",
+        "software-engineering",
+        "specification-driven-development",
+        "technical-debt",
+        "velocity"
+      ],
+      "stars": 21,
+      "updatedAt": "2026-01-08T07:06:34Z",
+      "repoUrl": "https://github.com/frmoretto/stream-coding"
+    },
+    {
+      "id": "gmickel-sheets-cli",
+      "name": "sheets-cli",
+      "description": "Read, write, and update Google Sheets data via CLI. Use when the user asks to read spreadsheet data, update cells, append rows, or work with Google Sheets. Triggers on mentions of spreadsheets, sheets, Google Sheets, tabular data in the cloud, or specific sheet names like \"Projects\" or \"Tasks\".",
+      "category": "tools",
+      "tags": [
+        "agent-skills",
+        "automation",
+        "bun",
+        "claude-code",
+        "cli",
+        "google-sheets",
+        "openai-codex",
+        "spreadsheet",
+        "typescript"
+      ],
+      "stars": 12,
+      "updatedAt": "2026-01-03T11:20:50Z",
+      "repoUrl": "https://github.com/gmickel/sheets-cli"
     }
   ]
 }
