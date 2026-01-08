@@ -278,5 +278,495 @@
     "stars": 918,
     "updatedAt": "2026-01-08T17:44:17Z",
     "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/websocket-handler-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-caching-strategy",
+    "name": "api-caching-strategy",
+    "description": "Configure api caching strategy operations. Auto-activating skill for API Development.\nTriggers on: api caching strategy, api caching strategy\nPart of the API Development skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api caching strategy\", \"api strategy\", \"api\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/api-caching-strategy"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-key-auth-setup",
+    "name": "api-key-auth-setup",
+    "description": "Configure api key auth setup operations. Auto-activating skill for API Development.\nTriggers on: api key auth setup, api key auth setup\nPart of the API Development skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api key auth setup\", \"api setup\", \"api\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/api-key-auth-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-mock-generator",
+    "name": "api-mock-generator",
+    "description": "Generate api mock generator operations. Auto-activating skill for API Development.\nTriggers on: api mock generator, api mock generator\nPart of the API Development skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api mock generator\", \"api generator\", \"api\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/api-mock-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-rate-limiting-config",
+    "name": "api-rate-limiting-config",
+    "description": "Configure api rate limiting config operations. Auto-activating skill for API Development.\nTriggers on: api rate limiting config, api rate limiting config\nPart of the API Development skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api rate limiting config\", \"api config\", \"api\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/api-rate-limiting-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-testing-helper",
+    "name": "api-testing-helper",
+    "description": "Assist with api testing helper operations. Auto-activating skill for API Development.\nTriggers on: api testing helper, api testing helper\nPart of the API Development skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api testing helper\", \"api helper\", \"api\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/api-testing-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-throttling-setup",
+    "name": "api-throttling-setup",
+    "description": "Configure api throttling setup operations. Auto-activating skill for API Development.\nTriggers on: api throttling setup, api throttling setup\nPart of the API Development skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api throttling setup\", \"api setup\", \"api\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/api-throttling-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-bearer-token-validator",
+    "name": "bearer-token-validator",
+    "description": "Validate bearer token validator operations. Auto-activating skill for API Development.\nTriggers on: bearer token validator, bearer token validator\nPart of the API Development skill category. Use when working with bearer token validator functionality. Trigger with phrases like \"bearer token validator\", \"bearer validator\", \"bearer\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/bearer-token-validator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-conditional-request-helper",
+    "name": "conditional-request-helper",
+    "description": "Configure with conditional request helper operations. Auto-activating skill for API Development.\nTriggers on: conditional request helper, conditional request helper\nPart of the API Development skill category. Use when working with conditional request helper functionality. Trigger with phrases like \"conditional request helper\", \"conditional helper\", \"conditional\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/conditional-request-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-etag-handler",
+    "name": "etag-handler",
+    "description": "Manage etag handler operations. Auto-activating skill for API Development.\nTriggers on: etag handler, etag handler\nPart of the API Development skill category. Use when working with etag handler functionality. Trigger with phrases like \"etag handler\", \"etag handler\", \"etag\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/etag-handler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-filtering-query-builder",
+    "name": "filtering-query-builder",
+    "description": "Build filtering query builder operations. Auto-activating skill for API Development.\nTriggers on: filtering query builder, filtering query builder\nPart of the API Development skill category. Use when working with filtering query builder functionality. Trigger with phrases like \"filtering query builder\", \"filtering builder\", \"filtering\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/filtering-query-builder"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-graphql-mutation-builder",
+    "name": "graphql-mutation-builder",
+    "description": "Build graphql mutation builder operations. Auto-activating skill for API Development.\nTriggers on: graphql mutation builder, graphql mutation builder\nPart of the API Development skill category. Use when working with graphql mutation builder functionality. Trigger with phrases like \"graphql mutation builder\", \"graphql builder\", \"graphql\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/graphql-mutation-builder"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-graphql-schema-generator",
+    "name": "graphql-schema-generator",
+    "description": "Generate graphql schema generator operations. Auto-activating skill for API Development.\nTriggers on: graphql schema generator, graphql schema generator\nPart of the API Development skill category. Use when working with graphql schema generator functionality. Trigger with phrases like \"graphql schema generator\", \"graphql generator\", \"graphql\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/graphql-schema-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-graphql-subscription-setup",
+    "name": "graphql-subscription-setup",
+    "description": "Configure graphql subscription setup operations. Auto-activating skill for API Development.\nTriggers on: graphql subscription setup, graphql subscription setup\nPart of the API Development skill category. Use when working with graphql subscription setup functionality. Trigger with phrases like \"graphql subscription setup\", \"graphql setup\", \"graphql\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/graphql-subscription-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-http-method-helper",
+    "name": "http-method-helper",
+    "description": "Configure with http method helper operations. Auto-activating skill for API Development.\nTriggers on: http method helper, http method helper\nPart of the API Development skill category. Use when working with http method helper functionality. Trigger with phrases like \"http method helper\", \"http helper\", \"http\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/http-method-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-hypermedia-link-generator",
+    "name": "hypermedia-link-generator",
+    "description": "Generate hypermedia link generator operations. Auto-activating skill for API Development.\nTriggers on: hypermedia link generator, hypermedia link generator\nPart of the API Development skill category. Use when working with hypermedia link generator functionality. Trigger with phrases like \"hypermedia link generator\", \"hypermedia generator\", \"hypermedia\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/hypermedia-link-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-openapi-spec-generator",
+    "name": "openapi-spec-generator",
+    "description": "Generate openapi spec generator operations. Auto-activating skill for API Development.\nTriggers on: openapi spec generator, openapi spec generator\nPart of the API Development skill category. Use when working with APIs or building integrations. Trigger with phrases like \"openapi spec generator\", \"openapi generator\", \"openapi\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/openapi-spec-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pagination-helper",
+    "name": "pagination-helper",
+    "description": "Configure with pagination helper operations. Auto-activating skill for API Development.\nTriggers on: pagination helper, pagination helper\nPart of the API Development skill category. Use when working with pagination helper functionality. Trigger with phrases like \"pagination helper\", \"pagination helper\", \"pagination\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/pagination-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-request-body-validator",
+    "name": "request-body-validator",
+    "description": "Validate request body validator operations. Auto-activating skill for API Development.\nTriggers on: request body validator, request body validator\nPart of the API Development skill category. Use when working with request body validator functionality. Trigger with phrases like \"request body validator\", \"request validator\", \"request\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/request-body-validator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-response-schema-generator",
+    "name": "response-schema-generator",
+    "description": "Generate response schema generator operations. Auto-activating skill for API Development.\nTriggers on: response schema generator, response schema generator\nPart of the API Development skill category. Use when working with response schema generator functionality. Trigger with phrases like \"response schema generator\", \"response generator\", \"response\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/response-schema-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-rest-endpoint-designer",
+    "name": "rest-endpoint-designer",
+    "description": "Build rest endpoint designer operations. Auto-activating skill for API Development.\nTriggers on: rest endpoint designer, rest endpoint designer\nPart of the API Development skill category. Use when working with rest endpoint designer functionality. Trigger with phrases like \"rest endpoint designer\", \"rest designer\", \"rest\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/rest-endpoint-designer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sorting-parameter-handler",
+    "name": "sorting-parameter-handler",
+    "description": "Manage sorting parameter handler operations. Auto-activating skill for API Development.\nTriggers on: sorting parameter handler, sorting parameter handler\nPart of the API Development skill category. Use when working with sorting parameter handler functionality. Trigger with phrases like \"sorting parameter handler\", \"sorting handler\", \"sorting\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/sorting-parameter-handler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-status-code-recommender",
+    "name": "status-code-recommender",
+    "description": "Manage status code recommender operations. Auto-activating skill for API Development.\nTriggers on: status code recommender, status code recommender\nPart of the API Development skill category. Use when working with status code recommender functionality. Trigger with phrases like \"status code recommender\", \"status recommender\", \"status\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/status-code-recommender"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-swagger-doc-creator",
+    "name": "swagger-doc-creator",
+    "description": "Create swagger doc creator operations. Auto-activating skill for API Development.\nTriggers on: swagger doc creator, swagger doc creator\nPart of the API Development skill category. Use when working with swagger doc creator functionality. Trigger with phrases like \"swagger doc creator\", \"swagger creator\", \"swagger\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/swagger-doc-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-versioning-strategy-helper",
+    "name": "versioning-strategy-helper",
+    "description": "Configure with versioning strategy helper operations. Auto-activating skill for API Development.\nTriggers on: versioning strategy helper, versioning strategy helper\nPart of the API Development skill category. Use when working with versioning strategy helper functionality. Trigger with phrases like \"versioning strategy helper\", \"versioning helper\", \"versioning\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/versioning-strategy-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-client-generator",
+    "name": "api-client-generator",
+    "description": "Generate api client generator operations. Auto-activating skill for API Integration.\nTriggers on: api client generator, api client generator\nPart of the API Integration skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api client generator\", \"api generator\", \"api\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/api-client-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-health-checker",
+    "name": "api-health-checker",
+    "description": "Check api health checker operations. Auto-activating skill for API Integration.\nTriggers on: api health checker, api health checker\nPart of the API Integration skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api health checker\", \"api checker\", \"api\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/api-health-checker"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-response-cacher",
+    "name": "api-response-cacher",
+    "description": "Configure api response cacher operations. Auto-activating skill for API Integration.\nTriggers on: api response cacher, api response cacher\nPart of the API Integration skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api response cacher\", \"api cacher\", \"api\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/api-response-cacher"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-async-api-caller",
+    "name": "async-api-caller",
+    "description": "Configure async api caller operations. Auto-activating skill for API Integration.\nTriggers on: async api caller, async api caller\nPart of the API Integration skill category. Use when working with APIs or building integrations. Trigger with phrases like \"async api caller\", \"async caller\", \"async\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/async-api-caller"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-batch-request-handler",
+    "name": "batch-request-handler",
+    "description": "Manage batch request handler operations. Auto-activating skill for API Integration.\nTriggers on: batch request handler, batch request handler\nPart of the API Integration skill category. Use when working with batch request handler functionality. Trigger with phrases like \"batch request handler\", \"batch handler\", \"batch\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/batch-request-handler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-circuit-breaker-setup",
+    "name": "circuit-breaker-setup",
+    "description": "Configure circuit breaker setup operations. Auto-activating skill for API Integration.\nTriggers on: circuit breaker setup, circuit breaker setup\nPart of the API Integration skill category. Use when working with circuit breaker setup functionality. Trigger with phrases like \"circuit breaker setup\", \"circuit setup\", \"circuit\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/circuit-breaker-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-connection-pooling-config",
+    "name": "connection-pooling-config",
+    "description": "Configure connection pooling config operations. Auto-activating skill for API Integration.\nTriggers on: connection pooling config, connection pooling config\nPart of the API Integration skill category. Use when configuring systems or services. Trigger with phrases like \"connection pooling config\", \"connection config\", \"connection\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/connection-pooling-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-error-mapping-helper",
+    "name": "error-mapping-helper",
+    "description": "Configure with error mapping helper operations. Auto-activating skill for API Integration.\nTriggers on: error mapping helper, error mapping helper\nPart of the API Integration skill category. Use when working with error mapping helper functionality. Trigger with phrases like \"error mapping helper\", \"error helper\", \"error\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/error-mapping-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-http-client-config",
+    "name": "http-client-config",
+    "description": "Configure http client config operations. Auto-activating skill for API Integration.\nTriggers on: http client config, http client config\nPart of the API Integration skill category. Use when configuring systems or services. Trigger with phrases like \"http client config\", \"http config\", \"http\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/http-client-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-integration-test-generator",
+    "name": "integration-test-generator",
+    "description": "Generate integration test generator operations. Auto-activating skill for API Integration.\nTriggers on: integration test generator, integration test generator\nPart of the API Integration skill category. Use when writing or running tests. Trigger with phrases like \"integration test generator\", \"integration generator\", \"integration\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/integration-test-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-long-polling-handler",
+    "name": "long-polling-handler",
+    "description": "Manage long polling handler operations. Auto-activating skill for API Integration.\nTriggers on: long polling handler, long polling handler\nPart of the API Integration skill category. Use when working with long polling handler functionality. Trigger with phrases like \"long polling handler\", \"long handler\", \"long\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/long-polling-handler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-oauth-callback-handler",
+    "name": "oauth-callback-handler",
+    "description": "Manage oauth callback handler operations. Auto-activating skill for API Integration.\nTriggers on: oauth callback handler, oauth callback handler\nPart of the API Integration skill category. Use when working with oauth callback handler functionality. Trigger with phrases like \"oauth callback handler\", \"oauth handler\", \"oauth\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/oauth-callback-handler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-oauth-client-setup",
+    "name": "oauth-client-setup",
+    "description": "Configure oauth client setup operations. Auto-activating skill for API Integration.\nTriggers on: oauth client setup, oauth client setup\nPart of the API Integration skill category. Use when working with oauth client setup functionality. Trigger with phrases like \"oauth client setup\", \"oauth setup\", \"oauth\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/oauth-client-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-polling-mechanism-setup",
+    "name": "polling-mechanism-setup",
+    "description": "Configure polling mechanism setup operations. Auto-activating skill for API Integration.\nTriggers on: polling mechanism setup, polling mechanism setup\nPart of the API Integration skill category. Use when working with polling mechanism setup functionality. Trigger with phrases like \"polling mechanism setup\", \"polling setup\", \"polling\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/polling-mechanism-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-request-interceptor-creator",
+    "name": "request-interceptor-creator",
+    "description": "Create request interceptor creator operations. Auto-activating skill for API Integration.\nTriggers on: request interceptor creator, request interceptor creator\nPart of the API Integration skill category. Use when working with request interceptor creator functionality. Trigger with phrases like \"request interceptor creator\", \"request creator\", \"request\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/request-interceptor-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-response-transformer",
+    "name": "response-transformer",
+    "description": "Transform response transformer operations. Auto-activating skill for API Integration.\nTriggers on: response transformer, response transformer\nPart of the API Integration skill category. Use when working with response transformer functionality. Trigger with phrases like \"response transformer\", \"response transformer\", \"response\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/response-transformer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-retry-logic-helper",
+    "name": "retry-logic-helper",
+    "description": "Assist with retry logic helper operations. Auto-activating skill for API Integration.\nTriggers on: retry logic helper, retry logic helper\nPart of the API Integration skill category. Use when working with retry logic helper functionality. Trigger with phrases like \"retry logic helper\", \"retry helper\", \"retry\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/retry-logic-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sdk-wrapper-creator",
+    "name": "sdk-wrapper-creator",
+    "description": "Create sdk wrapper creator operations. Auto-activating skill for API Integration.\nTriggers on: sdk wrapper creator, sdk wrapper creator\nPart of the API Integration skill category. Use when working with sdk wrapper creator functionality. Trigger with phrases like \"sdk wrapper creator\", \"sdk creator\", \"sdk\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/sdk-wrapper-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-server-sent-events-setup",
+    "name": "server-sent-events-setup",
+    "description": "Configure server sent events setup operations. Auto-activating skill for API Integration.\nTriggers on: server sent events setup, server sent events setup\nPart of the API Integration skill category. Use when working with server sent events setup functionality. Trigger with phrases like \"server sent events setup\", \"server setup\", \"server\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/server-sent-events-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-timeout-handler",
+    "name": "timeout-handler",
+    "description": "Manage timeout handler operations. Auto-activating skill for API Integration.\nTriggers on: timeout handler, timeout handler\nPart of the API Integration skill category. Use when working with timeout handler functionality. Trigger with phrases like \"timeout handler\", \"timeout handler\", \"timeout\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/timeout-handler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-webhook-receiver-generator",
+    "name": "webhook-receiver-generator",
+    "description": "Generate webhook receiver generator operations. Auto-activating skill for API Integration.\nTriggers on: webhook receiver generator, webhook receiver generator\nPart of the API Integration skill category. Use when working with webhook receiver generator functionality. Trigger with phrases like \"webhook receiver generator\", \"webhook generator\", \"webhook\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/webhook-receiver-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-webhook-retry-handler",
+    "name": "webhook-retry-handler",
+    "description": "Manage webhook retry handler operations. Auto-activating skill for API Integration.\nTriggers on: webhook retry handler, webhook retry handler\nPart of the API Integration skill category. Use when working with webhook retry handler functionality. Trigger with phrases like \"webhook retry handler\", \"webhook handler\", \"webhook\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/webhook-retry-handler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-webhook-sender-creator",
+    "name": "webhook-sender-creator",
+    "description": "Create webhook sender creator operations. Auto-activating skill for API Integration.\nTriggers on: webhook sender creator, webhook sender creator\nPart of the API Integration skill category. Use when working with webhook sender creator functionality. Trigger with phrases like \"webhook sender creator\", \"webhook creator\", \"webhook\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/webhook-sender-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-webhook-signature-validator",
+    "name": "webhook-signature-validator",
+    "description": "Validate webhook signature validator operations. Auto-activating skill for API Integration.\nTriggers on: webhook signature validator, webhook signature validator\nPart of the API Integration skill category. Use when working with webhook signature validator functionality. Trigger with phrases like \"webhook signature validator\", \"webhook validator\", \"webhook\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/webhook-signature-validator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-websocket-client-creator",
+    "name": "websocket-client-creator",
+    "description": "Create websocket client creator operations. Auto-activating skill for API Integration.\nTriggers on: websocket client creator, websocket client creator\nPart of the API Integration skill category. Use when working with websocket client creator functionality. Trigger with phrases like \"websocket client creator\", \"websocket creator\", \"websocket\".\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/websocket-client-creator"
   }
 ]

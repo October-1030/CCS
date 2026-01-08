@@ -246,5 +246,485 @@
     "stars": 24,
     "updatedAt": "2026-01-08T09:49:44Z",
     "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/atlassian-mcp"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-adr-generator",
+    "name": "adr-generator",
+    "description": "Generate adr generator operations. Auto-activating skill for Technical Documentation.\nTriggers on: adr generator, adr generator\nPart of the Technical Documentation skill category. Use when working with adr generator functionality. Trigger with phrases like \"adr generator\", \"adr generator\", \"adr\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/adr-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-reference-creator",
+    "name": "api-reference-creator",
+    "description": "Create api reference creator operations. Auto-activating skill for Technical Documentation.\nTriggers on: api reference creator, api reference creator\nPart of the Technical Documentation skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api reference creator\", \"api creator\", \"api\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/api-reference-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-architecture-doc-creator",
+    "name": "architecture-doc-creator",
+    "description": "Create architecture doc creator operations. Auto-activating skill for Technical Documentation.\nTriggers on: architecture doc creator, architecture doc creator\nPart of the Technical Documentation skill category. Use when working with architecture doc creator functionality. Trigger with phrases like \"architecture doc creator\", \"architecture creator\", \"architecture\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/architecture-doc-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-changelog-generator",
+    "name": "changelog-generator",
+    "description": "Generate changelog generator operations. Auto-activating skill for Technical Documentation.\nTriggers on: changelog generator, changelog generator\nPart of the Technical Documentation skill category. Use when working with changelog generator functionality. Trigger with phrases like \"changelog generator\", \"changelog generator\", \"changelog\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/changelog-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-code-documentation-analyzer",
+    "name": "code-documentation-analyzer",
+    "description": "Analyze code documentation analyzer operations. Auto-activating skill for Technical Documentation.\nTriggers on: code documentation analyzer, code documentation analyzer\nPart of the Technical Documentation skill category. Use when analyzing or auditing code documentation analyzer. Trigger with phrases like \"code documentation analyzer\", \"code analyzer\", \"analyze code documentation r\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/code-documentation-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-code-of-conduct-generator",
+    "name": "code-of-conduct-generator",
+    "description": "Generate code of conduct generator operations. Auto-activating skill for Technical Documentation.\nTriggers on: code of conduct generator, code of conduct generator\nPart of the Technical Documentation skill category. Use when working with code of conduct generator functionality. Trigger with phrases like \"code of conduct generator\", \"code generator\", \"code\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/code-of-conduct-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-configuration-reference-generator",
+    "name": "configuration-reference-generator",
+    "description": "Generate configuration reference generator operations. Auto-activating skill for Technical Documentation.\nTriggers on: configuration reference generator, configuration reference generator\nPart of the Technical Documentation skill category. Use when configuring systems or services. Trigger with phrases like \"configuration reference generator\", \"configuration generator\", \"configuration\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/configuration-reference-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-contributing-guide-creator",
+    "name": "contributing-guide-creator",
+    "description": "Create contributing guide creator operations. Auto-activating skill for Technical Documentation.\nTriggers on: contributing guide creator, contributing guide creator\nPart of the Technical Documentation skill category. Use when working with contributing guide creator functionality. Trigger with phrases like \"contributing guide creator\", \"contributing creator\", \"contributing\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/contributing-guide-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-deprecation-notice-generator",
+    "name": "deprecation-notice-generator",
+    "description": "Generate deprecation notice generator operations. Auto-activating skill for Technical Documentation.\nTriggers on: deprecation notice generator, deprecation notice generator\nPart of the Technical Documentation skill category. Use when working with deprecation notice generator functionality. Trigger with phrases like \"deprecation notice generator\", \"deprecation generator\", \"deprecation\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/deprecation-notice-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-design-doc-template",
+    "name": "design-doc-template",
+    "description": "Build Doc Template - Auto-activating skill for Technical Documentation.\nTriggers on: design doc template, design doc template\nPart of the Technical Documentation skill category. Use when working with design doc template functionality. Trigger with phrases like \"design doc template\", \"design template\", \"design\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/design-doc-template"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-docusaurus-config-setup",
+    "name": "docusaurus-config-setup",
+    "description": "Configure docusaurus config setup operations. Auto-activating skill for Technical Documentation.\nTriggers on: docusaurus config setup, docusaurus config setup\nPart of the Technical Documentation skill category. Use when configuring systems or services. Trigger with phrases like \"docusaurus config setup\", \"docusaurus setup\", \"docusaurus\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/docusaurus-config-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-faq-generator",
+    "name": "faq-generator",
+    "description": "Generate faq generator operations. Auto-activating skill for Technical Documentation.\nTriggers on: faq generator, faq generator\nPart of the Technical Documentation skill category. Use when working with faq generator functionality. Trigger with phrases like \"faq generator\", \"faq generator\", \"faq\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/faq-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-incident-postmortem-template",
+    "name": "incident-postmortem-template",
+    "description": "Manage incident postmortem template operations. Auto-activating skill for Technical Documentation.\nTriggers on: incident postmortem template, incident postmortem template\nPart of the Technical Documentation skill category. Use when working with incident postmortem template functionality. Trigger with phrases like \"incident postmortem template\", \"incident template\", \"incident\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/incident-postmortem-template"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-installation-guide-creator",
+    "name": "installation-guide-creator",
+    "description": "Create installation guide creator operations. Auto-activating skill for Technical Documentation.\nTriggers on: installation guide creator, installation guide creator\nPart of the Technical Documentation skill category. Use when working with installation guide creator functionality. Trigger with phrases like \"installation guide creator\", \"installation creator\", \"installation\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/installation-guide-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-jsdoc-comment-generator",
+    "name": "jsdoc-comment-generator",
+    "description": "Generate jsdoc comment generator operations. Auto-activating skill for Technical Documentation.\nTriggers on: jsdoc comment generator, jsdoc comment generator\nPart of the Technical Documentation skill category. Use when working with jsdoc comment generator functionality. Trigger with phrases like \"jsdoc comment generator\", \"jsdoc generator\", \"jsdoc\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/jsdoc-comment-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-migration-guide-creator",
+    "name": "migration-guide-creator",
+    "description": "Create migration guide creator operations. Auto-activating skill for Technical Documentation.\nTriggers on: migration guide creator, migration guide creator\nPart of the Technical Documentation skill category. Use when working with migration guide creator functionality. Trigger with phrases like \"migration guide creator\", \"migration creator\", \"migration\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/migration-guide-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mkdocs-config-generator",
+    "name": "mkdocs-config-generator",
+    "description": "Generate mkdocs config generator operations. Auto-activating skill for Technical Documentation.\nTriggers on: mkdocs config generator, mkdocs config generator\nPart of the Technical Documentation skill category. Use when configuring systems or services. Trigger with phrases like \"mkdocs config generator\", \"mkdocs generator\", \"mkdocs\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/mkdocs-config-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-quickstart-guide-generator",
+    "name": "quickstart-guide-generator",
+    "description": "Generate quickstart guide generator operations. Auto-activating skill for Technical Documentation.\nTriggers on: quickstart guide generator, quickstart guide generator\nPart of the Technical Documentation skill category. Use when working with quickstart guide generator functionality. Trigger with phrases like \"quickstart guide generator\", \"quickstart generator\", \"quickstart\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/quickstart-guide-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-runbook-creator",
+    "name": "runbook-creator",
+    "description": "Create runbook creator operations. Auto-activating skill for Technical Documentation.\nTriggers on: runbook creator, runbook creator\nPart of the Technical Documentation skill category. Use when working with runbook creator functionality. Trigger with phrases like \"runbook creator\", \"runbook creator\", \"runbook\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/runbook-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sdk-documentation-generator",
+    "name": "sdk-documentation-generator",
+    "description": "Generate sdk documentation generator operations. Auto-activating skill for Technical Documentation.\nTriggers on: sdk documentation generator, sdk documentation generator\nPart of the Technical Documentation skill category. Use when working with sdk documentation generator functionality. Trigger with phrases like \"sdk documentation generator\", \"sdk generator\", \"sdk\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/sdk-documentation-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-troubleshooting-guide-creator",
+    "name": "troubleshooting-guide-creator",
+    "description": "Create troubleshooting guide creator operations. Auto-activating skill for Technical Documentation.\nTriggers on: troubleshooting guide creator, troubleshooting guide creator\nPart of the Technical Documentation skill category. Use when working with troubleshooting guide creator functionality. Trigger with phrases like \"troubleshooting guide creator\", \"troubleshooting creator\", \"troubleshooting\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/troubleshooting-guide-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-tutorial-outline-creator",
+    "name": "tutorial-outline-creator",
+    "description": "Create tutorial outline creator operations. Auto-activating skill for Technical Documentation.\nTriggers on: tutorial outline creator, tutorial outline creator\nPart of the Technical Documentation skill category. Use when working with tutorial outline creator functionality. Trigger with phrases like \"tutorial outline creator\", \"tutorial creator\", \"tutorial\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/tutorial-outline-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-vitepress-config-creator",
+    "name": "vitepress-config-creator",
+    "description": "Create vitepress config creator operations. Auto-activating skill for Technical Documentation.\nTriggers on: vitepress config creator, vitepress config creator\nPart of the Technical Documentation skill category. Use when configuring systems or services. Trigger with phrases like \"vitepress config creator\", \"vitepress creator\", \"vitepress\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/vitepress-config-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-flow-diagram-creator",
+    "name": "api-flow-diagram-creator",
+    "description": "Create api flow diagram creator operations. Auto-activating skill for Visual Content.\nTriggers on: api flow diagram creator, api flow diagram creator\nPart of the Visual Content skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api flow diagram creator\", \"api creator\", \"api\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/api-flow-diagram-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-architecture-diagram-creator",
+    "name": "architecture-diagram-creator",
+    "description": "Create architecture diagram creator operations. Auto-activating skill for Visual Content.\nTriggers on: architecture diagram creator, architecture diagram creator\nPart of the Visual Content skill category. Use when working with architecture diagram creator functionality. Trigger with phrases like \"architecture diagram creator\", \"architecture creator\", \"architecture\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/architecture-diagram-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-ascii-art-diagram-creator",
+    "name": "ascii-art-diagram-creator",
+    "description": "Create ascii art diagram creator operations. Auto-activating skill for Visual Content.\nTriggers on: ascii art diagram creator, ascii art diagram creator\nPart of the Visual Content skill category. Use when working with ascii art diagram creator functionality. Trigger with phrases like \"ascii art diagram creator\", \"ascii creator\", \"ascii\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/ascii-art-diagram-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-chart-js-config-creator",
+    "name": "chart-js-config-creator",
+    "description": "Create chart js config creator operations. Auto-activating skill for Visual Content.\nTriggers on: chart js config creator, chart js config creator\nPart of the Visual Content skill category. Use when configuring systems or services. Trigger with phrases like \"chart js config creator\", \"chart creator\", \"chart\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/chart-js-config-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-d2-diagram-creator",
+    "name": "d2-diagram-creator",
+    "description": "Create d2 diagram creator operations. Auto-activating skill for Visual Content.\nTriggers on: d2 diagram creator, d2 diagram creator\nPart of the Visual Content skill category. Use when working with d2 diagram creator functionality. Trigger with phrases like \"d2 diagram creator\", \"d2 creator\", \"d2\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/d2-diagram-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-data-visualization-helper",
+    "name": "data-visualization-helper",
+    "description": "Configure with data visualization helper operations. Auto-activating skill for Visual Content.\nTriggers on: data visualization helper, data visualization helper\nPart of the Visual Content skill category. Use when working with data visualization helper functionality. Trigger with phrases like \"data visualization helper\", \"data helper\", \"data\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/data-visualization-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-database-schema-visualizer",
+    "name": "database-schema-visualizer",
+    "description": "Generate database schema visualizer operations. Auto-activating skill for Visual Content.\nTriggers on: database schema visualizer, database schema visualizer\nPart of the Visual Content skill category. Use when working with database schema visualizer functionality. Trigger with phrases like \"database schema visualizer\", \"database visualizer\", \"database\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/database-schema-visualizer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-graphviz-dot-generator",
+    "name": "graphviz-dot-generator",
+    "description": "Generate graphviz dot generator operations. Auto-activating skill for Visual Content.\nTriggers on: graphviz dot generator, graphviz dot generator\nPart of the Visual Content skill category. Use when working with graphviz dot generator functionality. Trigger with phrases like \"graphviz dot generator\", \"graphviz generator\", \"graphviz\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/graphviz-dot-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-infographic-outline-creator",
+    "name": "infographic-outline-creator",
+    "description": "Create infographic outline creator operations. Auto-activating skill for Visual Content.\nTriggers on: infographic outline creator, infographic outline creator\nPart of the Visual Content skill category. Use when working with infographic outline creator functionality. Trigger with phrases like \"infographic outline creator\", \"infographic creator\", \"infographic\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/infographic-outline-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mermaid-class-diagram-generator",
+    "name": "mermaid-class-diagram-generator",
+    "description": "Generate mermaid class diagram generator operations. Auto-activating skill for Visual Content.\nTriggers on: mermaid class diagram generator, mermaid class diagram generator\nPart of the Visual Content skill category. Use when working with mermaid class diagram generator functionality. Trigger with phrases like \"mermaid class diagram generator\", \"mermaid generator\", \"mermaid\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/mermaid-class-diagram-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mermaid-er-diagram-creator",
+    "name": "mermaid-er-diagram-creator",
+    "description": "Create mermaid er diagram creator operations. Auto-activating skill for Visual Content.\nTriggers on: mermaid er diagram creator, mermaid er diagram creator\nPart of the Visual Content skill category. Use when working with mermaid er diagram creator functionality. Trigger with phrases like \"mermaid er diagram creator\", \"mermaid creator\", \"mermaid\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/mermaid-er-diagram-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mermaid-flowchart-generator",
+    "name": "mermaid-flowchart-generator",
+    "description": "Generate mermaid flowchart generator operations. Auto-activating skill for Visual Content.\nTriggers on: mermaid flowchart generator, mermaid flowchart generator\nPart of the Visual Content skill category. Use when working with mermaid flowchart generator functionality. Trigger with phrases like \"mermaid flowchart generator\", \"mermaid generator\", \"mermaid\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/mermaid-flowchart-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mermaid-gantt-chart-generator",
+    "name": "mermaid-gantt-chart-generator",
+    "description": "Generate mermaid gantt chart generator operations. Auto-activating skill for Visual Content.\nTriggers on: mermaid gantt chart generator, mermaid gantt chart generator\nPart of the Visual Content skill category. Use when working with mermaid gantt chart generator functionality. Trigger with phrases like \"mermaid gantt chart generator\", \"mermaid generator\", \"mermaid\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/mermaid-gantt-chart-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mermaid-sequence-diagram-creator",
+    "name": "mermaid-sequence-diagram-creator",
+    "description": "Create mermaid sequence diagram creator operations. Auto-activating skill for Visual Content.\nTriggers on: mermaid sequence diagram creator, mermaid sequence diagram creator\nPart of the Visual Content skill category. Use when working with mermaid sequence diagram creator functionality. Trigger with phrases like \"mermaid sequence diagram creator\", \"mermaid creator\", \"mermaid\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/mermaid-sequence-diagram-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mermaid-state-diagram-creator",
+    "name": "mermaid-state-diagram-creator",
+    "description": "Create mermaid state diagram creator operations. Auto-activating skill for Visual Content.\nTriggers on: mermaid state diagram creator, mermaid state diagram creator\nPart of the Visual Content skill category. Use when working with mermaid state diagram creator functionality. Trigger with phrases like \"mermaid state diagram creator\", \"mermaid creator\", \"mermaid\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/mermaid-state-diagram-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mindmap-generator",
+    "name": "mindmap-generator",
+    "description": "Generate mindmap generator operations. Auto-activating skill for Visual Content.\nTriggers on: mindmap generator, mindmap generator\nPart of the Visual Content skill category. Use when working with mindmap generator functionality. Trigger with phrases like \"mindmap generator\", \"mindmap generator\", \"mindmap\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/mindmap-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-network-diagram-generator",
+    "name": "network-diagram-generator",
+    "description": "Generate network diagram generator operations. Auto-activating skill for Visual Content.\nTriggers on: network diagram generator, network diagram generator\nPart of the Visual Content skill category. Use when working with network diagram generator functionality. Trigger with phrases like \"network diagram generator\", \"network generator\", \"network\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/network-diagram-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-org-chart-creator",
+    "name": "org-chart-creator",
+    "description": "Create org chart creator operations. Auto-activating skill for Visual Content.\nTriggers on: org chart creator, org chart creator\nPart of the Visual Content skill category. Use when working with org chart creator functionality. Trigger with phrases like \"org chart creator\", \"org creator\", \"org\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/org-chart-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-plantuml-diagram-generator",
+    "name": "plantuml-diagram-generator",
+    "description": "Generate plantuml diagram generator operations. Auto-activating skill for Visual Content.\nTriggers on: plantuml diagram generator, plantuml diagram generator\nPart of the Visual Content skill category. Use when working with plantuml diagram generator functionality. Trigger with phrases like \"plantuml diagram generator\", \"plantuml generator\", \"plantuml\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/plantuml-diagram-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-plotly-chart-generator",
+    "name": "plotly-chart-generator",
+    "description": "Generate plotly chart generator operations. Auto-activating skill for Visual Content.\nTriggers on: plotly chart generator, plotly chart generator\nPart of the Visual Content skill category. Use when working with plotly chart generator functionality. Trigger with phrases like \"plotly chart generator\", \"plotly generator\", \"plotly\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/plotly-chart-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-presentation-slide-outliner",
+    "name": "presentation-slide-outliner",
+    "description": "Manage presentation slide outliner operations. Auto-activating skill for Visual Content.\nTriggers on: presentation slide outliner, presentation slide outliner\nPart of the Visual Content skill category. Use when working with presentation slide outliner functionality. Trigger with phrases like \"presentation slide outliner\", \"presentation outliner\", \"presentation\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/presentation-slide-outliner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-process-flow-generator",
+    "name": "process-flow-generator",
+    "description": "Process Flow Generator - Auto-activating skill for Visual Content.\nTriggers on: process flow generator, process flow generator\nPart of the Visual Content skill category. Use when working with process flow generator functionality. Trigger with phrases like \"process flow generator\", \"process generator\", \"process\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/process-flow-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-svg-icon-generator",
+    "name": "svg-icon-generator",
+    "description": "Generate svg icon generator operations. Auto-activating skill for Visual Content.\nTriggers on: svg icon generator, svg icon generator\nPart of the Visual Content skill category. Use when working with svg icon generator functionality. Trigger with phrases like \"svg icon generator\", \"svg generator\", \"svg\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/svg-icon-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-technical-diagram-analyzer",
+    "name": "technical-diagram-analyzer",
+    "description": "Analyze technical diagram analyzer operations. Auto-activating skill for Visual Content.\nTriggers on: technical diagram analyzer, technical diagram analyzer\nPart of the Visual Content skill category. Use when analyzing or auditing technical diagram analyzer. Trigger with phrases like \"technical diagram analyzer\", \"technical analyzer\", \"analyze technical diagram r\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/technical-diagram-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-user-journey-mapper",
+    "name": "user-journey-mapper",
+    "description": "Manage user journey mapper operations. Auto-activating skill for Visual Content.\nTriggers on: user journey mapper, user journey mapper\nPart of the Visual Content skill category. Use when working with user journey mapper functionality. Trigger with phrases like \"user journey mapper\", \"user mapper\", \"user\".\n",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/user-journey-mapper"
   }
 ]

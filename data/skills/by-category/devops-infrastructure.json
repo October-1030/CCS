@@ -268,5 +268,755 @@
     "stars": 918,
     "updatedAt": "2026-01-08T17:44:17Z",
     "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/yaml-config-validator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-alertmanager-rules-config",
+    "name": "alertmanager-rules-config",
+    "description": "Manage alertmanager rules config operations. Auto-activating skill for DevOps Advanced.\nTriggers on: alertmanager rules config, alertmanager rules config\nPart of the DevOps Advanced skill category. Use when configuring systems or services. Trigger with phrases like \"alertmanager rules config\", \"alertmanager config\", \"alertmanager\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/alertmanager-rules-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-ansible-playbook-generator",
+    "name": "ansible-playbook-generator",
+    "description": "Generate ansible playbook generator operations. Auto-activating skill for DevOps Advanced.\nTriggers on: ansible playbook generator, ansible playbook generator\nPart of the DevOps Advanced skill category. Use when working with ansible playbook generator functionality. Trigger with phrases like \"ansible playbook generator\", \"ansible generator\", \"ansible\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/ansible-playbook-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-ansible-role-creator",
+    "name": "ansible-role-creator",
+    "description": "Create ansible role creator operations. Auto-activating skill for DevOps Advanced.\nTriggers on: ansible role creator, ansible role creator\nPart of the DevOps Advanced skill category. Use when working with ansible role creator functionality. Trigger with phrases like \"ansible role creator\", \"ansible creator\", \"ansible\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/ansible-role-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-argocd-app-deployer",
+    "name": "argocd-app-deployer",
+    "description": "Deploy argocd app deployer operations. Auto-activating skill for DevOps Advanced.\nTriggers on: argocd app deployer, argocd app deployer\nPart of the DevOps Advanced skill category. Use when deploying applications or services. Trigger with phrases like \"argocd app deployer\", \"argocd deployer\", \"deploy argocd app er\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/argocd-app-deployer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cert-manager-setup",
+    "name": "cert-manager-setup",
+    "description": "Manage cert manager setup operations. Auto-activating skill for DevOps Advanced.\nTriggers on: cert manager setup, cert manager setup\nPart of the DevOps Advanced skill category. Use when working with cert manager setup functionality. Trigger with phrases like \"cert manager setup\", \"cert setup\", \"cert\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/cert-manager-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-consul-service-discovery",
+    "name": "consul-service-discovery",
+    "description": "Manage consul service discovery operations. Auto-activating skill for DevOps Advanced.\nTriggers on: consul service discovery, consul service discovery\nPart of the DevOps Advanced skill category. Use when working with consul service discovery functionality. Trigger with phrases like \"consul service discovery\", \"consul discovery\", \"consul\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/consul-service-discovery"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-elasticsearch-index-manager",
+    "name": "elasticsearch-index-manager",
+    "description": "Manage elasticsearch index manager operations. Auto-activating skill for DevOps Advanced.\nTriggers on: elasticsearch index manager, elasticsearch index manager\nPart of the DevOps Advanced skill category. Use when working with elasticsearch index manager functionality. Trigger with phrases like \"elasticsearch index manager\", \"elasticsearch manager\", \"elasticsearch\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/elasticsearch-index-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-envoy-proxy-config",
+    "name": "envoy-proxy-config",
+    "description": "Configure envoy proxy config operations. Auto-activating skill for DevOps Advanced.\nTriggers on: envoy proxy config, envoy proxy config\nPart of the DevOps Advanced skill category. Use when configuring systems or services. Trigger with phrases like \"envoy proxy config\", \"envoy config\", \"envoy\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/envoy-proxy-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-fluentd-config-generator",
+    "name": "fluentd-config-generator",
+    "description": "Generate fluentd config generator operations. Auto-activating skill for DevOps Advanced.\nTriggers on: fluentd config generator, fluentd config generator\nPart of the DevOps Advanced skill category. Use when configuring systems or services. Trigger with phrases like \"fluentd config generator\", \"fluentd generator\", \"fluentd\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/fluentd-config-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-flux-gitops-setup",
+    "name": "flux-gitops-setup",
+    "description": "Configure flux gitops setup operations. Auto-activating skill for DevOps Advanced.\nTriggers on: flux gitops setup, flux gitops setup\nPart of the DevOps Advanced skill category. Use when working with flux gitops setup functionality. Trigger with phrases like \"flux gitops setup\", \"flux setup\", \"flux\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/flux-gitops-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-grafana-dashboard-creator",
+    "name": "grafana-dashboard-creator",
+    "description": "Create grafana dashboard creator operations. Auto-activating skill for DevOps Advanced.\nTriggers on: grafana dashboard creator, grafana dashboard creator\nPart of the DevOps Advanced skill category. Use when working with grafana dashboard creator functionality. Trigger with phrases like \"grafana dashboard creator\", \"grafana creator\", \"grafana\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/grafana-dashboard-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-helm-chart-generator",
+    "name": "helm-chart-generator",
+    "description": "Generate helm chart generator operations. Auto-activating skill for DevOps Advanced.\nTriggers on: helm chart generator, helm chart generator\nPart of the DevOps Advanced skill category. Use when working with helm chart generator functionality. Trigger with phrases like \"helm chart generator\", \"helm generator\", \"helm\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/helm-chart-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-helm-values-manager",
+    "name": "helm-values-manager",
+    "description": "Manage helm values manager operations. Auto-activating skill for DevOps Advanced.\nTriggers on: helm values manager, helm values manager\nPart of the DevOps Advanced skill category. Use when working with helm values manager functionality. Trigger with phrases like \"helm values manager\", \"helm manager\", \"helm\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/helm-values-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-istio-service-mesh-config",
+    "name": "istio-service-mesh-config",
+    "description": "Configure istio service mesh config operations. Auto-activating skill for DevOps Advanced.\nTriggers on: istio service mesh config, istio service mesh config\nPart of the DevOps Advanced skill category. Use when configuring systems or services. Trigger with phrases like \"istio service mesh config\", \"istio config\", \"istio\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/istio-service-mesh-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-configmap-handler",
+    "name": "kubernetes-configmap-handler",
+    "description": "Configure kubernetes configmap handler operations. Auto-activating skill for DevOps Advanced.\nTriggers on: kubernetes configmap handler, kubernetes configmap handler\nPart of the DevOps Advanced skill category. Use when configuring systems or services. Trigger with phrases like \"kubernetes configmap handler\", \"kubernetes handler\", \"kubernetes\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/kubernetes-configmap-handler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-deployment-creator",
+    "name": "kubernetes-deployment-creator",
+    "description": "Create kubernetes deployment creator operations. Auto-activating skill for DevOps Advanced.\nTriggers on: kubernetes deployment creator, kubernetes deployment creator\nPart of the DevOps Advanced skill category. Use when deploying applications or services. Trigger with phrases like \"kubernetes deployment creator\", \"kubernetes creator\", \"deploy kubernetes ment creator\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/kubernetes-deployment-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-ingress-config",
+    "name": "kubernetes-ingress-config",
+    "description": "Configure kubernetes ingress config operations. Auto-activating skill for DevOps Advanced.\nTriggers on: kubernetes ingress config, kubernetes ingress config\nPart of the DevOps Advanced skill category. Use when configuring systems or services. Trigger with phrases like \"kubernetes ingress config\", \"kubernetes config\", \"kubernetes\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/kubernetes-ingress-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-secrets-manager",
+    "name": "kubernetes-secrets-manager",
+    "description": "Manage kubernetes secrets manager operations. Auto-activating skill for DevOps Advanced.\nTriggers on: kubernetes secrets manager, kubernetes secrets manager\nPart of the DevOps Advanced skill category. Use when working with kubernetes secrets manager functionality. Trigger with phrases like \"kubernetes secrets manager\", \"kubernetes manager\", \"kubernetes\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/kubernetes-secrets-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-service-manager",
+    "name": "kubernetes-service-manager",
+    "description": "Manage kubernetes service manager operations. Auto-activating skill for DevOps Advanced.\nTriggers on: kubernetes service manager, kubernetes service manager\nPart of the DevOps Advanced skill category. Use when working with kubernetes service manager functionality. Trigger with phrases like \"kubernetes service manager\", \"kubernetes manager\", \"kubernetes\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/kubernetes-service-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-nginx-ingress-manager",
+    "name": "nginx-ingress-manager",
+    "description": "Manage nginx ingress manager operations. Auto-activating skill for DevOps Advanced.\nTriggers on: nginx ingress manager, nginx ingress manager\nPart of the DevOps Advanced skill category. Use when working with nginx ingress manager functionality. Trigger with phrases like \"nginx ingress manager\", \"nginx manager\", \"nginx\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/nginx-ingress-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-prometheus-config-generator",
+    "name": "prometheus-config-generator",
+    "description": "Generate prometheus config generator operations. Auto-activating skill for DevOps Advanced.\nTriggers on: prometheus config generator, prometheus config generator\nPart of the DevOps Advanced skill category. Use when configuring systems or services. Trigger with phrases like \"prometheus config generator\", \"prometheus generator\", \"prometheus\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/prometheus-config-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-terraform-module-creator",
+    "name": "terraform-module-creator",
+    "description": "Create terraform module creator operations. Auto-activating skill for DevOps Advanced.\nTriggers on: terraform module creator, terraform module creator\nPart of the DevOps Advanced skill category. Use when working with terraform module creator functionality. Trigger with phrases like \"terraform module creator\", \"terraform creator\", \"terraform\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/terraform-module-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-terraform-provider-config",
+    "name": "terraform-provider-config",
+    "description": "Configure terraform provider config operations. Auto-activating skill for DevOps Advanced.\nTriggers on: terraform provider config, terraform provider config\nPart of the DevOps Advanced skill category. Use when configuring systems or services. Trigger with phrases like \"terraform provider config\", \"terraform config\", \"terraform\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/terraform-provider-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-terraform-state-manager",
+    "name": "terraform-state-manager",
+    "description": "Manage terraform state manager operations. Auto-activating skill for DevOps Advanced.\nTriggers on: terraform state manager, terraform state manager\nPart of the DevOps Advanced skill category. Use when working with terraform state manager functionality. Trigger with phrases like \"terraform state manager\", \"terraform manager\", \"terraform\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/terraform-state-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-vault-secrets-integrator",
+    "name": "vault-secrets-integrator",
+    "description": "Configure vault secrets integrator operations. Auto-activating skill for DevOps Advanced.\nTriggers on: vault secrets integrator, vault secrets integrator\nPart of the DevOps Advanced skill category. Use when working with vault secrets integrator functionality. Trigger with phrases like \"vault secrets integrator\", \"vault integrator\", \"vault\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/vault-secrets-integrator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-gateway-config",
+    "name": "api-gateway-config",
+    "description": "Configure api gateway config operations. Auto-activating skill for AWS Skills.\nTriggers on: api gateway config, api gateway config\nPart of the AWS Skills skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api gateway config\", \"api config\", \"api\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/api-gateway-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cdk-stack-generator",
+    "name": "cdk-stack-generator",
+    "description": "Generate cdk stack generator operations. Auto-activating skill for AWS Skills.\nTriggers on: cdk stack generator, cdk stack generator\nPart of the AWS Skills skill category. Use when working with cdk stack generator functionality. Trigger with phrases like \"cdk stack generator\", \"cdk generator\", \"cdk\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/cdk-stack-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cloudformation-template-creator",
+    "name": "cloudformation-template-creator",
+    "description": "Create cloudformation template creator operations. Auto-activating skill for AWS Skills.\nTriggers on: cloudformation template creator, cloudformation template creator\nPart of the AWS Skills skill category. Use when working with cloudformation template creator functionality. Trigger with phrases like \"cloudformation template creator\", \"cloudformation creator\", \"cloudformation\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/cloudformation-template-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cloudfront-distribution-setup",
+    "name": "cloudfront-distribution-setup",
+    "description": "Configure cloudfront distribution setup operations. Auto-activating skill for AWS Skills.\nTriggers on: cloudfront distribution setup, cloudfront distribution setup\nPart of the AWS Skills skill category. Use when working with cloudfront distribution setup functionality. Trigger with phrases like \"cloudfront distribution setup\", \"cloudfront setup\", \"cloudfront\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/cloudfront-distribution-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cloudwatch-alarm-creator",
+    "name": "cloudwatch-alarm-creator",
+    "description": "Create cloudwatch alarm creator operations. Auto-activating skill for AWS Skills.\nTriggers on: cloudwatch alarm creator, cloudwatch alarm creator\nPart of the AWS Skills skill category. Use when working with cloudwatch alarm creator functionality. Trigger with phrases like \"cloudwatch alarm creator\", \"cloudwatch creator\", \"cloudwatch\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/cloudwatch-alarm-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cost-optimization-analyzer",
+    "name": "cost-optimization-analyzer",
+    "description": "Analyze cost optimization analyzer operations. Auto-activating skill for AWS Skills.\nTriggers on: cost optimization analyzer, cost optimization analyzer\nPart of the AWS Skills skill category. Use when analyzing or auditing cost optimization analyzer. Trigger with phrases like \"cost optimization analyzer\", \"cost analyzer\", \"analyze cost optimization r\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/cost-optimization-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-dynamodb-table-designer",
+    "name": "dynamodb-table-designer",
+    "description": "Build dynamodb table designer operations. Auto-activating skill for AWS Skills.\nTriggers on: dynamodb table designer, dynamodb table designer\nPart of the AWS Skills skill category. Use when working with dynamodb table designer functionality. Trigger with phrases like \"dynamodb table designer\", \"dynamodb designer\", \"dynamodb\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/dynamodb-table-designer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-ecs-task-definition-creator",
+    "name": "ecs-task-definition-creator",
+    "description": "Create ecs task definition creator operations. Auto-activating skill for AWS Skills.\nTriggers on: ecs task definition creator, ecs task definition creator\nPart of the AWS Skills skill category. Use when working with ecs task definition creator functionality. Trigger with phrases like \"ecs task definition creator\", \"ecs creator\", \"ecs\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/ecs-task-definition-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-eks-cluster-config",
+    "name": "eks-cluster-config",
+    "description": "Configure eks cluster config operations. Auto-activating skill for AWS Skills.\nTriggers on: eks cluster config, eks cluster config\nPart of the AWS Skills skill category. Use when configuring systems or services. Trigger with phrases like \"eks cluster config\", \"eks config\", \"eks\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/eks-cluster-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-elasticache-config",
+    "name": "elasticache-config",
+    "description": "Configure elasticache config operations. Auto-activating skill for AWS Skills.\nTriggers on: elasticache config, elasticache config\nPart of the AWS Skills skill category. Use when configuring systems or services. Trigger with phrases like \"elasticache config\", \"elasticache config\", \"elasticache\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/elasticache-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-eventbridge-rule-creator",
+    "name": "eventbridge-rule-creator",
+    "description": "Create eventbridge rule creator operations. Auto-activating skill for AWS Skills.\nTriggers on: eventbridge rule creator, eventbridge rule creator\nPart of the AWS Skills skill category. Use when working with eventbridge rule creator functionality. Trigger with phrases like \"eventbridge rule creator\", \"eventbridge creator\", \"eventbridge\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/eventbridge-rule-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-iam-policy-creator",
+    "name": "iam-policy-creator",
+    "description": "Create iam policy creator operations. Auto-activating skill for AWS Skills.\nTriggers on: iam policy creator, iam policy creator\nPart of the AWS Skills skill category. Use when working with iam policy creator functionality. Trigger with phrases like \"iam policy creator\", \"iam creator\", \"iam\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/iam-policy-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-iam-role-generator",
+    "name": "iam-role-generator",
+    "description": "Generate iam role generator operations. Auto-activating skill for AWS Skills.\nTriggers on: iam role generator, iam role generator\nPart of the AWS Skills skill category. Use when working with iam role generator functionality. Trigger with phrases like \"iam role generator\", \"iam generator\", \"iam\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/iam-role-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-lambda-function-generator",
+    "name": "lambda-function-generator",
+    "description": "Generate lambda function generator operations. Auto-activating skill for AWS Skills.\nTriggers on: lambda function generator, lambda function generator\nPart of the AWS Skills skill category. Use when working with lambda function generator functionality. Trigger with phrases like \"lambda function generator\", \"lambda generator\", \"lambda\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/lambda-function-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-lambda-layer-creator",
+    "name": "lambda-layer-creator",
+    "description": "Create lambda layer creator operations. Auto-activating skill for AWS Skills.\nTriggers on: lambda layer creator, lambda layer creator\nPart of the AWS Skills skill category. Use when working with lambda layer creator functionality. Trigger with phrases like \"lambda layer creator\", \"lambda creator\", \"lambda\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/lambda-layer-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-rds-instance-setup",
+    "name": "rds-instance-setup",
+    "description": "Configure rds instance setup operations. Auto-activating skill for AWS Skills.\nTriggers on: rds instance setup, rds instance setup\nPart of the AWS Skills skill category. Use when working with rds instance setup functionality. Trigger with phrases like \"rds instance setup\", \"rds setup\", \"rds\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/rds-instance-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-route53-record-manager",
+    "name": "route53-record-manager",
+    "description": "Manage route53 record manager operations. Auto-activating skill for AWS Skills.\nTriggers on: route53 record manager, route53 record manager\nPart of the AWS Skills skill category. Use when working with route53 record manager functionality. Trigger with phrases like \"route53 record manager\", \"route53 manager\", \"route53\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/route53-record-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-s3-bucket-policy-generator",
+    "name": "s3-bucket-policy-generator",
+    "description": "Generate s3 bucket policy generator operations. Auto-activating skill for AWS Skills.\nTriggers on: s3 bucket policy generator, s3 bucket policy generator\nPart of the AWS Skills skill category. Use when working with s3 bucket policy generator functionality. Trigger with phrases like \"s3 bucket policy generator\", \"s3 generator\", \"s3\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/s3-bucket-policy-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-s3-lifecycle-config",
+    "name": "s3-lifecycle-config",
+    "description": "Configure s3 lifecycle config operations. Auto-activating skill for AWS Skills.\nTriggers on: s3 lifecycle config, s3 lifecycle config\nPart of the AWS Skills skill category. Use when configuring systems or services. Trigger with phrases like \"s3 lifecycle config\", \"s3 config\", \"s3\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/s3-lifecycle-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sam-template-builder",
+    "name": "sam-template-builder",
+    "description": "Build sam template builder operations. Auto-activating skill for AWS Skills.\nTriggers on: sam template builder, sam template builder\nPart of the AWS Skills skill category. Use when working with sam template builder functionality. Trigger with phrases like \"sam template builder\", \"sam builder\", \"sam\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/sam-template-builder"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-security-group-generator",
+    "name": "security-group-generator",
+    "description": "Generate security group generator operations. Auto-activating skill for AWS Skills.\nTriggers on: security group generator, security group generator\nPart of the AWS Skills skill category. Use when working with security group generator functionality. Trigger with phrases like \"security group generator\", \"security generator\", \"security\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/security-group-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sns-topic-config",
+    "name": "sns-topic-config",
+    "description": "Configure sns topic config operations. Auto-activating skill for AWS Skills.\nTriggers on: sns topic config, sns topic config\nPart of the AWS Skills skill category. Use when configuring systems or services. Trigger with phrases like \"sns topic config\", \"sns config\", \"sns\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/sns-topic-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sqs-queue-setup",
+    "name": "sqs-queue-setup",
+    "description": "Configure sqs queue setup operations. Auto-activating skill for AWS Skills.\nTriggers on: sqs queue setup, sqs queue setup\nPart of the AWS Skills skill category. Use when working with sqs queue setup functionality. Trigger with phrases like \"sqs queue setup\", \"sqs setup\", \"sqs\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/sqs-queue-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-step-functions-workflow",
+    "name": "step-functions-workflow",
+    "description": "Manage step functions workflow operations. Auto-activating skill for AWS Skills.\nTriggers on: step functions workflow, step functions workflow\nPart of the AWS Skills skill category. Use when working with step functions workflow functionality. Trigger with phrases like \"step functions workflow\", \"step workflow\", \"step\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/step-functions-workflow"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-vpc-network-designer",
+    "name": "vpc-network-designer",
+    "description": "Build vpc network designer operations. Auto-activating skill for AWS Skills.\nTriggers on: vpc network designer, vpc network designer\nPart of the AWS Skills skill category. Use when working with vpc network designer functionality. Trigger with phrases like \"vpc network designer\", \"vpc designer\", \"vpc\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/vpc-network-designer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-bigquery-ml-model-creator",
+    "name": "bigquery-ml-model-creator",
+    "description": "Create bigquery ml model creator operations. Auto-activating skill for GCP Skills.\nTriggers on: bigquery ml model creator, bigquery ml model creator\nPart of the GCP Skills skill category. Use when working with bigquery ml model creator functionality. Trigger with phrases like \"bigquery ml model creator\", \"bigquery creator\", \"bigquery\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/bigquery-ml-model-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-bigquery-scheduled-query",
+    "name": "bigquery-scheduled-query",
+    "description": "Manage bigquery scheduled query operations. Auto-activating skill for GCP Skills.\nTriggers on: bigquery scheduled query, bigquery scheduled query\nPart of the GCP Skills skill category. Use when working with bigquery scheduled query functionality. Trigger with phrases like \"bigquery scheduled query\", \"bigquery query\", \"bigquery\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/bigquery-scheduled-query"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-bigquery-table-creator",
+    "name": "bigquery-table-creator",
+    "description": "Create bigquery table creator operations. Auto-activating skill for GCP Skills.\nTriggers on: bigquery table creator, bigquery table creator\nPart of the GCP Skills skill category. Use when working with bigquery table creator functionality. Trigger with phrases like \"bigquery table creator\", \"bigquery creator\", \"bigquery\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/bigquery-table-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-bigquery-view-generator",
+    "name": "bigquery-view-generator",
+    "description": "Generate bigquery view generator operations. Auto-activating skill for GCP Skills.\nTriggers on: bigquery view generator, bigquery view generator\nPart of the GCP Skills skill category. Use when working with bigquery view generator functionality. Trigger with phrases like \"bigquery view generator\", \"bigquery generator\", \"bigquery\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/bigquery-view-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cloud-function-generator",
+    "name": "cloud-function-generator",
+    "description": "Generate cloud function generator operations. Auto-activating skill for GCP Skills.\nTriggers on: cloud function generator, cloud function generator\nPart of the GCP Skills skill category. Use when working with cloud function generator functionality. Trigger with phrases like \"cloud function generator\", \"cloud generator\", \"cloud\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/cloud-function-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cloud-logging-sink-setup",
+    "name": "cloud-logging-sink-setup",
+    "description": "Configure cloud logging sink setup operations. Auto-activating skill for GCP Skills.\nTriggers on: cloud logging sink setup, cloud logging sink setup\nPart of the GCP Skills skill category. Use when working with cloud logging sink setup functionality. Trigger with phrases like \"cloud logging sink setup\", \"cloud setup\", \"cloud\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/cloud-logging-sink-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cloud-monitoring-alert",
+    "name": "cloud-monitoring-alert",
+    "description": "Monitor cloud monitoring alert operations. Auto-activating skill for GCP Skills.\nTriggers on: cloud monitoring alert, cloud monitoring alert\nPart of the GCP Skills skill category. Use when monitoring systems or services. Trigger with phrases like \"cloud monitoring alert\", \"cloud alert\", \"cloud\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/cloud-monitoring-alert"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cloud-run-service-config",
+    "name": "cloud-run-service-config",
+    "description": "Configure cloud run service config operations. Auto-activating skill for GCP Skills.\nTriggers on: cloud run service config, cloud run service config\nPart of the GCP Skills skill category. Use when configuring systems or services. Trigger with phrases like \"cloud run service config\", \"cloud config\", \"cloud\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/cloud-run-service-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cloud-scheduler-job-creator",
+    "name": "cloud-scheduler-job-creator",
+    "description": "Create cloud scheduler job creator operations. Auto-activating skill for GCP Skills.\nTriggers on: cloud scheduler job creator, cloud scheduler job creator\nPart of the GCP Skills skill category. Use when working with cloud scheduler job creator functionality. Trigger with phrases like \"cloud scheduler job creator\", \"cloud creator\", \"cloud\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/cloud-scheduler-job-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cloud-sql-instance-setup",
+    "name": "cloud-sql-instance-setup",
+    "description": "Configure cloud sql instance setup operations. Auto-activating skill for GCP Skills.\nTriggers on: cloud sql instance setup, cloud sql instance setup\nPart of the GCP Skills skill category. Use when working with cloud sql instance setup functionality. Trigger with phrases like \"cloud sql instance setup\", \"cloud setup\", \"cloud\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/cloud-sql-instance-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cloud-tasks-queue-setup",
+    "name": "cloud-tasks-queue-setup",
+    "description": "Configure cloud tasks queue setup operations. Auto-activating skill for GCP Skills.\nTriggers on: cloud tasks queue setup, cloud tasks queue setup\nPart of the GCP Skills skill category. Use when working with cloud tasks queue setup functionality. Trigger with phrases like \"cloud tasks queue setup\", \"cloud setup\", \"cloud\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/cloud-tasks-queue-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-firebase-rules-generator",
+    "name": "firebase-rules-generator",
+    "description": "Generate firebase rules generator operations. Auto-activating skill for GCP Skills.\nTriggers on: firebase rules generator, firebase rules generator\nPart of the GCP Skills skill category. Use when working with firebase rules generator functionality. Trigger with phrases like \"firebase rules generator\", \"firebase generator\", \"firebase\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/firebase-rules-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-firestore-index-creator",
+    "name": "firestore-index-creator",
+    "description": "Create firestore index creator operations. Auto-activating skill for GCP Skills.\nTriggers on: firestore index creator, firestore index creator\nPart of the GCP Skills skill category. Use when working with firestore index creator functionality. Trigger with phrases like \"firestore index creator\", \"firestore creator\", \"firestore\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/firestore-index-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-firewall-rule-generator",
+    "name": "firewall-rule-generator",
+    "description": "Generate firewall rule generator operations. Auto-activating skill for GCP Skills.\nTriggers on: firewall rule generator, firewall rule generator\nPart of the GCP Skills skill category. Use when working with firewall rule generator functionality. Trigger with phrases like \"firewall rule generator\", \"firewall generator\", \"firewall\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/firewall-rule-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-gcs-bucket-config",
+    "name": "gcs-bucket-config",
+    "description": "Configure gcs bucket config operations. Auto-activating skill for GCP Skills.\nTriggers on: gcs bucket config, gcs bucket config\nPart of the GCP Skills skill category. Use when configuring systems or services. Trigger with phrases like \"gcs bucket config\", \"gcs config\", \"gcs\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/gcs-bucket-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-gcs-lifecycle-policy",
+    "name": "gcs-lifecycle-policy",
+    "description": "Manage gcs lifecycle policy operations. Auto-activating skill for GCP Skills.\nTriggers on: gcs lifecycle policy, gcs lifecycle policy\nPart of the GCP Skills skill category. Use when working with gcs lifecycle policy functionality. Trigger with phrases like \"gcs lifecycle policy\", \"gcs policy\", \"gcs\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/gcs-lifecycle-policy"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-gke-cluster-config",
+    "name": "gke-cluster-config",
+    "description": "Configure gke cluster config operations. Auto-activating skill for GCP Skills.\nTriggers on: gke cluster config, gke cluster config\nPart of the GCP Skills skill category. Use when configuring systems or services. Trigger with phrases like \"gke cluster config\", \"gke config\", \"gke\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/gke-cluster-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-iam-binding-creator",
+    "name": "iam-binding-creator",
+    "description": "Create iam binding creator operations. Auto-activating skill for GCP Skills.\nTriggers on: iam binding creator, iam binding creator\nPart of the GCP Skills skill category. Use when working with iam binding creator functionality. Trigger with phrases like \"iam binding creator\", \"iam creator\", \"iam\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/iam-binding-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-memorystore-config",
+    "name": "memorystore-config",
+    "description": "Configure memorystore config operations. Auto-activating skill for GCP Skills.\nTriggers on: memorystore config, memorystore config\nPart of the GCP Skills skill category. Use when configuring systems or services. Trigger with phrases like \"memorystore config\", \"memorystore config\", \"memorystore\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/memorystore-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pubsub-subscription-config",
+    "name": "pubsub-subscription-config",
+    "description": "Configure pubsub subscription config operations. Auto-activating skill for GCP Skills.\nTriggers on: pubsub subscription config, pubsub subscription config\nPart of the GCP Skills skill category. Use when configuring systems or services. Trigger with phrases like \"pubsub subscription config\", \"pubsub config\", \"pubsub\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/pubsub-subscription-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pubsub-topic-setup",
+    "name": "pubsub-topic-setup",
+    "description": "Configure pubsub topic setup operations. Auto-activating skill for GCP Skills.\nTriggers on: pubsub topic setup, pubsub topic setup\nPart of the GCP Skills skill category. Use when working with pubsub topic setup functionality. Trigger with phrases like \"pubsub topic setup\", \"pubsub setup\", \"pubsub\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/pubsub-topic-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-service-account-manager",
+    "name": "service-account-manager",
+    "description": "Manage service account manager operations. Auto-activating skill for GCP Skills.\nTriggers on: service account manager, service account manager\nPart of the GCP Skills skill category. Use when working with service account manager functionality. Trigger with phrases like \"service account manager\", \"service manager\", \"service\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/service-account-manager"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-vertex-ai-endpoint-config",
+    "name": "vertex-ai-endpoint-config",
+    "description": "Configure vertex ai endpoint config operations. Auto-activating skill for GCP Skills.\nTriggers on: vertex ai endpoint config, vertex ai endpoint config\nPart of the GCP Skills skill category. Use when configuring systems or services. Trigger with phrases like \"vertex ai endpoint config\", \"vertex config\", \"vertex\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/vertex-ai-endpoint-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-vertex-ai-pipeline-creator",
+    "name": "vertex-ai-pipeline-creator",
+    "description": "Create vertex ai pipeline creator operations. Auto-activating skill for GCP Skills.\nTriggers on: vertex ai pipeline creator, vertex ai pipeline creator\nPart of the GCP Skills skill category. Use when working with vertex ai pipeline creator functionality. Trigger with phrases like \"vertex ai pipeline creator\", \"vertex creator\", \"vertex\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/vertex-ai-pipeline-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-vpc-network-setup",
+    "name": "vpc-network-setup",
+    "description": "Configure vpc network setup operations. Auto-activating skill for GCP Skills.\nTriggers on: vpc network setup, vpc network setup\nPart of the GCP Skills skill category. Use when working with vpc network setup functionality. Trigger with phrases like \"vpc network setup\", \"vpc setup\", \"vpc\".\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/vpc-network-setup"
   }
 ]

@@ -98,5 +98,505 @@
     "stars": 24,
     "updatedAt": "2026-01-08T09:49:44Z",
     "repoUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills/wordpress-pro"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-approval-workflow-generator",
+    "name": "approval-workflow-generator",
+    "description": "Generate approval workflow generator operations. Auto-activating skill for Business Automation.\nTriggers on: approval workflow generator, approval workflow generator\nPart of the Business Automation skill category. Use when working with approval workflow generator functionality. Trigger with phrases like \"approval workflow generator\", \"approval generator\", \"approval\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/approval-workflow-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-batch-file-processor",
+    "name": "batch-file-processor",
+    "description": "Process batch file processor operations. Auto-activating skill for Business Automation.\nTriggers on: batch file processor, batch file processor\nPart of the Business Automation skill category. Use when working with batch file processor functionality. Trigger with phrases like \"batch file processor\", \"batch processor\", \"batch\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/batch-file-processor"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-calendar-event-creator",
+    "name": "calendar-event-creator",
+    "description": "Create calendar event creator operations. Auto-activating skill for Business Automation.\nTriggers on: calendar event creator, calendar event creator\nPart of the Business Automation skill category. Use when working with calendar event creator functionality. Trigger with phrases like \"calendar event creator\", \"calendar creator\", \"calendar\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/calendar-event-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-csv-processor",
+    "name": "csv-processor",
+    "description": "Process csv processor operations. Auto-activating skill for Business Automation.\nTriggers on: csv processor, csv processor\nPart of the Business Automation skill category. Use when working with csv processor functionality. Trigger with phrases like \"csv processor\", \"csv processor\", \"csv\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/csv-processor"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-discord-bot-generator",
+    "name": "discord-bot-generator",
+    "description": "Generate discord bot generator operations. Auto-activating skill for Business Automation.\nTriggers on: discord bot generator, discord bot generator\nPart of the Business Automation skill category. Use when working with discord bot generator functionality. Trigger with phrases like \"discord bot generator\", \"discord generator\", \"discord\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/discord-bot-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-document-merger",
+    "name": "document-merger",
+    "description": "Manage document merger operations. Auto-activating skill for Business Automation.\nTriggers on: document merger, document merger\nPart of the Business Automation skill category. Use when working with document merger functionality. Trigger with phrases like \"document merger\", \"document merger\", \"document\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/document-merger"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-email-parser",
+    "name": "email-parser",
+    "description": "Configure and manage - Parse email parser operations. Auto-activating skill for Business Automation.\nTriggers on: email parser, email parser\nPart of the Business Automation skill category. Use when working with email parser functionality. Trigger with phrases like \"email parser\", \"email parser\", \"email\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/email-parser"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-email-template-generator",
+    "name": "email-template-generator",
+    "description": "Generate email template generator operations. Auto-activating skill for Business Automation.\nTriggers on: email template generator, email template generator\nPart of the Business Automation skill category. Use when working with email template generator functionality. Trigger with phrases like \"email template generator\", \"email generator\", \"email\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/email-template-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-excel-formula-generator",
+    "name": "excel-formula-generator",
+    "description": "Generate excel formula generator operations. Auto-activating skill for Business Automation.\nTriggers on: excel formula generator, excel formula generator\nPart of the Business Automation skill category. Use when working with excel formula generator functionality. Trigger with phrases like \"excel formula generator\", \"excel generator\", \"excel\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/excel-formula-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-excel-macro-creator",
+    "name": "excel-macro-creator",
+    "description": "Create excel macro creator operations. Auto-activating skill for Business Automation.\nTriggers on: excel macro creator, excel macro creator\nPart of the Business Automation skill category. Use when working with excel macro creator functionality. Trigger with phrases like \"excel macro creator\", \"excel creator\", \"excel\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/excel-macro-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-form-builder-helper",
+    "name": "form-builder-helper",
+    "description": "Build form builder helper operations. Auto-activating skill for Business Automation.\nTriggers on: form builder helper, form builder helper\nPart of the Business Automation skill category. Use when working with form builder helper functionality. Trigger with phrases like \"form builder helper\", \"form helper\", \"form\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/form-builder-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-google-sheets-automation",
+    "name": "google-sheets-automation",
+    "description": "Manage google sheets automation operations. Auto-activating skill for Business Automation.\nTriggers on: google sheets automation, google sheets automation\nPart of the Business Automation skill category. Use when working with google sheets automation functionality. Trigger with phrases like \"google sheets automation\", \"google automation\", \"google\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/google-sheets-automation"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-invoice-generator",
+    "name": "invoice-generator",
+    "description": "Generate invoice generator operations. Auto-activating skill for Business Automation.\nTriggers on: invoice generator, invoice generator\nPart of the Business Automation skill category. Use when working with invoice generator functionality. Trigger with phrases like \"invoice generator\", \"invoice generator\", \"invoice\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/invoice-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-make-scenario-creator",
+    "name": "make-scenario-creator",
+    "description": "Create make scenario creator operations. Auto-activating skill for Business Automation.\nTriggers on: make scenario creator, make scenario creator\nPart of the Business Automation skill category. Use when working with make scenario creator functionality. Trigger with phrases like \"make scenario creator\", \"make creator\", \"make\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/make-scenario-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-meeting-scheduler-helper",
+    "name": "meeting-scheduler-helper",
+    "description": "Configure with meeting scheduler helper operations. Auto-activating skill for Business Automation.\nTriggers on: meeting scheduler helper, meeting scheduler helper\nPart of the Business Automation skill category. Use when working with meeting scheduler helper functionality. Trigger with phrases like \"meeting scheduler helper\", \"meeting helper\", \"meeting\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/meeting-scheduler-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-n8n-workflow-generator",
+    "name": "n8n-workflow-generator",
+    "description": "Generate n8n workflow generator operations. Auto-activating skill for Business Automation.\nTriggers on: n8n workflow generator, n8n workflow generator\nPart of the Business Automation skill category. Use when working with n8n workflow generator functionality. Trigger with phrases like \"n8n workflow generator\", \"n8n generator\", \"n8n\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/n8n-workflow-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-notification-dispatcher",
+    "name": "notification-dispatcher",
+    "description": "Manage notification dispatcher operations. Auto-activating skill for Business Automation.\nTriggers on: notification dispatcher, notification dispatcher\nPart of the Business Automation skill category. Use when working with notification dispatcher functionality. Trigger with phrases like \"notification dispatcher\", \"notification dispatcher\", \"notification\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/notification-dispatcher"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pdf-generator",
+    "name": "pdf-generator",
+    "description": "Generate pdf generator operations. Auto-activating skill for Business Automation.\nTriggers on: pdf generator, pdf generator\nPart of the Business Automation skill category. Use when working with pdf generator functionality. Trigger with phrases like \"pdf generator\", \"pdf generator\", \"pdf\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/pdf-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pdf-parser",
+    "name": "pdf-parser",
+    "description": "Configure and manage - Parse pdf parser operations. Auto-activating skill for Business Automation.\nTriggers on: pdf parser, pdf parser\nPart of the Business Automation skill category. Use when working with pdf parser functionality. Trigger with phrases like \"pdf parser\", \"pdf parser\", \"pdf\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/pdf-parser"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-reminder-system-creator",
+    "name": "reminder-system-creator",
+    "description": "Create reminder system creator operations. Auto-activating skill for Business Automation.\nTriggers on: reminder system creator, reminder system creator\nPart of the Business Automation skill category. Use when working with reminder system creator functionality. Trigger with phrases like \"reminder system creator\", \"reminder creator\", \"reminder\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/reminder-system-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-report-generator",
+    "name": "report-generator",
+    "description": "Generate report generator operations. Auto-activating skill for Business Automation.\nTriggers on: report generator, report generator\nPart of the Business Automation skill category. Use when working with report generator functionality. Trigger with phrases like \"report generator\", \"report generator\", \"report\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/report-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-slack-bot-creator",
+    "name": "slack-bot-creator",
+    "description": "Create slack bot creator operations. Auto-activating skill for Business Automation.\nTriggers on: slack bot creator, slack bot creator\nPart of the Business Automation skill category. Use when working with slack bot creator functionality. Trigger with phrases like \"slack bot creator\", \"slack creator\", \"slack\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/slack-bot-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-survey-creator",
+    "name": "survey-creator",
+    "description": "Create survey creator operations. Auto-activating skill for Business Automation.\nTriggers on: survey creator, survey creator\nPart of the Business Automation skill category. Use when working with survey creator functionality. Trigger with phrases like \"survey creator\", \"survey creator\", \"survey\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/survey-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-teams-webhook-sender",
+    "name": "teams-webhook-sender",
+    "description": "Manage teams webhook sender operations. Auto-activating skill for Business Automation.\nTriggers on: teams webhook sender, teams webhook sender\nPart of the Business Automation skill category. Use when working with teams webhook sender functionality. Trigger with phrases like \"teams webhook sender\", \"teams sender\", \"teams\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/teams-webhook-sender"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-zapier-integration-helper",
+    "name": "zapier-integration-helper",
+    "description": "Assist with zapier integration helper operations. Auto-activating skill for Business Automation.\nTriggers on: zapier integration helper, zapier integration helper\nPart of the Business Automation skill category. Use when working with APIs or building integrations. Trigger with phrases like \"zapier integration helper\", \"zapier helper\", \"zapier\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/zapier-integration-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-acceptance-criteria-creator",
+    "name": "acceptance-criteria-creator",
+    "description": "Create acceptance criteria creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: acceptance criteria creator, acceptance criteria creator\nPart of the Enterprise Workflows skill category. Use when working with acceptance criteria creator functionality. Trigger with phrases like \"acceptance criteria creator\", \"acceptance creator\", \"acceptance\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/acceptance-criteria-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-asana-task-creator",
+    "name": "asana-task-creator",
+    "description": "Create asana task creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: asana task creator, asana task creator\nPart of the Enterprise Workflows skill category. Use when working with asana task creator functionality. Trigger with phrases like \"asana task creator\", \"asana creator\", \"asana\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/asana-task-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-audit-trail-helper",
+    "name": "audit-trail-helper",
+    "description": "Audit Trail Helper - Auto-activating skill for Enterprise Workflows.\nTriggers on: audit trail helper, audit trail helper\nPart of the Enterprise Workflows skill category. Use when analyzing or auditing audit trail helper. Trigger with phrases like \"audit trail helper\", \"audit helper\", \"audit\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/audit-trail-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-backlog-grooming-assistant",
+    "name": "backlog-grooming-assistant",
+    "description": "Execute backlog grooming assistant operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: backlog grooming assistant, backlog grooming assistant\nPart of the Enterprise Workflows skill category. Use when working with backlog grooming assistant functionality. Trigger with phrases like \"backlog grooming assistant\", \"backlog assistant\", \"backlog\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/backlog-grooming-assistant"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-change-request-generator",
+    "name": "change-request-generator",
+    "description": "Generate change request generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: change request generator, change request generator\nPart of the Enterprise Workflows skill category. Use when working with change request generator functionality. Trigger with phrases like \"change request generator\", \"change generator\", \"change\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/change-request-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-confluence-page-generator",
+    "name": "confluence-page-generator",
+    "description": "Generate confluence page generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: confluence page generator, confluence page generator\nPart of the Enterprise Workflows skill category. Use when working with confluence page generator functionality. Trigger with phrases like \"confluence page generator\", \"confluence generator\", \"confluence\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/confluence-page-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-definition-of-done-generator",
+    "name": "definition-of-done-generator",
+    "description": "Generate definition of done generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: definition of done generator, definition of done generator\nPart of the Enterprise Workflows skill category. Use when working with definition of done generator functionality. Trigger with phrases like \"definition of done generator\", \"definition generator\", \"definition\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/definition-of-done-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-executive-summary-creator",
+    "name": "executive-summary-creator",
+    "description": "Create executive summary creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: executive summary creator, executive summary creator\nPart of the Enterprise Workflows skill category. Use when working with executive summary creator functionality. Trigger with phrases like \"executive summary creator\", \"executive creator\", \"executive\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/executive-summary-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-github-issue-creator",
+    "name": "github-issue-creator",
+    "description": "Create github issue creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: github issue creator, github issue creator\nPart of the Enterprise Workflows skill category. Use when working with github issue creator functionality. Trigger with phrases like \"github issue creator\", \"github creator\", \"github\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/github-issue-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-github-project-setup",
+    "name": "github-project-setup",
+    "description": "Configure github project setup operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: github project setup, github project setup\nPart of the Enterprise Workflows skill category. Use when working with github project setup functionality. Trigger with phrases like \"github project setup\", \"github setup\", \"github\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/github-project-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-gitlab-epic-creator",
+    "name": "gitlab-epic-creator",
+    "description": "Create gitlab epic creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: gitlab epic creator, gitlab epic creator\nPart of the Enterprise Workflows skill category. Use when working with gitlab epic creator functionality. Trigger with phrases like \"gitlab epic creator\", \"gitlab creator\", \"gitlab\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/gitlab-epic-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-governance-checklist-generator",
+    "name": "governance-checklist-generator",
+    "description": "Generate governance checklist generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: governance checklist generator, governance checklist generator\nPart of the Enterprise Workflows skill category. Use when working with governance checklist generator functionality. Trigger with phrases like \"governance checklist generator\", \"governance generator\", \"governance\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/governance-checklist-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-impact-analysis-helper",
+    "name": "impact-analysis-helper",
+    "description": "Configure with impact analysis helper operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: impact analysis helper, impact analysis helper\nPart of the Enterprise Workflows skill category. Use when working with impact analysis helper functionality. Trigger with phrases like \"impact analysis helper\", \"impact helper\", \"impact\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/impact-analysis-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-jira-ticket-generator",
+    "name": "jira-ticket-generator",
+    "description": "Generate jira ticket generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: jira ticket generator, jira ticket generator\nPart of the Enterprise Workflows skill category. Use when working with jira ticket generator functionality. Trigger with phrases like \"jira ticket generator\", \"jira generator\", \"jira\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/jira-ticket-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-jira-workflow-creator",
+    "name": "jira-workflow-creator",
+    "description": "Create jira workflow creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: jira workflow creator, jira workflow creator\nPart of the Enterprise Workflows skill category. Use when working with jira workflow creator functionality. Trigger with phrases like \"jira workflow creator\", \"jira creator\", \"jira\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/jira-workflow-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-kpi-dashboard-template",
+    "name": "kpi-dashboard-template",
+    "description": "Manage kpi dashboard template operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: kpi dashboard template, kpi dashboard template\nPart of the Enterprise Workflows skill category. Use when working with kpi dashboard template functionality. Trigger with phrases like \"kpi dashboard template\", \"kpi template\", \"kpi\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/kpi-dashboard-template"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-linear-issue-generator",
+    "name": "linear-issue-generator",
+    "description": "Generate linear issue generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: linear issue generator, linear issue generator\nPart of the Enterprise Workflows skill category. Use when working with linear issue generator functionality. Trigger with phrases like \"linear issue generator\", \"linear generator\", \"linear\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/linear-issue-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-okr-tracker-creator",
+    "name": "okr-tracker-creator",
+    "description": "Create okr tracker creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: okr tracker creator, okr tracker creator\nPart of the Enterprise Workflows skill category. Use when working with okr tracker creator functionality. Trigger with phrases like \"okr tracker creator\", \"okr creator\", \"okr\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/okr-tracker-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-risk-assessment-creator",
+    "name": "risk-assessment-creator",
+    "description": "Create risk assessment creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: risk assessment creator, risk assessment creator\nPart of the Enterprise Workflows skill category. Use when working with risk assessment creator functionality. Trigger with phrases like \"risk assessment creator\", \"risk creator\", \"risk\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/risk-assessment-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-roadmap-generator",
+    "name": "roadmap-generator",
+    "description": "Generate roadmap generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: roadmap generator, roadmap generator\nPart of the Enterprise Workflows skill category. Use when working with roadmap generator functionality. Trigger with phrases like \"roadmap generator\", \"roadmap generator\", \"roadmap\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/roadmap-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sla-monitor-setup",
+    "name": "sla-monitor-setup",
+    "description": "Configure sla monitor setup operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: sla monitor setup, sla monitor setup\nPart of the Enterprise Workflows skill category. Use when monitoring systems or services. Trigger with phrases like \"sla monitor setup\", \"sla setup\", \"sla\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/sla-monitor-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-sprint-planning-helper",
+    "name": "sprint-planning-helper",
+    "description": "Configure with sprint planning helper operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: sprint planning helper, sprint planning helper\nPart of the Enterprise Workflows skill category. Use when working with sprint planning helper functionality. Trigger with phrases like \"sprint planning helper\", \"sprint helper\", \"sprint\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/sprint-planning-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-stakeholder-communication-template",
+    "name": "stakeholder-communication-template",
+    "description": "Manage stakeholder communication template operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: stakeholder communication template, stakeholder communication template\nPart of the Enterprise Workflows skill category. Use when working with stakeholder communication template functionality. Trigger with phrases like \"stakeholder communication template\", \"stakeholder template\", \"stakeholder\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/stakeholder-communication-template"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-status-report-generator",
+    "name": "status-report-generator",
+    "description": "Generate status report generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: status report generator, status report generator\nPart of the Enterprise Workflows skill category. Use when working with status report generator functionality. Trigger with phrases like \"status report generator\", \"status generator\", \"status\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/status-report-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-user-story-generator",
+    "name": "user-story-generator",
+    "description": "Generate user story generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: user story generator, user story generator\nPart of the Enterprise Workflows skill category. Use when working with user story generator functionality. Trigger with phrases like \"user story generator\", \"user generator\", \"user\".\n",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/user-story-generator"
   }
 ]

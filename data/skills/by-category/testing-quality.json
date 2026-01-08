@@ -78,5 +78,505 @@
     "stars": 1227,
     "updatedAt": "2026-01-08T19:34:24Z",
     "repoUrl": "https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/docs-seeker"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-api-test-generator",
+    "name": "api-test-generator",
+    "description": "Generate api test generator operations. Auto-activating skill for Test Automation.\nTriggers on: api test generator, api test generator\nPart of the Test Automation skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api test generator\", \"api generator\", \"api\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/api-test-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-contract-test-creator",
+    "name": "contract-test-creator",
+    "description": "Create contract test creator operations. Auto-activating skill for Test Automation.\nTriggers on: contract test creator, contract test creator\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"contract test creator\", \"contract creator\", \"contract\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/contract-test-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-coverage-report-analyzer",
+    "name": "coverage-report-analyzer",
+    "description": "Analyze coverage report analyzer operations. Auto-activating skill for Test Automation.\nTriggers on: coverage report analyzer, coverage report analyzer\nPart of the Test Automation skill category. Use when analyzing or auditing coverage report analyzer. Trigger with phrases like \"coverage report analyzer\", \"coverage analyzer\", \"analyze coverage report r\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/coverage-report-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-database-test-helper",
+    "name": "database-test-helper",
+    "description": "Assist with database test helper operations. Auto-activating skill for Test Automation.\nTriggers on: database test helper, database test helper\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"database test helper\", \"database helper\", \"database\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/database-test-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-factory-pattern-creator",
+    "name": "factory-pattern-creator",
+    "description": "Create factory pattern creator operations. Auto-activating skill for Test Automation.\nTriggers on: factory pattern creator, factory pattern creator\nPart of the Test Automation skill category. Use when working with factory pattern creator functionality. Trigger with phrases like \"factory pattern creator\", \"factory creator\", \"factory\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/factory-pattern-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-fixture-generator",
+    "name": "fixture-generator",
+    "description": "Generate fixture generator operations. Auto-activating skill for Test Automation.\nTriggers on: fixture generator, fixture generator\nPart of the Test Automation skill category. Use when working with fixture generator functionality. Trigger with phrases like \"fixture generator\", \"fixture generator\", \"fixture\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/fixture-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-flaky-test-detector",
+    "name": "flaky-test-detector",
+    "description": "Detect flaky test detector operations. Auto-activating skill for Test Automation.\nTriggers on: flaky test detector, flaky test detector\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"flaky test detector\", \"flaky detector\", \"flaky\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/flaky-test-detector"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-go-test-generator",
+    "name": "go-test-generator",
+    "description": "Generate go test generator operations. Auto-activating skill for Test Automation.\nTriggers on: go test generator, go test generator\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"go test generator\", \"go generator\", \"go\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/go-test-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-integration-test-setup",
+    "name": "integration-test-setup",
+    "description": "Configure integration test setup operations. Auto-activating skill for Test Automation.\nTriggers on: integration test setup, integration test setup\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"integration test setup\", \"integration setup\", \"integration\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/integration-test-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-jest-test-generator",
+    "name": "jest-test-generator",
+    "description": "Generate jest test generator operations. Auto-activating skill for Test Automation.\nTriggers on: jest test generator, jest test generator\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"jest test generator\", \"jest generator\", \"jest\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/jest-test-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mocha-test-setup",
+    "name": "mocha-test-setup",
+    "description": "Configure mocha test setup operations. Auto-activating skill for Test Automation.\nTriggers on: mocha test setup, mocha test setup\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"mocha test setup\", \"mocha setup\", \"mocha\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/mocha-test-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mock-generator",
+    "name": "mock-generator",
+    "description": "Generate mock generator operations. Auto-activating skill for Test Automation.\nTriggers on: mock generator, mock generator\nPart of the Test Automation skill category. Use when working with mock generator functionality. Trigger with phrases like \"mock generator\", \"mock generator\", \"mock\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/mock-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-mutation-test-runner",
+    "name": "mutation-test-runner",
+    "description": "Run mutation test runner operations. Auto-activating skill for Test Automation.\nTriggers on: mutation test runner, mutation test runner\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"mutation test runner\", \"mutation runner\", \"mutation\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/mutation-test-runner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-property-based-test-helper",
+    "name": "property-based-test-helper",
+    "description": "Assist with property based test helper operations. Auto-activating skill for Test Automation.\nTriggers on: property based test helper, property based test helper\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"property based test helper\", \"property helper\", \"property\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/property-based-test-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-pytest-test-generator",
+    "name": "pytest-test-generator",
+    "description": "Generate pytest test generator operations. Auto-activating skill for Test Automation.\nTriggers on: pytest test generator, pytest test generator\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"pytest test generator\", \"pytest generator\", \"pytest\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/pytest-test-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-snapshot-test-helper",
+    "name": "snapshot-test-helper",
+    "description": "Assist with snapshot test helper operations. Auto-activating skill for Test Automation.\nTriggers on: snapshot test helper, snapshot test helper\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"snapshot test helper\", \"snapshot helper\", \"snapshot\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/snapshot-test-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-spy-setup-helper",
+    "name": "spy-setup-helper",
+    "description": "Assist with spy setup helper operations. Auto-activating skill for Test Automation.\nTriggers on: spy setup helper, spy setup helper\nPart of the Test Automation skill category. Use when working with spy setup helper functionality. Trigger with phrases like \"spy setup helper\", \"spy helper\", \"spy\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/spy-setup-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-stub-creator",
+    "name": "stub-creator",
+    "description": "Create stub creator operations. Auto-activating skill for Test Automation.\nTriggers on: stub creator, stub creator\nPart of the Test Automation skill category. Use when working with stub creator functionality. Trigger with phrases like \"stub creator\", \"stub creator\", \"stub\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/stub-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-test-data-builder",
+    "name": "test-data-builder",
+    "description": "Test Data Builder - Auto-activating skill for Test Automation.\nTriggers on: test data builder, test data builder\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"test data builder\", \"test builder\", \"test\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/test-data-builder"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-test-naming-enforcer",
+    "name": "test-naming-enforcer",
+    "description": "Test Naming Enforcer - Auto-activating skill for Test Automation.\nTriggers on: test naming enforcer, test naming enforcer\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"test naming enforcer\", \"test enforcer\", \"test\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/test-naming-enforcer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-test-organization-helper",
+    "name": "test-organization-helper",
+    "description": "Test Organization Helper - Auto-activating skill for Test Automation.\nTriggers on: test organization helper, test organization helper\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"test organization helper\", \"test helper\", \"test\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/test-organization-helper"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-test-parallelizer",
+    "name": "test-parallelizer",
+    "description": "Test Parallelizer - Auto-activating skill for Test Automation.\nTriggers on: test parallelizer, test parallelizer\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"test parallelizer\", \"test parallelizer\", \"test\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/test-parallelizer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-test-retry-config",
+    "name": "test-retry-config",
+    "description": "Test Retry Config - Auto-activating skill for Test Automation.\nTriggers on: test retry config, test retry config\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"test retry config\", \"test config\", \"test\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/test-retry-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-unittest-test-creator",
+    "name": "unittest-test-creator",
+    "description": "Create unittest test creator operations. Auto-activating skill for Test Automation.\nTriggers on: unittest test creator, unittest test creator\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"unittest test creator\", \"unittest creator\", \"unittest\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/unittest-test-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-vitest-test-creator",
+    "name": "vitest-test-creator",
+    "description": "Create vitest test creator operations. Auto-activating skill for Test Automation.\nTriggers on: vitest test creator, vitest test creator\nPart of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like \"vitest test creator\", \"vitest creator\", \"vitest\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/vitest-test-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-apdex-score-calculator",
+    "name": "apdex-score-calculator",
+    "description": "Calculate apdex score calculator operations. Auto-activating skill for Performance Testing.\nTriggers on: apdex score calculator, apdex score calculator\nPart of the Performance Testing skill category. Use when working with apdex score calculator functionality. Trigger with phrases like \"apdex score calculator\", \"apdex calculator\", \"apdex\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/apdex-score-calculator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-artillery-config-generator",
+    "name": "artillery-config-generator",
+    "description": "Generate artillery config generator operations. Auto-activating skill for Performance Testing.\nTriggers on: artillery config generator, artillery config generator\nPart of the Performance Testing skill category. Use when configuring systems or services. Trigger with phrases like \"artillery config generator\", \"artillery generator\", \"artillery\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/artillery-config-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-benchmark-suite-creator",
+    "name": "benchmark-suite-creator",
+    "description": "Create benchmark suite creator operations. Auto-activating skill for Performance Testing.\nTriggers on: benchmark suite creator, benchmark suite creator\nPart of the Performance Testing skill category. Use when working with benchmark suite creator functionality. Trigger with phrases like \"benchmark suite creator\", \"benchmark creator\", \"benchmark\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/benchmark-suite-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-bottleneck-identifier",
+    "name": "bottleneck-identifier",
+    "description": "Execute bottleneck identifier operations. Auto-activating skill for Performance Testing.\nTriggers on: bottleneck identifier, bottleneck identifier\nPart of the Performance Testing skill category. Use when working with bottleneck identifier functionality. Trigger with phrases like \"bottleneck identifier\", \"bottleneck identifier\", \"bottleneck\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/bottleneck-identifier"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-connection-pool-analyzer",
+    "name": "connection-pool-analyzer",
+    "description": "Analyze connection pool analyzer operations. Auto-activating skill for Performance Testing.\nTriggers on: connection pool analyzer, connection pool analyzer\nPart of the Performance Testing skill category. Use when analyzing or auditing connection pool analyzer. Trigger with phrases like \"connection pool analyzer\", \"connection analyzer\", \"analyze connection pool r\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/connection-pool-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-cpu-profiler-config",
+    "name": "cpu-profiler-config",
+    "description": "Configure cpu profiler config operations. Auto-activating skill for Performance Testing.\nTriggers on: cpu profiler config, cpu profiler config\nPart of the Performance Testing skill category. Use when configuring systems or services. Trigger with phrases like \"cpu profiler config\", \"cpu config\", \"cpu\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/cpu-profiler-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-database-query-profiler",
+    "name": "database-query-profiler",
+    "description": "Profile database query profiler operations. Auto-activating skill for Performance Testing.\nTriggers on: database query profiler, database query profiler\nPart of the Performance Testing skill category. Use when working with database query profiler functionality. Trigger with phrases like \"database query profiler\", \"database profiler\", \"database\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/database-query-profiler"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-flame-graph-generator",
+    "name": "flame-graph-generator",
+    "description": "Generate flame graph generator operations. Auto-activating skill for Performance Testing.\nTriggers on: flame graph generator, flame graph generator\nPart of the Performance Testing skill category. Use when working with flame graph generator functionality. Trigger with phrases like \"flame graph generator\", \"flame generator\", \"flame\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/flame-graph-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-gatling-scenario-creator",
+    "name": "gatling-scenario-creator",
+    "description": "Create gatling scenario creator operations. Auto-activating skill for Performance Testing.\nTriggers on: gatling scenario creator, gatling scenario creator\nPart of the Performance Testing skill category. Use when working with gatling scenario creator functionality. Trigger with phrases like \"gatling scenario creator\", \"gatling creator\", \"gatling\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/gatling-scenario-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-gc-log-analyzer",
+    "name": "gc-log-analyzer",
+    "description": "Analyze gc log analyzer operations. Auto-activating skill for Performance Testing.\nTriggers on: gc log analyzer, gc log analyzer\nPart of the Performance Testing skill category. Use when analyzing or auditing gc log analyzer. Trigger with phrases like \"gc log analyzer\", \"gc analyzer\", \"analyze gc log r\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/gc-log-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-heap-dump-analyzer",
+    "name": "heap-dump-analyzer",
+    "description": "Analyze heap dump analyzer operations. Auto-activating skill for Performance Testing.\nTriggers on: heap dump analyzer, heap dump analyzer\nPart of the Performance Testing skill category. Use when analyzing or auditing heap dump analyzer. Trigger with phrases like \"heap dump analyzer\", \"heap analyzer\", \"analyze heap dump r\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/heap-dump-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-jmeter-test-plan-creator",
+    "name": "jmeter-test-plan-creator",
+    "description": "Create jmeter test plan creator operations. Auto-activating skill for Performance Testing.\nTriggers on: jmeter test plan creator, jmeter test plan creator\nPart of the Performance Testing skill category. Use when writing or running tests. Trigger with phrases like \"jmeter test plan creator\", \"jmeter creator\", \"jmeter\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/jmeter-test-plan-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-k6-script-generator",
+    "name": "k6-script-generator",
+    "description": "Generate k6 script generator operations. Auto-activating skill for Performance Testing.\nTriggers on: k6 script generator, k6 script generator\nPart of the Performance Testing skill category. Use when working with k6 script generator functionality. Trigger with phrases like \"k6 script generator\", \"k6 generator\", \"k6\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/k6-script-generator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-load-test-scenario-planner",
+    "name": "load-test-scenario-planner",
+    "description": "Plan load test scenario planner operations. Auto-activating skill for Performance Testing.\nTriggers on: load test scenario planner, load test scenario planner\nPart of the Performance Testing skill category. Use when writing or running tests. Trigger with phrases like \"load test scenario planner\", \"load planner\", \"load\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/load-test-scenario-planner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-locust-test-creator",
+    "name": "locust-test-creator",
+    "description": "Create locust test creator operations. Auto-activating skill for Performance Testing.\nTriggers on: locust test creator, locust test creator\nPart of the Performance Testing skill category. Use when writing or running tests. Trigger with phrases like \"locust test creator\", \"locust creator\", \"locust\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/locust-test-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-memory-profiler-setup",
+    "name": "memory-profiler-setup",
+    "description": "Configure memory profiler setup operations. Auto-activating skill for Performance Testing.\nTriggers on: memory profiler setup, memory profiler setup\nPart of the Performance Testing skill category. Use when working with memory profiler setup functionality. Trigger with phrases like \"memory profiler setup\", \"memory setup\", \"memory\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/memory-profiler-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-network-latency-tester",
+    "name": "network-latency-tester",
+    "description": "Test network latency tester operations. Auto-activating skill for Performance Testing.\nTriggers on: network latency tester, network latency tester\nPart of the Performance Testing skill category. Use when writing or running tests. Trigger with phrases like \"network latency tester\", \"network tester\", \"network\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/network-latency-tester"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-percentile-analyzer",
+    "name": "percentile-analyzer",
+    "description": "Analyze percentile analyzer operations. Auto-activating skill for Performance Testing.\nTriggers on: percentile analyzer, percentile analyzer\nPart of the Performance Testing skill category. Use when analyzing or auditing percentile analyzer. Trigger with phrases like \"percentile analyzer\", \"percentile analyzer\", \"analyze percentile r\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/percentile-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-performance-baseline-creator",
+    "name": "performance-baseline-creator",
+    "description": "Create performance baseline creator operations. Auto-activating skill for Performance Testing.\nTriggers on: performance baseline creator, performance baseline creator\nPart of the Performance Testing skill category. Use when working with performance baseline creator functionality. Trigger with phrases like \"performance baseline creator\", \"performance creator\", \"performance\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/performance-baseline-creator"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-response-time-analyzer",
+    "name": "response-time-analyzer",
+    "description": "Analyze response time analyzer operations. Auto-activating skill for Performance Testing.\nTriggers on: response time analyzer, response time analyzer\nPart of the Performance Testing skill category. Use when analyzing or auditing response time analyzer. Trigger with phrases like \"response time analyzer\", \"response analyzer\", \"analyze response time r\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/response-time-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-soak-test-planner",
+    "name": "soak-test-planner",
+    "description": "Plan soak test planner operations. Auto-activating skill for Performance Testing.\nTriggers on: soak test planner, soak test planner\nPart of the Performance Testing skill category. Use when writing or running tests. Trigger with phrases like \"soak test planner\", \"soak planner\", \"soak\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/soak-test-planner"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-spike-test-setup",
+    "name": "spike-test-setup",
+    "description": "Configure spike test setup operations. Auto-activating skill for Performance Testing.\nTriggers on: spike test setup, spike test setup\nPart of the Performance Testing skill category. Use when writing or running tests. Trigger with phrases like \"spike test setup\", \"spike setup\", \"spike\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/spike-test-setup"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-stress-test-config",
+    "name": "stress-test-config",
+    "description": "Configure stress test config operations. Auto-activating skill for Performance Testing.\nTriggers on: stress test config, stress test config\nPart of the Performance Testing skill category. Use when writing or running tests. Trigger with phrases like \"stress test config\", \"stress config\", \"stress\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/stress-test-config"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-thread-dump-analyzer",
+    "name": "thread-dump-analyzer",
+    "description": "Analyze thread dump analyzer operations. Auto-activating skill for Performance Testing.\nTriggers on: thread dump analyzer, thread dump analyzer\nPart of the Performance Testing skill category. Use when analyzing or auditing thread dump analyzer. Trigger with phrases like \"thread dump analyzer\", \"thread analyzer\", \"analyze thread dump r\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/thread-dump-analyzer"
+  },
+  {
+    "id": "jeremylongshore-claude-code-plugins-plus-skills-throughput-calculator",
+    "name": "throughput-calculator",
+    "description": "Calculate throughput calculator operations. Auto-activating skill for Performance Testing.\nTriggers on: throughput calculator, throughput calculator\nPart of the Performance Testing skill category. Use when working with throughput calculator functionality. Trigger with phrases like \"throughput calculator\", \"throughput calculator\", \"throughput\".\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 920,
+    "updatedAt": "2026-01-08T21:10:22Z",
+    "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/throughput-calculator"
   }
 ]
