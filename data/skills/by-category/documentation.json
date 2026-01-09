@@ -1,0 +1,18 @@
+[
+  {
+    "id": "byeseechairten-payloadcms-skill",
+    "name": "payloadcms-skill",
+    "description": "Claude skill for PayloadCMS docs",
+    "category": "documentation",
+    "tags": [
+      "claude-skills",
+      "claude",
+      "skill",
+      "payloadcms",
+      "docs"
+    ],
+    "stars": 2,
+    "updatedAt": "2025-12-08T05:32:57Z",
+    "repoUrl": "https://github.com/ByeSeeChairTen/payloadcms-skill"
+  }
+]

@@ -1343,5 +1343,15 @@
     "stars": 24701,
     "updatedAt": "2026-01-08T21:19:10Z",
     "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/dbt-transformation-patterns"
+  },
+  {
+    "id": "zebbern-claude-code-guide-red-team-tools",
+    "name": "Red Team Tools and Methodology",
+    "description": "This skill should be used when the user asks to \"follow red team methodology\", \"perform bug bounty hunting\", \"automate reconnaissance\", \"hunt for XSS vulnerabilities\", \"enumerate subdomains\", or needs security researcher techniques and tool configurations from top bug bounty hunters.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/red-team-tools"
   }
 ]

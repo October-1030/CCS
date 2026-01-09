@@ -638,5 +638,115 @@
     "stars": 24701,
     "updatedAt": "2026-01-08T21:19:10Z",
     "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/javascript-testing-patterns"
+  },
+  {
+    "id": "zebbern-claude-code-guide-pentest-commands",
+    "name": "Pentest Commands",
+    "description": "This skill should be used when the user asks to \"run pentest commands\", \"scan with nmap\", \"use metasploit exploits\", \"crack passwords with hydra or john\", \"scan web vulnerabilities with nikto\", \"enumerate networks\", or needs essential penetration testing command references.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/pentest-commands"
+  },
+  {
+    "id": "zebbern-claude-code-guide-pentest-checklist",
+    "name": "Pentest Checklist",
+    "description": "This skill should be used when the user asks to \"plan a penetration test\", \"create a security assessment checklist\", \"prepare for penetration testing\", \"define pentest scope\", \"follow security testing best practices\", or needs a structured methodology for penetration testing engagements.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/pentest-checklist"
+  },
+  {
+    "id": "zebbern-claude-code-guide-xss-html-injection",
+    "name": "Cross-Site Scripting and HTML Injection Testing",
+    "description": "This skill should be used when the user asks to \"test for XSS vulnerabilities\", \"perform cross-site scripting attacks\", \"identify HTML injection flaws\", \"exploit client-side injection vulnerabilities\", \"steal cookies via XSS\", or \"bypass content security policies\". It provides comprehensive techniques for detecting, exploiting, and understanding XSS and HTML injection attack vectors in web applications.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/xss-html-injection"
+  },
+  {
+    "id": "zebbern-claude-code-guide-file-path-traversal",
+    "name": "File Path Traversal Testing",
+    "description": "This skill should be used when the user asks to \"test for directory traversal\", \"exploit path traversal vulnerabilities\", \"read arbitrary files through web applications\", \"find LFI vulnerabilities\", or \"access files outside web root\". It provides comprehensive file path traversal attack and testing methodologies.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/file-path-traversal"
+  },
+  {
+    "id": "zebbern-claude-code-guide-broken-authentication",
+    "name": "Broken Authentication Testing",
+    "description": "This skill should be used when the user asks to \"test for broken authentication vulnerabilities\", \"assess session management security\", \"perform credential stuffing tests\", \"evaluate password policies\", \"test for session fixation\", or \"identify authentication bypass flaws\". It provides comprehensive techniques for identifying authentication and session management weaknesses in web applications.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/broken-authentication"
+  },
+  {
+    "id": "zebbern-claude-code-guide-html-injection-testing",
+    "name": "HTML Injection Testing",
+    "description": "This skill should be used when the user asks to \"test for HTML injection\", \"inject HTML into web pages\", \"perform HTML injection attacks\", \"deface web applications\", or \"test content injection vulnerabilities\". It provides comprehensive HTML injection attack techniques and testing methodologies.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/html-injection-testing"
+  },
+  {
+    "id": "zebbern-claude-code-guide-ssh-penetration-testing",
+    "name": "SSH Penetration Testing",
+    "description": "This skill should be used when the user asks to \"pentest SSH services\", \"enumerate SSH configurations\", \"brute force SSH credentials\", \"exploit SSH vulnerabilities\", \"perform SSH tunneling\", or \"audit SSH security\". It provides comprehensive SSH penetration testing methodologies and techniques.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/ssh-penetration-testing"
+  },
+  {
+    "id": "zebbern-claude-code-guide-cloud-penetration-testing",
+    "name": "Cloud Penetration Testing",
+    "description": "This skill should be used when the user asks to \"perform cloud penetration testing\", \"assess Azure or AWS or GCP security\", \"enumerate cloud resources\", \"exploit cloud misconfigurations\", \"test O365 security\", \"extract secrets from cloud environments\", or \"audit cloud infrastructure\". It provides comprehensive techniques for security assessment across major cloud platforms.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/cloud-penetration-testing"
+  },
+  {
+    "id": "zebbern-claude-code-guide-ethical-hacking-methodology",
+    "name": "Ethical Hacking Methodology",
+    "description": "This skill should be used when the user asks to \"learn ethical hacking\", \"understand penetration testing lifecycle\", \"perform reconnaissance\", \"conduct security scanning\", \"exploit vulnerabilities\", or \"write penetration test reports\". It provides comprehensive ethical hacking methodology and techniques.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/ethical-hacking-methodology"
+  },
+  {
+    "id": "zebbern-claude-code-guide-wordpress-penetration-testing",
+    "name": "WordPress Penetration Testing",
+    "description": "This skill should be used when the user asks to \"pentest WordPress sites\", \"scan WordPress for vulnerabilities\", \"enumerate WordPress users, themes, or plugins\", \"exploit WordPress vulnerabilities\", or \"use WPScan\". It provides comprehensive WordPress security assessment methodologies.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/wordpress-penetration-testing"
+  },
+  {
+    "id": "diet103-claude-code-infrastructure-showcase-skill-developer",
+    "name": "skill-developer",
+    "description": "Create and manage Claude Code skills following Anthropic best practices. Use when creating new skills, modifying skill-rules.json, understanding trigger patterns, working with hooks, debugging skill activation, or implementing progressive disclosure. Covers skill structure, YAML frontmatter, trigger types (keywords, intent patterns, file paths, content patterns), enforcement levels (block, suggest, warn), hook mechanisms (UserPromptSubmit, PreToolUse), session tracking, and the 500-line rule.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 8244,
+    "updatedAt": "2026-01-09T06:28:32Z",
+    "repoUrl": "https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/skill-developer"
   }
 ]
