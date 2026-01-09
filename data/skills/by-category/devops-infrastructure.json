@@ -1532,5 +1532,245 @@
     "stars": 16,
     "updatedAt": "2026-01-09T17:04:39Z",
     "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/devops-deployment"
+  },
+  {
+    "id": "oaustegard-claude-skills-reviewing-ai-papers",
+    "name": "reviewing-ai-papers",
+    "description": "Analyze AI/ML technical content (papers, articles, blog posts) and extract actionable insights filtered through enterprise AI engineering lens. Use when user provides URL/document for AI/ML content analysis, asks to \"review this paper\", or mentions technical content in domains like RAG, embeddings, fine-tuning, prompt engineering, LLM deployment.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/reviewing-ai-papers"
+  },
+  {
+    "id": "jezweb-claude-skills-google-spaces-updates",
+    "name": "google-spaces-updates",
+    "description": "Post team updates to Google Chat Spaces via webhook. Deployment notifications, bug fixes, feature announcements, questions. Reads config from .claude/settings.json, includes git context.\n\nUse when: \"post to team\", \"notify team\", after deployments, completing features, fixing bugs, asking team questions.\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/google-spaces-updates"
+  },
+  {
+    "id": "itsmostafa-aws-agent-skills-ecs",
+    "name": "ecs",
+    "description": "AWS ECS container orchestration for running Docker containers. Use when deploying containerized applications, configuring task definitions, setting up services, managing clusters, or troubleshooting container issues.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 934,
+    "updatedAt": "2026-01-09T16:08:05Z",
+    "repoUrl": "https://github.com/itsmostafa/aws-agent-skills/tree/main/skills/ecs"
+  },
+  {
+    "id": "itsmostafa-aws-agent-skills-eks",
+    "name": "eks",
+    "description": "AWS EKS Kubernetes management for clusters, node groups, and workloads. Use when creating clusters, configuring IRSA, managing node groups, deploying applications, or integrating with AWS services.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 934,
+    "updatedAt": "2026-01-09T16:08:05Z",
+    "repoUrl": "https://github.com/itsmostafa/aws-agent-skills/tree/main/skills/eks"
+  },
+  {
+    "id": "itsmostafa-aws-agent-skills-cloudformation",
+    "name": "cloudformation",
+    "description": "AWS CloudFormation infrastructure as code for stack management. Use when writing templates, deploying stacks, managing drift, troubleshooting deployments, or organizing infrastructure with nested stacks.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 934,
+    "updatedAt": "2026-01-09T16:08:05Z",
+    "repoUrl": "https://github.com/itsmostafa/aws-agent-skills/tree/main/skills/cloudformation"
+  },
+  {
+    "id": "nickcrew-claude-cortex-terraform-best-practices",
+    "name": "terraform-best-practices",
+    "description": "Terraform infrastructure-as-code best practices for scalable and maintainable cloud infrastructure. Use when writing Terraform modules, managing infrastructure state, or implementing infrastructure automation at scale.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/terraform-best-practices"
+  },
+  {
+    "id": "nickcrew-claude-cortex-kubernetes-security-policies",
+    "name": "kubernetes-security-policies",
+    "description": "Kubernetes security policies, RBAC, and Pod Security Standards for hardened cluster deployments. Use when implementing cluster security, defining network policies, or enforcing security compliance in Kubernetes environments.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/kubernetes-security-policies"
+  },
+  {
+    "id": "nickcrew-claude-cortex-gitops-workflows",
+    "name": "gitops-workflows",
+    "description": "GitOps workflows and patterns using ArgoCD and Flux for declarative Kubernetes deployments. Use when implementing CI/CD for Kubernetes, managing multi-environment deployments, or adopting declarative infrastructure practices.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/gitops-workflows"
+  },
+  {
+    "id": "zxkane-aws-skills-aws-agentic-ai",
+    "name": "aws-agentic-ai",
+    "description": "AWS Bedrock AgentCore comprehensive expert for deploying and managing all AgentCore services. Use when working with Gateway, Runtime, Memory, Identity, or any AgentCore component. Covers MCP target deployment, credential management, schema optimization, runtime configuration, memory management, and identity services.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 74,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/zxkane/aws-skills/tree/main/plugins/aws-agentic-ai/skills/aws-agentic-ai"
+  },
+  {
+    "id": "rjmurillo-ai-agents-security-detection",
+    "name": "security-detection",
+    "description": "Detect infrastructure and security-critical file changes to trigger security agent review recommendations ensuring proper security oversight for sensitive modifications.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T18:00:00Z",
+    "repoUrl": "https://github.com/rjmurillo/ai-agents/tree/main/.claude/skills/security-detection"
+  },
+  {
+    "id": "lttr-claude-marketplace-insights",
+    "name": "df:insights",
+    "description": "Generate daily and weekly codebase activity summaries from Azure DevOps (PRs, work items), local git commits, and Confluence. Use when asked about \"what happened\", \"codebase activity\", \"team summary\", \"pr summary\", or to understand what's going on in a large codebase.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:19:26Z",
+    "repoUrl": "https://github.com/lttr/claude-marketplace/tree/main/plugins/dev-flow/skills/insights"
+  },
+  {
+    "id": "lttr-claude-marketplace-az-cli",
+    "name": "df:az-cli",
+    "description": "This skill should be used when working with Azure DevOps from the command line. Trigger when user mentions az devops, az repos, az pipelines, az boards, or asks about managing PRs, work items, pipelines, or repositories in Azure DevOps. Also trigger for questions about Azure DevOps CLI setup, authentication, or querying work items.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:19:26Z",
+    "repoUrl": "https://github.com/lttr/claude-marketplace/tree/main/plugins/dev-flow/skills/sources/az-cli"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-b4c5d6e7-f8a9-4b5c-8d9e-4f5a6b7c8d9e",
+    "name": "writing-skills",
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/b4c5d6e7-f8a9-4b5c-8d9e-4f5a6b7c8d9e"
+  },
+  {
+    "id": "codingcossack-agent-skills-library-writing-skills",
+    "name": "writing-skills",
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-05T23:24:47Z",
+    "repoUrl": "https://github.com/CodingCossack/agent-skills-library/tree/main/skills/writing-skills"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-installing-skill-tracker",
+    "name": "installing-skill-tracker",
+    "description": "Installs Claude Code hooks for automatic skill usage measurement.\nUse when setting up skill tracking infrastructure in a new project.\nNOT when hooks are already installed (run verify.py to check).\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/.claude/skills/installing-skill-tracker"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-containerize-apps",
+    "name": "containerize-apps",
+    "description": "Containerizes applications with impact-aware Dockerfiles and docker-compose configurations. This skill should be used when containerizing projects for Docker, creating Dockerfiles, docker-compose files, or preparing applications for Kubernetes deployment. It performs impact analysis first (env vars, network topology, auth/CORS), then generates properly configured container configs. Invokes the impact-analyzer subagent for comprehensive project scanning.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/docs/taskflow-vault/skills/engineering/containerize-apps"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-kubectl-ai",
+    "name": "kubectl-ai",
+    "description": "AI-powered Kubernetes operations using kubectl-ai from Google Cloud Platform. This skill should be used when managing Kubernetes clusters with natural language commands, generating manifests, troubleshooting issues, and performing AI-assisted DevOps. Use this skill for Phase IV AIOps integration with Minikube and cloud clusters.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/docs/taskflow-vault/skills/engineering/kubectl-ai"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-deploying-postgres-k8s",
+    "name": "deploying-postgres-k8s",
+    "description": "Deploys PostgreSQL on Kubernetes using the CloudNativePG operator with automated failover.\nUse when setting up PostgreSQL for production workloads, high availability, or local K8s development.\nCovers operator installation, cluster creation, connection secrets, and backup configuration.\nNOT when using managed Postgres (Neon, RDS, Cloud SQL) or simple Docker containers.\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/.claude/skills/deploying-postgres-k8s"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-helm-charts",
+    "name": "helm-charts",
+    "description": "Creates and manages Helm charts for Kubernetes deployments. This skill should be used when packaging applications for Kubernetes using Helm, creating Chart.yaml, values.yaml, and templates. It covers chart structure, templating, dependencies, and deployment patterns. Use this skill for Phase IV+ Kubernetes deployments.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/docs/taskflow-vault/skills/engineering/helm-charts"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-configuring-dapr-pubsub",
+    "name": "configuring-dapr-pubsub",
+    "description": "Configures Dapr pub/sub components for event-driven microservices with Kafka or Redis.\nUse when wiring agent-to-agent communication, setting up event subscriptions, or integrating Dapr sidecars.\nCovers component configuration, subscription patterns, publishing events, and Kubernetes deployment.\nNOT when using direct Kafka clients or non-Dapr messaging patterns.\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/.claude/skills/configuring-dapr-pubsub"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-session-intelligence-harvester",
+    "name": "session-intelligence-harvester",
+    "description": "This skill should be used after productive sessions to extract learnings and route them to appropriate Reusable Intelligence Infrastructure (RII) components. Use when corrections were made, format drift was fixed, new patterns emerged, or the user explicitly asks to \"harvest learnings\" or \"capture session intelligence\". Transforms one-time fixes into permanent organizational knowledge by implementing updates across multiple files.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/docs/taskflow-vault/skills/engineering/session-intelligence-harvester"
+  },
+  {
+    "id": "mpuig-claude-cloud-diagrams-aws-diagram",
+    "name": "aws-diagram",
+    "description": "Generate AWS architecture diagrams from infrastructure JSON. Use when user asks to \"generate diagram\", \"create AWS diagram\", \"visualize infrastructure\", or \"draw architecture\".",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2025-12-22T19:03:24Z",
+    "repoUrl": "https://github.com/mpuig/claude-cloud-diagrams/tree/main/skills/aws-diagram"
+  },
+  {
+    "id": "mpuig-claude-cloud-diagrams-aws-discover",
+    "name": "aws-discover",
+    "description": "Discover AWS infrastructure and save to JSON. Use when user asks to \"discover AWS\", \"explore AWS account\", \"scan AWS infrastructure\", or \"create infrastructure JSON\".",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2025-12-22T19:03:24Z",
+    "repoUrl": "https://github.com/mpuig/claude-cloud-diagrams/tree/main/skills/aws-discover"
+  },
+  {
+    "id": "huggingface-skills-hugging-face-cli",
+    "name": "hugging-face-cli",
+    "description": "Execute Hugging Face Hub operations using the `hf` CLI. Use when the user needs to download models/datasets/spaces, upload files to Hub repositories, create repos, manage local cache, or run compute jobs on HF infrastructure. Covers authentication, file transfers, repository creation, cache operations, and cloud compute.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 846,
+    "updatedAt": "2026-01-09T18:29:21Z",
+    "repoUrl": "https://github.com/huggingface/skills/tree/main/skills/hugging-face-cli"
   }
 ]

@@ -678,5 +678,15 @@
     "stars": 6,
     "updatedAt": "2026-01-09T17:18:02Z",
     "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-enums"
+  },
+  {
+    "id": "oalders-talk-about-us-talk-about-us",
+    "name": "talk-about-us",
+    "description": "Use when auditing or reviewing website copy, SEO titles/descriptions, marketing content, or public messaging - applies Anil Dash's shareability framework to ensure others can authentically talk about your work without you present",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:32:05Z",
+    "repoUrl": "https://github.com/oalders/talk-about-us/tree/main/skills/talk-about-us"
   }
 ]

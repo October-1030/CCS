@@ -2132,5 +2132,675 @@
     "stars": 16,
     "updatedAt": "2026-01-09T17:04:39Z",
     "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/test-data-management"
+  },
+  {
+    "id": "squirrelfishcityhall150-claude-code-kit-route-tester",
+    "name": "route-tester",
+    "description": "Framework-agnostic HTTP API route testing patterns, authentication strategies, and integration testing best practices. Supports REST APIs with JWT cookie authentication and other common auth patterns.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T16:57:26Z",
+    "repoUrl": "https://github.com/Squirrelfishcityhall150/claude-code-kit/tree/main/cli/core/skills/route-tester"
+  },
+  {
+    "id": "squirrelfishcityhall150-claude-code-kit-prisma",
+    "name": "prisma",
+    "description": "Prisma ORM patterns including Prisma Client usage, queries, mutations, relations, transactions, and schema management. Use when working with Prisma database operations or schema definitions.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T16:57:26Z",
+    "repoUrl": "https://github.com/Squirrelfishcityhall150/claude-code-kit/tree/main/cli/kits/prisma/skills/prisma"
+  },
+  {
+    "id": "squirrelfishcityhall150-claude-code-kit-express",
+    "name": "express",
+    "description": "Express.js framework patterns including routing, middleware, request/response handling, and Express-specific APIs. Use when working with Express routes, middleware, or Express applications.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T16:57:26Z",
+    "repoUrl": "https://github.com/Squirrelfishcityhall150/claude-code-kit/tree/main/cli/kits/express/skills/express"
+  },
+  {
+    "id": "squirrelfishcityhall150-claude-code-kit-tanstack-query",
+    "name": "tanstack-query",
+    "description": "TanStack Query v5 data fetching patterns including useSuspenseQuery, useQuery, mutations, cache management, and API service integration. Use when fetching data, managing server state, or working with TanStack Query hooks.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T16:57:26Z",
+    "repoUrl": "https://github.com/Squirrelfishcityhall150/claude-code-kit/tree/main/cli/kits/tanstack-query/skills/tanstack-query"
+  },
+  {
+    "id": "timescale-pg-aiguide-find-hypertable-candidates",
+    "name": "find-hypertable-candidates",
+    "description": "Analyze an existing PostgreSQL database to identify tables that would benefit from conversion to TimescaleDB hypertables",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 1337,
+    "updatedAt": "2026-01-09T18:12:21Z",
+    "repoUrl": "https://github.com/timescale/pg-aiguide/tree/main/skills/find-hypertable-candidates"
+  },
+  {
+    "id": "oaustegard-claude-skills-controlling-spotify",
+    "name": "controlling-spotify",
+    "description": "Control Spotify playback and manage playlists via MCP server. Use when user requests playing music, controlling Spotify, creating playlists, searching songs, or managing their Spotify library.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/controlling-spotify"
+  },
+  {
+    "id": "oaustegard-claude-skills-orchestrating-agents",
+    "name": "orchestrating-agents",
+    "description": "Orchestrates parallel API instances, delegated sub-tasks, and multi-agent workflows with streaming and tool-enabled delegation patterns. Use for parallel analysis, multi-perspective reviews, or complex task decomposition.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/orchestrating-agents"
+  },
+  {
+    "id": "oaustegard-claude-skills-accessing-github-repos",
+    "name": "accessing-github-repos",
+    "description": "GitHub repository access in containerized environments using REST API and credential detection. Use when git clone fails, or when accessing private repos/writing files via API.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/accessing-github-repos"
+  },
+  {
+    "id": "oaustegard-claude-skills-invoking-gemini",
+    "name": "invoking-gemini",
+    "description": "Invokes Google Gemini models for structured outputs, multi-modal tasks, and Google-specific features. Use when users request Gemini, structured JSON output, Google API integration, or cost-effective parallel processing.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/invoking-gemini"
+  },
+  {
+    "id": "oaustegard-claude-skills-browsing-bluesky",
+    "name": "browsing-bluesky",
+    "description": "Browse Bluesky content via API and firehose - search posts, fetch user activity, sample trending topics, read feeds and lists. Use for Bluesky research, user monitoring, trend analysis, feed reading, firehose sampling.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/browsing-bluesky"
+  },
+  {
+    "id": "oaustegard-claude-skills-api-credentials",
+    "name": "api-credentials",
+    "description": "Securely manages API credentials for multiple providers (Anthropic Claude, Google Gemini, GitHub). Use when skills need to access stored API keys for external service invocations.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/api-credentials"
+  },
+  {
+    "id": "oaustegard-claude-skills-convening-experts",
+    "name": "convening-experts",
+    "description": "Convenes expert panels for problem-solving. Use when user mentions panel, experts, multiple perspectives, MECE, DMAIC, RAPID, Six Sigma, root cause analysis, strategic decisions, or process improvement.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/convening-experts"
+  },
+  {
+    "id": "jezweb-claude-skills-clerk-auth",
+    "name": "clerk-auth",
+    "description": "Clerk auth with API Keys beta (Dec 2025), Next.js 16 proxy.ts, API version 2025-11-10 breaking changes, clerkMiddleware() options, webhooks, and component reference. Use when: API keys for users/orgs, Next.js 16 middleware filename, troubleshooting JWKS/CSRF/JWT errors, webhook verification, or testing with 424242 OTP.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/clerk-auth"
+  },
+  {
+    "id": "jezweb-claude-skills-cloudflare-kv",
+    "name": "cloudflare-kv",
+    "description": "Store key-value data globally with Cloudflare KV's edge network. Use when: caching API responses, storing configuration, managing user preferences, handling TTL expiration, or troubleshooting KV_ERROR, 429 rate limits, eventual consistency, or cacheTtl errors.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-kv"
+  },
+  {
+    "id": "jezweb-claude-skills-google-gemini-api",
+    "name": "google-gemini-api",
+    "description": "Integrate Gemini API with @google/genai SDK (NOT deprecated @google/generative-ai). Text generation, multimodal (images/video/audio/PDFs), function calling, thinking mode, streaming. 1M input tokens.\n\nUse when: Gemini integration, multimodal AI, reasoning with thinking mode. Troubleshoot: SDK deprecation, model not found, context window, function calling errors.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/google-gemini-api"
+  },
+  {
+    "id": "jezweb-claude-skills-cloudflare-images",
+    "name": "cloudflare-images",
+    "description": "Store and transform images with Cloudflare Images API and transformations. Use when: uploading images, implementing direct creator uploads, creating variants, generating signed URLs, optimizing formats (WebP/AVIF), transforming via Workers, or debugging CORS, multipart, or error codes 9401-9413.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-images"
+  },
+  {
+    "id": "jezweb-claude-skills-firecrawl-scraper",
+    "name": "firecrawl-scraper",
+    "description": "Convert websites into LLM-ready markdown with Firecrawl v4 API. Handles JavaScript rendering, anti-bot bypass, and structured data extraction for RAG and AI applications.\n\nUse when: scraping websites, crawling sites, or troubleshooting content not loading, JavaScript rendering, or bot detection.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/firecrawl-scraper"
+  },
+  {
+    "id": "jezweb-claude-skills-neon-vercel-postgres",
+    "name": "neon-vercel-postgres",
+    "description": "Set up serverless Postgres with Neon or Vercel Postgres for Cloudflare Workers/Edge. Includes connection pooling, git-like branching, and Drizzle ORM integration.\n\nUse when: setting up edge Postgres, troubleshooting \"TCP not supported\", connection pool exhausted, or SSL config errors.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/neon-vercel-postgres"
+  },
+  {
+    "id": "jezweb-claude-skills-cloudflare-worker-base",
+    "name": "cloudflare-worker-base",
+    "description": "Set up Cloudflare Workers with Hono routing, Vite plugin, and Static Assets. Prevents 8 errors including export syntax, routing conflicts, HMR crashes, and free tier 429s.\n\nUse when: creating Workers projects, configuring Hono/Vite, or troubleshooting export syntax, API route conflicts, or HMR issues.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-worker-base"
+  },
+  {
+    "id": "jezweb-claude-skills-cloudflare-browser-rendering",
+    "name": "cloudflare-browser-rendering",
+    "description": "Add headless Chrome automation with Puppeteer/Playwright on Cloudflare Workers. Use when: taking screenshots, generating PDFs, web scraping, crawling sites, browser automation, or troubleshooting XPath errors, browser timeouts, binding not passed errors, or session limits.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-browser-rendering"
+  },
+  {
+    "id": "maxritter-claude-codepro-standards-models",
+    "name": "Models Standards",
+    "description": "Define database models with clear naming, appropriate data types, constraints, relationships, and validation at multiple layers. Use this skill when creating or modifying database model files, ORM classes, schema definitions, or data model relationships. Apply when working with model files (e.g., models.py, models/, ActiveRecord classes, Prisma schema, Sequelize models), defining table structures, setting up foreign keys and relationships, configuring cascade behaviors, implementing model validations, adding timestamps, or working with database constraints (NOT NULL, UNIQUE, foreign keys). Use for any task involving data integrity enforcement, relationship definitions, or model-level data validation.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 348,
+    "updatedAt": "2026-01-09T16:42:55Z",
+    "repoUrl": "https://github.com/maxritter/claude-codepro/tree/main/.claude/skills/standards-models"
+  },
+  {
+    "id": "maxritter-claude-codepro-standards-migration",
+    "name": "Migration Standards",
+    "description": "Create and manage database migrations with reversible changes, proper naming conventions, and zero-downtime deployment strategies. Use this skill when creating database migration files, modifying schema, adding or removing tables/columns, managing indexes, or handling data migrations. Apply when working with migration files (e.g., db/migrate/, migrations/, alembic/, sequelize migrations), schema changes, database versioning, rollback implementations, or when you need to ensure backwards compatibility during deployments. Use for any task involving database structure changes, index creation, constraint modifications, or data transformation scripts.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 348,
+    "updatedAt": "2026-01-09T16:42:55Z",
+    "repoUrl": "https://github.com/maxritter/claude-codepro/tree/main/.claude/skills/standards-migration"
+  },
+  {
+    "id": "dennisliuck-claude-plugin-marketplace-claude-opus-4-5-migration",
+    "name": "claude-opus-4-5-migration",
+    "description": "將提示詞和程式碼從 Claude Sonnet 4.0、Sonnet 4.5 或 Opus 4.1 遷移至 Opus 4.5。當使用者想要更新其程式碼庫、提示詞或 API 呼叫以使用 Opus 4.5 時使用。處理模型字串更新和針對已知 Opus 4.5 行為差異的提示詞調整。不會遷移 Haiku 4.5。",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T06:02:51Z",
+    "repoUrl": "https://github.com/DennisLiuCk/claude-plugin-marketplace/tree/main/plugins/claude-opus-4-5-migration/skills/claude-opus-4-5-migration"
+  },
+  {
+    "id": "troykelly-claude-skills-postgres-rls",
+    "name": "postgres-rls",
+    "description": "MANDATORY when touching auth tables, tenant isolation, RLS policies, or multi-tenant database code - enforces Row Level Security best practices and catches common bypass vulnerabilities",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/postgres-rls"
+  },
+  {
+    "id": "troykelly-claude-skills-local-service-testing",
+    "name": "local-service-testing",
+    "description": "Use when code changes touch database, cache, queue, or other service-dependent components - enforces testing against real local services instead of mocks",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/local-service-testing"
+  },
+  {
+    "id": "troykelly-claude-skills-api-documentation",
+    "name": "api-documentation",
+    "description": "Use when API code changes (routes, endpoints, schemas). Enforces Swagger/OpenAPI sync. Pauses work if documentation has drifted, triggering documentation-audit skill.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/api-documentation"
+  },
+  {
+    "id": "troykelly-claude-skills-github-api-cache",
+    "name": "github-api-cache",
+    "description": "MANDATORY before any GitHub project operations - caches project metadata to prevent rate limit exhaustion. Called by session-start. Other skills MUST use cached data.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/github-api-cache"
+  },
+  {
+    "id": "itsmostafa-aws-agent-skills-rds",
+    "name": "rds",
+    "description": "AWS RDS relational database service for managed databases. Use when provisioning databases, configuring backups, managing replicas, troubleshooting connectivity, or optimizing performance.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 934,
+    "updatedAt": "2026-01-09T16:08:05Z",
+    "repoUrl": "https://github.com/itsmostafa/aws-agent-skills/tree/main/skills/rds"
+  },
+  {
+    "id": "itsmostafa-aws-agent-skills-lambda",
+    "name": "lambda",
+    "description": "AWS Lambda serverless functions for event-driven compute. Use when creating functions, configuring triggers, debugging invocations, optimizing cold starts, setting up event source mappings, or managing layers.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 934,
+    "updatedAt": "2026-01-09T16:08:05Z",
+    "repoUrl": "https://github.com/itsmostafa/aws-agent-skills/tree/main/skills/lambda"
+  },
+  {
+    "id": "itsmostafa-aws-agent-skills-api-gateway",
+    "name": "api-gateway",
+    "description": "AWS API Gateway for REST and HTTP API management. Use when creating APIs, configuring integrations, setting up authorization, managing stages, implementing rate limiting, or troubleshooting API issues.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 934,
+    "updatedAt": "2026-01-09T16:08:05Z",
+    "repoUrl": "https://github.com/itsmostafa/aws-agent-skills/tree/main/skills/api-gateway"
+  },
+  {
+    "id": "nickcrew-claude-cortex-documentation-production",
+    "name": "documentation-production",
+    "description": "Use when generating, updating, or organizing documentation (component/API docs, project indexes, diagrams, tutorials, learning paths) - provides structured workflows and references for docs generation, indexing, diagrams, and teaching.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/documentation-production"
+  },
+  {
+    "id": "nickcrew-claude-cortex-brainstorming",
+    "name": "ctx-brainstorming",
+    "description": "Rapid ideation skill adapted from obra/superpowers to kick off cortex sessions. Use when defining scope, aligning on goals, or exploring solution space before coding.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/collaboration/brainstorming"
+  },
+  {
+    "id": "gcpdev-llm-council-skill-llm-council",
+    "name": "llm-council",
+    "description": "Multi-LLM collaborative brainstorming and planning. Use when user explicitly requests consultation with multiple AI models (ChatGPT, Gemini, other LLMs) before presenting an implementation plan, or asks to \"consult the council\", \"ask other models\", or \"get perspectives from other AIs\". Queries external LLM APIs, synthesizes their perspectives, and presents an adapted implementation plan.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-08T09:44:33Z",
+    "repoUrl": "https://github.com/gcpdev/llm-council-skill/tree/main/llm-council"
+  },
+  {
+    "id": "zxkane-aws-skills-aws-cost-operations",
+    "name": "aws-cost-operations",
+    "description": "This skill provides AWS cost optimization, monitoring, and operational best practices with integrated MCP servers for billing analysis, cost estimation, observability, and security assessment.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 74,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/zxkane/aws-skills/tree/main/plugins/aws-cost-ops/skills/aws-cost-operations"
+  },
+  {
+    "id": "itsmostafa-llm-engineering-skills-mlx",
+    "name": "mlx",
+    "description": "Running and fine-tuning LLMs on Apple Silicon with MLX. Use when working with models locally on Mac, converting Hugging Face models to MLX format, fine-tuning with LoRA/QLoRA on Apple Silicon, or serving models via HTTP API.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 10,
+    "updatedAt": "2026-01-06T06:11:30Z",
+    "repoUrl": "https://github.com/itsmostafa/llm-engineering-skills/tree/main/skills/mlx"
+  },
+  {
+    "id": "itsmostafa-llm-engineering-skills-transformers",
+    "name": "transformers",
+    "description": "Loading and using pretrained models with Hugging Face Transformers. Use when working with pretrained models from the Hub, running inference with Pipeline API, fine-tuning models with Trainer, or handling text, vision, audio, and multimodal tasks.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 10,
+    "updatedAt": "2026-01-06T06:11:30Z",
+    "repoUrl": "https://github.com/itsmostafa/llm-engineering-skills/tree/main/skills/transformers"
+  },
+  {
+    "id": "githubnext-gh-aw-github-mcp-server",
+    "name": "github-mcp-server",
+    "description": "GitHub MCP Server Documentation",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 287,
+    "updatedAt": "2026-01-09T18:32:54Z",
+    "repoUrl": "https://github.com/githubnext/gh-aw/tree/main/skills/github-mcp-server"
+  },
+  {
+    "id": "ebowwa-seed-distributed-claude-sender",
+    "name": "distributed-claude-sender",
+    "description": "Send prompts to a remote Claude instance on a VPS for distributed AI collaboration, different model backends, or independent context.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 3,
+    "updatedAt": "2026-01-09T18:11:44Z",
+    "repoUrl": "https://github.com/ebowwa/seed/tree/main/skills/distributed-claude-sender"
+  },
+  {
+    "id": "ebowwa-seed-distributed-claude-receiver",
+    "name": "distributed-claude-receiver",
+    "description": "You are a remote Claude instance running on a VPS. Receive messages via chat.sh wrapper, maintain persistent context, use Z.ai GLM backend via Doppler.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 3,
+    "updatedAt": "2026-01-09T18:11:44Z",
+    "repoUrl": "https://github.com/ebowwa/seed/tree/main/skills/distributed-claude-receiver"
+  },
+  {
+    "id": "lttr-claude-marketplace-browser-tools",
+    "name": "browser-tools",
+    "description": "Use this skill when the user asks to test, verify, interact with, or automate web pages and browsers. Trigger for requests involving Chrome automation, browser testing, web scraping, screenshot capture, element selection, or checking web applications. Also trigger when user mentions \"browser tools\" explicitly.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:19:26Z",
+    "repoUrl": "https://github.com/lttr/claude-marketplace/tree/main/plugins/browser-tools/skills/browser-tools"
+  },
+  {
+    "id": "clix-so-skills-api-triggered-campaigns",
+    "name": "clix-api-triggered-campaigns",
+    "description": "Helps developers configure API-triggered campaigns in the Clix console and trigger them from backend services with safe auth, payload schemas, dynamic audience filters (trigger.*), and personalization best practices. Use when the user mentions transactional notifications, backend-triggered sends, campaign_id trigger APIs, or \"API-triggered campaigns\".",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T09:38:41Z",
+    "repoUrl": "https://github.com/clix-so/skills/tree/main/skills/api-triggered-campaigns"
+  },
+  {
+    "id": "ks6088ts-labs-skills-doc-writer",
+    "name": "doc-writer",
+    "description": "ドキュメント執筆をサポートするスキル。ユーザーがPRDに基づいてドキュメントを作成、編集、または更新したい場合に使用します。このスキルは、docs/prd.md に記載されたプロダクト要求仕様書を参照しながら、技術ドキュメント、設計ドキュメント、ユーザーガイド、APIドキュメントなどの執筆を支援します。「ドキュメントを書く」「仕様書を作成」「ガイドを作る」などのドキュメント作成タスクに言及した場合にトリガーします。",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T00:06:12Z",
+    "repoUrl": "https://github.com/ks6088ts-labs/skills/tree/main/skills/doc-writer"
+  },
+  {
+    "id": "gotalab-skillport-opus-4-5-migration",
+    "name": "opus-4-5-migration",
+    "description": "Migrate prompts and code from Claude Sonnet 4.0, Sonnet 4.5, or Opus 4.1 to Opus 4.5. Use when the user wants to update their codebase, prompts, or API calls to use Opus 4.5. Handles model string updates and prompt adjustments for known Opus 4.5 behavioral differences. Does NOT migrate Haiku 4.5.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 200,
+    "updatedAt": "2026-01-09T15:29:37Z",
+    "repoUrl": "https://github.com/gotalab/skillport/tree/main/.skills/experimental/opus-4-5-migration"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-526656d4-043f-40fa-ae7d-dfbdfcad64b8",
+    "name": "obsidian-bases",
+    "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/526656d4-043f-40fa-ae7d-dfbdfcad64b8"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-06f65bbf-3f3a-4a19-a3c2-46ec20d03f26",
+    "name": "notion-knowledge-capture",
+    "description": "Transforms conversations and discussions into structured documentation pages in Notion. Captures insights, decisions, and knowledge from chat context, formats appropriately, and saves to wikis or databases with proper organization and linking for easy discovery.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/06f65bbf-3f3a-4a19-a3c2-46ec20d03f26"
+  },
+  {
+    "id": "netresearch-composer-agent-skill-plugin-database-analyzer-skill",
+    "name": "database-analyzer",
+    "description": "Analyze and optimize database schemas, identify performance issues, and suggest improvements. Use when working with database structure, indexes, or query performance.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-08T10:36:12Z",
+    "repoUrl": "https://github.com/netresearch/composer-agent-skill-plugin/tree/main/examples/database-analyzer-skill"
+  },
+  {
+    "id": "netresearch-composer-agent-skill-plugin-valid-single-skill",
+    "name": "database-analyzer",
+    "description": "Analyze and optimize database schemas and relationships",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-08T10:36:12Z",
+    "repoUrl": "https://github.com/netresearch/composer-agent-skill-plugin/tree/main/tests/Fixtures/valid-single-skill"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-jira-integration",
+    "name": "jira-integration",
+    "description": "Agent Skill: Comprehensive Jira integration through lightweight Python scripts. AUTOMATICALLY TRIGGER when user mentions Jira URLs like 'https://jira.*/browse/*', 'https://*.atlassian.net/browse/*', or issue keys like 'PROJ-123'. Use when searching issues (JQL), getting/updating issue details, creating issues, transitioning status, adding comments, logging worklogs, managing sprints and boards, creating issue links, or formatting Jira wiki markup. If authentication fails, offer to configure credentials interactively. Supports both Jira Cloud and Server/Data Center with automatic authentication detection. By Netresearch.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/jira-integration"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-context7",
+    "name": "context7",
+    "description": "Fetch up-to-date library documentation via Context7 REST API. Use when needing current API docs, framework patterns, or code examples for any library. Lightweight alternative to Context7 MCP with no persistent context overhead. By Netresearch.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/context7/skills/context7"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-jira-communication",
+    "name": "jira-communication",
+    "description": "Jira API operations via Python CLI scripts. AUTOMATICALLY TRIGGER when user mentions Jira URLs (https://jira.*/browse/*, https://*.atlassian.net/browse/*), issue keys (PROJ-123), or asks about Jira issues. Use when Claude needs to: (1) Search issues with JQL queries, (2) Get or update issue details, (3) Create new issues, (4) Transition issue status (e.g., \"To Do\" → \"Done\"), (5) Add comments, (6) Log work time (worklogs), (7) List sprints and sprint issues, (8) List boards and board issues, (9) Create or list issue links, (10) Discover available Jira fields, (11) Get user profile information, (12) Download attachments from issues. If authentication fails, offer interactive credential setup via jira-setup.py. Supports both Jira Cloud and Server/Data Center with automatic auth detection.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/jira-integration/skills/jira-communication"
+  },
+  {
+    "id": "netresearch-jira-skill-skill",
+    "name": "jira-integration",
+    "description": "Agent Skill: Comprehensive Jira integration through lightweight Python scripts. AUTOMATICALLY TRIGGER when user mentions Jira URLs like 'https://jira.*/browse/*', 'https://*.atlassian.net/browse/*', or issue keys like 'PROJ-123'. Use when searching issues (JQL), getting/updating issue details, creating issues, transitioning status, adding comments, logging worklogs, managing sprints and boards, creating issue links, or formatting Jira wiki markup. If authentication fails, offer to configure credentials interactively. Supports both Jira Cloud and Server/Data Center with automatic authentication detection. By Netresearch.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:11:05Z",
+    "repoUrl": "https://github.com/netresearch/jira-skill/tree/main/SKILL.md"
+  },
+  {
+    "id": "netresearch-jira-skill-jira-communication",
+    "name": "jira-communication",
+    "description": "Jira API operations via Python CLI scripts. AUTOMATICALLY TRIGGER when user mentions Jira URLs (https://jira.*/browse/*, https://*.atlassian.net/browse/*), issue keys (PROJ-123), or asks about Jira issues. Use when Claude needs to: (1) Search issues with JQL queries, (2) Get or update issue details, (3) Create new issues, (4) Transition issue status (e.g., \"To Do\" → \"Done\"), (5) Add comments, (6) Log work time (worklogs), (7) List sprints and sprint issues, (8) List boards and board issues, (9) Create or list issue links, (10) Discover available Jira fields, (11) Get user profile information, (12) Download attachments from issues. If authentication fails, offer interactive credential setup via jira-setup.py. Supports both Jira Cloud and Server/Data Center with automatic auth detection.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:11:05Z",
+    "repoUrl": "https://github.com/netresearch/jira-skill/tree/main/skills/jira-communication"
+  },
+  {
+    "id": "autohandai-community-skills-documentation-writing",
+    "name": "documentation-writing",
+    "description": "Technical documentation best practices and API documentation",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-02T10:39:56Z",
+    "repoUrl": "https://github.com/autohandai/community-skills/tree/main/documentation-writing"
+  },
+  {
+    "id": "autohandai-community-skills-python-fastapi-patterns",
+    "name": "python-fastapi-patterns",
+    "description": "FastAPI best practices, async patterns, and Pydantic validation",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-02T10:39:56Z",
+    "repoUrl": "https://github.com/autohandai/community-skills/tree/main/python-fastapi-patterns"
+  },
+  {
+    "id": "autohandai-community-skills-nextjs-app-router-mastery",
+    "name": "nextjs-app-router-mastery",
+    "description": "Next.js 14+ App Router patterns, server components, and data fetching",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-02T10:39:56Z",
+    "repoUrl": "https://github.com/autohandai/community-skills/tree/main/nextjs-app-router-mastery"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-dapr-integration",
+    "name": "dapr-integration",
+    "description": "Integrate Dapr for pub/sub messaging and scheduled jobs. Use this skill when implementing event-driven architectures with Dapr, handling CloudEvent message formats, setting up pub/sub subscriptions, or scheduling jobs with Dapr Jobs API. Covers common pitfalls like CloudEvent unwrapping and callback URL patterns.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/docs/taskflow-vault/skills/engineering/dapr-integration/skill.md"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-kubernetes-deployment-validator",
+    "name": "kubernetes-deployment-validator",
+    "description": "Validate Kubernetes deployments before execution. Run pre-flight checks for password generation, environment variables, database authentication, CORS configuration, and docker-compose parity. Use this skill BEFORE every Helm install/upgrade to prevent deployment failures.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/docs/taskflow-vault/skills/engineering/kubernetes-deployment-validator/skill.md"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-researching-with-deepwiki",
+    "name": "researching-with-deepwiki",
+    "description": "Research GitHub, GitLab, and Bitbucket repositories using DeepWiki MCP server. Use when exploring\nunfamiliar codebases, understanding project architecture, or asking questions about how a specific\nopen-source project works. Provides AI-powered repo analysis and RAG-based Q&A about source code.\nNOT for fetching library API docs (use fetching-library-docs instead) or local files.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/.claude/skills/researching-with-deepwiki"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-better-auth-sso",
+    "name": "better-auth-sso",
+    "description": "Integrate with Better Auth SSO for OAuth2/OIDC authentication. Use this skill when implementing SSO login flows, PKCE authentication, token management, JWKS verification, or global logout in Next.js applications connecting to a Better Auth server.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/docs/taskflow-vault/skills/engineering/better-auth-sso"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-osworld-status",
+    "name": "osworld-status",
+    "description": "Get the current status of the OSWorld server. Returns server readiness, uptime, step counter, provider, and screen configuration.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/world-tools/osworld/osworld-status/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-search-obsidian",
+    "name": "search-obsidian",
+    "description": "Search Obsidian notes using Obsidian Local REST API. Returns Collection of JSON Notes with fields text, metadata.uri (alias: source_url), metadata.domain, format, char_count",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/tools/search-obsidian/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-osworld-version",
+    "name": "osworld-version",
+    "description": "Get the API version information from the OSWorld server. Returns API version, server version, and protocol.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/world-tools/osworld/osworld-version/Skill.md"
+  },
+  {
+    "id": "zhiruifeng-localagentcrew-market-data",
+    "name": "market-data",
+    "description": "Fetches real-time and historical stock market data from authorized APIs including prices, fundamentals, news, and economic data",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:32:51Z",
+    "repoUrl": "https://github.com/ZhiruiFeng/LocalAgentCrew/tree/main/.claude/skills/market-data"
+  },
+  {
+    "id": "zhiruifeng-localagentcrew-documentation",
+    "name": "documentation",
+    "description": "Creates and updates documentation, adds code comments, writes API documentation",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:32:51Z",
+    "repoUrl": "https://github.com/ZhiruiFeng/LocalAgentCrew/tree/main/.claude/skills/documentation"
+  },
+  {
+    "id": "zhiruifeng-localagentcrew-investment-validator",
+    "name": "investment-validator",
+    "description": "Validates investment data accuracy by cross-referencing authorized APIs and financial sources",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:32:51Z",
+    "repoUrl": "https://github.com/ZhiruiFeng/LocalAgentCrew/tree/main/.claude/skills/investment-validator"
+  },
+  {
+    "id": "huggingface-skills-hugging-face-trackio",
+    "name": "hugging-face-trackio",
+    "description": "Track and visualize ML training experiments with Trackio. Use when logging metrics during training (Python API) or retrieving/analyzing logged metrics (CLI). Supports real-time dashboard visualization, HF Space syncing, and JSON output for automation.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 846,
+    "updatedAt": "2026-01-09T18:29:21Z",
+    "repoUrl": "https://github.com/huggingface/skills/tree/main/skills/hugging-face-trackio"
+  },
+  {
+    "id": "huggingface-skills-hugging-face-evaluation",
+    "name": "hugging-face-evaluation",
+    "description": "Add and manage evaluation results in Hugging Face model cards. Supports extracting eval tables from README content, importing scores from Artificial Analysis API, and running custom model evaluations with vLLM/lighteval. Works with the model-index metadata format.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 846,
+    "updatedAt": "2026-01-09T18:29:21Z",
+    "repoUrl": "https://github.com/huggingface/skills/tree/main/skills/hugging-face-evaluation"
   }
 ]
