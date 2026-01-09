@@ -748,5 +748,35 @@
     "stars": 8244,
     "updatedAt": "2026-01-09T06:28:32Z",
     "repoUrl": "https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/skill-developer"
+  },
+  {
+    "id": "davepoon-buildwithclaude-raffle-winner-picker",
+    "name": "raffle-winner-picker",
+    "description": "Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/raffle-winner-picker"
+  },
+  {
+    "id": "chriswiles-claude-code-showcase-testing-patterns",
+    "name": "testing-patterns",
+    "description": "Jest testing patterns, factory functions, mocking strategies, and TDD workflow. Use when writing unit tests, creating test factories, or following TDD red-green-refactor cycle.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2172,
+    "updatedAt": "2026-01-09T06:42:46Z",
+    "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/testing-patterns"
+  },
+  {
+    "id": "chriswiles-claude-code-showcase-systematic-debugging",
+    "name": "systematic-debugging",
+    "description": "Four-phase debugging methodology with root cause analysis. Use when investigating bugs, fixing test failures, or troubleshooting unexpected behavior. Emphasizes NO FIXES WITHOUT ROOT CAUSE FIRST.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2172,
+    "updatedAt": "2026-01-09T06:42:46Z",
+    "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/systematic-debugging"
   }
 ]

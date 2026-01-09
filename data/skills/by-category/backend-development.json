@@ -958,5 +958,15 @@
     "stars": 8244,
     "updatedAt": "2026-01-09T06:28:32Z",
     "repoUrl": "https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking"
+  },
+  {
+    "id": "davepoon-buildwithclaude-obsidian-bases",
+    "name": "obsidian-bases",
+    "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/obsidian-bases"
   }
 ]

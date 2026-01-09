@@ -1353,5 +1353,75 @@
     "stars": 2943,
     "updatedAt": "2026-01-09T06:31:35Z",
     "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/red-team-tools"
+  },
+  {
+    "id": "davepoon-buildwithclaude-slack-gif-creator",
+    "name": "slack-gif-creator",
+    "description": "Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and composable animation primitives. This skill applies when users request animated GIFs or emoji animations for Slack from descriptions like \"make me a GIF for Slack of X doing Y\".",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/slack-gif-creator"
+  },
+  {
+    "id": "davepoon-buildwithclaude-skill-share",
+    "name": "skill-share",
+    "description": "A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaboration and skill discovery.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/skill-share"
+  },
+  {
+    "id": "davepoon-buildwithclaude-domain-name-brainstormer",
+    "name": "domain-name-brainstormer",
+    "description": "Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, .ai, etc.). Saves hours of brainstorming and manual checking.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/domain-name-brainstormer"
+  },
+  {
+    "id": "davepoon-buildwithclaude-competitive-ads-extractor",
+    "name": "competitive-ads-extractor",
+    "description": "Extracts and analyzes competitors' ads from ad libraries (Facebook, LinkedIn, etc.) to understand what messaging, problems, and creative approaches are working. Helps inspire and improve your own ad campaigns.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/competitive-ads-extractor"
+  },
+  {
+    "id": "davepoon-buildwithclaude-xlsx",
+    "name": "xlsx",
+    "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/xlsx"
+  },
+  {
+    "id": "davepoon-buildwithclaude-theme-factory",
+    "name": "theme-factory",
+    "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/theme-factory"
+  },
+  {
+    "id": "czlonkowski-n8n-skills-n8n-expression-syntax",
+    "name": "n8n-expression-syntax",
+    "description": "Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing $json/$node variables, troubleshooting expression errors, or working with webhook data in workflows.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1373,
+    "updatedAt": "2026-01-09T06:02:50Z",
+    "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-expression-syntax"
   }
 ]
