@@ -1,14 +1,14 @@
 {
-  "totalSkills": 828,
+  "totalSkills": 832,
   "byCategory": {
     "ai-data-science": 138,
     "frontend-development": 136,
-    "tools-productivity": 142,
+    "tools-productivity": 143,
     "business-marketing": 67,
-    "testing-quality": 78,
+    "testing-quality": 80,
     "backend-development": 97,
     "specialized": 61,
-    "devops-infrastructure": 109
+    "devops-infrastructure": 110
   },
   "topTags": [
     {
@@ -213,6 +213,7 @@
     }
   ],
   "recentlyUpdated": [
+    "othmanadi-planning-with-files-planning-with-files",
     "chriswiles-claude-code-showcase-graphql-schema",
     "chriswiles-claude-code-showcase-core-components",
     "chriswiles-claude-code-showcase-formik-patterns",
@@ -231,8 +232,7 @@
     "zebbern-claude-code-guide-file-path-traversal",
     "zebbern-claude-code-guide-metasploit-framework",
     "zebbern-claude-code-guide-shodan-reconnaissance",
-    "zebbern-claude-code-guide-broken-authentication",
-    "zebbern-claude-code-guide-sql-injection-testing"
+    "zebbern-claude-code-guide-broken-authentication"
   ],
-  "lastSyncTime": "2026-01-09T06:44:54.366Z"
+  "lastSyncTime": "2026-01-09T06:55:10.383Z"
 }

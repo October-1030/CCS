@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-09T06:43:39.108Z",
-  "totalSkills": 828,
+  "lastSync": "2026-01-09T06:53:54.008Z",
+  "totalSkills": 832,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -8445,6 +8445,46 @@
       "stars": 1373,
       "updatedAt": "2026-01-09T06:02:50Z",
       "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration"
+    },
+    {
+      "id": "othmanadi-planning-with-files-planning-with-files",
+      "name": "planning-with-files",
+      "description": "Implements Manus-style file-based planning for complex tasks. Creates task_plan.md, findings.md, and progress.md. Use when starting complex multi-step tasks, research projects, or any task requiring >5 tool calls.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5996,
+      "updatedAt": "2026-01-09T06:50:39Z",
+      "repoUrl": "https://github.com/OthmanAdi/planning-with-files/tree/main/skills/planning-with-files"
+    },
+    {
+      "id": "glitternetwork-pinme-pinme",
+      "name": "pinme",
+      "description": "This skill should be used when the user asks to \"deploy\", \"upload\", \"publish\", or \"pin\" any files, folders, frontend projects, or static websites to IPFS. Also activates when user mentions \"pinme\", \"IPFS\", or wants to share files via decentralized storage.",
+      "category": "devops-infrastructure",
+      "tags": [],
+      "stars": 2492,
+      "updatedAt": "2026-01-09T03:57:35Z",
+      "repoUrl": "https://github.com/glitternetwork/pinme/tree/main/.claude/skills/pinme"
+    },
+    {
+      "id": "lackeyjb-playwright-skill-playwright-skill",
+      "name": "playwright-skill",
+      "description": "Complete browser automation with Playwright. Auto-detects dev servers, writes clean test scripts to /tmp. Test pages, fill forms, take screenshots, check responsive design, validate UX, test login flows, check links, automate any browser task. Use when user wants to test websites, automate browser interactions, validate web functionality, or perform any browser-based testing.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1190,
+      "updatedAt": "2026-01-09T04:16:36Z",
+      "repoUrl": "https://github.com/lackeyjb/playwright-skill/tree/main/skills/playwright-skill"
+    },
+    {
+      "id": "pleaseprompto-notebooklm-skill-skill",
+      "name": "notebooklm",
+      "description": "Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. Browser automation, library management, persistent auth. Drastically reduced hallucinations through document-only responses.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1346,
+      "updatedAt": "2026-01-09T06:16:01Z",
+      "repoUrl": "https://github.com/PleasePrompto/notebooklm-skill/tree/main/SKILL.md"
     }
   ]
 }

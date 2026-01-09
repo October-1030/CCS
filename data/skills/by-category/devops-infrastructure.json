@@ -1098,5 +1098,15 @@
     "stars": 24701,
     "updatedAt": "2026-01-08T21:19:10Z",
     "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/service-mesh-observability"
+  },
+  {
+    "id": "glitternetwork-pinme-pinme",
+    "name": "pinme",
+    "description": "This skill should be used when the user asks to \"deploy\", \"upload\", \"publish\", or \"pin\" any files, folders, frontend projects, or static websites to IPFS. Also activates when user mentions \"pinme\", \"IPFS\", or wants to share files via decentralized storage.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 2492,
+    "updatedAt": "2026-01-09T03:57:35Z",
+    "repoUrl": "https://github.com/glitternetwork/pinme/tree/main/.claude/skills/pinme"
   }
 ]
