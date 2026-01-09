@@ -968,5 +968,25 @@
     "stars": 2150,
     "updatedAt": "2026-01-09T04:41:20Z",
     "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/obsidian-bases"
+  },
+  {
+    "id": "alirezarezvani-claude-code-tresor-secret-scanner",
+    "name": "secret-scanner",
+    "description": "Detect exposed secrets, API keys, credentials, and tokens in code. Use before commits, on file saves, or when security is mentioned. Prevents accidental secret exposure. Triggers on file changes, git commits, security checks, .env file modifications.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 420,
+    "updatedAt": "2026-01-09T15:29:24Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-tresor/tree/main/skills/security/secret-scanner"
+  },
+  {
+    "id": "alirezarezvani-claude-code-tresor-api-documenter",
+    "name": "api-documenter",
+    "description": "Auto-generate API documentation from code and comments. Use when API endpoints change, or user mentions API docs. Creates OpenAPI/Swagger specs from code. Triggers on API file changes, documentation requests, endpoint additions.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 420,
+    "updatedAt": "2026-01-09T15:29:24Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-tresor/tree/main/skills/documentation/api-documenter"
   }
 ]

@@ -1423,5 +1423,35 @@
     "stars": 1373,
     "updatedAt": "2026-01-09T06:02:50Z",
     "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-expression-syntax"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-gdpr-dsgvo-expert",
+    "name": "gdpr-dsgvo-expert",
+    "description": "Senior GDPR/DSGVO expert and internal/external auditor for data protection compliance. Provides EU GDPR and German DSGVO expertise, privacy impact assessments, data protection auditing, and compliance verification. Use for GDPR compliance assessments, privacy audits, data protection planning, and regulatory compliance verification.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 531,
+    "updatedAt": "2026-01-09T15:30:07Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/gdpr-dsgvo-expert"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-risk-management-specialist",
+    "name": "risk-management-specialist",
+    "description": "Senior Risk Management specialist for medical device companies implementing ISO 14971 risk management throughout product lifecycle. Provides risk analysis, risk evaluation, risk control, and post-production information analysis. Use for risk management planning, risk assessments, risk control verification, and risk management file maintenance.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 531,
+    "updatedAt": "2026-01-09T15:30:07Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/risk-management-specialist"
+  },
+  {
+    "id": "numman-ali-n-skills-gastown",
+    "name": "gastown",
+    "description": "Multi-agent orchestrator for Claude Code. Use when user mentions gastown, gas town, gt commands, bd commands, convoys, polecats, crew, rigs, slinging work, multi-agent coordination, beads, hooks, molecules, workflows, the witness, the mayor, the refinery, the deacon, dogs, escalation, or wants to run multiple AI agents on projects simultaneously. Handles installation, workspace setup, work tracking, agent lifecycle, crash recovery, and all gt/bd CLI operations.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 461,
+    "updatedAt": "2026-01-09T15:32:37Z",
+    "repoUrl": "https://github.com/numman-ali/n-skills/tree/main/skills/tools/gastown"
   }
 ]

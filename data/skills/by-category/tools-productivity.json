@@ -1476,5 +1476,55 @@
     "stars": 5996,
     "updatedAt": "2026-01-09T06:50:39Z",
     "repoUrl": "https://github.com/OthmanAdi/planning-with-files/tree/main/skills/planning-with-files"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-capa-officer",
+    "name": "capa-officer",
+    "description": "Senior CAPA Officer specialist for managing Corrective and Preventive Actions within Quality Management Systems. Provides CAPA process management, root cause analysis, effectiveness verification, and continuous improvement coordination. Use for CAPA investigations, corrective action planning, preventive action implementation, and CAPA system optimization.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 531,
+    "updatedAt": "2026-01-09T15:30:07Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/capa-officer"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-qms-audit-expert",
+    "name": "qms-audit-expert",
+    "description": "Senior QMS Audit Expert for internal and external quality management system auditing. Provides ISO 13485 audit expertise, audit program management, nonconformity identification, and corrective action verification. Use for internal audit planning, external audit preparation, audit execution, and audit follow-up activities.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 531,
+    "updatedAt": "2026-01-09T15:30:07Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/qms-audit-expert"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-quality-manager-qmr",
+    "name": "quality-manager-qmr",
+    "description": "Senior Quality Manager Responsible Person (QMR) for HealthTech and MedTech companies. Provides overall quality system responsibility, regulatory compliance oversight, management accountability, and strategic quality leadership. Use for quality system governance, regulatory compliance oversight, management responsibility, and quality strategic planning.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 531,
+    "updatedAt": "2026-01-09T15:30:07Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/quality-manager-qmr"
+  },
+  {
+    "id": "alirezarezvani-claude-code-tresor-readme-updater",
+    "name": "readme-updater",
+    "description": "Keep README files current with project changes. Use when project structure changes, features added, or setup instructions modified. Suggests README updates based on code changes. Triggers on significant project changes, new features, dependency changes.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 420,
+    "updatedAt": "2026-01-09T15:29:24Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-tresor/tree/main/skills/documentation/readme-updater"
+  },
+  {
+    "id": "alirezarezvani-claude-code-tresor-git-commit-helper",
+    "name": "git-commit-helper",
+    "description": "Generate conventional commit messages automatically. Use when user runs git commit, stages changes, or asks for commit message help. Analyzes git diff to create clear, descriptive conventional commit messages. Triggers on git commit, staged changes, commit message requests.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 420,
+    "updatedAt": "2026-01-09T15:29:24Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-tresor/tree/main/skills/development/git-commit-helper"
   }
 ]
