@@ -1128,5 +1128,224 @@
     "stars": 420,
     "updatedAt": "2026-01-09T15:29:24Z",
     "repoUrl": "https://github.com/alirezarezvani/claude-code-tresor/tree/main/skills/security/security-auditor"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-mlflow",
+    "name": "mlflow",
+    "description": "Track ML experiments, manage model registry with versioning, deploy models to production, and reproduce experiments with MLflow - framework-agnostic ML lifecycle platform",
+    "category": "devops-infrastructure",
+    "tags": [
+      "MLOps",
+      "MLflow",
+      "Experiment Tracking",
+      "Model Registry",
+      "ML Lifecycle",
+      "Deployment",
+      "Model Versioning",
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-Learn",
+      "HuggingFace"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/13-mlops/mlflow"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-lambda-labs",
+    "name": "lambda-labs-gpu-cloud",
+    "description": "Reserved and on-demand GPU cloud instances for ML training and inference. Use when you need dedicated GPU instances with simple SSH access, persistent filesystems, or high-performance multi-node clusters for large-scale training.",
+    "category": "devops-infrastructure",
+    "tags": [
+      "Infrastructure",
+      "GPU Cloud",
+      "Training",
+      "Inference",
+      "Lambda Labs"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/09-infrastructure/lambda-labs"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-llama-cpp",
+    "name": "llama-cpp",
+    "description": "Runs LLM inference on CPU, Apple Silicon, and consumer GPUs without NVIDIA hardware. Use for edge deployment, M1/M2/M3 Macs, AMD/Intel GPUs, or when CUDA is unavailable. Supports GGUF quantization (1.5-8 bit) for reduced memory and 4-10× speedup vs PyTorch on CPU.",
+    "category": "devops-infrastructure",
+    "tags": [
+      "Inference Serving",
+      "Llama.cpp",
+      "CPU Inference",
+      "Apple Silicon",
+      "Edge Deployment",
+      "GGUF",
+      "Quantization",
+      "Non-NVIDIA",
+      "AMD GPUs",
+      "Intel GPUs",
+      "Embedded"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/12-inference-serving/llama-cpp"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-llamaguard",
+    "name": "llamaguard",
+    "description": "Meta's 7-8B specialized moderation model for LLM input/output filtering. 6 safety categories - violence/hate, sexual content, weapons, substances, self-harm, criminal planning. 94-95% accuracy. Deploy with vLLM, HuggingFace, Sagemaker. Integrates with NeMo Guardrails.",
+    "category": "devops-infrastructure",
+    "tags": [
+      "Safety Alignment",
+      "LlamaGuard",
+      "Content Moderation",
+      "Meta",
+      "Guardrails",
+      "Safety Classification",
+      "Input Filtering",
+      "Output Filtering",
+      "AI Safety"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/07-safety-alignment/llamaguard"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-speculative-decoding",
+    "name": "speculative-decoding",
+    "description": "Accelerate LLM inference using speculative decoding, Medusa multiple heads, and lookahead decoding techniques. Use when optimizing inference speed (1.5-3.6× speedup), reducing latency for real-time applications, or deploying models with limited compute. Covers draft models, tree-based attention, Jacobi iteration, parallel token generation, and production deployment strategies.",
+    "category": "devops-infrastructure",
+    "tags": [
+      "Emerging Techniques",
+      "Speculative Decoding",
+      "Medusa",
+      "Lookahead Decoding",
+      "Fast Inference",
+      "Draft Models",
+      "Tree Attention",
+      "Parallel Generation",
+      "Latency Reduction",
+      "Inference Optimization"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/speculative-decoding"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-awq",
+    "name": "awq-quantization",
+    "description": "Activation-aware weight quantization for 4-bit LLM compression with 3x speedup and minimal accuracy loss. Use when deploying large models (7B-70B) on limited GPU memory, when you need faster inference than GPTQ with better accuracy preservation, or for instruction-tuned and multimodal models. MLSys 2024 Best Paper Award winner.",
+    "category": "devops-infrastructure",
+    "tags": [
+      "Optimization",
+      "AWQ",
+      "Quantization",
+      "4-Bit",
+      "Activation-Aware",
+      "Memory Optimization",
+      "Fast Inference",
+      "vLLM Integration",
+      "Marlin Kernels"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/awq"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-hqq",
+    "name": "hqq-quantization",
+    "description": "Half-Quadratic Quantization for LLMs without calibration data. Use when quantizing models to 4/3/2-bit precision without needing calibration datasets, for fast quantization workflows, or when deploying with vLLM or HuggingFace Transformers.",
+    "category": "devops-infrastructure",
+    "tags": [
+      "Quantization",
+      "HQQ",
+      "Optimization",
+      "Memory Efficiency",
+      "Inference",
+      "Model Compression"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/hqq"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-knowledge-distillation",
+    "name": "knowledge-distillation",
+    "description": "Compress large language models using knowledge distillation from teacher to student models. Use when deploying smaller models with retained performance, transferring GPT-4 capabilities to open-source models, or reducing inference costs. Covers temperature scaling, soft targets, reverse KLD, logit distillation, and MiniLLM training strategies.",
+    "category": "devops-infrastructure",
+    "tags": [
+      "Emerging Techniques",
+      "Knowledge Distillation",
+      "Model Compression",
+      "Teacher-Student",
+      "MiniLLM",
+      "Reverse KLD",
+      "Soft Targets",
+      "Temperature Scaling",
+      "Logit Distillation",
+      "Model Transfer"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/knowledge-distillation"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-gptq",
+    "name": "gptq",
+    "description": "Post-training 4-bit quantization for LLMs with minimal accuracy loss. Use for deploying large models (70B, 405B) on consumer GPUs, when you need 4× memory reduction with <2% perplexity degradation, or for faster inference (3-4× speedup) vs FP16. Integrates with transformers and PEFT for QLoRA fine-tuning.",
+    "category": "devops-infrastructure",
+    "tags": [
+      "Optimization",
+      "GPTQ",
+      "Quantization",
+      "4-Bit",
+      "Post-Training",
+      "Memory Optimization",
+      "Consumer GPUs",
+      "Fast Inference",
+      "QLoRA",
+      "Group-Wise Quantization"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/gptq"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-skypilot",
+    "name": "skypilot-multi-cloud-orchestration",
+    "description": "Multi-cloud orchestration for ML workloads with automatic cost optimization. Use when you need to run training or batch jobs across multiple clouds, leverage spot instances with auto-recovery, or optimize GPU costs across providers.",
+    "category": "devops-infrastructure",
+    "tags": [
+      "Infrastructure",
+      "Multi-Cloud",
+      "Orchestration",
+      "GPU",
+      "Cost Optimization",
+      "SkyPilot"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/09-infrastructure/skypilot"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-tensorrt-llm",
+    "name": "tensorrt-llm",
+    "description": "Optimizes LLM inference with NVIDIA TensorRT for maximum throughput and lowest latency. Use for production deployment on NVIDIA GPUs (A100/H100), when you need 10-100x faster inference than PyTorch, or for serving models with quantization (FP8/INT4), in-flight batching, and multi-GPU scaling.",
+    "category": "devops-infrastructure",
+    "tags": [
+      "Inference Serving",
+      "TensorRT-LLM",
+      "NVIDIA",
+      "Inference Optimization",
+      "High Throughput",
+      "Low Latency",
+      "Production",
+      "FP8",
+      "INT4",
+      "In-Flight Batching",
+      "Multi-GPU"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/12-inference-serving/tensorrt-llm"
   }
 ]

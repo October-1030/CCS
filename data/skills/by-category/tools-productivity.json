@@ -1526,5 +1526,268 @@
     "stars": 420,
     "updatedAt": "2026-01-09T15:29:24Z",
     "repoUrl": "https://github.com/alirezarezvani/claude-code-tresor/tree/main/skills/development/git-commit-helper"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-linear-usage",
+    "name": "linear-usage",
+    "description": "This skill should be used when user asks about \"Linear issues\", \"issue tracking best practices\", \"sprint planning\", \"Linear project management\", or \"creating Linear issues\".",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/linear-tools/skills/linear-usage"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-pr-workflow",
+    "name": "pr-workflow",
+    "description": "This skill should be used when user asks to \"create a PR\", \"make a pull request\", \"open PR for this branch\", \"submit changes as PR\", \"push and create PR\", or runs /create-pr or /pr-creator commands.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/github-dev/skills/pr-workflow"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-gcloud-usage",
+    "name": "gcloud-usage",
+    "description": "This skill should be used when user asks about \"GCloud logs\", \"Cloud Logging queries\", \"Google Cloud metrics\", \"GCP observability\", \"trace analysis\", or \"debugging production issues on GCP\".",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/gcloud-tools/skills/gcloud-usage"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-tavily-usage",
+    "name": "tavily-usage",
+    "description": "This skill should be used when user asks to \"search the web\", \"fetch content from URL\", \"extract page content\", \"use Tavily search\", \"scrape this website\", \"get information from this link\", or \"web search for X\".",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/tavily-tools/skills/tavily-usage"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-commit-workflow",
+    "name": "commit-workflow",
+    "description": "This skill should be used when user asks to \"commit these changes\", \"write commit message\", \"stage and commit\", \"create a commit\", \"commit staged files\", or runs /commit-staged or /commit-creator commands.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/github-dev/skills/commit-workflow"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-azure-usage",
+    "name": "azure-usage",
+    "description": "This skill should be used when user asks to \"query Azure resources\", \"list storage accounts\", \"manage Key Vault secrets\", \"work with Cosmos DB\", \"check AKS clusters\", \"use Azure MCP\", or interact with any Azure service.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/azure-tools/skills/azure-usage"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-audiocraft",
+    "name": "audiocraft-audio-generation",
+    "description": "PyTorch library for audio generation including text-to-music (MusicGen) and text-to-sound (AudioGen). Use when you need to generate music from text descriptions, create sound effects, or perform melody-conditioned music generation.",
+    "category": "tools-productivity",
+    "tags": [
+      "Multimodal",
+      "Audio Generation",
+      "Text-to-Music",
+      "Text-to-Audio",
+      "MusicGen"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/audiocraft"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-llava",
+    "name": "llava",
+    "description": "Large Language and Vision Assistant. Enables visual instruction tuning and image-based conversations. Combines CLIP vision encoder with Vicuna/LLaMA language models. Supports multi-turn image chat, visual question answering, and instruction following. Use for vision-language chatbots or image understanding tasks. Best for conversational image analysis.",
+    "category": "tools-productivity",
+    "tags": [
+      "LLaVA",
+      "Vision-Language",
+      "Multimodal",
+      "Visual Question Answering",
+      "Image Chat",
+      "CLIP",
+      "Vicuna",
+      "Conversational AI",
+      "Instruction Tuning",
+      "VQA"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/llava"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-segment-anything",
+    "name": "segment-anything-model",
+    "description": "Foundation model for image segmentation with zero-shot transfer. Use when you need to segment any object in images using points, boxes, or masks as prompts, or automatically generate all object masks in an image.",
+    "category": "tools-productivity",
+    "tags": [
+      "Multimodal",
+      "Image Segmentation",
+      "Computer Vision",
+      "SAM",
+      "Zero-Shot"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/segment-anything"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-image-enhancer",
+    "name": "image-enhancer",
+    "description": "Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documentation, or social media posts.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/image-enhancer"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-video-downloader",
+    "name": "video-downloader",
+    "description": "Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. Handles various formats and quality options.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/video-downloader"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-changelog-generator",
+    "name": "changelog-generator",
+    "description": "Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns hours of manual changelog writing into minutes of automated generation.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/changelog-generator"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-docx",
+    "name": "docx",
+    "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/document-skills/docx"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-algorithmic-art",
+    "name": "algorithmic-art",
+    "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/algorithmic-art"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-pdf",
+    "name": "pdf",
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/document-skills/pdf"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-pptx",
+    "name": "pptx",
+    "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/document-skills/pptx"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-internal-comms",
+    "name": "internal-comms",
+    "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/internal-comms"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-template-skill",
+    "name": "template-skill",
+    "description": "Replace with description of the skill and when Claude should use it.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/template-skill"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-file-organizer",
+    "name": "file-organizer",
+    "description": "Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load and keeps your digital workspace tidy without manual effort.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/file-organizer"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-invoice-organizer",
+    "name": "invoice-organizer",
+    "description": "Automatically organizes invoices and receipts for tax preparation by reading messy files, extracting key information, renaming them consistently, and sorting them into logical folders. Turns hours of manual bookkeeping into minutes of automated organization.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/invoice-organizer"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-meeting-insights-analyzer",
+    "name": "meeting-insights-analyzer",
+    "description": "Analyzes meeting transcripts and recordings to uncover behavioral patterns, communication insights, and actionable feedback. Identifies when you avoid conflict, use filler words, dominate conversations, or miss opportunities to listen. Perfect for professionals seeking to improve their communication and leadership skills.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/meeting-insights-analyzer"
+  },
+  {
+    "id": "cloudai-x-claude-workflow-v2-managing-git",
+    "name": "managing-git",
+    "description": "Manages Git workflows including branching, commits, and pull requests. Use when working with Git, creating commits, opening PRs, managing branches, resolving conflicts, or when asked about version control best practices.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1074,
+    "updatedAt": "2026-01-09T15:54:09Z",
+    "repoUrl": "https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/managing-git"
+  },
+  {
+    "id": "cloudai-x-claude-workflow-v2-parallel-execution",
+    "name": "parallel-execution",
+    "description": "Patterns for parallel subagent execution using Task tool with run_in_background. Use when coordinating multiple independent tasks, spawning dynamic subagents, or implementing features that can be parallelized.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1074,
+    "updatedAt": "2026-01-09T15:54:09Z",
+    "repoUrl": "https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/parallel-execution"
+  },
+  {
+    "id": "cloudai-x-claude-workflow-v2-analyzing-projects",
+    "name": "analyzing-projects",
+    "description": "Analyzes codebases to understand structure, tech stack, patterns, and conventions. Use when onboarding to a new project, exploring unfamiliar code, or when asked \"how does this work?\" or \"what's the architecture?\"",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1074,
+    "updatedAt": "2026-01-09T15:54:09Z",
+    "repoUrl": "https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/analyzing-projects"
   }
 ]

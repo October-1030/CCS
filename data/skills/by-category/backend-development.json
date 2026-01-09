@@ -988,5 +988,189 @@
     "stars": 420,
     "updatedAt": "2026-01-09T15:29:24Z",
     "repoUrl": "https://github.com/alirezarezvani/claude-code-tresor/tree/main/skills/documentation/api-documenter"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-mongodb-usage",
+    "name": "mongodb-usage",
+    "description": "This skill should be used when user asks to \"query MongoDB\", \"show database collections\", \"get collection schema\", \"list MongoDB databases\", \"search records in MongoDB\", or \"check database indexes\".",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/mongodb-tools/skills/mongodb-usage"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-chroma",
+    "name": "chroma",
+    "description": "Open-source embedding database for AI applications. Store embeddings and metadata, perform vector and full-text search, filter by metadata. Simple 4-function API. Scales from notebooks to production clusters. Use for semantic search, RAG applications, or document retrieval. Best for local development and open-source projects.",
+    "category": "backend-development",
+    "tags": [
+      "RAG",
+      "Chroma",
+      "Vector Database",
+      "Embeddings",
+      "Semantic Search",
+      "Open Source",
+      "Self-Hosted",
+      "Document Retrieval",
+      "Metadata Filtering"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/15-rag/chroma"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-pinecone",
+    "name": "pinecone",
+    "description": "Managed vector database for production AI applications. Fully managed, auto-scaling, with hybrid search (dense + sparse), metadata filtering, and namespaces. Low latency (<100ms p95). Use for production RAG, recommendation systems, or semantic search at scale. Best for serverless, managed infrastructure.",
+    "category": "backend-development",
+    "tags": [
+      "RAG",
+      "Pinecone",
+      "Vector Database",
+      "Managed Service",
+      "Serverless",
+      "Hybrid Search",
+      "Production",
+      "Auto-Scaling",
+      "Low Latency",
+      "Recommendations"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/15-rag/pinecone"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-modal",
+    "name": "modal-serverless-gpu",
+    "description": "Serverless GPU cloud platform for running ML workloads. Use when you need on-demand GPU access without infrastructure management, deploying ML models as APIs, or running batch jobs with automatic scaling.",
+    "category": "backend-development",
+    "tags": [
+      "Infrastructure",
+      "Serverless",
+      "GPU",
+      "Cloud",
+      "Deployment",
+      "Modal"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/09-infrastructure/modal"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-vllm",
+    "name": "serving-llms-vllm",
+    "description": "Serves LLMs with high throughput using vLLM's PagedAttention and continuous batching. Use when deploying production LLM APIs, optimizing inference latency/throughput, or serving models with limited GPU memory. Supports OpenAI-compatible endpoints, quantization (GPTQ/AWQ/FP8), and tensor parallelism.",
+    "category": "backend-development",
+    "tags": [
+      "vLLM",
+      "Inference Serving",
+      "PagedAttention",
+      "Continuous Batching",
+      "High Throughput",
+      "Production",
+      "OpenAI API",
+      "Quantization",
+      "Tensor Parallelism"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/12-inference-serving/vllm"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-nemo-curator",
+    "name": "nemo-curator",
+    "description": "GPU-accelerated data curation for LLM training. Supports text/image/video/audio. Features fuzzy deduplication (16× faster), quality filtering (30+ heuristics), semantic deduplication, PII redaction, NSFW detection. Scales across GPUs with RAPIDS. Use for preparing high-quality training datasets, cleaning web data, or deduplicating large corpora.",
+    "category": "backend-development",
+    "tags": [
+      "Data Processing",
+      "NeMo Curator",
+      "Data Curation",
+      "GPU Acceleration",
+      "Deduplication",
+      "Quality Filtering",
+      "NVIDIA",
+      "RAPIDS",
+      "PII Redaction",
+      "Multimodal",
+      "LLM Training Data"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/05-data-processing/nemo-curator"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-lm-evaluation-harness",
+    "name": "evaluating-llms-harness",
+    "description": "Evaluates LLMs across 60+ academic benchmarks (MMLU, HumanEval, GSM8K, TruthfulQA, HellaSwag). Use when benchmarking model quality, comparing models, reporting academic results, or tracking training progress. Industry standard used by EleutherAI, HuggingFace, and major labs. Supports HuggingFace, vLLM, APIs.",
+    "category": "backend-development",
+    "tags": [
+      "Evaluation",
+      "LM Evaluation Harness",
+      "Benchmarking",
+      "MMLU",
+      "HumanEval",
+      "GSM8K",
+      "EleutherAI",
+      "Model Quality",
+      "Academic Benchmarks",
+      "Industry Standard"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/11-evaluation/lm-evaluation-harness"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-model-merging",
+    "name": "model-merging",
+    "description": "Merge multiple fine-tuned models using mergekit to combine capabilities without retraining. Use when creating specialized models by blending domain-specific expertise (math + coding + chat), improving performance beyond single models, or experimenting rapidly with model variants. Covers SLERP, TIES-Merging, DARE, Task Arithmetic, linear merging, and production deployment strategies.",
+    "category": "backend-development",
+    "tags": [
+      "Emerging Techniques",
+      "Model Merging",
+      "Mergekit",
+      "SLERP",
+      "TIES",
+      "DARE",
+      "Task Arithmetic",
+      "Model Fusion",
+      "No Retraining",
+      "Multi-Capability",
+      "Arcee AI"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/model-merging"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-accelerate",
+    "name": "huggingface-accelerate",
+    "description": "Simplest distributed training API. 4 lines to add distributed support to any PyTorch script. Unified API for DeepSpeed/FSDP/Megatron/DDP. Automatic device placement, mixed precision (FP16/BF16/FP8). Interactive config, single launch command. HuggingFace ecosystem standard.",
+    "category": "backend-development",
+    "tags": [
+      "Distributed Training",
+      "HuggingFace",
+      "Accelerate",
+      "DeepSpeed",
+      "FSDP",
+      "Mixed Precision",
+      "PyTorch",
+      "DDP",
+      "Unified API",
+      "Simple"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/accelerate"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-notion-knowledge-capture",
+    "name": "notion-knowledge-capture",
+    "description": "Transforms conversations and discussions into structured documentation pages in Notion. Captures insights, decisions, and knowledge from chat context, formats appropriately, and saves to wikis or databases with proper organization and linking for easy discovery.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/notion-knowledge-capture"
   }
 ]

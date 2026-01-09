@@ -1598,5 +1598,690 @@
     "stars": 461,
     "updatedAt": "2026-01-09T15:32:37Z",
     "repoUrl": "https://github.com/numman-ali/n-skills/tree/main/skills/workflow/orchestration"
+  },
+  {
+    "id": "dammyjay93-claude-design-skill-skill",
+    "name": "design-principles",
+    "description": "Enforce a precise, minimal design system inspired by Linear, Notion, and Stripe. Use this skill when building dashboards, admin interfaces, or any UI that needs Jony Ive-level precision - clean, modern, minimalist with taste. Every pixel matters.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 786,
+    "updatedAt": "2026-01-09T16:20:16Z",
+    "repoUrl": "https://github.com/Dammyjay93/claude-design-skill/tree/main/skill/skill.md"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-commands",
+    "name": "commands",
+    "description": "Load frontend design skill from Anthropic",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/claude-tools/commands/load-frontend-skill.md"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-plugin-structure",
+    "name": "plugin-structure",
+    "description": "This skill should be used when the user asks to \"create a plugin\", \"scaffold a plugin\", \"understand plugin structure\", \"organize plugin components\", \"set up plugin.json\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"add commands/agents/skills/hooks\", \"configure auto-discovery\", or needs guidance on plugin directory layout, manifest configuration, component organization, file naming conventions, or Claude Code plugin architecture best practices.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/plugin-dev/skills/plugin-structure"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-mcp-integration",
+    "name": "mcp-integration",
+    "description": "This skill should be used when the user asks to \"add MCP server\", \"integrate MCP\", \"configure MCP in plugin\", \"use .mcp.json\", \"set up Model Context Protocol\", \"connect external service\", mentions \"${CLAUDE_PLUGIN_ROOT} with MCP\", or discusses MCP server types (SSE, stdio, HTTP, WebSocket). Provides comprehensive guidance for integrating Model Context Protocol servers into Claude Code plugins for external tool and service integration.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/plugin-dev/skills/mcp-integration"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-hook-development",
+    "name": "hook-development",
+    "description": "This skill should be used when the user asks to \"create a hook\", \"add a PreToolUse/PostToolUse/Stop hook\", \"validate tool use\", \"implement prompt-based hooks\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"set up event-driven automation\", \"block dangerous commands\", or mentions hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification). Provides comprehensive guidance for creating and implementing Claude Code plugin hooks with focus on advanced prompt-based hooks API.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/plugin-dev/skills/hook-development"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-skill-development",
+    "name": "skill-development",
+    "description": "This skill should be used when the user wants to \"create a skill\", \"add a skill to plugin\", \"write a new skill\", \"improve skill description\", \"organize skill content\", or needs guidance on skill structure, progressive disclosure, or skill development best practices for Claude Code plugins.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/plugin-dev/skills/skill-development"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-agent-development",
+    "name": "agent-development",
+    "description": "This skill should be used when the user asks to \"create an agent\", \"add an agent\", \"write a subagent\", \"agent frontmatter\", \"when to use description\", \"agent examples\", \"agent tools\", \"agent colors\", \"autonomous agent\", or needs guidance on agent structure, system prompts, triggering conditions, or agent development best practices for Claude Code plugins.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/plugin-dev/skills/agent-development"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-supabase-usage",
+    "name": "supabase-usage",
+    "description": "This skill should be used when user asks to \"query Supabase\", \"list Supabase tables\", \"get Supabase schema\", \"search Supabase records\", \"check Supabase database\", \"Supabase auth\", \"Supabase authentication\", \"RLS policy\", \"row level security\", \"Supabase foreign key\", \"table relationships\", \"Supabase join\", \"Supabase filter\", \"Supabase pagination\", or needs guidance on Supabase database patterns, auth flows, RLS policies, or query best practices.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/supabase-tools/skills/supabase-usage"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-command-development",
+    "name": "command-development",
+    "description": "This skill should be used when the user asks to \"create a slash command\", \"add a command\", \"write a custom command\", \"define command arguments\", \"use command frontmatter\", \"organize commands\", \"create command with file references\", \"interactive command\", \"use AskUserQuestion in command\", or needs guidance on slash command structure, YAML frontmatter fields, dynamic arguments, bash execution in commands, user interaction patterns, or command development best practices for Claude Code.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/plugin-dev/skills/command-development"
+  },
+  {
+    "id": "jarrodwatts-claude-code-config-react-useeffect",
+    "name": "react-useeffect",
+    "description": "React useEffect best practices from official docs. Use when writing/reviewing useEffect, useState for derived values, data fetching, or state synchronization. Teaches when NOT to use Effect and better alternatives.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 609,
+    "updatedAt": "2026-01-09T16:16:37Z",
+    "repoUrl": "https://github.com/jarrodwatts/claude-code-config/tree/main/skills/react-useeffect"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-qdrant",
+    "name": "qdrant-vector-search",
+    "description": "High-performance vector similarity search engine for RAG and semantic search. Use when building production RAG systems requiring fast nearest neighbor search, hybrid search with filtering, or scalable vector storage with Rust-powered performance.",
+    "category": "frontend-development",
+    "tags": [
+      "RAG",
+      "Vector Search",
+      "Qdrant",
+      "Semantic Search",
+      "Embeddings",
+      "Similarity Search",
+      "HNSW",
+      "Production",
+      "Distributed"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/15-rag/qdrant"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-crewai",
+    "name": "crewai-multi-agent",
+    "description": "Multi-agent orchestration framework for autonomous AI collaboration. Use when building teams of specialized agents working together on complex tasks, when you need role-based agent collaboration with memory, or for production workflows requiring sequential/hierarchical execution. Built without LangChain dependencies for lean, fast execution.",
+    "category": "frontend-development",
+    "tags": [
+      "Agents",
+      "CrewAI",
+      "Multi-Agent",
+      "Orchestration",
+      "Collaboration",
+      "Role-Based",
+      "Autonomous",
+      "Workflows",
+      "Memory",
+      "Production"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/14-agents/crewai"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-autogpt",
+    "name": "autogpt-agents",
+    "description": "Autonomous AI agent platform for building and deploying continuous agents. Use when creating visual workflow agents, deploying persistent autonomous agents, or building complex multi-step AI automation systems.",
+    "category": "frontend-development",
+    "tags": [
+      "Agents",
+      "AutoGPT",
+      "Autonomous Agents",
+      "Workflow Automation",
+      "Visual Builder",
+      "AI Platform"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/14-agents/autogpt"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-unsloth",
+    "name": "unsloth",
+    "description": "Expert guidance for fast fine-tuning with Unsloth - 2-5x faster training, 50-80% less memory, LoRA/QLoRA optimization",
+    "category": "frontend-development",
+    "tags": [
+      "Fine-Tuning",
+      "Unsloth",
+      "Fast Training",
+      "LoRA",
+      "QLoRA",
+      "Memory-Efficient",
+      "Optimization",
+      "Llama",
+      "Mistral",
+      "Gemma",
+      "Qwen"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/03-fine-tuning/unsloth"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-guidance",
+    "name": "guidance",
+    "description": "Control LLM output with regex and grammars, guarantee valid JSON/XML/code generation, enforce structured formats, and build multi-step workflows with Guidance - Microsoft Research's constrained generation framework",
+    "category": "frontend-development",
+    "tags": [
+      "Prompt Engineering",
+      "Guidance",
+      "Constrained Generation",
+      "Structured Output",
+      "JSON Validation",
+      "Grammar",
+      "Microsoft Research",
+      "Format Enforcement",
+      "Multi-Step Workflows"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/16-prompt-engineering/guidance"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-grpo-rl-training",
+    "name": "grpo-rl-training",
+    "description": "Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and task-specific model training",
+    "category": "frontend-development",
+    "tags": [
+      "Post-Training",
+      "Reinforcement Learning",
+      "GRPO",
+      "TRL",
+      "RLHF",
+      "Reward Modeling",
+      "Reasoning",
+      "DPO",
+      "PPO",
+      "Structured Output"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/06-post-training/grpo-rl-training"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-pytorch-fsdp",
+    "name": "pytorch-fsdp",
+    "description": "Expert guidance for Fully Sharded Data Parallel training with PyTorch FSDP - parameter sharding, mixed precision, CPU offloading, FSDP2",
+    "category": "frontend-development",
+    "tags": [
+      "Distributed Training",
+      "PyTorch",
+      "FSDP",
+      "Data Parallel",
+      "Sharding",
+      "Mixed Precision",
+      "CPU Offloading",
+      "FSDP2",
+      "Large-Scale Training"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/pytorch-fsdp"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-saelens",
+    "name": "sparse-autoencoder-training",
+    "description": "Provides guidance for training and analyzing Sparse Autoencoders (SAEs) using SAELens to decompose neural network activations into interpretable features. Use when discovering interpretable features, analyzing superposition, or studying monosemantic representations in language models.",
+    "category": "frontend-development",
+    "tags": [
+      "Sparse Autoencoders",
+      "SAE",
+      "Mechanistic Interpretability",
+      "Feature Discovery",
+      "Superposition"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/04-mechanistic-interpretability/saelens"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-nnsight",
+    "name": "nnsight-remote-interpretability",
+    "description": "Provides guidance for interpreting and manipulating neural network internals using nnsight with optional NDIF remote execution. Use when needing to run interpretability experiments on massive models (70B+) without local GPU resources, or when working with any PyTorch architecture.",
+    "category": "frontend-development",
+    "tags": [
+      "nnsight",
+      "NDIF",
+      "Remote Execution",
+      "Mechanistic Interpretability",
+      "Model Internals"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/04-mechanistic-interpretability/nnsight"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-pytorch-lightning",
+    "name": "pytorch-lightning",
+    "description": "High-level PyTorch framework with Trainer class, automatic distributed training (DDP/FSDP/DeepSpeed), callbacks system, and minimal boilerplate. Scales from laptop to supercomputer with same code. Use when you want clean training loops with built-in best practices.",
+    "category": "frontend-development",
+    "tags": [
+      "PyTorch Lightning",
+      "Training Framework",
+      "Distributed Training",
+      "DDP",
+      "FSDP",
+      "DeepSpeed",
+      "High-Level API",
+      "Callbacks",
+      "Best Practices",
+      "Scalable"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/pytorch-lightning"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-langchain",
+    "name": "langchain",
+    "description": "Framework for building LLM-powered applications with agents, chains, and RAG. Supports multiple providers (OpenAI, Anthropic, Google), 500+ integrations, ReAct agents, tool calling, memory management, and vector store retrieval. Use for building chatbots, question-answering systems, autonomous agents, or RAG applications. Best for rapid prototyping and production deployments.",
+    "category": "frontend-development",
+    "tags": [
+      "Agents",
+      "LangChain",
+      "RAG",
+      "Tool Calling",
+      "ReAct",
+      "Memory Management",
+      "Vector Stores",
+      "LLM Applications",
+      "Chatbots",
+      "Production"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/14-agents/langchain"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-llamaindex",
+    "name": "llamaindex",
+    "description": "Data framework for building LLM applications with RAG. Specializes in document ingestion (300+ connectors), indexing, and querying. Features vector indices, query engines, agents, and multi-modal support. Use for document Q&A, chatbots, knowledge retrieval, or building RAG pipelines. Best for data-centric LLM applications.",
+    "category": "frontend-development",
+    "tags": [
+      "Agents",
+      "LlamaIndex",
+      "RAG",
+      "Document Ingestion",
+      "Vector Indices",
+      "Query Engines",
+      "Knowledge Retrieval",
+      "Data Framework",
+      "Multimodal",
+      "Private Data",
+      "Connectors"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/14-agents/llamaindex"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-gguf",
+    "name": "gguf-quantization",
+    "description": "GGUF format and llama.cpp quantization for efficient CPU/GPU inference. Use when deploying models on consumer hardware, Apple Silicon, or when needing flexible quantization from 2-8 bit without GPU requirements.",
+    "category": "frontend-development",
+    "tags": [
+      "GGUF",
+      "Quantization",
+      "llama.cpp",
+      "CPU Inference",
+      "Apple Silicon",
+      "Model Compression",
+      "Optimization"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/gguf"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-axolotl",
+    "name": "axolotl",
+    "description": "Expert guidance for fine-tuning LLMs with Axolotl - YAML configs, 100+ models, LoRA/QLoRA, DPO/KTO/ORPO/GRPO, multimodal support",
+    "category": "frontend-development",
+    "tags": [
+      "Fine-Tuning",
+      "Axolotl",
+      "LLM",
+      "LoRA",
+      "QLoRA",
+      "DPO",
+      "KTO",
+      "ORPO",
+      "GRPO",
+      "YAML",
+      "HuggingFace",
+      "DeepSpeed",
+      "Multimodal"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/03-fine-tuning/axolotl"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-transformer-lens",
+    "name": "transformer-lens-interpretability",
+    "description": "Provides guidance for mechanistic interpretability research using TransformerLens to inspect and manipulate transformer internals via HookPoints and activation caching. Use when reverse-engineering model algorithms, studying attention patterns, or performing activation patching experiments.",
+    "category": "frontend-development",
+    "tags": [
+      "Mechanistic Interpretability",
+      "TransformerLens",
+      "Activation Patching",
+      "Circuit Analysis"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/04-mechanistic-interpretability/transformer-lens"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-openrlhf",
+    "name": "openrlhf-training",
+    "description": "High-performance RLHF framework with Ray+vLLM acceleration. Use for PPO, GRPO, RLOO, DPO training of large models (7B-70B+). Built on Ray, vLLM, ZeRO-3. 2× faster than DeepSpeedChat with distributed architecture and GPU resource sharing.",
+    "category": "frontend-development",
+    "tags": [
+      "Post-Training",
+      "OpenRLHF",
+      "RLHF",
+      "PPO",
+      "GRPO",
+      "RLOO",
+      "DPO",
+      "Ray",
+      "vLLM",
+      "Distributed Training",
+      "Large Models",
+      "ZeRO-3"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/06-post-training/openrlhf"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-dspy",
+    "name": "dspy",
+    "description": "Build complex AI systems with declarative programming, optimize prompts automatically, create modular RAG systems and agents with DSPy - Stanford NLP's framework for systematic LM programming",
+    "category": "frontend-development",
+    "tags": [
+      "Prompt Engineering",
+      "DSPy",
+      "Declarative Programming",
+      "RAG",
+      "Agents",
+      "Prompt Optimization",
+      "LM Programming",
+      "Stanford NLP",
+      "Automatic Optimization",
+      "Modular AI"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/16-prompt-engineering/dspy"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-langsmith",
+    "name": "langsmith-observability",
+    "description": "LLM observability platform for tracing, evaluation, and monitoring. Use when debugging LLM applications, evaluating model outputs against datasets, monitoring production systems, or building systematic testing pipelines for AI applications.",
+    "category": "frontend-development",
+    "tags": [
+      "Observability",
+      "LangSmith",
+      "Tracing",
+      "Evaluation",
+      "Monitoring",
+      "Debugging",
+      "Testing",
+      "LLM Ops",
+      "Production"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/17-observability/langsmith"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-mamba",
+    "name": "mamba-architecture",
+    "description": "State-space model with O(n) complexity vs Transformers' O(n²). 5× faster inference, million-token sequences, no KV cache. Selective SSM with hardware-aware design. Mamba-1 (d_state=16) and Mamba-2 (d_state=128, multi-head). Models 130M-2.8B on HuggingFace.",
+    "category": "frontend-development",
+    "tags": [
+      "Model Architecture",
+      "Mamba",
+      "State Space Models",
+      "SSM",
+      "Linear Complexity",
+      "Long Context",
+      "Efficient Inference",
+      "Hardware-Aware",
+      "Alternative To Transformers"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/01-model-architecture/mamba"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-llama-factory",
+    "name": "llama-factory",
+    "description": "Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ models, 2/3/4/5/6/8-bit QLoRA, multimodal support",
+    "category": "frontend-development",
+    "tags": [
+      "Fine-Tuning",
+      "LLaMA Factory",
+      "LLM",
+      "WebUI",
+      "No-Code",
+      "QLoRA",
+      "LoRA",
+      "Multimodal",
+      "HuggingFace",
+      "Llama",
+      "Qwen",
+      "Gemma"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/03-fine-tuning/llama-factory"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-stable-diffusion",
+    "name": "stable-diffusion-image-generation",
+    "description": "State-of-the-art text-to-image generation with Stable Diffusion models via HuggingFace Diffusers. Use when generating images from text prompts, performing image-to-image translation, inpainting, or building custom diffusion pipelines.",
+    "category": "frontend-development",
+    "tags": [
+      "Image Generation",
+      "Stable Diffusion",
+      "Diffusers",
+      "Text-to-Image",
+      "Multimodal",
+      "Computer Vision"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/stable-diffusion"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-deepspeed",
+    "name": "deepspeed",
+    "description": "Expert guidance for distributed training with DeepSpeed - ZeRO optimization stages, pipeline parallelism, FP16/BF16/FP8, 1-bit Adam, sparse attention",
+    "category": "frontend-development",
+    "tags": [
+      "DeepSpeed",
+      "Distributed Training",
+      "ZeRO",
+      "Pipeline Parallelism",
+      "Mixed Precision",
+      "Optimization",
+      "Microsoft",
+      "Large-Scale Training",
+      "FP16",
+      "FP8"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/deepspeed"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-megatron-core",
+    "name": "training-llms-megatron",
+    "description": "Trains large language models (2B-462B parameters) using NVIDIA Megatron-Core with advanced parallelism strategies. Use when training models >1B parameters, need maximum GPU efficiency (47% MFU on H100), or require tensor/pipeline/sequence/context/expert parallelism. Production-ready framework used for Nemotron, LLaMA, DeepSeek.",
+    "category": "frontend-development",
+    "tags": [
+      "Megatron-Core",
+      "Large-Scale Training",
+      "NVIDIA",
+      "Tensor Parallelism",
+      "Pipeline Parallelism",
+      "Model Parallelism",
+      "H100",
+      "Distributed Training",
+      "Production"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/megatron-core"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-pyvene",
+    "name": "pyvene-interventions",
+    "description": "Provides guidance for performing causal interventions on PyTorch models using pyvene's declarative intervention framework. Use when conducting causal tracing, activation patching, interchange intervention training, or testing causal hypotheses about model behavior.",
+    "category": "frontend-development",
+    "tags": [
+      "Causal Intervention",
+      "pyvene",
+      "Activation Patching",
+      "Causal Tracing",
+      "Interpretability"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/04-mechanistic-interpretability/pyvene"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-mcp-builder",
+    "name": "mcp-builder",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/mcp-builder"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/skill-creator"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-webapp-testing",
+    "name": "webapp-testing",
+    "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/webapp-testing"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-artifacts-builder",
+    "name": "artifacts-builder",
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/artifacts-builder"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-notion-spec-to-implementation",
+    "name": "notion-spec-to-implementation",
+    "description": "Turns product or tech specs into concrete Notion tasks that Claude code can implement. Breaks down spec pages into detailed implementation plans with clear tasks, acceptance criteria, and progress tracking to guide development from requirements to completion.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/notion-spec-to-implementation"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-brand-guidelines",
+    "name": "brand-guidelines",
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/brand-guidelines"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-canvas-design",
+    "name": "canvas-design",
+    "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/canvas-design"
+  },
+  {
+    "id": "cloudai-x-claude-workflow-v2-designing-apis",
+    "name": "designing-apis",
+    "description": "Designs REST and GraphQL APIs including endpoints, error handling, versioning, and documentation. Use when creating new APIs, designing endpoints, reviewing API contracts, or when asked about REST, GraphQL, or API patterns.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1074,
+    "updatedAt": "2026-01-09T15:54:09Z",
+    "repoUrl": "https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/designing-apis"
+  },
+  {
+    "id": "cloudai-x-claude-workflow-v2-optimizing-performance",
+    "name": "optimizing-performance",
+    "description": "Analyzes and optimizes application performance across frontend, backend, and database layers. Use when diagnosing slowness, improving load times, optimizing queries, reducing bundle size, or when asked about performance issues.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1074,
+    "updatedAt": "2026-01-09T15:54:09Z",
+    "repoUrl": "https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/optimizing-performance"
+  },
+  {
+    "id": "cloudai-x-claude-workflow-v2-designing-architecture",
+    "name": "designing-architecture",
+    "description": "Designs software architecture and selects appropriate patterns for projects. Use when designing systems, choosing architecture patterns, structuring projects, making technical decisions, or when asked about microservices, monoliths, or architectural approaches.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1074,
+    "updatedAt": "2026-01-09T15:54:09Z",
+    "repoUrl": "https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/designing-architecture"
+  },
+  {
+    "id": "cloudai-x-claude-workflow-v2-designing-tests",
+    "name": "designing-tests",
+    "description": "Designs and implements testing strategies for any codebase. Use when adding tests, improving coverage, setting up testing infrastructure, debugging test failures, or when asked about unit tests, integration tests, or E2E testing.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1074,
+    "updatedAt": "2026-01-09T15:54:09Z",
+    "repoUrl": "https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/designing-tests"
   }
 ]
