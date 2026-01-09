@@ -608,5 +608,15 @@
     "stars": 24701,
     "updatedAt": "2026-01-08T21:19:10Z",
     "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/k8s-security-policies"
+  },
+  {
+    "id": "alirezarezvani-claude-code-tresor-code-reviewer",
+    "name": "code-reviewer",
+    "description": "Automatic code quality and best practices analysis. Use proactively when files are modified, saved, or committed. Analyzes code style, patterns, potential bugs, and security basics. Triggers on file changes, git diff, code edits, quality mentions.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 420,
+    "updatedAt": "2026-01-09T15:29:24Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-tresor/tree/main/skills/development/code-reviewer"
   }
 ]

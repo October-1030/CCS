@@ -1108,5 +1108,25 @@
     "stars": 2492,
     "updatedAt": "2026-01-09T03:57:35Z",
     "repoUrl": "https://github.com/glitternetwork/pinme/tree/main/.claude/skills/pinme"
+  },
+  {
+    "id": "alirezarezvani-claude-skills-senior-devops",
+    "name": "senior-devops",
+    "description": "Comprehensive DevOps skill for CI/CD, infrastructure automation, containerization, and cloud platforms (AWS, GCP, Azure). Includes pipeline setup, infrastructure as code, deployment automation, and monitoring. Use when setting up pipelines, deploying applications, managing infrastructure, implementing monitoring, or optimizing deployment processes.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 531,
+    "updatedAt": "2026-01-09T15:30:07Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-devops"
+  },
+  {
+    "id": "alirezarezvani-claude-code-tresor-security-auditor",
+    "name": "security-auditor",
+    "description": "Continuous security vulnerability scanning for OWASP Top 10, common vulnerabilities, and insecure patterns. Use when reviewing code, before deployments, or on file changes. Scans for SQL injection, XSS, secrets exposure, auth issues. Triggers on file changes, security mentions, deployment prep.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 420,
+    "updatedAt": "2026-01-09T15:29:24Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-tresor/tree/main/skills/security/security-auditor"
   }
 ]

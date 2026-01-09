@@ -1,14 +1,14 @@
 {
-  "totalSkills": 832,
+  "totalSkills": 866,
   "byCategory": {
-    "ai-data-science": 138,
-    "frontend-development": 136,
-    "tools-productivity": 143,
+    "ai-data-science": 141,
+    "frontend-development": 154,
+    "tools-productivity": 148,
     "business-marketing": 67,
-    "testing-quality": 80,
-    "backend-development": 97,
-    "specialized": 61,
-    "devops-infrastructure": 110
+    "testing-quality": 83,
+    "backend-development": 99,
+    "specialized": 62,
+    "devops-infrastructure": 112
   },
   "topTags": [
     {
@@ -213,26 +213,26 @@
     }
   ],
   "recentlyUpdated": [
-    "othmanadi-planning-with-files-planning-with-files",
-    "chriswiles-claude-code-showcase-graphql-schema",
-    "chriswiles-claude-code-showcase-core-components",
-    "chriswiles-claude-code-showcase-formik-patterns",
-    "chriswiles-claude-code-showcase-testing-patterns",
-    "chriswiles-claude-code-showcase-react-ui-patterns",
-    "chriswiles-claude-code-showcase-systematic-debugging",
-    "zebbern-claude-code-guide-network-101",
-    "zebbern-claude-code-guide-idor-testing",
-    "zebbern-claude-code-guide-red-team-tools",
-    "zebbern-claude-code-guide-scanning-tools",
-    "zebbern-claude-code-guide-pentest-commands",
-    "zebbern-claude-code-guide-pentest-checklist",
-    "zebbern-claude-code-guide-xss-html-injection",
-    "zebbern-claude-code-guide-wireshark-analysis",
-    "zebbern-claude-code-guide-burp-suite-testing",
-    "zebbern-claude-code-guide-file-path-traversal",
-    "zebbern-claude-code-guide-metasploit-framework",
-    "zebbern-claude-code-guide-shodan-reconnaissance",
-    "zebbern-claude-code-guide-broken-authentication"
+    "numman-ali-n-skills-zai-cli",
+    "numman-ali-n-skills-gastown",
+    "numman-ali-n-skills-dev-browser",
+    "numman-ali-n-skills-orchestration",
+    "alirezarezvani-claude-skills-capa-officer",
+    "alirezarezvani-claude-skills-senior-qa",
+    "alirezarezvani-claude-skills-qms-audit-expert",
+    "alirezarezvani-claude-skills-gdpr-dsgvo-expert",
+    "alirezarezvani-claude-skills-isms-audit-expert",
+    "alirezarezvani-claude-skills-mdr-745-specialist",
+    "alirezarezvani-claude-skills-quality-manager-qmr",
+    "alirezarezvani-claude-skills-senior-secops",
+    "alirezarezvani-claude-skills-senior-devops",
+    "alirezarezvani-claude-skills-senior-backend",
+    "alirezarezvani-claude-skills-senior-security",
+    "alirezarezvani-claude-skills-senior-fullstack",
+    "alirezarezvani-claude-skills-senior-architect",
+    "alirezarezvani-claude-skills-regulatory-affairs-head",
+    "alirezarezvani-claude-skills-senior-ml-engineer",
+    "alirezarezvani-claude-skills-fda-consultant-specialist"
   ],
-  "lastSyncTime": "2026-01-09T06:55:10.383Z"
+  "lastSyncTime": "2026-01-09T16:00:02.327Z"
 }
