@@ -1789,5 +1789,1292 @@
     "stars": 1074,
     "updatedAt": "2026-01-09T15:54:09Z",
     "repoUrl": "https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/analyzing-projects"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering-template",
+    "name": "skill-template",
+    "description": "Template for creating new Agent Skills for context engineering. Use this template when adding new skills to the collection.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6221,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/template"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering-filesystem-context",
+    "name": "filesystem-context",
+    "description": "This skill should be used when the user asks to \"offload context to files\", \"implement dynamic context discovery\", \"use filesystem for agent memory\", \"reduce context window bloat\", or mentions file-based context management, tool output persistence, agent scratch pads, or just-in-time context loading.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6221,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/filesystem-context"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering-context-compression",
+    "name": "context-compression",
+    "description": "This skill should be used when the user asks to \"compress context\", \"summarize conversation history\", \"implement compaction\", \"reduce token usage\", or mentions context compression, structured summarization, tokens-per-task optimization, or long-running agent sessions exceeding context limits.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6221,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering-context-optimization",
+    "name": "context-optimization",
+    "description": "This skill should be used when the user asks to \"optimize context\", \"reduce token costs\", \"improve context efficiency\", \"implement KV-cache optimization\", \"partition context\", or mentions context limits, observation masking, context budgeting, or extending effective context capacity.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6221,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-optimization"
+  },
+  {
+    "id": "catlog22-claude-code-workflow-issue-manage",
+    "name": "issue-manage",
+    "description": "Interactive issue management with menu-driven CRUD operations. Use when managing issues, viewing issue status, editing issue fields, performing bulk operations, or viewing issue history. Triggers on \"manage issue\", \"list issues\", \"edit issue\", \"delete issue\", \"bulk update\", \"issue dashboard\", \"issue history\", \"completed issues\".",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 893,
+    "updatedAt": "2026-01-09T15:12:57Z",
+    "repoUrl": "https://github.com/catlog22/Claude-Code-Workflow/tree/main/.claude/skills/issue-manage"
+  },
+  {
+    "id": "jezweb-roo-commander-commands",
+    "name": "commands",
+    "description": "Load a specific skill into context",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 710,
+    "updatedAt": "2026-01-09T15:29:02Z",
+    "repoUrl": "https://github.com/jezweb/roo-commander/tree/main/src/templates/commands/load-skill.md"
+  },
+  {
+    "id": "bgauryy-octocode-mcp-octocode-generate",
+    "name": "octocode-generate",
+    "description": "Scaffolds new applications with optimal tech stack selection and project boilerplate. Use when creating new projects, setting up frameworks, generating boilerplate, or starting new applications.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 665,
+    "updatedAt": "2026-01-09T14:29:58Z",
+    "repoUrl": "https://github.com/bgauryy/octocode-mcp/tree/main/packages/octocode-cli/skills/octocode-generate"
+  },
+  {
+    "id": "brownfinesecurity-iothackbot-jadx",
+    "name": "jadx",
+    "description": "Android APK decompiler that converts DEX bytecode to readable Java source code. Use when you need to decompile APK files, analyze app logic, search for vulnerabilities, find hardcoded credentials, or understand app behavior through readable source code.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 479,
+    "updatedAt": "2026-01-09T15:41:35Z",
+    "repoUrl": "https://github.com/BrownFineSecurity/iothackbot/tree/main/skills/jadx"
+  },
+  {
+    "id": "brownfinesecurity-iothackbot-ffind",
+    "name": "ffind",
+    "description": "Advanced file finder with type detection and filesystem extraction for analyzing firmware and extracting embedded filesystems. Use when you need to analyze firmware files, identify file types, or extract ext2/3/4 or F2FS filesystems.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 479,
+    "updatedAt": "2026-01-09T15:41:35Z",
+    "repoUrl": "https://github.com/BrownFineSecurity/iothackbot/tree/main/skills/ffind"
+  },
+  {
+    "id": "alirezarezvani-claude-code-skill-factory-commands",
+    "name": "commands",
+    "description": "",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 306,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-skill-factory/tree/main/.claude/commands/install-skill.md"
+  },
+  {
+    "id": "alirezarezvani-claude-code-skill-factory-hook-factory",
+    "name": "hook-factory",
+    "description": "Generate production-ready Claude Code hooks with interactive Q&A, automated installation, and enhanced validation. Supports 10 templates across 7 event types for comprehensive workflow automation.",
+    "category": "tools-productivity",
+    "tags": [
+      "hooks",
+      "automation",
+      "code-generation",
+      "workflow",
+      "productivity",
+      "interactive",
+      "installer"
+    ],
+    "stars": 306,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-skill-factory/tree/main/generated-skills/hook-factory"
+  },
+  {
+    "id": "huangserva-skill-prompt-generator-art-master",
+    "name": "art-master",
+    "description": "艺术风格主控 - 自动生成艺术风格提示词，支持水墨画、油画、超现实、插画等多种艺术风格",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 274,
+    "updatedAt": "2026-01-09T16:57:52Z",
+    "repoUrl": "https://github.com/huangserva/skill-prompt-generator/tree/main/.claude/skills/art-master/skill.md"
+  },
+  {
+    "id": "huangserva-skill-prompt-generator-prompt-analyzer",
+    "name": "prompt-analyzer",
+    "description": "提示词分析与洞察 - 查看Prompt详情、对比差异、推荐相似提示词、元素库统计",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 274,
+    "updatedAt": "2026-01-09T16:57:52Z",
+    "repoUrl": "https://github.com/huangserva/skill-prompt-generator/tree/main/.claude/skills/prompt-analyzer"
+  },
+  {
+    "id": "huangserva-skill-prompt-generator-prompt-xray",
+    "name": "prompt-xray",
+    "description": "提示词X光透视 - 从优秀提示词中逆向提取\"如何做X\"的知识，让黑盒变透明",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 274,
+    "updatedAt": "2026-01-09T16:57:52Z",
+    "repoUrl": "https://github.com/huangserva/skill-prompt-generator/tree/main/.claude/skills/prompt-xray/skill.md"
+  },
+  {
+    "id": "huangserva-skill-prompt-generator-universal-learner",
+    "name": "universal-learner",
+    "description": "通用学习器 - 从任何领域的Prompt中自动提取可复用元素，持续学习和积累知识",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 274,
+    "updatedAt": "2026-01-09T16:57:52Z",
+    "repoUrl": "https://github.com/huangserva/skill-prompt-generator/tree/main/.claude/skills/universal-learner"
+  },
+  {
+    "id": "huangserva-skill-prompt-generator-video-master",
+    "name": "video-master",
+    "description": "视频生成主控 - 自动生成视频场景提示词，支持动态效果、转场、运镜等",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 274,
+    "updatedAt": "2026-01-09T16:57:52Z",
+    "repoUrl": "https://github.com/huangserva/skill-prompt-generator/tree/main/.claude/skills/video-master/skill.md"
+  },
+  {
+    "id": "huangserva-skill-prompt-generator-intelligent-prompt-generator",
+    "name": "intelligent-prompt-generator",
+    "description": "智能提示词生成器 - 语义理解、常识推理、一致性检查，基于元素数据库生成完美提示词",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 274,
+    "updatedAt": "2026-01-09T16:57:52Z",
+    "repoUrl": "https://github.com/huangserva/skill-prompt-generator/tree/main/.claude/skills/intelligent-prompt-generator"
+  },
+  {
+    "id": "huangserva-skill-prompt-generator-prompt-master",
+    "name": "prompt-master",
+    "description": "提示词主控 - 智能选择合适的领域skill并生成提示词，支持自动领域分类和调度",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 274,
+    "updatedAt": "2026-01-09T16:57:52Z",
+    "repoUrl": "https://github.com/huangserva/skill-prompt-generator/tree/main/.claude/skills/prompt-master/skill.md"
+  },
+  {
+    "id": "huangserva-skill-prompt-generator-product-master",
+    "name": "product-master",
+    "description": "产品摄影主控 - 自动生成产品摄影提示词，支持商业拍摄、电商图片等场景",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 274,
+    "updatedAt": "2026-01-09T16:57:52Z",
+    "repoUrl": "https://github.com/huangserva/skill-prompt-generator/tree/main/.claude/skills/product-master/skill.md"
+  },
+  {
+    "id": "kasperjunge-agent-resources-hello-world",
+    "name": "hello-world",
+    "description": "A simple example skill that demonstrates Claude Code skill structure",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 264,
+    "updatedAt": "2026-01-09T16:58:15Z",
+    "repoUrl": "https://github.com/kasperjunge/agent-resources/tree/main/.claude/skills/hello-world"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace-code-transfer",
+    "name": "code-transfer",
+    "description": "Transfer code between files with line-based precision. Use when users request copying code from one location to another, moving functions or classes between files, extracting code blocks, or inserting code at specific line numbers.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 188,
+    "updatedAt": "2026-01-09T15:29:30Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/code-operations-plugin/skills/code-transfer"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace-git-pushing",
+    "name": "git-pushing",
+    "description": "Stage, commit, and push git changes with conventional commit messages. Use when user wants to commit and push changes, mentions pushing to remote, or asks to save and push their work. Also activates when user says \"push changes\", \"commit and push\", \"push this\", \"push to github\", or similar git workflow requests.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 188,
+    "updatedAt": "2026-01-09T15:29:30Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace-project-bootstrapper",
+    "name": "project-bootstrapper",
+    "description": "Sets up new projects or improves existing projects with development best practices, tooling, documentation, and workflow automation. Use when user wants to start a new project, improve project structure, add development tooling, or establish professional workflows.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 188,
+    "updatedAt": "2026-01-09T15:29:30Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/productivity-skills-plugin/skills/project-bootstrapper"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace-review-implementing",
+    "name": "review-implementing",
+    "description": "Process and implement code review feedback systematically. Use when user provides reviewer comments, PR feedback, code review notes, or asks to implement suggestions from reviews.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 188,
+    "updatedAt": "2026-01-09T15:29:30Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace-conversation-analyzer",
+    "name": "conversation-analyzer",
+    "description": "Analyzes your Claude Code conversation history to identify patterns, common mistakes, and opportunities for workflow improvement. Use when user wants to understand usage patterns, optimize workflow, identify automation opportunities, or check if they're following best practices.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 188,
+    "updatedAt": "2026-01-09T15:29:30Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/productivity-skills-plugin/skills/conversation-analyzer"
+  },
+  {
+    "id": "yamadashy-repomix-agent-memory",
+    "name": "agent-memory",
+    "description": "Use this skill when the user asks to save, remember, recall, or organize memories. Triggers on: 'remember this', 'save this', 'note this', 'what did we discuss about...', 'check your notes', 'clean up memories'. Also use proactively when discovering valuable findings worth preserving.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 21096,
+    "updatedAt": "2026-01-09T16:40:31Z",
+    "repoUrl": "https://github.com/yamadashy/repomix/tree/main/.claude/skills/agent-memory"
+  },
+  {
+    "id": "agentscope-ai-agentscope-analyzing-agentscope-library",
+    "name": "Analyzing AgentScope Library",
+    "description": "This skill provides a way to retrieve information from the AgentScope library for analysis and decision-making.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 15335,
+    "updatedAt": "2026-01-09T16:04:43Z",
+    "repoUrl": "https://github.com/agentscope-ai/agentscope/tree/main/examples/functionality/agent_skill/skill/analyzing-agentscope-library"
+  },
+  {
+    "id": "shareai-lab-learn-claude-code-pdf",
+    "name": "pdf",
+    "description": "Process PDF files - extract text, create PDFs, merge documents. Use when user asks to read PDF, create PDF, or work with PDF files.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 13615,
+    "updatedAt": "2026-01-09T16:52:09Z",
+    "repoUrl": "https://github.com/shareAI-lab/learn-claude-code/tree/main/skills/pdf"
+  },
+  {
+    "id": "modelscope-ms-agent-pdf",
+    "name": "pdf",
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 3797,
+    "updatedAt": "2026-01-09T14:10:49Z",
+    "repoUrl": "https://github.com/modelscope/ms-agent/tree/main/projects/agent_skills/skills/pdf"
+  },
+  {
+    "id": "modelscope-ms-agent-algorithmic-art",
+    "name": "algorithmic-art",
+    "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 3797,
+    "updatedAt": "2026-01-09T14:10:49Z",
+    "repoUrl": "https://github.com/modelscope/ms-agent/tree/main/projects/agent_skills/skills/algorithmic-art"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-commit",
+    "name": "commit",
+    "description": "Create git commits with user approval and no Claude attribution",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/commit"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-nia-docs",
+    "name": "nia-docs",
+    "description": "Search library documentation and code examples via Nia",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/nia-docs"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-plan-agent",
+    "name": "plan-agent",
+    "description": "Planning agent that creates implementation plans and handoffs from conversation context",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/plan-agent"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-rp-explorer",
+    "name": "rp-explorer",
+    "description": "Token-efficient codebase exploration using RepoPrompt - USE FIRST for brownfield projects",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/rp-explorer"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-describe_pr",
+    "name": "describe_pr",
+    "description": "Generate comprehensive PR descriptions following repository templates",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/describe_pr"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-skill-developer",
+    "name": "skill-developer",
+    "description": "Meta-skill for creating and managing Claude Code skills",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/skill-developer"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-recall-reasoning",
+    "name": "recall-reasoning",
+    "description": "Search past reasoning for relevant decisions and approaches",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/recall-reasoning"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-morph-search",
+    "name": "morph-search",
+    "description": "Fast codebase search via WarpGrep (20x faster than grep)",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/morph-search"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-implement_task",
+    "name": "implement_task",
+    "description": "Implementation agent that executes a single task and creates handoff on completion",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/implement_task"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-compound-learnings",
+    "name": "compound-learnings",
+    "description": "Transform session learnings into permanent capabilities (skills, rules, agents). Use when asked to \"improve setup\", \"learn from sessions\", \"compound learnings\", or \"what patterns should become skills\".",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/compound-learnings"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-resume_handoff",
+    "name": "resume_handoff",
+    "description": "Resume work from handoff document with context analysis and validation",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/resume_handoff"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-debug-hooks",
+    "name": "debug-hooks",
+    "description": "Systematic hook debugging workflow. Use when hooks aren't firing, producing wrong output, or behaving unexpectedly.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/debug-hooks"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-ast-grep-find",
+    "name": "ast-grep-find",
+    "description": "AST-based code search and refactoring via ast-grep MCP",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/ast-grep-find"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-implement_plan",
+    "name": "implement_plan",
+    "description": "Implement technical plans from thoughts/shared/plans with verification",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/implement_plan"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-qlty-check",
+    "name": "qlty-check",
+    "description": "Code quality checks, formatting, and metrics via qlty CLI",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/qlty-check"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-create_handoff",
+    "name": "create_handoff",
+    "description": "Create handoff document for transferring work to another session",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/create_handoff"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-repoprompt",
+    "name": "repoprompt",
+    "description": "Use RepoPrompt CLI for token-efficient codebase exploration",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/repoprompt"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-github-search",
+    "name": "github-search",
+    "description": "Search GitHub code, repositories, issues, and PRs via MCP",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/github-search"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-firecrawl-scrape",
+    "name": "firecrawl-scrape",
+    "description": "Scrape web pages and extract content via Firecrawl MCP",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/firecrawl-scrape"
+  },
+  {
+    "id": "openai-skills-linear",
+    "name": "linear",
+    "description": "Manage issues, projects & team workflows in Linear. Use when the user wants to read, create or updates tickets in Linear.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1381,
+    "updatedAt": "2026-01-09T16:56:10Z",
+    "repoUrl": "https://github.com/openai/skills/tree/main/skills/.experimental/linear"
+  },
+  {
+    "id": "openai-skills-skill-installer",
+    "name": "skill-installer",
+    "description": "Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a curated skill, or install a skill from another repo (including private repos).",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1381,
+    "updatedAt": "2026-01-09T16:56:10Z",
+    "repoUrl": "https://github.com/openai/skills/tree/main/skills/.system/skill-installer"
+  },
+  {
+    "id": "openai-skills-create-plan",
+    "name": "create-plan",
+    "description": "Create a concise plan. Use when a user explicitly asks for a plan related to a coding task.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1381,
+    "updatedAt": "2026-01-09T16:56:10Z",
+    "repoUrl": "https://github.com/openai/skills/tree/main/skills/.experimental/create-plan"
+  },
+  {
+    "id": "openai-skills-gh-address-comments",
+    "name": "gh-address-comments",
+    "description": "Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and prompt the user to authenticate if not logged in.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1381,
+    "updatedAt": "2026-01-09T16:56:10Z",
+    "repoUrl": "https://github.com/openai/skills/tree/main/skills/.curated/gh-address-comments"
+  },
+  {
+    "id": "openai-skills-notion-knowledge-capture",
+    "name": "notion-knowledge-capture",
+    "description": "Capture conversations and decisions into structured Notion pages; use when turning chats/notes into wiki entries, how-tos, decisions, or FAQs with proper linking.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1381,
+    "updatedAt": "2026-01-09T16:56:10Z",
+    "repoUrl": "https://github.com/openai/skills/tree/main/skills/.curated/notion-knowledge-capture"
+  },
+  {
+    "id": "openai-skills-notion-spec-to-implementation",
+    "name": "notion-spec-to-implementation",
+    "description": "Turn Notion specs into implementation plans, tasks, and progress tracking; use when implementing PRDs/feature specs and creating Notion plans + tasks from them.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1381,
+    "updatedAt": "2026-01-09T16:56:10Z",
+    "repoUrl": "https://github.com/openai/skills/tree/main/skills/.curated/notion-spec-to-implementation"
+  },
+  {
+    "id": "udecode-dotai-reviewing-pr",
+    "name": "reviewing-pr",
+    "description": "Use when reviewing pull requests with comprehensive code analysis, incremental or full review options, and constructive feedback - provides thorough code reviews with severity ratings",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1115,
+    "updatedAt": "2026-01-09T15:48:10Z",
+    "repoUrl": "https://github.com/udecode/dotai/tree/main/.claude-plugin/plugins/git/skills/reviewing-pr"
+  },
+  {
+    "id": "udecode-dotai-using-skills",
+    "name": "using-skills",
+    "description": "Use when starting any conversation - establishes mandatory workflows for finding and using skills, including using Skill tool before announcing usage, alignment before implementation, and creating TodoWrite todos for checklists",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1115,
+    "updatedAt": "2026-01-09T15:48:10Z",
+    "repoUrl": "https://github.com/udecode/dotai/tree/main/.claude-plugin/plugins/skills/skills/using-skills"
+  },
+  {
+    "id": "udecode-dotai-executing-plans",
+    "name": "executing-plans",
+    "description": "Use when partner provides a complete implementation plan to execute in controlled batches with review checkpoints - loads plan, reviews critically, executes tasks in batches, reports for review between batches",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1115,
+    "updatedAt": "2026-01-09T15:48:10Z",
+    "repoUrl": "https://github.com/udecode/dotai/tree/main/.claude-plugin/plugins/plan/skills/executing-plans"
+  },
+  {
+    "id": "inclusionai-aworld-code",
+    "name": "hypercode_forge",
+    "description": "🚀 HyperCode Forge - Competitive compression engine for MCP workflows",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1091,
+    "updatedAt": "2026-01-09T10:55:18Z",
+    "repoUrl": "https://github.com/inclusionAI/AWorld/tree/main/examples/skill_agent/skills/code/skill.md"
+  },
+  {
+    "id": "inclusionai-aworld-read_large_webpage",
+    "name": "read large webpage or knowledge",
+    "description": "This skill is used for segmented reading and organization when facing large-scale knowledge bases or web pages. It captures original content segment by segment, summarizes key points in real-time, and continuously deposits them into the knowledge base, ensuring orderly information ingestion, clear structure, and traceability.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1091,
+    "updatedAt": "2026-01-09T10:55:18Z",
+    "repoUrl": "https://github.com/inclusionAI/AWorld/tree/main/examples/skill_agent/skills/read_large_webpage/skill.md"
+  },
+  {
+    "id": "gadievron-raptor-commands",
+    "name": "commands",
+    "description": "",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 970,
+    "updatedAt": "2026-01-09T13:32:53Z",
+    "repoUrl": "https://github.com/gadievron/raptor/tree/main/.claude/commands/create-skill.md"
+  },
+  {
+    "id": "gadievron-raptor-rr-debugger",
+    "name": "rr-debugger",
+    "description": "Deterministic debugging with rr record-replay. Use when debugging crashes, ASAN faults, or when reverse execution is needed. Provides reverse-next, reverse-step, reverse-continue commands and crash trace extraction.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 970,
+    "updatedAt": "2026-01-09T13:32:53Z",
+    "repoUrl": "https://github.com/gadievron/raptor/tree/main/.claude/skills/crash-analysis/rr-debugger"
+  },
+  {
+    "id": "gadievron-raptor-orchestration",
+    "name": "orchestration",
+    "description": "",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 970,
+    "updatedAt": "2026-01-09T13:32:53Z",
+    "repoUrl": "https://github.com/gadievron/raptor/tree/main/.claude/skills/oss-forensics/orchestration"
+  },
+  {
+    "id": "gadievron-raptor-gcov-coverage",
+    "name": "Code Coverage with gcov",
+    "description": "Add gcov code coverage instrumentation to C/C++ projects",
+    "category": "tools-productivity",
+    "tags": [
+      "coverage",
+      "gcov",
+      "testing"
+    ],
+    "stars": 970,
+    "updatedAt": "2026-01-09T13:32:53Z",
+    "repoUrl": "https://github.com/gadievron/raptor/tree/main/.claude/skills/crash-analysis/gcov-coverage"
+  },
+  {
+    "id": "gadievron-raptor-function-tracing",
+    "name": "Function Call Tracing",
+    "description": "Instrument C/C++ with -finstrument-functions for execution tracing and Perfetto visualization",
+    "category": "tools-productivity",
+    "tags": [
+      "tracing",
+      "profiling",
+      "instrumentation",
+      "perfetto"
+    ],
+    "stars": 970,
+    "updatedAt": "2026-01-09T13:32:53Z",
+    "repoUrl": "https://github.com/gadievron/raptor/tree/main/.claude/skills/crash-analysis/function-tracing"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-jobs",
+    "name": "laravel-jobs",
+    "description": "Background jobs and event listeners for async processing. Use when working with queued jobs, background processing, events, or when user mentions jobs, queues, listeners, events, async processing.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-jobs"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-quality",
+    "name": "laravel-quality",
+    "description": "Code quality tooling with PHPStan, Pint, and strict types. Use when working with code quality, static analysis, formatting, or when user mentions PHPStan, Pint, quality, static analysis, type safety, code style, linting.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-quality"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-routing",
+    "name": "laravel-routing",
+    "description": "Route configuration, route model binding, and authorization. Use when working with routes, route binding, URL patterns, or when user mentions routing, route model binding, conditional binding, route-level authorization.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-routing"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-packages",
+    "name": "laravel-packages",
+    "description": "Package development and extraction of reusable code. Use when working with package development, code reusability, or when user mentions packages, composer packages, extract package, reusable code, package development.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-packages"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-policies",
+    "name": "laravel-policies",
+    "description": "Authorization policies for resource access control. Use when working with authorization, permissions, access control, or when user mentions policies, authorization, permissions, can, ability checks.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-policies"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-providers",
+    "name": "laravel-providers",
+    "description": "Service providers, bootstrapping, and application configuration. Use when working with service providers, app configuration, bootstrapping, or when user mentions service providers, AppServiceProvider, bootstrap, booters, configuration, helpers.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-providers"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-exceptions",
+    "name": "laravel-exceptions",
+    "description": "Custom exceptions with static factories and HTTP responses. Use when working with error handling, custom exceptions, or when user mentions exceptions, custom exception, error handling, HTTP exceptions.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-exceptions"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-architecture",
+    "name": "laravel-architecture",
+    "description": "High-level architecture decisions, patterns, and project structure. Use when user asks about architecture decisions, project structure, pattern selection, or mentions how to organize, which pattern to use, best practices, architecture.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-architecture"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-multi-tenancy",
+    "name": "laravel-multi-tenancy",
+    "description": "Multi-tenant application architecture patterns. Use when working with multi-tenant systems, tenant isolation, or when user mentions multi-tenancy, tenants, tenant scoping, tenant isolation, multi-tenant.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-multi-tenancy"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-state-machines",
+    "name": "laravel-state-machines",
+    "description": "State machines using Spatie Model States for complex state transitions. Use when working with complex state management, state transitions, or when user mentions state machines, Spatie Model States, state transitions, transition validation.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-state-machines"
+  },
+  {
+    "id": "archubbuck-workspace-architect-pdf",
+    "name": "pdf",
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/pdf"
+  },
+  {
+    "id": "archubbuck-workspace-architect-pptx",
+    "name": "pptx",
+    "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/pptx"
+  },
+  {
+    "id": "archubbuck-workspace-architect-algorithmic-art",
+    "name": "algorithmic-art",
+    "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/algorithmic-art"
+  },
+  {
+    "id": "archubbuck-workspace-architect-docx",
+    "name": "docx",
+    "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/docx"
+  },
+  {
+    "id": "archubbuck-workspace-architect-internal-comms",
+    "name": "internal-comms",
+    "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/internal-comms"
+  },
+  {
+    "id": "ggprompts-tabzchrome-wave-done",
+    "name": "wave-done",
+    "description": "Complete a wave of parallel workers: verify all workers finished, merge branches, run unified review, cleanup worktrees. Invoke with /conductor:wave-done <issue-ids>",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 116,
+    "updatedAt": "2026-01-09T17:10:49Z",
+    "repoUrl": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/conductor/skills/wave-done"
+  },
+  {
+    "id": "ggprompts-tabzchrome-tabz-artist",
+    "name": "TabzArtist",
+    "description": "Generate images via DALL-E and videos via Sora using browser automation. This skill should be used when a project needs visual assets like hero images, team photos, feature icons, or product demo videos. Spawnable as a conductor agent during bd-swarm-auto for parallel asset generation.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 116,
+    "updatedAt": "2026-01-09T17:10:49Z",
+    "repoUrl": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/conductor/skills/tabz-artist"
+  },
+  {
+    "id": "ggprompts-tabzchrome-orchestration",
+    "name": "orchestration",
+    "description": "Multi-session Claude workflow orchestration. Spawn workers via TabzChrome, coordinate parallel tasks, use subagents for monitoring/exploration, manage beads issues. Use this skill when coordinating multiple Claude sessions or managing complex multi-step workflows.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 116,
+    "updatedAt": "2026-01-09T17:10:49Z",
+    "repoUrl": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/conductor/skills/orchestration"
+  },
+  {
+    "id": "ggprompts-tabzchrome-bd-swarm-auto",
+    "name": "bd-swarm-auto",
+    "description": "Fully autonomous backlog completion. Runs waves until `bd ready` is empty. Self-resumable after /wipe. Use when you want hands-off parallel issue processing.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 116,
+    "updatedAt": "2026-01-09T17:10:49Z",
+    "repoUrl": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/conductor/skills/bd-swarm-auto"
+  },
+  {
+    "id": "ggprompts-tabzchrome-terminal-tools",
+    "name": "terminal-tools",
+    "description": "",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 116,
+    "updatedAt": "2026-01-09T17:10:49Z",
+    "repoUrl": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/conductor/skills/terminal-tools"
+  },
+  {
+    "id": "klaushofrichter-een-oauth-proxy-pr-and-check",
+    "name": "PR-and-check",
+    "description": "Use this skill when you are requested to create a PR for a feature branch.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:18:15Z",
+    "repoUrl": "https://github.com/klaushofrichter/een-oauth-proxy/tree/main/.claude/skills/PR-and-check"
+  },
+  {
+    "id": "richtabor-skills-x-writing",
+    "name": "x-writing",
+    "description": "Transforms notes into X (Twitter) posts. Triggers when user asks to create social content, draft tweets, or turn notes/ideas into posts.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T17:09:24Z",
+    "repoUrl": "https://github.com/richtabor/skills/tree/main/skills/x-writing"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-executing-plans",
+    "name": "executing-plans",
+    "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/executing-plans"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-video-downloader",
+    "name": "youtube-downloader",
+    "description": "Download YouTube videos with customizable quality and format options. Use this skill when the user asks to download, save, or grab YouTube videos. Supports various quality settings (best, 1080p, 720p, 480p, 360p), multiple formats (mp4, webm, mkv), and audio-only downloads as MP3.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/video-downloader"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-changelog-generator",
+    "name": "changelog-generator",
+    "description": "Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns hours of manual changelog writing into minutes of automated generation.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/changelog-generator"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-subagent-driven-development",
+    "name": "subagent-driven-development",
+    "description": "Use when executing implementation plans with independent tasks in the current session",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/subagent-driven-development"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-developer-growth-analysis",
+    "name": "developer-growth-analysis",
+    "description": "Analyzes your recent Claude Code chat history to identify coding patterns, development gaps, and areas for improvement, curates relevant learning resources from HackerNews, and automatically sends a personalized growth report to your Slack DMs.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/developer-growth-analysis"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-meeting-insights-analyzer",
+    "name": "meeting-insights-analyzer",
+    "description": "Analyzes meeting transcripts and recordings to uncover behavioral patterns, communication insights, and actionable feedback. Identifies when you avoid conflict, use filler words, dominate conversations, or miss opportunities to listen. Perfect for professionals seeking to improve their communication and leadership skills.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/meeting-insights-analyzer"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-debugging-strategies",
+    "name": "debugging-strategies",
+    "description": "Master systematic debugging techniques, profiling tools, and root cause analysis to efficiently track down bugs across any codebase or technology stack. Use when investigating bugs, performance issues, or unexpected behavior.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/developer-essentials/skills/debugging-strategies"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-changelog-automation",
+    "name": "changelog-automation",
+    "description": "Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use when setting up release workflows, generating release notes, or standardizing commit conventions.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/documentation-generation/skills/changelog-automation"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-python-performance-optimization",
+    "name": "python-performance-optimization",
+    "description": "Profile and optimize Python code using cProfile, memory profilers, and performance best practices. Use when debugging slow Python code, optimizing bottlenecks, or improving application performance.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/python-development/skills/python-performance-optimization"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-file-organizer",
+    "name": "file-organizer",
+    "description": "Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load and keeps your digital workspace tidy without manual effort.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/file-organizer"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-internal-comms",
+    "name": "internal-comms",
+    "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/internal-comms"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-using-git-worktrees",
+    "name": "using-git-worktrees",
+    "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/using-git-worktrees"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-pdf",
+    "name": "pdf",
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/document-skills/pdf"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-docx",
+    "name": "docx",
+    "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/document-skills/docx"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-uv-package-manager",
+    "name": "uv-package-manager",
+    "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/python-development/skills/uv-package-manager"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents",
+    "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/dispatching-parallel-agents"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-image-enhancer",
+    "name": "image-enhancer",
+    "description": "Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documentation, or social media posts.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/image-enhancer"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-template-skill",
+    "name": "template-skill",
+    "description": "Replace with description of the skill and when Claude should use it.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/template-skill"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-invoice-organizer",
+    "name": "invoice-organizer",
+    "description": "Automatically organizes invoices and receipts for tax preparation by reading messy files, extracting key information, renaming them consistently, and sorting them into logical folders. Turns hours of manual bookkeeping into minutes of automated organization.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/invoice-organizer"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-pptx",
+    "name": "pptx",
+    "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/document-skills/pptx"
+  },
+  {
+    "id": "sanskar015-claude-skills-supercharged-git-workflow",
+    "name": "git-workflow",
+    "description": "Git workflow best practices including commit messages, branching strategies, pull requests, and collaboration patterns. Use when working with Git version control.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:01:26Z",
+    "repoUrl": "https://github.com/Sanskar015/claude-skills-supercharged/tree/main/.claude/skills/git-workflow"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-pdf",
+    "name": "pdf",
+    "description": "PDF manipulation toolkit. Extract text/tables, create PDFs, merge/split, fill forms, for programmatic document processing and analysis.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/document-skills/pdf"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-pptx",
+    "name": "pptx",
+    "description": "Presentation toolkit (.pptx). Create/edit slides, layouts, content, speaker notes, comments, for programmatic presentation creation and modification.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/document-skills/pptx"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-paper-2-web",
+    "name": "paper-2-web",
+    "description": "This skill should be used when converting academic papers into promotional and presentation formats including interactive websites (Paper2Web), presentation videos (Paper2Video), and conference posters (Paper2Poster). Use this skill for tasks involving paper dissemination, conference preparation, creating explorable academic homepages, generating video abstracts, or producing print-ready posters from LaTeX or PDF sources.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/paper-2-web"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-deeptools",
+    "name": "deeptools",
+    "description": "NGS analysis toolkit. BAM to bigWig conversion, QC (correlation, PCA, fingerprints), heatmaps/profiles (TSS, peaks), for ChIP-seq, RNA-seq, ATAC-seq visualization.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/deeptools"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-pymatgen",
+    "name": "pymatgen",
+    "description": "Materials science toolkit. Crystal structures (CIF, POSCAR), phase diagrams, band structure, DOS, Materials Project integration, format conversion, for computational materials science.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pymatgen"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-etetoolkit",
+    "name": "etetoolkit",
+    "description": "Phylogenetic tree toolkit (ETE). Tree manipulation (Newick/NHX), evolutionary event detection, orthology/paralogy, NCBI taxonomy, visualization (PDF/SVG), for phylogenomics.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/etetoolkit"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-plotly",
+    "name": "plotly",
+    "description": "Interactive visualization library. Use when you need hover info, zoom, pan, or web-embeddable charts. Best for dashboards, exploratory analysis, and presentations. For static publication figures use matplotlib or scientific-visualization.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/plotly"
+  },
+  {
+    "id": "athola-skrills-git-workflow",
+    "name": "git-workflow",
+    "description": "Git best practices for version control and collaboration",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 35,
+    "updatedAt": "2026-01-09T16:54:31Z",
+    "repoUrl": "https://github.com/athola/skrills/tree/main/assets/demo-skills/git-workflow"
+  },
+  {
+    "id": "athola-skrills-debug-helper",
+    "name": "debug-helper",
+    "description": "Systematic debugging approach for identifying and fixing issues",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 35,
+    "updatedAt": "2026-01-09T16:54:31Z",
+    "repoUrl": "https://github.com/athola/skrills/tree/main/assets/demo-skills/debug-helper"
+  },
+  {
+    "id": "athola-skrills-coding-assistant",
+    "name": "coding-assistant",
+    "description": "Provides coding assistance with best practices and code review",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 35,
+    "updatedAt": "2026-01-09T16:54:31Z",
+    "repoUrl": "https://github.com/athola/skrills/tree/main/assets/demo-skills/coding-assistant"
+  },
+  {
+    "id": "mann1988-awesome-claude-skills-mckinsey-consultant-11",
+    "name": "mckinsey-consultant",
+    "description": "McKinsey顾问式问题解决系统。从商业问题出发,通过假设驱动的结构化分析方法,生成McKinsey风格研究报告和PPT。融合Problem Solving方法论、MECE原则、Issue Tree拆解、Hypotheses形成、Dummy Page设计、智能数据收集和专业PPT生成能力。",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T16:53:23Z",
+    "repoUrl": "https://github.com/Mann1988/awesome-claude-skills/tree/main/mckinsey-consultant-11"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-template-skill",
+    "name": "template-skill",
+    "description": "Replace with description of the skill and when Claude should use it.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/template-skill"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-internal-comms",
+    "name": "internal-comms",
+    "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/internal-comms"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-docx",
+    "name": "docx",
+    "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/document-skills/docx"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-pdf",
+    "name": "pdf",
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/document-skills/pdf"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-algorithmic-art",
+    "name": "algorithmic-art",
+    "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/algorithmic-art"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-pptx",
+    "name": "pptx",
+    "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/document-skills/pptx"
+  },
+  {
+    "id": "abejitsu-need_this_done-pragmatic-audit",
+    "name": "pragmatic-audit",
+    "description": "Scan codebase for Pragmatic Programmer anti-patterns. Reports findings. Triggers on \"pragmatic audit\" or \"/pragmatic-audit\".",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:48:40Z",
+    "repoUrl": "https://github.com/AbeJitsu/Need_This_Done/tree/main/.claude/skills/pragmatic-audit/skill.md"
+  },
+  {
+    "id": "abejitsu-need_this_done-worktree-swarm",
+    "name": "worktree-swarm",
+    "description": "Set up and orchestrate parallel Claude Code agents using git worktrees. Use this skill when the user wants to parallelize a feature across multiple agents, spawn worktrees, or merge agent work back together.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:48:40Z",
+    "repoUrl": "https://github.com/AbeJitsu/Need_This_Done/tree/main/.claude/skills/worktree-swarm"
   }
 ]

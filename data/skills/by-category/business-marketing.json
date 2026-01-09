@@ -668,5 +668,15 @@
     "stars": 1373,
     "updatedAt": "2026-01-09T06:02:50Z",
     "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-enums",
+    "name": "laravel-enums",
+    "description": "Backed enums with labels and business logic. Use when working with enums, status values, fixed sets of options, or when user mentions enums, backed enums, enum cases, status enums.",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-enums"
   }
 ]

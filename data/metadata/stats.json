@@ -1,14 +1,14 @@
 {
-  "totalSkills": 1000,
+  "totalSkills": 1503,
   "byCategory": {
-    "ai-data-science": 181,
-    "frontend-development": 199,
-    "tools-productivity": 172,
-    "business-marketing": 67,
-    "testing-quality": 87,
-    "backend-development": 109,
-    "specialized": 62,
-    "devops-infrastructure": 123
+    "ai-data-science": 301,
+    "frontend-development": 379,
+    "tools-productivity": 299,
+    "business-marketing": 68,
+    "testing-quality": 112,
+    "backend-development": 148,
+    "specialized": 69,
+    "devops-infrastructure": 127
   },
   "topTags": [
     {
@@ -128,11 +128,27 @@
       "count": 4
     },
     {
+      "tag": "github",
+      "count": 4
+    },
+    {
+      "tag": "forensics",
+      "count": 4
+    },
+    {
+      "tag": "osint",
+      "count": 4
+    },
+    {
       "tag": "codex",
       "count": 3
     },
     {
       "tag": "ai",
+      "count": 3
+    },
+    {
+      "tag": "testing",
       "count": 3
     },
     {
@@ -194,45 +210,29 @@
     {
       "tag": "Safety Alignment",
       "count": 3
-    },
-    {
-      "tag": "Structured Output",
-      "count": 3
-    },
-    {
-      "tag": "Long Context",
-      "count": 3
-    },
-    {
-      "tag": "FP8",
-      "count": 3
-    },
-    {
-      "tag": "RLHF",
-      "count": 3
     }
   ],
   "recentlyUpdated": [
-    "dammyjay93-claude-design-skill-skill",
-    "kamalnrf-claude-plugins-skills-discovery",
-    "jarrodwatts-claude-code-config-react-useeffect",
-    "jarrodwatts-claude-code-config-planning-with-files",
-    "cloudai-x-claude-workflow-v2-managing-git",
-    "cloudai-x-claude-workflow-v2-designing-apis",
-    "cloudai-x-claude-workflow-v2-parallel-execution",
-    "cloudai-x-claude-workflow-v2-analyzing-projects",
-    "cloudai-x-claude-workflow-v2-optimizing-performance",
-    "cloudai-x-claude-workflow-v2-designing-architecture",
-    "cloudai-x-claude-workflow-v2-designing-tests",
-    "numman-ali-n-skills-zai-cli",
-    "numman-ali-n-skills-gastown",
-    "numman-ali-n-skills-dev-browser",
-    "numman-ali-n-skills-orchestration",
-    "alirezarezvani-claude-skills-capa-officer",
-    "alirezarezvani-claude-skills-senior-qa",
-    "alirezarezvani-claude-skills-qms-audit-expert",
-    "alirezarezvani-claude-skills-gdpr-dsgvo-expert",
-    "alirezarezvani-claude-skills-isms-audit-expert"
+    "klaushofrichter-een-oauth-proxy-pr-and-check",
+    "leeovery-claude-laravel-laravel-jobs",
+    "leeovery-claude-laravel-laravel-dtos",
+    "leeovery-claude-laravel-laravel-enums",
+    "leeovery-claude-laravel-laravel-models",
+    "leeovery-claude-laravel-laravel-quality",
+    "leeovery-claude-laravel-laravel-testing",
+    "leeovery-claude-laravel-laravel-routing",
+    "leeovery-claude-laravel-laravel-actions",
+    "leeovery-claude-laravel-laravel-services",
+    "leeovery-claude-laravel-laravel-packages",
+    "leeovery-claude-laravel-laravel-policies",
+    "leeovery-claude-laravel-laravel-providers",
+    "leeovery-claude-laravel-laravel-validation",
+    "leeovery-claude-laravel-laravel-exceptions",
+    "leeovery-claude-laravel-laravel-controllers",
+    "leeovery-claude-laravel-laravel-architecture",
+    "leeovery-claude-laravel-laravel-value-objects",
+    "leeovery-claude-laravel-laravel-multi-tenancy",
+    "leeovery-claude-laravel-skill-creator"
   ],
-  "lastSyncTime": "2026-01-09T16:27:16.879Z"
+  "lastSyncTime": "2026-01-09T17:29:56.277Z"
 }

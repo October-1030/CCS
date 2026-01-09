@@ -890,5 +890,255 @@
     "stars": 618,
     "updatedAt": "2026-01-09T15:29:32Z",
     "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/raffle-winner-picker"
+  },
+  {
+    "id": "breaking-brake-cc-wf-studio-code-review-medium",
+    "name": "code-review-medium",
+    "description": "Standard code review for medium PRs (100-500 lines). Includes code quality, security basics, and test coverage analysis.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2326,
+    "updatedAt": "2026-01-09T16:10:47Z",
+    "repoUrl": "https://github.com/breaking-brake/cc-wf-studio/tree/main/.claude/skills/code-review-medium"
+  },
+  {
+    "id": "brownfinesecurity-iothackbot-picocom",
+    "name": "picocom",
+    "description": "Use picocom to interact with IoT device UART consoles for pentesting operations including device enumeration, vulnerability discovery, bootloader manipulation, and gaining root shells. Use when the user needs to interact with embedded devices, IoT hardware, or serial consoles.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 479,
+    "updatedAt": "2026-01-09T15:41:35Z",
+    "repoUrl": "https://github.com/BrownFineSecurity/iothackbot/tree/main/skills/picocom"
+  },
+  {
+    "id": "brownfinesecurity-iothackbot-onvifscan",
+    "name": "onvifscan",
+    "description": "ONVIF device security scanner for testing authentication and brute-forcing credentials. Use when you need to assess security of IP cameras or ONVIF-enabled devices.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 479,
+    "updatedAt": "2026-01-09T15:41:35Z",
+    "repoUrl": "https://github.com/BrownFineSecurity/iothackbot/tree/main/skills/onvifscan"
+  },
+  {
+    "id": "brownfinesecurity-iothackbot-telnetshell",
+    "name": "telnetshell",
+    "description": "Use telnet to interact with IoT device shells for pentesting operations including device enumeration, vulnerability discovery, credential testing, and post-exploitation. Use when the user needs to interact with network-accessible shells, IoT devices, or telnet services.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 479,
+    "updatedAt": "2026-01-09T15:41:35Z",
+    "repoUrl": "https://github.com/BrownFineSecurity/iothackbot/tree/main/skills/telnetshell"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace-code-auditor",
+    "name": "code-auditor",
+    "description": "Performs comprehensive codebase analysis covering architecture, code quality, security, performance, testing, and maintainability. Use when user wants to audit code quality, identify technical debt, find security issues, assess test coverage, or get a codebase health check.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 188,
+    "updatedAt": "2026-01-09T15:29:30Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/productivity-skills-plugin/skills/code-auditor"
+  },
+  {
+    "id": "numman-ali-openskills-my-first-skill",
+    "name": "my-first-skill",
+    "description": "Example skill demonstrating Anthropic SKILL.md format. Load when learning to create skills or testing the OpenSkills loader.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 4430,
+    "updatedAt": "2026-01-09T15:48:32Z",
+    "repoUrl": "https://github.com/numman-ali/openskills/tree/main/examples/my-first-skill"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-hook-developer",
+    "name": "hook-developer",
+    "description": "Complete Claude Code hooks reference - input/output schemas, registration, testing patterns",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/hook-developer"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-test-driven-development",
+    "name": "test-driven-development",
+    "description": "Use when implementing any feature or bugfix, before writing implementation code",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/test-driven-development"
+  },
+  {
+    "id": "udecode-dotai-systematic-debugging",
+    "name": "systematic-debugging",
+    "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes - four-phase framework (root cause investigation, pattern analysis, hypothesis testing, implementation) that ensures understanding before attempting solutions",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1115,
+    "updatedAt": "2026-01-09T15:48:10Z",
+    "repoUrl": "https://github.com/udecode/dotai/tree/main/.claude-plugin/plugins/debug/skills/systematic-debugging"
+  },
+  {
+    "id": "leeovery-claude-technical-workflows-technical-review",
+    "name": "technical-review",
+    "description": "Validate completed implementation against plan tasks and acceptance criteria. Sixth phase of research-discussion-specification-plan-implement-review workflow. Use when: (1) Implementation phase is complete, (2) User wants validation before merging/shipping, (3) Quality gate check needed after implementation. Reviews ALL plan tasks for implementation correctness, test adequacy, and code quality. Produces structured feedback (approve, request changes, or comments) - does NOT fix code.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:15:08Z",
+    "repoUrl": "https://github.com/leeovery/claude-technical-workflows/tree/main/skills/technical-review"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-testing",
+    "name": "laravel-testing",
+    "description": "Comprehensive testing patterns with Pest. Use when working with tests, testing patterns, or when user mentions testing, tests, Pest, PHPUnit, mocking, factories, test patterns.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-testing"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-validation",
+    "name": "laravel-validation",
+    "description": "Form request validation and comprehensive validation testing. Use when working with validation rules, form requests, validation testing, or when user mentions validation, form requests, validation rules, conditional validation, validation testing.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-validation"
+  },
+  {
+    "id": "posit-dev-skills-testing-r-packages",
+    "name": "testing-r-packages",
+    "description": "Best practices for writing R package tests using testthat version 3+. Use when writing, organizing, or improving tests for R packages. Covers test structure, expectations, fixtures, snapshots, mocking, and modern testthat 3 patterns including self-sufficient tests, proper cleanup with withr, and snapshot testing.\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 50,
+    "updatedAt": "2026-01-09T17:14:10Z",
+    "repoUrl": "https://github.com/posit-dev/skills/tree/main/r-lib/testing-r-packages"
+  },
+  {
+    "id": "themostlygreat-safeword-safeword-debugging",
+    "name": "debugging",
+    "description": "Four-phase debugging framework that ensures root cause identification before fixes. Use when encountering bugs, test failures, unexpected behavior, or when previous fix attempts failed. Enforces investigate-first discipline ('debug this', 'fix this error', 'test is failing', 'not working').",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:07:49Z",
+    "repoUrl": "https://github.com/TheMostlyGreat/safeword/tree/main/.claude/skills/safeword-debugging"
+  },
+  {
+    "id": "themostlygreat-safeword-safeword-refactoring",
+    "name": "refactoring",
+    "description": "Systematic refactoring with small-step discipline. Use when user says 'refactor', 'clean up', 'restructure', 'extract', 'rename', 'simplify', or mentions code smells. Enforces one change → test → commit cycle. For structural improvements, NOT style/formatting (use /lint). NOT for adding features or fixing bugs.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:07:49Z",
+    "repoUrl": "https://github.com/TheMostlyGreat/safeword/tree/main/.claude/skills/safeword-refactoring"
+  },
+  {
+    "id": "themostlygreat-safeword-safeword-quality-reviewer",
+    "name": "quality-reviewer",
+    "description": "Deep code review with web research to verify against latest ecosystem. Use when user says 'double check against latest', 'verify versions', 'check security', 'review against docs', or needs deep analysis beyond automatic quality hook.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:07:49Z",
+    "repoUrl": "https://github.com/TheMostlyGreat/safeword/tree/main/.claude/skills/safeword-quality-reviewer"
+  },
+  {
+    "id": "themostlygreat-safeword-safeword-quality-reviewing",
+    "name": "quality-reviewing",
+    "description": "Deep code review with web research to verify against latest ecosystem. Use when user says 'double check against latest', 'verify versions', 'check security', 'review against docs', or needs deep analysis beyond automatic quality hook.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:07:49Z",
+    "repoUrl": "https://github.com/TheMostlyGreat/safeword/tree/main/.claude/skills/safeword-quality-reviewing"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-raffle-winner-picker",
+    "name": "raffle-winner-picker",
+    "description": "Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/raffle-winner-picker"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-javascript-testing-patterns",
+    "name": "javascript-testing-patterns",
+    "description": "Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, integration tests, and end-to-end testing with mocking, fixtures, and test-driven development. Use when writing JavaScript/TypeScript tests, setting up test infrastructure, or implementing TDD/BDD workflows.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/javascript-typescript/skills/javascript-testing-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-systematic-debugging",
+    "name": "systematic-debugging",
+    "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/systematic-debugging"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-llm-evaluation",
+    "name": "llm-evaluation",
+    "description": "Implement comprehensive evaluation strategies for LLM applications using automated metrics, human feedback, and benchmarking. Use when testing LLM performance, measuring AI application quality, or establishing evaluation frameworks.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/llm-application-dev/skills/llm-evaluation"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-test-driven-development",
+    "name": "test-driven-development",
+    "description": "Use when implementing any feature or bugfix, before writing implementation code",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/test-driven-development"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-networkx",
+    "name": "networkx",
+    "description": "Comprehensive toolkit for creating, analyzing, and visualizing complex networks and graphs in Python. Use when working with network/graph data structures, analyzing relationships between entities, computing graph algorithms (shortest paths, centrality, clustering), detecting communities, generating synthetic networks, or visualizing network topologies. Applicable to social networks, biological networks, transportation systems, citation networks, and any domain involving pairwise relationships.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/networkx"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-pyhealth",
+    "name": "pyhealth",
+    "description": "Comprehensive healthcare AI toolkit for developing, testing, and deploying machine learning models with clinical data. This skill should be used when working with electronic health records (EHR), clinical prediction tasks (mortality, readmission, drug recommendation), medical coding systems (ICD, NDC, ATC), physiological signals (EEG, ECG), healthcare datasets (MIMIC-III/IV, eICU, OMOP), or implementing deep learning models for healthcare applications (RETAIN, SafeDrug, Transformer, GNN).",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pyhealth"
+  },
+  {
+    "id": "athola-skrills-test-writer",
+    "name": "test-writer",
+    "description": "Write comprehensive tests following TDD and BDD principles",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 35,
+    "updatedAt": "2026-01-09T16:54:31Z",
+    "repoUrl": "https://github.com/athola/skrills/tree/main/assets/demo-skills/test-writer"
   }
 ]

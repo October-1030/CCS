@@ -2283,5 +2283,1805 @@
     "stars": 1074,
     "updatedAt": "2026-01-09T15:54:09Z",
     "repoUrl": "https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/designing-tests"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering-skill",
+    "name": "context-engineering-collection",
+    "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6221,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/SKILL.md"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering-evaluation",
+    "name": "evaluation",
+    "description": "This skill should be used when the user asks to \"evaluate agent performance\", \"build test framework\", \"measure agent quality\", \"create evaluation rubrics\", or mentions LLM-as-judge, multi-dimensional evaluation, agent testing, or quality gates for agent pipelines.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6221,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering-tool-design",
+    "name": "tool-design",
+    "description": "This skill should be used when the user asks to \"design agent tools\", \"create tool descriptions\", \"reduce tool complexity\", \"implement MCP tools\", or mentions tool consolidation, architectural reduction, tool naming conventions, or agent-tool interfaces.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6221,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering-memory-systems",
+    "name": "memory-systems",
+    "description": "This skill should be used when the user asks to \"implement agent memory\", \"persist state across sessions\", \"build knowledge graph\", \"track entities\", or mentions memory architecture, temporal knowledge graphs, vector stores, entity memory, or cross-session persistence.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6221,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering-bdi-mental-states",
+    "name": "bdi-mental-states",
+    "description": "This skill should be used when the user asks to \"model agent mental states\", \"implement BDI architecture\", \"create belief-desire-intention models\", \"transform RDF to beliefs\", \"build cognitive agent\", or mentions BDI ontology, mental state modeling, rational agency, or neuro-symbolic AI integration.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6221,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/bdi-mental-states"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering-project-development",
+    "name": "project-development",
+    "description": "This skill should be used when the user asks to \"start an LLM project\", \"design batch pipeline\", \"evaluate task-model fit\", \"structure agent project\", or mentions pipeline architecture, agent-assisted development, cost estimation, or choosing between LLM and traditional approaches.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6221,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/project-development"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering-context-fundamentals",
+    "name": "context-fundamentals",
+    "description": "This skill should be used when the user asks to \"understand context\", \"explain context windows\", \"design agent architecture\", \"debug context issues\", \"optimize context usage\", or discusses context components, attention mechanics, progressive disclosure, or context budgeting. Provides foundational understanding of context engineering for AI agent systems.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6221,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-fundamentals"
+  },
+  {
+    "id": "muratcankoylan-agent-skills-for-context-engineering-multi-agent-patterns",
+    "name": "multi-agent-patterns",
+    "description": "This skill should be used when the user asks to \"design multi-agent system\", \"implement supervisor pattern\", \"create swarm architecture\", \"coordinate multiple agents\", or mentions multi-agent patterns, context isolation, agent handoffs, sub-agents, or parallel agent execution.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6221,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/multi-agent-patterns"
+  },
+  {
+    "id": "breaking-brake-cc-wf-studio-code-review-small",
+    "name": "code-review-small",
+    "description": "Quick code review for small PRs (<100 lines). Focuses on basic code quality, naming conventions, and obvious bugs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2326,
+    "updatedAt": "2026-01-09T16:10:47Z",
+    "repoUrl": "https://github.com/breaking-brake/cc-wf-studio/tree/main/.claude/skills/code-review-small"
+  },
+  {
+    "id": "centminmod-my-claude-code-setup-claude-docs-consultant",
+    "name": "claude-docs-consultant",
+    "description": "Consult official Claude Code documentation from docs.claude.com using selective fetching. Use this skill when working on Claude Code hooks, skills, subagents, MCP servers, or any Claude Code feature that requires referencing official documentation for accurate implementation. Fetches only the specific documentation needed rather than loading all docs upfront.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1607,
+    "updatedAt": "2026-01-09T16:55:35Z",
+    "repoUrl": "https://github.com/centminmod/my-claude-code-setup/tree/main/.claude/skills/claude-docs-consultant"
+  },
+  {
+    "id": "qdhenry-claude-command-suite-skills",
+    "name": "skills",
+    "description": "",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 902,
+    "updatedAt": "2026-01-09T08:15:56Z",
+    "repoUrl": "https://github.com/qdhenry/Claude-Command-Suite/tree/main/.claude/commands/skills/build-skill.md"
+  },
+  {
+    "id": "qdhenry-claude-command-suite-linear-todo-sync",
+    "name": "Linear Todo Sync",
+    "description": "This skill fetches open tasks assigned to the user from the Linear API and generates a markdown todo list file in the project root. This skill should be used when the user asks about their work items, wants to see what they need to work on, or requests to load/sync their Linear tasks. Requires Python 3.7+, requests, mdutils, and python-dotenv packages. Requires LINEAR_API_KEY in .env file.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 902,
+    "updatedAt": "2026-01-09T08:15:56Z",
+    "repoUrl": "https://github.com/qdhenry/Claude-Command-Suite/tree/main/.claude/skills/linear-todo-sync"
+  },
+  {
+    "id": "qdhenry-claude-command-suite-cloudflare-manager",
+    "name": "Cloudflare Manager",
+    "description": "Comprehensive Cloudflare account management for deploying Workers, KV Storage, R2, Pages, DNS, and Routes. Use when deploying cloudflare services, managing worker containers, configuring KV/R2 storage, or setting up DNS/routing. Requires CLOUDFLARE_API_KEY in .env and Bun runtime with dependencies installed.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 902,
+    "updatedAt": "2026-01-09T08:15:56Z",
+    "repoUrl": "https://github.com/qdhenry/Claude-Command-Suite/tree/main/.claude/skills/cloudflare-manager"
+  },
+  {
+    "id": "synalinks-synalinks-skills-synalinks",
+    "name": "synalinks",
+    "description": "Build neuro-symbolic LLM applications with Synalinks framework. Use when working with DataModel, Program, Generator, Module, training LLM pipelines, in-context learning, structured output, JSON operators, Branch/Decision control flow, FunctionCallingAgent, RAG/KAG, or Keras-like LLM workflows.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 894,
+    "updatedAt": "2026-01-09T13:31:56Z",
+    "repoUrl": "https://github.com/SynaLinks/synalinks-skills/tree/main/synalinks"
+  },
+  {
+    "id": "catlog22-claude-code-workflow-ccw-help",
+    "name": "ccw-help",
+    "description": "Workflow command guide for Claude Code Workflow (78 commands). Search/browse commands, get next-step recommendations, view documentation, report issues. Triggers \"CCW-help\", \"CCW-issue\", \"ccw-help\", \"ccw-issue\", \"ccw\"",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 893,
+    "updatedAt": "2026-01-09T15:12:57Z",
+    "repoUrl": "https://github.com/catlog22/Claude-Code-Workflow/tree/main/.claude/skills/ccw-help"
+  },
+  {
+    "id": "catlog22-claude-code-workflow-copyright-docs",
+    "name": "copyright-docs",
+    "description": "Generate software copyright design specification documents compliant with China Copyright Protection Center (CPCC) standards. Creates complete design documents with Mermaid diagrams based on source code analysis. Use for software copyright registration, generating design specification, creating CPCC-compliant documents, or documenting software for intellectual property protection. Triggers on \"软件著作权\", \"设计说明书\", \"版权登记\", \"CPCC\", \"软著申请\".",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 893,
+    "updatedAt": "2026-01-09T15:12:57Z",
+    "repoUrl": "https://github.com/catlog22/Claude-Code-Workflow/tree/main/.claude/skills/copyright-docs"
+  },
+  {
+    "id": "catlog22-claude-code-workflow-software-manual",
+    "name": "software-manual",
+    "description": "Generate interactive TiddlyWiki-style HTML software manuals with screenshots, API docs, and multi-level code examples. Use when creating user guides, software documentation, or API references. Triggers on \"software manual\", \"user guide\", \"generate manual\", \"create docs\".",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 893,
+    "updatedAt": "2026-01-09T15:12:57Z",
+    "repoUrl": "https://github.com/catlog22/Claude-Code-Workflow/tree/main/.claude/skills/software-manual"
+  },
+  {
+    "id": "catlog22-claude-code-workflow-skill-generator",
+    "name": "skill-generator",
+    "description": "Meta-skill for creating new Claude Code skills with configurable execution modes. Supports sequential (fixed order) and autonomous (stateless) phase patterns. Use for skill scaffolding, skill creation, or building new workflows. Triggers on \"create skill\", \"new skill\", \"skill generator\", \"生成技能\", \"创建技能\".",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 893,
+    "updatedAt": "2026-01-09T15:12:57Z",
+    "repoUrl": "https://github.com/catlog22/Claude-Code-Workflow/tree/main/.claude/skills/skill-generator"
+  },
+  {
+    "id": "catlog22-claude-code-workflow-project-analyze",
+    "name": "project-analyze",
+    "description": "Multi-phase iterative project analysis with Mermaid diagrams. Generates architecture reports, design reports, method analysis reports. Use when analyzing codebases, understanding project structure, reviewing architecture, exploring design patterns, or documenting system components. Triggers on \"analyze project\", \"architecture report\", \"design analysis\", \"code structure\", \"system overview\".",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 893,
+    "updatedAt": "2026-01-09T15:12:57Z",
+    "repoUrl": "https://github.com/catlog22/Claude-Code-Workflow/tree/main/.claude/skills/project-analyze"
+  },
+  {
+    "id": "leonvanzyl-autocoder-frontend-design",
+    "name": "frontend-design",
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 836,
+    "updatedAt": "2026-01-09T16:52:34Z",
+    "repoUrl": "https://github.com/leonvanzyl/autocoder/tree/main/.claude/skills/frontend-design"
+  },
+  {
+    "id": "bgauryy-octocode-mcp-octocode-plan",
+    "name": "octocode-plan",
+    "description": "Plans complex implementations with research-driven analysis and step-by-step breakdowns. Use when planning features, making architectural decisions, designing systems, or implementing multi-step changes.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 665,
+    "updatedAt": "2026-01-09T14:29:58Z",
+    "repoUrl": "https://github.com/bgauryy/octocode-mcp/tree/main/packages/octocode-cli/skills/octocode-plan"
+  },
+  {
+    "id": "brownfinesecurity-iothackbot-nmap",
+    "name": "nmap",
+    "description": "Professional network reconnaissance and port scanning using nmap. Supports various scan types (quick, full, UDP, stealth), service detection, vulnerability scanning, and NSE scripts. Use when you need to enumerate network services, detect versions, or perform network reconnaissance.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 479,
+    "updatedAt": "2026-01-09T15:41:35Z",
+    "repoUrl": "https://github.com/BrownFineSecurity/iothackbot/tree/main/skills/nmap"
+  },
+  {
+    "id": "brownfinesecurity-iothackbot-chipsec",
+    "name": "chipsec",
+    "description": "Static analysis of UEFI/BIOS firmware dumps using Intel's chipsec framework. Decode firmware structure, detect known malware and rootkits (LoJax, ThinkPwn, HackingTeam, MosaicRegressor), generate EFI executable inventories with hashes, extract NVRAM variables, and parse SPI flash descriptors. Use when analyzing firmware .bin/.rom/.fd/.cap files offline without requiring hardware access.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 479,
+    "updatedAt": "2026-01-09T15:41:35Z",
+    "repoUrl": "https://github.com/BrownFineSecurity/iothackbot/tree/main/skills/chipsec"
+  },
+  {
+    "id": "brownfinesecurity-iothackbot-wsdiscovery",
+    "name": "wsdiscovery",
+    "description": "WS-Discovery protocol scanner for discovering and enumerating ONVIF cameras and IoT devices on the network. Use when you need to discover ONVIF devices, cameras, or WS-Discovery enabled equipment on a network.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 479,
+    "updatedAt": "2026-01-09T15:41:35Z",
+    "repoUrl": "https://github.com/BrownFineSecurity/iothackbot/tree/main/skills/wsdiscovery"
+  },
+  {
+    "id": "asheshgoplani-agent-deck-agent-deck",
+    "name": "agent-deck",
+    "description": "Terminal session manager for AI coding agents. Use when user mentions \"agent-deck\", \"session\", \"sub-agent\", \"MCP attach\", or needs to (1) create/start/stop/restart/fork sessions, (2) attach/detach MCPs, (3) manage groups/profiles, (4) get session output, (5) configure agent-deck, (6) troubleshoot issues, or (7) launch sub-agents. Covers CLI commands, TUI shortcuts, config.toml options, and automation.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 389,
+    "updatedAt": "2026-01-09T15:26:39Z",
+    "repoUrl": "https://github.com/asheshgoplani/agent-deck/tree/main/skills/agent-deck"
+  },
+  {
+    "id": "alirezarezvani-claude-code-skill-factory-tdd-guide",
+    "name": "tdd-guide",
+    "description": "Comprehensive Test Driven Development guide for engineering subagents with multi-framework support, coverage analysis, and intelligent test generation",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 306,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-skill-factory/tree/main/generated-skills/tdd-guide"
+  },
+  {
+    "id": "alirezarezvani-claude-code-skill-factory-prompt-factory",
+    "name": "prompt-factory",
+    "description": "World-class prompt powerhouse that generates production-ready mega-prompts for any role, industry, and task through intelligent 7-question flow, 69 comprehensive presets across 15 professional domains (technical, business, creative, legal, finance, HR, design, customer, executive, manufacturing, R&D, regulatory, specialized-technical, research, creative-media), multiple output formats (XML/Claude/ChatGPT/Gemini), quality validation gates, and contextual best practices from OpenAI/Anthropic/Google. Supports both core and advanced modes with testing scenarios and prompt variations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 306,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-skill-factory/tree/main/generated-skills/prompt-factory"
+  },
+  {
+    "id": "alirezarezvani-claude-code-skill-factory-slash-command-factory",
+    "name": "slash-command-factory",
+    "description": "Generate custom Claude Code slash commands through intelligent 5-7 question flow. Creates powerful commands for business research, content analysis, healthcare compliance, API integration, documentation automation, and workflow optimization. Outputs organized commands to generated-commands/ with validation and installation guidance.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 306,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-skill-factory/tree/main/generated-skills/slash-command-factory"
+  },
+  {
+    "id": "gbsoss-skill-from-masters-skill-from-masters",
+    "name": "skill-from-masters",
+    "description": "Help users create high-quality skills by discovering and incorporating proven methodologies from domain experts. Use this skill BEFORE skill-creator when users want to create a new skill - it enhances skill-creator by first identifying expert frameworks and best practices to incorporate. Triggers on requests like \"help me create a skill for X\" or \"I want to make a skill that does Y\". This skill guides methodology selection, then hands off to skill-creator for the actual skill generation.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 274,
+    "updatedAt": "2026-01-09T16:51:49Z",
+    "repoUrl": "https://github.com/GBSOSS/skill-from-masters/tree/main/skill-from-masters"
+  },
+  {
+    "id": "huangserva-skill-prompt-generator-design-master",
+    "name": "design-master",
+    "description": "平面设计主控 - 自动生成平面设计提示词，支持海报、logo、插画等多种设计类型",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 274,
+    "updatedAt": "2026-01-09T16:57:52Z",
+    "repoUrl": "https://github.com/huangserva/skill-prompt-generator/tree/main/.claude/skills/design-master/skill.md"
+  },
+  {
+    "id": "komal-skynet-claude-skill-homeassistant-skill",
+    "name": "home-assistant-manager",
+    "description": "Expert-level Home Assistant configuration management with efficient deployment workflows (git and rapid scp iteration), remote CLI access via SSH and hass-cli, automation verification protocols, log analysis, reload vs restart optimization, and comprehensive Lovelace dashboard management for tablet-optimized UIs. Includes template patterns, card types, debugging strategies, and real-world examples.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 193,
+    "updatedAt": "2026-01-09T10:32:39Z",
+    "repoUrl": "https://github.com/komal-SkyNET/claude-skill-homeassistant/tree/main/SKILL.md"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace-codebase-documenter",
+    "name": "codebase-documenter",
+    "description": "Generates comprehensive documentation explaining how a codebase works, including architecture, key components, data flow, and development guidelines. Use when user wants to understand unfamiliar code, create onboarding docs, document architecture, or explain how the system works.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 188,
+    "updatedAt": "2026-01-09T15:29:30Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/productivity-skills-plugin/skills/codebase-documenter"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace-test-fixing",
+    "name": "test-fixing",
+    "description": "Run tests and systematically fix all failing tests using smart error grouping. Use when user asks to fix failing tests, mentions test failures, runs test suite and failures occur, or requests to make tests pass.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 188,
+    "updatedAt": "2026-01-09T15:29:30Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing"
+  },
+  {
+    "id": "yamadashy-repomix-lint-fixer",
+    "name": "lint-fixer",
+    "description": "Use this skill to run npm run lint and fix linting issues. Triggers on fixing lint errors after code changes or validating code against project style guidelines.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 21096,
+    "updatedAt": "2026-01-09T16:40:31Z",
+    "repoUrl": "https://github.com/yamadashy/repomix/tree/main/.claude/skills/lint-fixer"
+  },
+  {
+    "id": "shareai-lab-learn-claude-code-mcp-builder",
+    "name": "mcp-builder",
+    "description": "Build MCP (Model Context Protocol) servers that give Claude new capabilities. Use when user wants to create an MCP server, add tools to Claude, or integrate external services.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 13615,
+    "updatedAt": "2026-01-09T16:52:09Z",
+    "repoUrl": "https://github.com/shareAI-lab/learn-claude-code/tree/main/skills/mcp-builder"
+  },
+  {
+    "id": "shareai-lab-learn-claude-code-agent-builder",
+    "name": "agent-builder",
+    "description": "Design and build AI agents for any domain. Use when users:\n(1) ask to \"create an agent\", \"build an assistant\", or \"design an AI system\"\n(2) want to understand agent architecture, agentic patterns, or autonomous AI\n(3) need help with capabilities, subagents, planning, or skill mechanisms\n(4) ask about Claude Code, Cursor, or similar agent internals\n(5) want to build agents for business, research, creative, or operational tasks\nKeywords: agent, assistant, autonomous, workflow, tool use, multi-step, orchestration\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 13615,
+    "updatedAt": "2026-01-09T16:52:09Z",
+    "repoUrl": "https://github.com/shareAI-lab/learn-claude-code/tree/main/skills/agent-builder"
+  },
+  {
+    "id": "code-yeongyu-oh-my-opencode-git-master",
+    "name": "git-master",
+    "description": "MUST USE for ANY git operations. Atomic commits, rebase/squash, history search (blame, bisect, log -S). STRONGLY RECOMMENDED: Use with sisyphus_task(category='quick', skills=['git-master'], ...) to save context. Triggers: 'commit', 'rebase', 'squash', 'who wrote', 'when was X added', 'find the commit that'.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 12618,
+    "updatedAt": "2026-01-09T17:00:24Z",
+    "repoUrl": "https://github.com/code-yeongyu/oh-my-opencode/tree/main/src/features/builtin-skills/git-master"
+  },
+  {
+    "id": "code-yeongyu-oh-my-opencode-frontend-ui-ux",
+    "name": "frontend-ui-ux",
+    "description": "Designer-turned-developer who crafts stunning UI/UX even without design mockups",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 12618,
+    "updatedAt": "2026-01-09T17:00:24Z",
+    "repoUrl": "https://github.com/code-yeongyu/oh-my-opencode/tree/main/src/features/builtin-skills/frontend-ui-ux"
+  },
+  {
+    "id": "danielmiessler-personal_ai_infrastructure-pai-browser-skill",
+    "name": "Browser",
+    "description": "Debug-first browser automation with always-on visibility. USE WHEN browser, screenshot, navigate, web testing, verify UI, VERIFY phase, debug web page. Session auto-starts, captures console/network by default.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 4109,
+    "updatedAt": "2026-01-09T16:57:51Z",
+    "repoUrl": "https://github.com/danielmiessler/Personal_AI_Infrastructure/tree/main/Packs/pai-browser-skill"
+  },
+  {
+    "id": "modelscope-ms-agent-creating-financial-models",
+    "name": "Creating Financial Models",
+    "description": "This skill provides an advanced financial modeling suite with DCF analysis, sensitivity testing, Monte Carlo simulations, and scenario planning for investment decisions",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 3797,
+    "updatedAt": "2026-01-09T14:10:49Z",
+    "repoUrl": "https://github.com/modelscope/ms-agent/tree/main/projects/agent_skills/skills/creating-financial-models"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-onboard",
+    "name": "onboard",
+    "description": "Analyze brownfield codebase and create initial continuity ledger",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/onboard"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-continuity_ledger",
+    "name": "continuity_ledger",
+    "description": "Create or update continuity ledger for state preservation across clears",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/continuity_ledger"
+  },
+  {
+    "id": "openai-skills-gh-fix-ci",
+    "name": "gh-fix-ci",
+    "description": "Inspect GitHub PR checks with gh, pull failing GitHub Actions logs, summarize failure context, then create a fix plan and implement after user approval. Use when a user asks to debug or fix failing PR CI/CD checks on GitHub Actions and wants a plan + code changes; for external checks (e.g., Buildkite), only report the details URL and mark them out of scope.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1381,
+    "updatedAt": "2026-01-09T16:56:10Z",
+    "repoUrl": "https://github.com/openai/skills/tree/main/skills/.curated/gh-fix-ci"
+  },
+  {
+    "id": "openai-skills-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1381,
+    "updatedAt": "2026-01-09T16:56:10Z",
+    "repoUrl": "https://github.com/openai/skills/tree/main/skills/.system/skill-creator"
+  },
+  {
+    "id": "microsoftdocs-mcp-microsoft-docs",
+    "name": "microsoft-docs",
+    "description": "Query official Microsoft documentation to understand concepts, find tutorials, and learn how services work. Use for Azure, .NET, Microsoft 365, Windows, Power Platform, and all Microsoft technologies. Get accurate, current information from learn.microsoft.com and other official Microsoft websites—architecture overviews, quickstarts, configuration guides, limits, and best practices.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1267,
+    "updatedAt": "2026-01-09T14:17:52Z",
+    "repoUrl": "https://github.com/MicrosoftDocs/mcp/tree/main/skills/microsoft-docs"
+  },
+  {
+    "id": "udecode-dotai-brainstorming",
+    "name": "brainstorming",
+    "description": "Use when creating or developing, before writing code or implementation plans - refines rough ideas into fully-formed designs through collaborative questioning, alternative exploration, and incremental validation. Don't use during clear 'mechanical' processes",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1115,
+    "updatedAt": "2026-01-09T15:48:10Z",
+    "repoUrl": "https://github.com/udecode/dotai/tree/main/.claude-plugin/plugins/plan/skills/brainstorming"
+  },
+  {
+    "id": "udecode-dotai-writing-plans",
+    "name": "writing-plans",
+    "description": "Use when design is complete and you need detailed implementation tasks for engineers with zero codebase context - creates comprehensive implementation plans with exact file paths, complete code examples, and verification steps assuming engineer has minimal domain knowledge",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1115,
+    "updatedAt": "2026-01-09T15:48:10Z",
+    "repoUrl": "https://github.com/udecode/dotai/tree/main/.claude-plugin/plugins/plan/skills/writing-plans"
+  },
+  {
+    "id": "udecode-dotai-test-driven-development",
+    "name": "test-driven-development",
+    "description": "Use when implementing complex logic that needs test coverage - write the test first, watch it fail, write minimal code to pass; ensures tests actually verify behavior by requiring failure first; NOT for UI components, simple CRUD, or straightforward code",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1115,
+    "updatedAt": "2026-01-09T15:48:10Z",
+    "repoUrl": "https://github.com/udecode/dotai/tree/main/.claude-plugin/plugins/test/skills/test-driven-development"
+  },
+  {
+    "id": "leeovery-claude-technical-workflows-technical-research",
+    "name": "technical-research",
+    "description": "Explore ideas, validate concepts, and research broadly across technical, business, and market domains. Preliminary phase before discussion-specification-plan-implement-review workflow. Use when: (1) User has a new idea to explore, (2) Need to research a topic deeply, (3) Validating feasibility - technical, business, or market, (4) Learning and exploration without necessarily building anything, (5) User says 'research this' or 'explore this idea', (6) Brain dumping early thoughts before formal discussion. Creates research documents in docs/workflow/research/ that may seed the technical-discussion phase.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:15:08Z",
+    "repoUrl": "https://github.com/leeovery/claude-technical-workflows/tree/main/skills/technical-research"
+  },
+  {
+    "id": "leeovery-claude-technical-workflows-technical-planning",
+    "name": "technical-planning",
+    "description": "Transform specifications into actionable implementation plans with phases, tasks, and acceptance criteria. Fourth phase of research-discussion-specification-plan-implement-review workflow. Use when: (1) User asks to create/write an implementation plan, (2) User asks to plan implementation after specification is complete, (3) Converting specifications from docs/workflow/specification/{topic}.md into implementation plans, (4) User says 'plan this' or 'create a plan' after specification, (5) Need to structure how to build something with phases and concrete steps. Creates plans in docs/workflow/planning/{topic}.md that implementation phase executes via strict TDD.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:15:08Z",
+    "repoUrl": "https://github.com/leeovery/claude-technical-workflows/tree/main/skills/technical-planning"
+  },
+  {
+    "id": "leeovery-claude-technical-workflows-technical-discussion",
+    "name": "technical-discussion",
+    "description": "Document technical discussions as expert architect and meeting assistant. Capture context, decisions, edge cases, debates, and rationale without jumping to specification or implementation. Second phase of research-discussion-specification-plan-implement-review workflow. Use when: (1) Users discuss/explore/debate architecture or design, (2) Working through edge cases before specification, (3) Need to document technical decisions and their rationale, (4) Capturing competing solutions and why choices were made. Creates documentation in docs/workflow/discussion/{topic}.md that technical-specification uses to build validated specifications.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:15:08Z",
+    "repoUrl": "https://github.com/leeovery/claude-technical-workflows/tree/main/skills/technical-discussion"
+  },
+  {
+    "id": "leeovery-claude-technical-workflows-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:15:08Z",
+    "repoUrl": "https://github.com/leeovery/claude-technical-workflows/tree/main/.claude/skills/skill-creator"
+  },
+  {
+    "id": "leeovery-claude-technical-workflows-technical-specification",
+    "name": "technical-specification",
+    "description": "Build validated specifications from discussion documents through collaborative refinement. Third phase of research-discussion-specification-plan-implement-review workflow. Use when: (1) User asks to create/build a specification from discussions, (2) User wants to validate and refine discussion content before planning, (3) Converting discussion documents into standalone specifications, (4) User says 'specify this' or 'create a spec' after discussions, (5) Need to filter hallucinations and enrich gaps before formal planning. Creates specifications in docs/workflow/specification/{topic}.md that technical-planning uses to build implementation plans.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:15:08Z",
+    "repoUrl": "https://github.com/leeovery/claude-technical-workflows/tree/main/skills/technical-specification"
+  },
+  {
+    "id": "leeovery-claude-technical-workflows-technical-implementation",
+    "name": "technical-implementation",
+    "description": "Execute implementation plans using strict TDD workflow with quality gates. Fifth phase of research-discussion-specification-plan-implement-review workflow. Use when: (1) Implementing a plan from docs/workflow/planning/{topic}.md, (2) User says 'implement', 'build', or 'code this' after planning, (3) Ad hoc coding that should follow TDD and quality standards, (4) Bug fixes or features benefiting from structured implementation. Writes tests first, implements to pass, commits frequently, stops for user approval between phases.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:15:08Z",
+    "repoUrl": "https://github.com/leeovery/claude-technical-workflows/tree/main/skills/technical-implementation"
+  },
+  {
+    "id": "leeovery-claude-laravel-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/.claude/skills/skill-creator"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-query-builders",
+    "name": "laravel-query-builders",
+    "description": "Custom query builders for type-safe, composable database queries. Use when working with database queries, query scoping, or when user mentions query builders, custom query builder, query objects, query scopes, database queries.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-query-builders"
+  },
+  {
+    "id": "posit-dev-skills-brand-yml",
+    "name": "brand-yml",
+    "description": "Create and use brand.yml files for consistent branding across Shiny apps and Quarto documents. Use when working with brand styling, colors, fonts, logos, or corporate identity in Shiny or Quarto projects. Covers: (1) Creating new _brand.yml files from brand guidelines, (2) Applying brand.yml to Shiny for R apps with bslib, (3) Applying brand.yml to Shiny for Python apps with ui.Theme, (4) Using brand.yml in Quarto documents, presentations, dashboards, and PDFs, (5) Modifying existing brand.yml files, (6) Troubleshooting brand integration issues. Includes complete specifications and framework-specific integration guides.\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 50,
+    "updatedAt": "2026-01-09T17:14:10Z",
+    "repoUrl": "https://github.com/posit-dev/skills/tree/main/brand-yml"
+  },
+  {
+    "id": "posit-dev-skills-authoring",
+    "name": "quarto-authoring",
+    "description": "Comprehensive guidance for Quarto document authoring and R Markdown migration. Use this skill when: (1) Writing new Quarto documents (.qmd) with best practices, (2) Converting R Markdown (.Rmd) documents to Quarto, (3) Migrating bookdown, blogdown, xaringan, or distill projects to Quarto, (4) Understanding Quarto's code cell syntax with hashpipe (#|) options, (5) Setting up cross-references for figures, tables, sections, and equations, (6) Using Quarto-specific markdown features like callouts, divs, and spans, (7) Configuring YAML front matter for documents and projects, (8) Finding and using Quarto extensions.\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 50,
+    "updatedAt": "2026-01-09T17:14:10Z",
+    "repoUrl": "https://github.com/posit-dev/skills/tree/main/quarto/authoring"
+  },
+  {
+    "id": "posit-dev-skills-release-post",
+    "name": "release-post",
+    "description": "Create professional package release blog posts following Tidyverse or Shiny blog conventions. Use when the user needs to: (1) Write a release announcement blog post for an R or Python package for tidyverse.org or shiny.posit.co, (2) Transform NEWS/changelog content into blog format, (3) Generate acknowledgments sections with contributor lists, (4) Format posts following specific blog platform requirements. Supports both Tidyverse (hugodown) and Shiny (Quarto) blog formats with automated contributor fetching and comprehensive style guidance.\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 50,
+    "updatedAt": "2026-01-09T17:14:10Z",
+    "repoUrl": "https://github.com/posit-dev/skills/tree/main/open-source/release-post"
+  },
+  {
+    "id": "archubbuck-workspace-architect-mcp-builder",
+    "name": "mcp-builder",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/mcp-builder"
+  },
+  {
+    "id": "archubbuck-workspace-architect-webapp-testing",
+    "name": "webapp-testing",
+    "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/webapp-testing"
+  },
+  {
+    "id": "archubbuck-workspace-architect-doc-coauthoring",
+    "name": "doc-coauthoring",
+    "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/doc-coauthoring"
+  },
+  {
+    "id": "archubbuck-workspace-architect-web-artifacts-builder",
+    "name": "web-artifacts-builder",
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/web-artifacts-builder"
+  },
+  {
+    "id": "archubbuck-workspace-architect-frontend-design",
+    "name": "frontend-design",
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/frontend-design"
+  },
+  {
+    "id": "archubbuck-workspace-architect-brand-guidelines",
+    "name": "brand-guidelines",
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/brand-guidelines"
+  },
+  {
+    "id": "archubbuck-workspace-architect-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/skill-creator"
+  },
+  {
+    "id": "archubbuck-workspace-architect-canvas-design",
+    "name": "canvas-design",
+    "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:11:24Z",
+    "repoUrl": "https://github.com/archubbuck/workspace-architect/tree/main/assets/skills/canvas-design"
+  },
+  {
+    "id": "ggprompts-tabzchrome-tabz-guide",
+    "name": "tabz-guide",
+    "description": "Guide for working ON TabzChrome itself. Covers profiles, terminal management, MCP browser tools, audio/TTS settings, debugging, and internal features. For external projects integrating WITH TabzChrome, use the tabz-integration plugin instead.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 116,
+    "updatedAt": "2026-01-09T17:10:49Z",
+    "repoUrl": "https://github.com/GGPrompts/TabzChrome/tree/main/.claude/skills/tabz-guide"
+  },
+  {
+    "id": "ggprompts-tabzchrome-xterm-js",
+    "name": "xterm-js",
+    "description": "This skill should be used when working with xterm.js terminal implementations, React-based terminal applications, WebSocket terminal communication, or refactoring terminal-related code. It provides battle-tested patterns, common pitfalls, and debugging strategies learned from building production terminal applications.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 116,
+    "updatedAt": "2026-01-09T17:10:49Z",
+    "repoUrl": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/xterm-js/skills/xterm-js"
+  },
+  {
+    "id": "ggprompts-tabzchrome-worker-done",
+    "name": "worker-done",
+    "description": "Complete worker task: verify build, run tests, commit, and close issue. Code review happens at conductor level after merge. Invoke with /conductor:worker-done <issue-id>",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 116,
+    "updatedAt": "2026-01-09T17:10:49Z",
+    "repoUrl": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/conductor/skills/worker-done"
+  },
+  {
+    "id": "ggprompts-tabzchrome-code-review",
+    "name": "code-review",
+    "description": "Code review with confidence-based filtering. Modes: quick (lint+types), standard (Opus), thorough (parallel agents). Auto-fixes >=95% confidence issues.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 116,
+    "updatedAt": "2026-01-09T17:10:49Z",
+    "repoUrl": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/conductor/skills/code-review"
+  },
+  {
+    "id": "ggprompts-tabzchrome-claude-code-config",
+    "name": "claude-code-config",
+    "description": "Guide for configuring Claude Code optimally. Use when users ask about: CLAUDE.md structure, plugin architecture, skill patterns, hooks, MCP integration, settings.json, slash commands, or Claude Code best practices.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 116,
+    "updatedAt": "2026-01-09T17:10:49Z",
+    "repoUrl": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/codex/skills/claude-code-config"
+  },
+  {
+    "id": "ggprompts-tabzchrome-tabz-integration",
+    "name": "tabz-integration",
+    "description": "Integration guide for connecting projects to TabzChrome terminals. This skill should be used when users want to: spawn terminals from scripts, add 'Run in Terminal' buttons to web pages, integrate MCP browser automation tools, use TTS/audio notifications from code, or connect any project to TabzChrome's API.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 116,
+    "updatedAt": "2026-01-09T17:10:49Z",
+    "repoUrl": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/tabz-integration/skills/tabz-integration"
+  },
+  {
+    "id": "richtabor-skills-motion-design",
+    "name": "motion-design",
+    "description": "Provides motion design guidance for UI components. Triggers on animation requests (\"animate this\", \"add transition\", \"motion for\"), refinement requests (\"clean up this animation\", \"clean up the motion\", \"this feels too fast/slow\", \"make this feel more alive/natural\"), and questions about easing, timing, or micro-interactions.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T17:09:24Z",
+    "repoUrl": "https://github.com/richtabor/skills/tree/main/skills/motion-design"
+  },
+  {
+    "id": "richtabor-skills-technical-writing",
+    "name": "technical-writing",
+    "description": "Writes technical blog posts about features being built. Triggers when user asks to write about development progress, implementations, or project updates.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T17:09:24Z",
+    "repoUrl": "https://github.com/richtabor/skills/tree/main/skills/technical-writing"
+  },
+  {
+    "id": "richtabor-skills-accessibility-review",
+    "name": "accessibility-review",
+    "description": "Reviews UI for accessibility issues against WCAG 2.1/2.2 AA. Triggers on \"is this accessible?\", \"check accessibility\", or contrast/a11y review requests.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T17:09:24Z",
+    "repoUrl": "https://github.com/richtabor/skills/tree/main/skills/accessibility-review"
+  },
+  {
+    "id": "themostlygreat-safeword-safeword-bdd-orchestrating",
+    "name": "bdd-orchestrating",
+    "description": "BDD orchestrator for feature-level work requiring multiple scenarios. Use when user says 'add', 'implement', 'build', 'feature', 'iteration', 'story', 'phase', or references an iteration/story from a spec. Also use when work touches 3+ files with new state/flows, or when user runs /bdd. Do NOT use for bug fixes, typos, config changes, or 1-2 file tasks.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:07:49Z",
+    "repoUrl": "https://github.com/TheMostlyGreat/safeword/tree/main/.claude/skills/safeword-bdd-orchestrating"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-multi-agent-patterns",
+    "name": "multi-agent-patterns",
+    "description": "This skill should be used when the user asks to \"design multi-agent system\", \"implement supervisor pattern\", \"create swarm architecture\", \"coordinate multiple agents\", or mentions multi-agent patterns, context isolation, agent handoffs, sub-agents, or parallel agent execution.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/multi-agent-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-skill",
+    "name": "ios-simulator-skill",
+    "description": "21 production-ready scripts for iOS app testing, building, and automation. Provides semantic UI navigation, build automation, accessibility testing, and simulator lifecycle management. Optimized for AI agents with minimal token output.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/ios-simulator-skill/skill"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-evaluation",
+    "name": "evaluation",
+    "description": "Build evaluation frameworks for agent systems. Use when testing agent performance, validating context engineering choices, or measuring improvements over time.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/book-training/skills/evaluation"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-tool-design",
+    "name": "tool-design",
+    "description": "Design tools that agents can use effectively, including when to reduce tool complexity. Use when creating, optimizing, or reducing agent tool sets.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/book-training/skills/tool-design"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-writing-plans",
+    "name": "writing-plans",
+    "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/writing-plans"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-brainstorming",
+    "name": "brainstorming",
+    "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/brainstorming"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-mcp-builder",
+    "name": "mcp-builder",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/mcp-builder"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-postgresql",
+    "name": "postgresql-table-design",
+    "description": "Design a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, and advanced features",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/database-design/skills/postgresql"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-web3-testing",
+    "name": "web3-testing",
+    "description": "Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forking. Use when testing Solidity contracts, setting up blockchain test suites, or validating DeFi protocols.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/blockchain-web3/skills/web3-testing"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-using-superpowers",
+    "name": "using-superpowers",
+    "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/using-superpowers"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-context-compression",
+    "name": "context-compression",
+    "description": "Design and evaluate context compression strategies for long-running agent sessions. Use when agents exhaust memory, need to summarize conversation history, or when optimizing tokens-per-task rather than tokens-per-request.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/book-training/skills/context-compression"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-unity-ecs-patterns",
+    "name": "unity-ecs-patterns",
+    "description": "Master Unity ECS (Entity Component System) with DOTS, Jobs, and Burst for high-performance game development. Use when building data-oriented games, optimizing performance, or working with large entity counts.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/game-development/skills/unity-ecs-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-defi-protocol-templates",
+    "name": "defi-protocol-templates",
+    "description": "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/blockchain-web3/skills/defi-protocol-templates"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-monorepo-management",
+    "name": "monorepo-management",
+    "description": "Master monorepo management with Turborepo, Nx, and pnpm workspaces to build efficient, scalable multi-package repositories with optimized builds and dependency management. Use when setting up monorepos, optimizing builds, or managing shared dependencies.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/developer-essentials/skills/monorepo-management"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-godot-gdscript-patterns",
+    "name": "godot-gdscript-patterns",
+    "description": "Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization. Use when building Godot games, implementing game systems, or learning GDScript best practices.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/game-development/skills/godot-gdscript-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-async-python-patterns",
+    "name": "async-python-patterns",
+    "description": "Master Python asyncio, concurrent programming, and async/await patterns for high-performance applications. Use when building async APIs, concurrent systems, or I/O-bound applications requiring non-blocking operations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/python-development/skills/async-python-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-e2e-testing-patterns",
+    "name": "e2e-testing-patterns",
+    "description": "Master end-to-end testing with Playwright and Cypress to build reliable test suites that catch bugs, improve confidence, and enable fast deployment. Use when implementing E2E tests, debugging flaky tests, or establishing testing standards.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/developer-essentials/skills/e2e-testing-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-langchain-architecture",
+    "name": "langchain-architecture",
+    "description": "Design LLM applications using the LangChain framework with agents, memory, and tool integration patterns. Use when building LangChain applications, implementing AI agents, or creating complex LLM workflows.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/llm-application-dev/skills/langchain-architecture"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-finishing-a-development-branch",
+    "name": "finishing-a-development-branch",
+    "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/finishing-a-development-branch"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-verification-before-completion",
+    "name": "verification-before-completion",
+    "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/verification-before-completion"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-nx-workspace-patterns",
+    "name": "nx-workspace-patterns",
+    "description": "Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/developer-essentials/skills/nx-workspace-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-python-testing-patterns",
+    "name": "python-testing-patterns",
+    "description": "Implement comprehensive testing strategies with pytest, fixtures, mocking, and test-driven development. Use when writing Python tests, setting up test suites, or implementing testing best practices.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/python-development/skills/python-testing-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-error-handling-patterns",
+    "name": "error-handling-patterns",
+    "description": "Master error handling patterns across languages including exceptions, Result types, error propagation, and graceful degradation to build resilient applications. Use when implementing error handling, designing APIs, or improving application reliability.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/developer-essentials/skills/error-handling-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-bazel-build-optimization",
+    "name": "bazel-build-optimization",
+    "description": "Optimize Bazel builds for large-scale monorepos. Use when configuring Bazel, implementing remote execution, or optimizing build performance for enterprise codebases.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/developer-essentials/skills/bazel-build-optimization"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-nodejs-backend-patterns",
+    "name": "nodejs-backend-patterns",
+    "description": "Build production-ready Node.js backend services with Express/Fastify, implementing middleware patterns, error handling, authentication, database integration, and API design best practices. Use when creating Node.js servers, REST APIs, GraphQL backends, or microservices architectures.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/javascript-typescript/skills/nodejs-backend-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-similarity-search-patterns",
+    "name": "similarity-search-patterns",
+    "description": "Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/llm-application-dev/skills/similarity-search-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-sql-optimization-patterns",
+    "name": "sql-optimization-patterns",
+    "description": "Master SQL query optimization, indexing strategies, and EXPLAIN analysis to dramatically improve database performance and eliminate slow queries. Use when debugging slow queries, designing database schemas, or optimizing application performance.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/developer-essentials/skills/sql-optimization-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-typescript-advanced-types",
+    "name": "typescript-advanced-types",
+    "description": "Master TypeScript's advanced type system including generics, conditional types, mapped types, template literals, and utility types for building type-safe applications. Use when implementing complex type logic, creating reusable type utilities, or ensuring compile-time type safety in TypeScript projects.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/javascript-typescript/skills/typescript-advanced-types"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-prompt-engineering-patterns",
+    "name": "prompt-engineering-patterns",
+    "description": "Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability in production. Use when optimizing prompts, improving LLM outputs, or designing production prompt templates.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/llm-application-dev/skills/prompt-engineering-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-openapi-spec-generation",
+    "name": "openapi-spec-generation",
+    "description": "Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when creating API documentation, generating SDKs, or ensuring API contract compliance.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/documentation-generation/skills/openapi-spec-generation"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-hybrid-search-implementation",
+    "name": "hybrid-search-implementation",
+    "description": "Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, building search engines, or when neither approach alone provides sufficient recall.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/llm-application-dev/skills/hybrid-search-implementation"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-auth-implementation-patterns",
+    "name": "auth-implementation-patterns",
+    "description": "Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC to build secure, scalable access control systems. Use when implementing auth systems, securing APIs, or debugging security issues.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/developer-essentials/skills/auth-implementation-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-tailwind-design-system",
+    "name": "tailwind-design-system",
+    "description": "Build scalable design systems with Tailwind CSS, design tokens, component libraries, and responsive patterns. Use when creating component libraries, implementing design systems, or standardizing UI patterns.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/frontend-mobile-development/skills/tailwind-design-system"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-react-state-management",
+    "name": "react-state-management",
+    "description": "Master modern React state management with Redux Toolkit, Zustand, Jotai, and React Query. Use when setting up global state, managing server state, or choosing between state management solutions.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/frontend-mobile-development/skills/react-state-management"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-react-native-architecture",
+    "name": "react-native-architecture",
+    "description": "Build production React Native apps with Expo, navigation, native modules, offline sync, and cross-platform patterns. Use when developing mobile apps, implementing native integrations, or architecting React Native projects.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/frontend-mobile-development/skills/react-native-architecture"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-nextjs-app-router-patterns",
+    "name": "nextjs-app-router-patterns",
+    "description": "Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data fetching. Use when building Next.js applications, implementing SSR/SSG, or optimizing React Server Components.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/frontend-mobile-development/skills/nextjs-app-router-patterns"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-canvas-design",
+    "name": "canvas-design",
+    "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/canvas-design"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/skill-creator"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-nft-standards",
+    "name": "nft-standards",
+    "description": "Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementing digital asset systems.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/blockchain-web3/skills/nft-standards"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-webapp-testing",
+    "name": "webapp-testing",
+    "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/webapp-testing"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-brand-guidelines",
+    "name": "brand-guidelines",
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/brand-guidelines"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-artifacts-builder",
+    "name": "artifacts-builder",
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/awesome-claude-skills/artifacts-builder"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-receiving-code-review",
+    "name": "receiving-code-review",
+    "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/receiving-code-review"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-project-development",
+    "name": "project-development",
+    "description": "Design and build LLM-powered projects from ideation through deployment. Use when starting new agent projects, choosing between LLM and traditional approaches, or structuring batch processing pipelines.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/book-training/skills/project-development"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-requesting-code-review",
+    "name": "requesting-code-review",
+    "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/requesting-code-review"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-kpi-dashboard-design",
+    "name": "kpi-dashboard-design",
+    "description": "Design effective KPI dashboards with metrics selection, visualization best practices, and real-time monitoring patterns. Use when building business dashboards, selecting metrics, or designing data visualization layouts.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/business-analytics/skills/kpi-dashboard-design"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-data-storytelling",
+    "name": "data-storytelling",
+    "description": "Transform data into compelling narratives using visualization, context, and persuasive structure. Use when presenting analytics to stakeholders, creating data reports, or building executive presentations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/business-analytics/skills/data-storytelling"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-turborepo-caching",
+    "name": "turborepo-caching",
+    "description": "Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing distributed caching.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/developer-essentials/skills/turborepo-caching"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-rag-implementation",
+    "name": "rag-implementation",
+    "description": "Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and semantic search. Use when implementing knowledge-grounded AI, building document Q&A systems, or integrating LLMs with external knowledge bases.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/llm-application-dev/skills/rag-implementation"
+  },
+  {
+    "id": "sanskar015-claude-skills-supercharged-api-security",
+    "name": "api-security",
+    "description": "API security best practices and common vulnerability prevention. Enforces security checks for authentication, input validation, SQL injection, XSS, and OWASP Top 10 vulnerabilities. Use when building or modifying APIs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:01:26Z",
+    "repoUrl": "https://github.com/Sanskar015/claude-skills-supercharged/tree/main/.claude/skills/api-security"
+  },
+  {
+    "id": "sanskar015-claude-skills-supercharged-python-best-practices",
+    "name": "python-best-practices",
+    "description": "Python development best practices including PEP 8 style guidelines, type hints, docstring conventions, and common patterns. Use when writing or modifying Python code.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:01:26Z",
+    "repoUrl": "https://github.com/Sanskar015/claude-skills-supercharged/tree/main/.claude/skills/python-best-practices"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-esm",
+    "name": "esm",
+    "description": "Comprehensive toolkit for protein language models including ESM3 (generative multimodal protein design across sequence, structure, and function) and ESM C (efficient protein embeddings and representations). Use this skill when working with protein sequences, structures, or function prediction; designing novel proteins; generating protein embeddings; performing inverse folding; or conducting protein engineering tasks. Supports both local model usage and cloud-based Forge API for scalable inference.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/esm"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-gget",
+    "name": "gget",
+    "description": "Fast CLI/Python queries to 20+ bioinformatics databases. Use for quick lookups: gene info, BLAST searches, AlphaFold structures, enrichment analysis. Best for interactive exploration, simple queries. For batch processing or advanced BLAST use biopython; for multi-database Python workflows use bioservices.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/gget"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-pymc",
+    "name": "pymc-bayesian-modeling",
+    "description": "Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/WAIC comparison, posterior checks, for probabilistic programming and inference.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pymc"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-pymoo",
+    "name": "pymoo",
+    "description": "Multi-objective optimization framework. NSGA-II, NSGA-III, MOEA/D, Pareto fronts, constraint handling, benchmarks (ZDT, DTLZ), for engineering design and optimization problems.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pymoo"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-fluidsim",
+    "name": "fluidsim",
+    "description": "Framework for computational fluid dynamics simulations using Python. Use when running fluid dynamics simulations including Navier-Stokes equations (2D/3D), shallow water equations, stratified flows, or when analyzing turbulence, vortex dynamics, or geophysical flows. Provides pseudospectral methods with FFT, HPC support, and comprehensive output analysis.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/fluidsim"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-latchbio-integration",
+    "name": "latchbio-integration",
+    "description": "Latch platform for bioinformatics workflows. Build pipelines with Latch SDK, @workflow/@task decorators, deploy serverless workflows, LatchFile/LatchDir, Nextflow/Snakemake integration.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/latchbio-integration"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-benchling-integration",
+    "name": "benchling-integration",
+    "description": "Benchling R&D platform integration. Access registry (DNA, proteins), inventory, ELN entries, workflows via API, build Benchling Apps, query Data Warehouse, for lab data management automation.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/benchling-integration"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-generate-image",
+    "name": "generate-image",
+    "description": "Generate or edit images using AI models (FLUX, Gemini). Use for general-purpose image generation including photos, illustrations, artwork, visual assets, concept art, and any image that is not a technical diagram or schematic. For flowcharts, circuits, pathways, and technical diagrams, use the scientific-schematics skill instead.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/generate-image"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-biopython",
+    "name": "biopython",
+    "description": "Comprehensive molecular biology toolkit. Use for sequence manipulation, file parsing (FASTA/GenBank/PDB), phylogenetics, and programmatic NCBI/PubMed access (Bio.Entrez). Best for batch processing, custom bioinformatics pipelines, BLAST automation. For quick lookups use gget; for multi-service integration use bioservices.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/biopython"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-drugbank-database",
+    "name": "drugbank-database",
+    "description": "Access and analyze comprehensive drug information from the DrugBank database including drug properties, interactions, targets, pathways, chemical structures, and pharmacology data. This skill should be used when working with pharmaceutical data, drug discovery research, pharmacology studies, drug-drug interaction analysis, target identification, chemical similarity searches, ADMET predictions, or any task requiring detailed drug and drug target information from DrugBank.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/drugbank-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-aeon",
+    "name": "aeon",
+    "description": "This skill should be used for time series machine learning tasks including classification, regression, clustering, forecasting, anomaly detection, segmentation, and similarity search. Use when working with temporal data, sequential patterns, or time-indexed observations requiring specialized algorithms beyond standard ML approaches. Particularly suited for univariate and multivariate time series analysis with scikit-learn compatible APIs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/aeon"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-hypothesis-generation",
+    "name": "hypothesis-generation",
+    "description": "Structured hypothesis formulation from observations. Use when you have experimental observations or data and need to formulate testable hypotheses with predictions, propose mechanisms, and design experiments to test them. Follows scientific method framework. For open-ended ideation use scientific-brainstorming; for automated LLM-driven hypothesis testing on datasets use hypogenic.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/hypothesis-generation"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-biomni",
+    "name": "biomni",
+    "description": "Autonomous biomedical AI agent framework for executing complex research tasks across genomics, drug discovery, molecular biology, and clinical analysis. Use this skill when conducting multi-step biomedical research including CRISPR screening design, single-cell RNA-seq analysis, ADMET prediction, GWAS interpretation, rare disease diagnosis, or lab protocol optimization. Leverages LLM reasoning with code execution and integrated biomedical databases.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/biomni"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-lamindb",
+    "name": "lamindb",
+    "description": "This skill should be used when working with LaminDB, an open-source data framework for biology that makes data queryable, traceable, reproducible, and FAIR. Use when managing biological datasets (scRNA-seq, spatial, flow cytometry, etc.), tracking computational workflows, curating and validating data with biological ontologies, building data lakehouses, or ensuring data lineage and reproducibility in biological research. Covers data management, annotation, ontologies (genes, cell types, diseases, tissues), schema validation, integrations with workflow managers (Nextflow, Snakemake) and MLOps platforms (W&B, MLflow), and deployment strategies.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/lamindb"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-deepchem",
+    "name": "deepchem",
+    "description": "Molecular ML with diverse featurizers and pre-built datasets. Use for property prediction (ADMET, toxicity) with traditional ML or GNNs when you want extensive featurization options and MoleculeNet benchmarks. Best for quick experiments with pre-trained models, diverse molecular representations. For graph-first PyTorch workflows use torchdrug; for benchmark datasets use pytdc.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/deepchem"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-latex-posters",
+    "name": "latex-posters",
+    "description": "Create professional research posters in LaTeX using beamerposter, tikzposter, or baposter. Support for conference presentations, academic posters, and scientific communication. Includes layout design, color schemes, multi-column formats, figure integration, and poster-specific best practices for visual communication.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/latex-posters"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-cosmic-database",
+    "name": "cosmic-database",
+    "description": "Access COSMIC cancer mutation database. Query somatic mutations, Cancer Gene Census, mutational signatures, gene fusions, for cancer research and precision oncology. Requires authentication.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/cosmic-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-research-grants",
+    "name": "research-grants",
+    "description": "Write competitive research proposals for NSF, NIH, DOE, DARPA, and Taiwan NSTC. Agency-specific formatting, review criteria, budget preparation, broader impacts, significance statements, innovation narratives, and compliance with submission requirements.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/research-grants"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-venue-templates",
+    "name": "venue-templates",
+    "description": "Access comprehensive LaTeX templates, formatting requirements, and submission guidelines for major scientific publication venues (Nature, Science, PLOS, IEEE, ACM), academic conferences (NeurIPS, ICML, CVPR, CHI), research posters, and grant proposals (NSF, NIH, DOE, DARPA). This skill should be used when preparing manuscripts for journal submission, conference papers, research posters, or grant proposals and need venue-specific formatting requirements and templates.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/venue-templates"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-clinical-reports",
+    "name": "clinical-reports",
+    "description": "Write comprehensive clinical reports including case reports (CARE guidelines), diagnostic reports (radiology/pathology/lab), clinical trial reports (ICH-E3, SAE, CSR), and patient documentation (SOAP, H&P, discharge summaries). Full support with templates, regulatory compliance (HIPAA, FDA, ICH-GCP), and validation tools.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/clinical-reports"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-clinpgx-database",
+    "name": "clinpgx-database",
+    "description": "Access ClinPGx pharmacogenomics data (successor to PharmGKB). Query gene-drug interactions, CPIC guidelines, allele functions, for precision medicine and genotype-guided dosing decisions.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/clinpgx-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-dnanexus-integration",
+    "name": "dnanexus-integration",
+    "description": "DNAnexus cloud genomics platform. Build apps/applets, manage data (upload/download), dxpy Python SDK, run workflows, FASTQ/BAM/VCF, for genomics pipeline development and execution.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/dnanexus-integration"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-opentrons-integration",
+    "name": "opentrons-integration",
+    "description": "Official Opentrons Protocol API for OT-2 and Flex robots. Use when writing protocols specifically for Opentrons hardware with full access to Protocol API v2 features. Best for production Opentrons protocols, official API compatibility. For multi-vendor automation or broader equipment control use pylabrobot.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/opentrons-integration"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-vaex",
+    "name": "vaex",
+    "description": "Use this skill for processing and analyzing large tabular datasets (billions of rows) that exceed available RAM. Vaex excels at out-of-core DataFrame operations, lazy evaluation, fast aggregations, efficient visualization of big data, and machine learning on large datasets. Apply when users need to work with large CSV/HDF5/Arrow/Parquet files, perform fast statistics on massive datasets, create visualizations of big data, or build ML pipelines that do not fit in memory.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/vaex"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-modal",
+    "name": "modal",
+    "description": "Run Python code in the cloud with serverless containers, GPUs, and autoscaling. Use when deploying ML models, running batch processing jobs, scheduling compute-intensive tasks, or serving APIs that require GPU acceleration or dynamic scaling.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/modal"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-statsmodels",
+    "name": "statsmodels",
+    "description": "Statistical models library for Python. Use when you need specific model classes (OLS, GLM, mixed models, ARIMA) with detailed diagnostics, residuals, and inference. Best for econometrics, time series, rigorous inference with coefficient tables. For guided statistical test selection with APA reporting use statistical-analysis.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/statsmodels"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-scientific-critical-thinking",
+    "name": "scientific-critical-thinking",
+    "description": "Evaluate scientific claims and evidence quality. Use for assessing experimental design validity, identifying biases and confounders, applying evidence grading frameworks (GRADE, Cochrane Risk of Bias), or teaching critical analysis. Best for understanding evidence quality, identifying flaws. For formal peer review writing use peer-review.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/scientific-critical-thinking"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-matplotlib",
+    "name": "matplotlib",
+    "description": "Low-level plotting library for full customization. Use when you need fine-grained control over every plot element, creating novel plot types, or integrating with specific scientific workflows. Export to PNG/PDF/SVG for publication. For quick statistical plots use seaborn; for interactive plots use plotly; for publication-ready multi-panel figures with journal styling, use scientific-visualization.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/matplotlib"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-simpy",
+    "name": "simpy",
+    "description": "Process-based discrete-event simulation framework in Python. Use this skill when building simulations of systems with processes, queues, resources, and time-based events such as manufacturing systems, service operations, network traffic, logistics, or any system where entities interact with shared resources over time.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/simpy"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-qutip",
+    "name": "qutip",
+    "description": "Quantum physics simulation library for open quantum systems. Use when studying master equations, Lindblad dynamics, decoherence, quantum optics, or cavity QED. Best for physics research, open system dynamics, and educational simulations. NOT for circuit-based quantum computing—use qiskit, cirq, or pennylane for quantum algorithms and hardware execution.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/qutip"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-geniml",
+    "name": "geniml",
+    "description": "This skill should be used when working with genomic interval data (BED files) for machine learning tasks. Use for training region embeddings (Region2Vec, BEDspace), single-cell ATAC-seq analysis (scEmbed), building consensus peaks (universes), or any ML-based analysis of genomic regions. Applies to BED file collections, scATAC-seq data, chromatin accessibility datasets, and region-based genomic feature learning.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/geniml"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-seaborn",
+    "name": "seaborn",
+    "description": "Statistical visualization with pandas integration. Use for quick exploration of distributions, relationships, and categorical comparisons with attractive defaults. Best for box plots, violin plots, pair plots, heatmaps. Built on matplotlib. For interactive plots use plotly; for publication styling use scientific-visualization.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/seaborn"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-diffdock",
+    "name": "diffdock",
+    "description": "Diffusion-based molecular docking. Predict protein-ligand binding poses from PDB/SMILES, confidence scores, virtual screening, for structure-based drug design. Not for affinity prediction.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/diffdock"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-histolab",
+    "name": "histolab",
+    "description": "Lightweight WSI tile extraction and preprocessing. Use for basic slide processing tissue detection, tile extraction, stain normalization for H&E images. Best for simple pipelines, dataset preparation, quick tile-based analysis. For advanced spatial proteomics, multiplexed imaging, or deep learning pipelines use pathml.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/histolab"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-pufferlib",
+    "name": "pufferlib",
+    "description": "High-performance reinforcement learning framework optimized for speed and scale. Use when you need fast parallel training, vectorized environments, multi-agent systems, or integration with game environments (Atari, Procgen, NetHack). Achieves 2-10x speedups over standard implementations. For quick prototyping or standard algorithm implementations with extensive documentation, use stable-baselines3 instead.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pufferlib"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-bioservices",
+    "name": "bioservices",
+    "description": "Unified Python interface to 40+ bioinformatics services. Use when querying multiple databases (UniProt, KEGG, ChEMBL, Reactome) in a single workflow with consistent API. Best for cross-database analysis, ID mapping across services. For quick single-database lookups use gget; for sequence/file manipulation use biopython.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/bioservices"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-pptx-posters",
+    "name": "pptx-posters",
+    "description": "Create research posters using HTML/CSS that can be exported to PDF or PPTX. Use this skill ONLY when the user explicitly requests PowerPoint/PPTX poster format. For standard research posters, use latex-posters instead. This skill provides modern web-based poster design with responsive layouts and easy visual integration.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pptx-posters"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-scikit-learn",
+    "name": "scikit-learn",
+    "description": "Machine learning in Python with scikit-learn. Use when working with supervised learning (classification, regression), unsupervised learning (clustering, dimensionality reduction), model evaluation, hyperparameter tuning, preprocessing, or building ML pipelines. Provides comprehensive reference documentation for algorithms, preprocessing techniques, pipelines, and best practices.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/scikit-learn"
+  },
+  {
+    "id": "akashaali98-claude-code-infrastructure-showcase-backend-dev-guidelines",
+    "name": "backend-dev-guidelines",
+    "description": "Comprehensive backend development guide for Node.js/Express/TypeScript microservices. Use when creating routes, controllers, services, repositories, middleware, or working with Express APIs, Prisma database access, Sentry error tracking, Zod validation, unifiedConfig, dependency injection, or async patterns. Covers layered architecture (routes → controllers → services → repositories), BaseController pattern, error handling, performance monitoring, testing strategies, and migration from legacy patterns.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:55:30Z",
+    "repoUrl": "https://github.com/akashaali98/claude-code-infrastructure-showcase/tree/main/.claude/skills/backend-dev-guidelines"
+  },
+  {
+    "id": "akashaali98-claude-code-infrastructure-showcase-frontend-dev-guidelines",
+    "name": "frontend-dev-guidelines",
+    "description": "Frontend development guidelines for React/TypeScript applications. Modern patterns including Suspense, lazy loading, useSuspenseQuery, file organization with features directory, MUI v7 styling, TanStack Router, performance optimization, and TypeScript best practices. Use when creating components, pages, features, fetching data, styling, routing, or working with frontend code.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:55:30Z",
+    "repoUrl": "https://github.com/akashaali98/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines"
+  },
+  {
+    "id": "athola-skrills-api-designer",
+    "name": "api-designer",
+    "description": "Design RESTful APIs with best practices for consistency and usability",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 35,
+    "updatedAt": "2026-01-09T16:54:31Z",
+    "repoUrl": "https://github.com/athola/skrills/tree/main/assets/demo-skills/api-designer"
+  },
+  {
+    "id": "mann1988-awesome-claude-skills-us-gov-shutdown-tracker",
+    "name": "us-gov-shutdown-tracker",
+    "description": "Track and analyze US government shutdown liquidity impacts by monitoring TGA (Treasury General Account), bank reserves, EFFR, and SOFR data from FRED API. Use when user wants to (1) analyze current or past government shutdown effects on financial markets, (2) track liquidity conditions during fiscal policy disruptions, (3) assess \"stealth tightening\" effects, (4) compare shutdown episodes across different monetary policy regimes (QE vs QT), or (5) generate liquidity stress reports with historical context. Recommended usage frequency is weekly on Wednesdays after TGA/reserve data releases.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T16:53:23Z",
+    "repoUrl": "https://github.com/Mann1988/awesome-claude-skills/tree/main/us-gov-shutdown-tracker"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-ui-design",
+    "name": "ui-design",
+    "description": "Use this to design a nice UI in single html as inspiration & UI exploration.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/ui-design"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-mcp-builder",
+    "name": "mcp-builder",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/mcp-builder"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-artifacts-builder",
+    "name": "artifacts-builder",
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/artifacts-builder"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-canvas-design",
+    "name": "canvas-design",
+    "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/canvas-design"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-brand-guidelines",
+    "name": "brand-guidelines",
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/brand-guidelines"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-webapp-testing",
+    "name": "webapp-testing",
+    "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/webapp-testing"
+  },
+  {
+    "id": "shajith003-awesome-claude-skills-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:49:10Z",
+    "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/skill-creator"
+  },
+  {
+    "id": "abejitsu-need_this_done-think-ahead",
+    "name": "think-ahead",
+    "description": "AI thinking partner for strategy and planning. Reads the current work state, analyzes progress, and helps you plan the next phase while the worker instance builds. Triggered by \"think ahead\".",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:48:40Z",
+    "repoUrl": "https://github.com/AbeJitsu/Need_This_Done/tree/main/.claude/skills/think-ahead"
+  },
+  {
+    "id": "abejitsu-need_this_done-launch-a-swarm",
+    "name": "launch-a-swarm",
+    "description": "Spawn 5 parallel agents applying quality principles across planning, building, and validating code. Use when designing features, making decisions, or checking work. Triggers on \"launch a swarm\" or when ensuring solid, maintainable, secure software.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:48:40Z",
+    "repoUrl": "https://github.com/AbeJitsu/Need_This_Done/tree/main/.claude/skills/launch-a-swarm"
+  },
+  {
+    "id": "abejitsu-need_this_done-frontend-design",
+    "name": "frontend-design",
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applications. Generates creative, polished code that avoids generic AI aesthetics.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:48:40Z",
+    "repoUrl": "https://github.com/AbeJitsu/Need_This_Done/tree/main/.claude/skills/frontend-design"
   }
 ]

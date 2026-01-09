@@ -618,5 +618,75 @@
     "stars": 420,
     "updatedAt": "2026-01-09T15:29:24Z",
     "repoUrl": "https://github.com/alirezarezvani/claude-code-tresor/tree/main/skills/development/code-reviewer"
+  },
+  {
+    "id": "breaking-brake-cc-wf-studio-code-review",
+    "name": "code-review",
+    "description": "Analyze PR diffs and generate review comments from code quality, security, and performance perspectives. Use for code reviews, quality checks, and security analysis.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 2326,
+    "updatedAt": "2026-01-09T16:10:47Z",
+    "repoUrl": "https://github.com/breaking-brake/cc-wf-studio/tree/main/.claude/skills/code-review"
+  },
+  {
+    "id": "catlog22-claude-code-workflow-code-reviewer",
+    "name": "code-reviewer",
+    "description": "Comprehensive code review skill for identifying security vulnerabilities and best practices violations. Triggers on \"code review\", \"review code\", \"security audit\", \"代码审查\".",
+    "category": "specialized",
+    "tags": [],
+    "stars": 893,
+    "updatedAt": "2026-01-09T15:12:57Z",
+    "repoUrl": "https://github.com/catlog22/Claude-Code-Workflow/tree/main/.claude/skills/code-reviewer"
+  },
+  {
+    "id": "bgauryy-octocode-mcp-octocode-pr-review",
+    "name": "octocode-pr-review",
+    "description": "Reviews pull requests for bugs, security vulnerabilities, architecture problems, performance issues, and code quality. Use when reviewing PRs, analyzing diffs, checking code changes, or performing code review.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 665,
+    "updatedAt": "2026-01-09T14:29:58Z",
+    "repoUrl": "https://github.com/bgauryy/octocode-mcp/tree/main/packages/octocode-cli/skills/octocode-pr-review"
+  },
+  {
+    "id": "brownfinesecurity-iothackbot-iotnet",
+    "name": "iotnet",
+    "description": "IoT network traffic analyzer for detecting IoT protocols and identifying security vulnerabilities in network communications. Use when you need to analyze network traffic, identify IoT protocols, or assess network security of IoT devices.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 479,
+    "updatedAt": "2026-01-09T15:41:35Z",
+    "repoUrl": "https://github.com/BrownFineSecurity/iothackbot/tree/main/skills/iotnet"
+  },
+  {
+    "id": "alirezarezvani-claude-code-skill-factory-tech-stack-evaluator",
+    "name": "tech-stack-evaluator",
+    "description": "Comprehensive technology stack evaluation and comparison tool with TCO analysis, security assessment, and intelligent recommendations for engineering teams",
+    "category": "specialized",
+    "tags": [],
+    "stars": 306,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-skill-factory/tree/main/generated-skills/tech-stack-evaluator"
+  },
+  {
+    "id": "alirezarezvani-claude-code-skill-factory-ms365-tenant-manager",
+    "name": "ms365-tenant-manager",
+    "description": "Comprehensive Microsoft 365 tenant administration skill for setup, configuration, user management, security policies, and organizational structure optimization for Global Administrators",
+    "category": "specialized",
+    "tags": [],
+    "stars": 306,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-skill-factory/tree/main/generated-skills/ms365-tenant-manager"
+  },
+  {
+    "id": "disler-claude-code-damage-control-damage-control",
+    "name": "Damage Control",
+    "description": "Install, configure, and manage the Claude Code Damage Control security hooks system. Use when user mentions damage control, security hooks, protected paths, blocked commands, install security, or modify protection settings.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 244,
+    "updatedAt": "2026-01-09T16:42:41Z",
+    "repoUrl": "https://github.com/disler/claude-code-damage-control/tree/main/.claude/skills/damage-control"
   }
 ]
