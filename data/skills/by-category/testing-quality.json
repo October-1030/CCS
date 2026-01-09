@@ -828,5 +828,67 @@
     "stars": 461,
     "updatedAt": "2026-01-09T15:32:37Z",
     "repoUrl": "https://github.com/numman-ali/n-skills/tree/main/skills/automation/dev-browser"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings-playwright-testing",
+    "name": "playwright-testing",
+    "description": "This skill should be used when user asks about \"Playwright\", \"responsiveness test\", \"test with playwright\", \"test login flow\", \"file upload test\", \"handle authentication in tests\", or \"fix flaky tests\".",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 317,
+    "updatedAt": "2026-01-09T13:32:43Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings/tree/main/plugins/playwright-tools/skills/playwright-testing"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-instructor",
+    "name": "instructor",
+    "description": "Extract structured data from LLM responses with Pydantic validation, retry failed extractions automatically, parse complex JSON with type safety, and stream partial results with Instructor - battle-tested structured output library",
+    "category": "testing-quality",
+    "tags": [
+      "Prompt Engineering",
+      "Instructor",
+      "Structured Output",
+      "Pydantic",
+      "Data Extraction",
+      "JSON Parsing",
+      "Type Safety",
+      "Validation",
+      "Streaming",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/16-prompt-engineering/instructor"
+  },
+  {
+    "id": "zechenzhangagi-ai-research-skills-bigcode-evaluation-harness",
+    "name": "evaluating-code-models",
+    "description": "Evaluates code generation models across HumanEval, MBPP, MultiPL-E, and 15+ benchmarks with pass@k metrics. Use when benchmarking code models, comparing coding abilities, testing multi-language support, or measuring code generation quality. Industry standard from BigCode Project used by HuggingFace leaderboards.",
+    "category": "testing-quality",
+    "tags": [
+      "Evaluation",
+      "Code Generation",
+      "HumanEval",
+      "MBPP",
+      "MultiPL-E",
+      "Pass@k",
+      "BigCode",
+      "Benchmarking",
+      "Code Models"
+    ],
+    "stars": 530,
+    "updatedAt": "2026-01-09T12:54:41Z",
+    "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/11-evaluation/bigcode-evaluation-harness"
+  },
+  {
+    "id": "prat011-awesome-llm-skills-raffle-winner-picker",
+    "name": "raffle-winner-picker",
+    "description": "Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 618,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/raffle-winner-picker"
   }
 ]

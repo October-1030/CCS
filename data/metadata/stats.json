@@ -1,14 +1,14 @@
 {
-  "totalSkills": 866,
+  "totalSkills": 1000,
   "byCategory": {
-    "ai-data-science": 141,
-    "frontend-development": 154,
-    "tools-productivity": 148,
+    "ai-data-science": 181,
+    "frontend-development": 199,
+    "tools-productivity": 172,
     "business-marketing": 67,
-    "testing-quality": 83,
-    "backend-development": 99,
+    "testing-quality": 87,
+    "backend-development": 109,
     "specialized": 62,
-    "devops-infrastructure": 112
+    "devops-infrastructure": 123
   },
   "topTags": [
     {
@@ -16,15 +16,115 @@
       "count": 14
     },
     {
+      "tag": "Multimodal",
+      "count": 12
+    },
+    {
       "tag": "claude-code",
       "count": 11
+    },
+    {
+      "tag": "Production",
+      "count": 11
+    },
+    {
+      "tag": "RAG",
+      "count": 8
+    },
+    {
+      "tag": "HuggingFace",
+      "count": 8
+    },
+    {
+      "tag": "Optimization",
+      "count": 8
     },
     {
       "tag": "claude",
       "count": 7
     },
     {
+      "tag": "QLoRA",
+      "count": 7
+    },
+    {
+      "tag": "Quantization",
+      "count": 7
+    },
+    {
+      "tag": "PyTorch",
+      "count": 6
+    },
+    {
+      "tag": "Agents",
+      "count": 6
+    },
+    {
+      "tag": "Fine-Tuning",
+      "count": 6
+    },
+    {
+      "tag": "Emerging Techniques",
+      "count": 6
+    },
+    {
+      "tag": "Distributed Training",
+      "count": 6
+    },
+    {
+      "tag": "LoRA",
+      "count": 5
+    },
+    {
+      "tag": "Post-Training",
+      "count": 5
+    },
+    {
+      "tag": "DeepSpeed",
+      "count": 5
+    },
+    {
+      "tag": "Fast Inference",
+      "count": 5
+    },
+    {
       "tag": "claude-ai",
+      "count": 4
+    },
+    {
+      "tag": "Inference Serving",
+      "count": 4
+    },
+    {
+      "tag": "Model Architecture",
+      "count": 4
+    },
+    {
+      "tag": "Prompt Engineering",
+      "count": 4
+    },
+    {
+      "tag": "NVIDIA",
+      "count": 4
+    },
+    {
+      "tag": "GRPO",
+      "count": 4
+    },
+    {
+      "tag": "DPO",
+      "count": 4
+    },
+    {
+      "tag": "Evaluation",
+      "count": 4
+    },
+    {
+      "tag": "Memory Optimization",
+      "count": 4
+    },
+    {
+      "tag": "Model Compression",
       "count": 4
     },
     {
@@ -36,183 +136,94 @@
       "count": 3
     },
     {
-      "tag": "skills",
-      "count": 2
+      "tag": "Embeddings",
+      "count": 3
     },
     {
-      "tag": "claude-code-skill",
-      "count": 2
+      "tag": "Semantic Search",
+      "count": 3
     },
     {
-      "tag": "ai-agent",
-      "count": 1
+      "tag": "MLOps",
+      "count": 3
     },
     {
-      "tag": "ai-tools",
-      "count": 1
+      "tag": "Experiment Tracking",
+      "count": 3
     },
     {
-      "tag": "anthropic",
-      "count": 1
+      "tag": "TensorFlow",
+      "count": 3
     },
     {
-      "tag": "caching",
-      "count": 1
+      "tag": "Vision-Language",
+      "count": 3
     },
     {
-      "tag": "claude-skills-creator",
-      "count": 1
+      "tag": "Zero-Shot",
+      "count": 3
     },
     {
-      "tag": "codex-cli",
-      "count": 1
+      "tag": "Multilingual",
+      "count": 3
     },
     {
-      "tag": "gemini",
-      "count": 1
+      "tag": "OpenAI",
+      "count": 3
     },
     {
-      "tag": "ai-tutor",
-      "count": 1
+      "tag": "Llama",
+      "count": 3
     },
     {
-      "tag": "assistant",
-      "count": 1
+      "tag": "Gemma",
+      "count": 3
     },
     {
-      "tag": "coding-interview",
-      "count": 1
+      "tag": "Infrastructure",
+      "count": 3
     },
     {
-      "tag": "coding-interviews",
-      "count": 1
+      "tag": "vLLM",
+      "count": 3
     },
     {
-      "tag": "competitive-programming",
-      "count": 1
+      "tag": "Efficient Inference",
+      "count": 3
     },
     {
-      "tag": "animation",
-      "count": 1
+      "tag": "Safety Alignment",
+      "count": 3
     },
     {
-      "tag": "claude-desktop",
-      "count": 1
+      "tag": "Structured Output",
+      "count": 3
     },
     {
-      "tag": "logo",
-      "count": 1
+      "tag": "Long Context",
+      "count": 3
     },
     {
-      "tag": "lottie",
-      "count": 1
+      "tag": "FP8",
+      "count": 3
     },
     {
-      "tag": "lottie-animation",
-      "count": 1
-    },
-    {
-      "tag": "memory",
-      "count": 1
-    },
-    {
-      "tag": "productivity",
-      "count": 1
-    },
-    {
-      "tag": "self-learning",
-      "count": 1
-    },
-    {
-      "tag": "corrections",
-      "count": 1
-    },
-    {
-      "tag": "sessions",
-      "count": 1
-    },
-    {
-      "tag": "when",
-      "count": 1
-    },
-    {
-      "tag": "self",
-      "count": 1
-    },
-    {
-      "tag": "learning",
-      "count": 1
-    },
-    {
-      "tag": "agentic-workflow",
-      "count": 1
-    },
-    {
-      "tag": "gh-cli",
-      "count": 1
-    },
-    {
-      "tag": "token-optimization",
-      "count": 1
-    },
-    {
-      "tag": "reusable",
-      "count": 1
-    },
-    {
-      "tag": "workflow",
-      "count": 1
-    },
-    {
-      "tag": "optimization",
-      "count": 1
-    },
-    {
-      "tag": "toolkit",
-      "count": 1
-    },
-    {
-      "tag": "start",
-      "count": 1
-    },
-    {
-      "tag": "session",
-      "count": 1
-    },
-    {
-      "tag": "especially",
-      "count": 1
-    },
-    {
-      "tag": "sandboxed",
-      "count": 1
-    },
-    {
-      "tag": "apple",
-      "count": 1
-    },
-    {
-      "tag": "ipsw",
-      "count": 1
-    },
-    {
-      "tag": "reverse-engineering",
-      "count": 1
-    },
-    {
-      "tag": "skill",
-      "count": 1
-    },
-    {
-      "tag": "vulnerability-research",
-      "count": 1
-    },
-    {
-      "tag": "analyzing",
-      "count": 1
+      "tag": "RLHF",
+      "count": 3
     }
   ],
   "recentlyUpdated": [
+    "dammyjay93-claude-design-skill-skill",
+    "kamalnrf-claude-plugins-skills-discovery",
+    "jarrodwatts-claude-code-config-react-useeffect",
+    "jarrodwatts-claude-code-config-planning-with-files",
+    "cloudai-x-claude-workflow-v2-managing-git",
+    "cloudai-x-claude-workflow-v2-designing-apis",
+    "cloudai-x-claude-workflow-v2-parallel-execution",
+    "cloudai-x-claude-workflow-v2-analyzing-projects",
+    "cloudai-x-claude-workflow-v2-optimizing-performance",
+    "cloudai-x-claude-workflow-v2-designing-architecture",
+    "cloudai-x-claude-workflow-v2-designing-tests",
     "numman-ali-n-skills-zai-cli",
     "numman-ali-n-skills-gastown",
     "numman-ali-n-skills-dev-browser",
@@ -221,18 +232,7 @@
     "alirezarezvani-claude-skills-senior-qa",
     "alirezarezvani-claude-skills-qms-audit-expert",
     "alirezarezvani-claude-skills-gdpr-dsgvo-expert",
-    "alirezarezvani-claude-skills-isms-audit-expert",
-    "alirezarezvani-claude-skills-mdr-745-specialist",
-    "alirezarezvani-claude-skills-quality-manager-qmr",
-    "alirezarezvani-claude-skills-senior-secops",
-    "alirezarezvani-claude-skills-senior-devops",
-    "alirezarezvani-claude-skills-senior-backend",
-    "alirezarezvani-claude-skills-senior-security",
-    "alirezarezvani-claude-skills-senior-fullstack",
-    "alirezarezvani-claude-skills-senior-architect",
-    "alirezarezvani-claude-skills-regulatory-affairs-head",
-    "alirezarezvani-claude-skills-senior-ml-engineer",
-    "alirezarezvani-claude-skills-fda-consultant-specialist"
+    "alirezarezvani-claude-skills-isms-audit-expert"
   ],
-  "lastSyncTime": "2026-01-09T16:00:02.327Z"
+  "lastSyncTime": "2026-01-09T16:27:16.879Z"
 }
