@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-09T06:33:33.098Z",
-  "totalSkills": 775,
+  "lastSync": "2026-01-09T06:43:39.108Z",
+  "totalSkills": 828,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -7915,6 +7915,536 @@
       "stars": 8244,
       "updatedAt": "2026-01-09T06:28:32Z",
       "repoUrl": "https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines"
+    },
+    {
+      "id": "davepoon-buildwithclaude-pdf",
+      "name": "pdf",
+      "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/pdf"
+    },
+    {
+      "id": "davepoon-buildwithclaude-mcp-builder",
+      "name": "mcp-builder",
+      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/mcp-builder"
+    },
+    {
+      "id": "davepoon-buildwithclaude-skill-creator",
+      "name": "skill-creator",
+      "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/skill-creator"
+    },
+    {
+      "id": "davepoon-buildwithclaude-file-organizer",
+      "name": "file-organizer",
+      "description": "Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load and keeps your digital workspace tidy without manual effort.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/file-organizer"
+    },
+    {
+      "id": "davepoon-buildwithclaude-slack-gif-creator",
+      "name": "slack-gif-creator",
+      "description": "Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and composable animation primitives. This skill applies when users request animated GIFs or emoji animations for Slack from descriptions like \"make me a GIF for Slack of X doing Y\".",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/slack-gif-creator"
+    },
+    {
+      "id": "davepoon-buildwithclaude-developer-growth-analysis",
+      "name": "developer-growth-analysis",
+      "description": "Analyzes your recent Claude Code chat history to identify coding patterns, development gaps, and areas for improvement, curates relevant learning resources from HackerNews, and automatically sends a personalized growth report to your Slack DMs.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/developer-growth-analysis"
+    },
+    {
+      "id": "davepoon-buildwithclaude-server-actions",
+      "name": "server-actions",
+      "description": "This skill should be used when the user asks about \"Server Actions\", \"form handling in Next.js\", \"mutations\", \"useFormState\", \"useFormStatus\", \"revalidatePath\", \"revalidateTag\", or needs guidance on data mutations and form submissions in Next.js App Router.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/nextjs-expert/skills/server-actions"
+    },
+    {
+      "id": "davepoon-buildwithclaude-canvas-design",
+      "name": "canvas-design",
+      "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/canvas-design"
+    },
+    {
+      "id": "davepoon-buildwithclaude-image-enhancer",
+      "name": "image-enhancer",
+      "description": "Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documentation, or social media posts.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/image-enhancer"
+    },
+    {
+      "id": "davepoon-buildwithclaude-inspiration-analyzer",
+      "name": "inspiration-analyzer",
+      "description": "Analyze websites for design inspiration, extracting colors, typography, layouts, and patterns. Use when you have specific URLs to analyze for a design project.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/frontend-design-pro/skills/inspiration-analyzer"
+    },
+    {
+      "id": "davepoon-buildwithclaude-color-curator",
+      "name": "color-curator",
+      "description": "Browse and select color palettes from Coolors or curated fallbacks. Use to find the perfect color palette for a design project.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/frontend-design-pro/skills/color-curator"
+    },
+    {
+      "id": "davepoon-buildwithclaude-skill-share",
+      "name": "skill-share",
+      "description": "A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaboration and skill discovery.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/skill-share"
+    },
+    {
+      "id": "davepoon-buildwithclaude-webapp-testing",
+      "name": "webapp-testing",
+      "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/webapp-testing"
+    },
+    {
+      "id": "davepoon-buildwithclaude-internal-comms",
+      "name": "internal-comms",
+      "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/internal-comms"
+    },
+    {
+      "id": "davepoon-buildwithclaude-brand-guidelines",
+      "name": "brand-guidelines",
+      "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/brand-guidelines"
+    },
+    {
+      "id": "davepoon-buildwithclaude-lead-research-assistant",
+      "name": "lead-research-assistant",
+      "description": "Identifies high-quality leads for your product or service by analyzing your business, searching for target companies, and providing actionable contact strategies. Perfect for sales, business development, and marketing professionals.",
+      "category": "business-marketing",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/lead-research-assistant"
+    },
+    {
+      "id": "davepoon-buildwithclaude-pptx",
+      "name": "pptx",
+      "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/pptx"
+    },
+    {
+      "id": "davepoon-buildwithclaude-artifacts-builder",
+      "name": "artifacts-builder",
+      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/artifacts-builder"
+    },
+    {
+      "id": "davepoon-buildwithclaude-domain-name-brainstormer",
+      "name": "domain-name-brainstormer",
+      "description": "Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, .ai, etc.). Saves hours of brainstorming and manual checking.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/domain-name-brainstormer"
+    },
+    {
+      "id": "davepoon-buildwithclaude-docx",
+      "name": "docx",
+      "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/docx"
+    },
+    {
+      "id": "davepoon-buildwithclaude-route-handlers",
+      "name": "route-handlers",
+      "description": "This skill should be used when the user asks to \"create an API route\", \"add an endpoint\", \"build a REST API\", \"handle POST requests\", \"create route handlers\", \"stream responses\", or needs guidance on Next.js API development in the App Router.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/nextjs-expert/skills/route-handlers"
+    },
+    {
+      "id": "davepoon-buildwithclaude-raffle-winner-picker",
+      "name": "raffle-winner-picker",
+      "description": "Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/raffle-winner-picker"
+    },
+    {
+      "id": "davepoon-buildwithclaude-trend-researcher",
+      "name": "trend-researcher",
+      "description": "Research latest UI/UX trends from Dribbble and design communities. Use when starting a design project to understand current visual trends, color palettes, and layout patterns.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/frontend-design-pro/skills/trend-researcher"
+    },
+    {
+      "id": "davepoon-buildwithclaude-competitive-ads-extractor",
+      "name": "competitive-ads-extractor",
+      "description": "Extracts and analyzes competitors' ads from ad libraries (Facebook, LinkedIn, etc.) to understand what messaging, problems, and creative approaches are working. Helps inspire and improve your own ad campaigns.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/competitive-ads-extractor"
+    },
+    {
+      "id": "davepoon-buildwithclaude-xlsx",
+      "name": "xlsx",
+      "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/xlsx"
+    },
+    {
+      "id": "davepoon-buildwithclaude-moodboard-creator",
+      "name": "moodboard-creator",
+      "description": "Create visual moodboards from collected inspiration with iterative refinement. Use after trend research or website analysis to synthesize design direction before implementation.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/frontend-design-pro/skills/moodboard-creator"
+    },
+    {
+      "id": "davepoon-buildwithclaude-typography-selector",
+      "name": "typography-selector",
+      "description": "Browse and select fonts from Google Fonts or curated pairings. Use to find the perfect typography for a design project.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/frontend-design-pro/skills/typography-selector"
+    },
+    {
+      "id": "davepoon-buildwithclaude-app-router",
+      "name": "app-router",
+      "description": "This skill should be used when the user asks to \"create a Next.js route\", \"add a page\", \"set up layouts\", \"implement loading states\", \"add error boundaries\", \"organize routes\", \"create dynamic routes\", or needs guidance on Next.js App Router file conventions and routing patterns.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/nextjs-expert/skills/app-router"
+    },
+    {
+      "id": "davepoon-buildwithclaude-theme-factory",
+      "name": "theme-factory",
+      "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/theme-factory"
+    },
+    {
+      "id": "davepoon-buildwithclaude-changelog-generator",
+      "name": "changelog-generator",
+      "description": "Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns hours of manual changelog writing into minutes of automated generation.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/changelog-generator"
+    },
+    {
+      "id": "davepoon-buildwithclaude-auth-patterns",
+      "name": "auth-patterns",
+      "description": "This skill should be used when the user asks about \"authentication in Next.js\", \"NextAuth\", \"Auth.js\", \"middleware auth\", \"protected routes\", \"session management\", \"JWT\", \"login flow\", or needs guidance on implementing authentication and authorization in Next.js applications.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/nextjs-expert/skills/auth-patterns"
+    },
+    {
+      "id": "davepoon-buildwithclaude-content-research-writer",
+      "name": "content-research-writer",
+      "description": "Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section. Transforms your writing process from solo effort to collaborative partnership.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/content-research-writer"
+    },
+    {
+      "id": "davepoon-buildwithclaude-json-canvas",
+      "name": "json-canvas",
+      "description": "Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when working with .canvas files, creating visual canvases, mind maps, flowcharts, or when the user mentions Canvas files in Obsidian.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/json-canvas"
+    },
+    {
+      "id": "davepoon-buildwithclaude-obsidian-bases",
+      "name": "obsidian-bases",
+      "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/obsidian-bases"
+    },
+    {
+      "id": "davepoon-buildwithclaude-video-downloader",
+      "name": "youtube-downloader",
+      "description": "Download YouTube videos with customizable quality and format options. Use this skill when the user asks to download, save, or grab YouTube videos. Supports various quality settings (best, 1080p, 720p, 480p, 360p), multiple formats (mp4, webm, mkv), and audio-only downloads as MP3.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/video-downloader"
+    },
+    {
+      "id": "davepoon-buildwithclaude-obsidian-markdown",
+      "name": "obsidian-markdown",
+      "description": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/obsidian-markdown"
+    },
+    {
+      "id": "davepoon-buildwithclaude-server-components",
+      "name": "server-components",
+      "description": "This skill should be used when the user asks about \"Server Components\", \"Client Components\", \"'use client' directive\", \"when to use server vs client\", \"RSC patterns\", \"component composition\", \"data fetching in components\", or needs guidance on React Server Components architecture in Next.js.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/nextjs-expert/skills/server-components"
+    },
+    {
+      "id": "davepoon-buildwithclaude-design-wizard",
+      "name": "design-wizard",
+      "description": "Interactive design wizard that guides through a complete frontend design process with discovery, aesthetic selection, and code generation. Use for creating distinctive, production-ready UI.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/frontend-design-pro/skills/design-wizard"
+    },
+    {
+      "id": "davepoon-buildwithclaude-meeting-insights-analyzer",
+      "name": "meeting-insights-analyzer",
+      "description": "Analyzes meeting transcripts and recordings to uncover behavioral patterns, communication insights, and actionable feedback. Identifies when you avoid conflict, use filler words, dominate conversations, or miss opportunities to listen. Perfect for professionals seeking to improve their communication and leadership skills.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/meeting-insights-analyzer"
+    },
+    {
+      "id": "davepoon-buildwithclaude-invoice-organizer",
+      "name": "invoice-organizer",
+      "description": "Automatically organizes invoices and receipts for tax preparation by reading messy files, extracting key information, renaming them consistently, and sorting them into logical folders. Turns hours of manual bookkeeping into minutes of automated organization.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/invoice-organizer"
+    },
+    {
+      "id": "chriswiles-claude-code-showcase-graphql-schema",
+      "name": "graphql-schema",
+      "description": "GraphQL queries, mutations, and code generation patterns. Use when creating GraphQL operations, working with Apollo Client, or generating types.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2172,
+      "updatedAt": "2026-01-09T06:42:46Z",
+      "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/graphql-schema"
+    },
+    {
+      "id": "chriswiles-claude-code-showcase-core-components",
+      "name": "core-components",
+      "description": "Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2172,
+      "updatedAt": "2026-01-09T06:42:46Z",
+      "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/core-components"
+    },
+    {
+      "id": "chriswiles-claude-code-showcase-formik-patterns",
+      "name": "formik-patterns",
+      "description": "Formik form handling with validation patterns. Use when building forms, implementing validation, or handling form submission.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2172,
+      "updatedAt": "2026-01-09T06:42:46Z",
+      "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/formik-patterns"
+    },
+    {
+      "id": "chriswiles-claude-code-showcase-testing-patterns",
+      "name": "testing-patterns",
+      "description": "Jest testing patterns, factory functions, mocking strategies, and TDD workflow. Use when writing unit tests, creating test factories, or following TDD red-green-refactor cycle.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 2172,
+      "updatedAt": "2026-01-09T06:42:46Z",
+      "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/testing-patterns"
+    },
+    {
+      "id": "chriswiles-claude-code-showcase-react-ui-patterns",
+      "name": "react-ui-patterns",
+      "description": "Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2172,
+      "updatedAt": "2026-01-09T06:42:46Z",
+      "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/react-ui-patterns"
+    },
+    {
+      "id": "chriswiles-claude-code-showcase-systematic-debugging",
+      "name": "systematic-debugging",
+      "description": "Four-phase debugging methodology with root cause analysis. Use when investigating bugs, fixing test failures, or troubleshooting unexpected behavior. Emphasizes NO FIXES WITHOUT ROOT CAUSE FIRST.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 2172,
+      "updatedAt": "2026-01-09T06:42:46Z",
+      "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/systematic-debugging"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-n8n-code-python",
+      "name": "n8n-code-python",
+      "description": "Write Python code in n8n Code nodes. Use when writing Python in n8n, using _input/_json/_node syntax, working with standard library, or need to understand Python limitations in n8n Code nodes.",
+      "category": "business-marketing",
+      "tags": [],
+      "stars": 1373,
+      "updatedAt": "2026-01-09T06:02:50Z",
+      "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-python"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-n8n-code-javascript",
+      "name": "n8n-code-javascript",
+      "description": "Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making HTTP requests with $helpers, working with dates using DateTime, troubleshooting Code node errors, or choosing between Code node modes.",
+      "category": "business-marketing",
+      "tags": [],
+      "stars": 1373,
+      "updatedAt": "2026-01-09T06:02:50Z",
+      "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-n8n-mcp-tools-expert",
+      "name": "n8n-mcp-tools-expert",
+      "description": "Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, accessing templates, managing workflows, or using any n8n-mcp tool. Provides tool selection guidance, parameter formats, and common patterns.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1373,
+      "updatedAt": "2026-01-09T06:02:50Z",
+      "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-mcp-tools-expert"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-n8n-validation-expert",
+      "name": "n8n-validation-expert",
+      "description": "Interpret validation errors and guide fixing them. Use when encountering validation errors, validation warnings, false positives, operator structure issues, or need help understanding validation results. Also use when asking about validation profiles, error types, or the validation loop process.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1373,
+      "updatedAt": "2026-01-09T06:02:50Z",
+      "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-validation-expert"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-n8n-workflow-patterns",
+      "name": "n8n-workflow-patterns",
+      "description": "Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, designing workflow structure, choosing workflow patterns, planning workflow architecture, or asking about webhook processing, HTTP API integration, database operations, AI agent workflows, or scheduled tasks.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1373,
+      "updatedAt": "2026-01-09T06:02:50Z",
+      "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-n8n-expression-syntax",
+      "name": "n8n-expression-syntax",
+      "description": "Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing $json/$node variables, troubleshooting expression errors, or working with webhook data in workflows.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1373,
+      "updatedAt": "2026-01-09T06:02:50Z",
+      "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-expression-syntax"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-n8n-node-configuration",
+      "name": "n8n-node-configuration",
+      "description": "Operation-aware node configuration guidance. Use when configuring nodes, understanding property dependencies, determining required fields, choosing between get_node detail levels, or learning common configuration patterns by node type.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1373,
+      "updatedAt": "2026-01-09T06:02:50Z",
+      "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration"
     }
   ]
 }

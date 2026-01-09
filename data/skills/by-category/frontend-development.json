@@ -1178,5 +1178,245 @@
     "stars": 8244,
     "updatedAt": "2026-01-09T06:28:32Z",
     "repoUrl": "https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines"
+  },
+  {
+    "id": "davepoon-buildwithclaude-mcp-builder",
+    "name": "mcp-builder",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/mcp-builder"
+  },
+  {
+    "id": "davepoon-buildwithclaude-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/skill-creator"
+  },
+  {
+    "id": "davepoon-buildwithclaude-server-actions",
+    "name": "server-actions",
+    "description": "This skill should be used when the user asks about \"Server Actions\", \"form handling in Next.js\", \"mutations\", \"useFormState\", \"useFormStatus\", \"revalidatePath\", \"revalidateTag\", or needs guidance on data mutations and form submissions in Next.js App Router.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/nextjs-expert/skills/server-actions"
+  },
+  {
+    "id": "davepoon-buildwithclaude-canvas-design",
+    "name": "canvas-design",
+    "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/canvas-design"
+  },
+  {
+    "id": "davepoon-buildwithclaude-inspiration-analyzer",
+    "name": "inspiration-analyzer",
+    "description": "Analyze websites for design inspiration, extracting colors, typography, layouts, and patterns. Use when you have specific URLs to analyze for a design project.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/frontend-design-pro/skills/inspiration-analyzer"
+  },
+  {
+    "id": "davepoon-buildwithclaude-color-curator",
+    "name": "color-curator",
+    "description": "Browse and select color palettes from Coolors or curated fallbacks. Use to find the perfect color palette for a design project.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/frontend-design-pro/skills/color-curator"
+  },
+  {
+    "id": "davepoon-buildwithclaude-webapp-testing",
+    "name": "webapp-testing",
+    "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/webapp-testing"
+  },
+  {
+    "id": "davepoon-buildwithclaude-brand-guidelines",
+    "name": "brand-guidelines",
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/brand-guidelines"
+  },
+  {
+    "id": "davepoon-buildwithclaude-artifacts-builder",
+    "name": "artifacts-builder",
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/artifacts-builder"
+  },
+  {
+    "id": "davepoon-buildwithclaude-route-handlers",
+    "name": "route-handlers",
+    "description": "This skill should be used when the user asks to \"create an API route\", \"add an endpoint\", \"build a REST API\", \"handle POST requests\", \"create route handlers\", \"stream responses\", or needs guidance on Next.js API development in the App Router.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/nextjs-expert/skills/route-handlers"
+  },
+  {
+    "id": "davepoon-buildwithclaude-trend-researcher",
+    "name": "trend-researcher",
+    "description": "Research latest UI/UX trends from Dribbble and design communities. Use when starting a design project to understand current visual trends, color palettes, and layout patterns.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/frontend-design-pro/skills/trend-researcher"
+  },
+  {
+    "id": "davepoon-buildwithclaude-moodboard-creator",
+    "name": "moodboard-creator",
+    "description": "Create visual moodboards from collected inspiration with iterative refinement. Use after trend research or website analysis to synthesize design direction before implementation.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/frontend-design-pro/skills/moodboard-creator"
+  },
+  {
+    "id": "davepoon-buildwithclaude-typography-selector",
+    "name": "typography-selector",
+    "description": "Browse and select fonts from Google Fonts or curated pairings. Use to find the perfect typography for a design project.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/frontend-design-pro/skills/typography-selector"
+  },
+  {
+    "id": "davepoon-buildwithclaude-app-router",
+    "name": "app-router",
+    "description": "This skill should be used when the user asks to \"create a Next.js route\", \"add a page\", \"set up layouts\", \"implement loading states\", \"add error boundaries\", \"organize routes\", \"create dynamic routes\", or needs guidance on Next.js App Router file conventions and routing patterns.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/nextjs-expert/skills/app-router"
+  },
+  {
+    "id": "davepoon-buildwithclaude-auth-patterns",
+    "name": "auth-patterns",
+    "description": "This skill should be used when the user asks about \"authentication in Next.js\", \"NextAuth\", \"Auth.js\", \"middleware auth\", \"protected routes\", \"session management\", \"JWT\", \"login flow\", or needs guidance on implementing authentication and authorization in Next.js applications.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/nextjs-expert/skills/auth-patterns"
+  },
+  {
+    "id": "davepoon-buildwithclaude-server-components",
+    "name": "server-components",
+    "description": "This skill should be used when the user asks about \"Server Components\", \"Client Components\", \"'use client' directive\", \"when to use server vs client\", \"RSC patterns\", \"component composition\", \"data fetching in components\", or needs guidance on React Server Components architecture in Next.js.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/nextjs-expert/skills/server-components"
+  },
+  {
+    "id": "davepoon-buildwithclaude-design-wizard",
+    "name": "design-wizard",
+    "description": "Interactive design wizard that guides through a complete frontend design process with discovery, aesthetic selection, and code generation. Use for creating distinctive, production-ready UI.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/frontend-design-pro/skills/design-wizard"
+  },
+  {
+    "id": "chriswiles-claude-code-showcase-core-components",
+    "name": "core-components",
+    "description": "Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2172,
+    "updatedAt": "2026-01-09T06:42:46Z",
+    "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/core-components"
+  },
+  {
+    "id": "chriswiles-claude-code-showcase-formik-patterns",
+    "name": "formik-patterns",
+    "description": "Formik form handling with validation patterns. Use when building forms, implementing validation, or handling form submission.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2172,
+    "updatedAt": "2026-01-09T06:42:46Z",
+    "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/formik-patterns"
+  },
+  {
+    "id": "chriswiles-claude-code-showcase-react-ui-patterns",
+    "name": "react-ui-patterns",
+    "description": "Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2172,
+    "updatedAt": "2026-01-09T06:42:46Z",
+    "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/react-ui-patterns"
+  },
+  {
+    "id": "czlonkowski-n8n-skills-n8n-mcp-tools-expert",
+    "name": "n8n-mcp-tools-expert",
+    "description": "Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, accessing templates, managing workflows, or using any n8n-mcp tool. Provides tool selection guidance, parameter formats, and common patterns.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1373,
+    "updatedAt": "2026-01-09T06:02:50Z",
+    "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-mcp-tools-expert"
+  },
+  {
+    "id": "czlonkowski-n8n-skills-n8n-validation-expert",
+    "name": "n8n-validation-expert",
+    "description": "Interpret validation errors and guide fixing them. Use when encountering validation errors, validation warnings, false positives, operator structure issues, or need help understanding validation results. Also use when asking about validation profiles, error types, or the validation loop process.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1373,
+    "updatedAt": "2026-01-09T06:02:50Z",
+    "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-validation-expert"
+  },
+  {
+    "id": "czlonkowski-n8n-skills-n8n-workflow-patterns",
+    "name": "n8n-workflow-patterns",
+    "description": "Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, designing workflow structure, choosing workflow patterns, planning workflow architecture, or asking about webhook processing, HTTP API integration, database operations, AI agent workflows, or scheduled tasks.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1373,
+    "updatedAt": "2026-01-09T06:02:50Z",
+    "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns"
+  },
+  {
+    "id": "czlonkowski-n8n-skills-n8n-node-configuration",
+    "name": "n8n-node-configuration",
+    "description": "Operation-aware node configuration guidance. Use when configuring nodes, understanding property dependencies, determining required fields, choosing between get_node detail levels, or learning common configuration patterns by node type.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1373,
+    "updatedAt": "2026-01-09T06:02:50Z",
+    "repoUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration"
   }
 ]

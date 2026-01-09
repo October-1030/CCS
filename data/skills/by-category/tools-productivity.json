@@ -1316,5 +1316,155 @@
     "stars": 2943,
     "updatedAt": "2026-01-09T06:31:35Z",
     "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/linux-shell-scripting"
+  },
+  {
+    "id": "davepoon-buildwithclaude-pdf",
+    "name": "pdf",
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/pdf"
+  },
+  {
+    "id": "davepoon-buildwithclaude-file-organizer",
+    "name": "file-organizer",
+    "description": "Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load and keeps your digital workspace tidy without manual effort.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/file-organizer"
+  },
+  {
+    "id": "davepoon-buildwithclaude-developer-growth-analysis",
+    "name": "developer-growth-analysis",
+    "description": "Analyzes your recent Claude Code chat history to identify coding patterns, development gaps, and areas for improvement, curates relevant learning resources from HackerNews, and automatically sends a personalized growth report to your Slack DMs.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/developer-growth-analysis"
+  },
+  {
+    "id": "davepoon-buildwithclaude-image-enhancer",
+    "name": "image-enhancer",
+    "description": "Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documentation, or social media posts.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/image-enhancer"
+  },
+  {
+    "id": "davepoon-buildwithclaude-internal-comms",
+    "name": "internal-comms",
+    "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/internal-comms"
+  },
+  {
+    "id": "davepoon-buildwithclaude-pptx",
+    "name": "pptx",
+    "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/pptx"
+  },
+  {
+    "id": "davepoon-buildwithclaude-docx",
+    "name": "docx",
+    "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/docx"
+  },
+  {
+    "id": "davepoon-buildwithclaude-changelog-generator",
+    "name": "changelog-generator",
+    "description": "Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns hours of manual changelog writing into minutes of automated generation.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/changelog-generator"
+  },
+  {
+    "id": "davepoon-buildwithclaude-content-research-writer",
+    "name": "content-research-writer",
+    "description": "Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section. Transforms your writing process from solo effort to collaborative partnership.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/content-research-writer"
+  },
+  {
+    "id": "davepoon-buildwithclaude-json-canvas",
+    "name": "json-canvas",
+    "description": "Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when working with .canvas files, creating visual canvases, mind maps, flowcharts, or when the user mentions Canvas files in Obsidian.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/json-canvas"
+  },
+  {
+    "id": "davepoon-buildwithclaude-video-downloader",
+    "name": "youtube-downloader",
+    "description": "Download YouTube videos with customizable quality and format options. Use this skill when the user asks to download, save, or grab YouTube videos. Supports various quality settings (best, 1080p, 720p, 480p, 360p), multiple formats (mp4, webm, mkv), and audio-only downloads as MP3.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/video-downloader"
+  },
+  {
+    "id": "davepoon-buildwithclaude-obsidian-markdown",
+    "name": "obsidian-markdown",
+    "description": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/obsidian-markdown"
+  },
+  {
+    "id": "davepoon-buildwithclaude-meeting-insights-analyzer",
+    "name": "meeting-insights-analyzer",
+    "description": "Analyzes meeting transcripts and recordings to uncover behavioral patterns, communication insights, and actionable feedback. Identifies when you avoid conflict, use filler words, dominate conversations, or miss opportunities to listen. Perfect for professionals seeking to improve their communication and leadership skills.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/meeting-insights-analyzer"
+  },
+  {
+    "id": "davepoon-buildwithclaude-invoice-organizer",
+    "name": "invoice-organizer",
+    "description": "Automatically organizes invoices and receipts for tax preparation by reading messy files, extracting key information, renaming them consistently, and sorting them into logical folders. Turns hours of manual bookkeeping into minutes of automated organization.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2150,
+    "updatedAt": "2026-01-09T04:41:20Z",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude/tree/main/plugins/all-skills/skills/invoice-organizer"
+  },
+  {
+    "id": "chriswiles-claude-code-showcase-graphql-schema",
+    "name": "graphql-schema",
+    "description": "GraphQL queries, mutations, and code generation patterns. Use when creating GraphQL operations, working with Apollo Client, or generating types.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2172,
+    "updatedAt": "2026-01-09T06:42:46Z",
+    "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/graphql-schema"
   }
 ]
