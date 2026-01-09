@@ -598,5 +598,45 @@
     "stars": 920,
     "updatedAt": "2026-01-08T21:10:22Z",
     "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/user-story-generator"
+  },
+  {
+    "id": "wshobson-agents-pci-compliance",
+    "name": "pci-compliance",
+    "description": "Implement PCI DSS compliance requirements for secure handling of payment card data and payment systems. Use when securing payment processing, achieving PCI compliance, or implementing payment card security measures.",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/pci-compliance"
+  },
+  {
+    "id": "wshobson-agents-paypal-integration",
+    "name": "paypal-integration",
+    "description": "Integrate PayPal payment processing with support for express checkout, subscriptions, and refund management. Use when implementing PayPal payments, processing online transactions, or building e-commerce checkout flows.",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/paypal-integration"
+  },
+  {
+    "id": "wshobson-agents-billing-automation",
+    "name": "billing-automation",
+    "description": "Build automated billing systems for recurring payments, invoicing, subscription lifecycle, and dunning management. Use when implementing subscription billing, automating invoicing, or managing recurring payment systems.",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/billing-automation"
+  },
+  {
+    "id": "wshobson-agents-stripe-integration",
+    "name": "stripe-integration",
+    "description": "Implement Stripe payment processing for robust, PCI-compliant payment flows including checkout, subscriptions, and webhooks. Use when integrating Stripe payments, building subscription systems, or implementing secure checkout flows.",
+    "category": "business-marketing",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/stripe-integration"
   }
 ]

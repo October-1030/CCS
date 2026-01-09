@@ -578,5 +578,65 @@
     "stars": 920,
     "updatedAt": "2026-01-08T21:10:22Z",
     "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/throughput-calculator"
+  },
+  {
+    "id": "wshobson-agents-bats-testing-patterns",
+    "name": "bats-testing-patterns",
+    "description": "Master Bash Automated Testing System (Bats) for comprehensive shell script testing. Use when writing tests for shell scripts, CI/CD pipelines, or requiring test-driven development of shell utilities.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/shell-scripting/skills/bats-testing-patterns"
+  },
+  {
+    "id": "wshobson-agents-e2e-testing-patterns",
+    "name": "e2e-testing-patterns",
+    "description": "Master end-to-end testing with Playwright and Cypress to build reliable test suites that catch bugs, improve confidence, and enable fast deployment. Use when implementing E2E tests, debugging flaky tests, or establishing testing standards.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/e2e-testing-patterns"
+  },
+  {
+    "id": "wshobson-agents-python-testing-patterns",
+    "name": "python-testing-patterns",
+    "description": "Implement comprehensive testing strategies with pytest, fixtures, mocking, and test-driven development. Use when writing Python tests, setting up test suites, or implementing testing best practices.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-testing-patterns"
+  },
+  {
+    "id": "wshobson-agents-backtesting-frameworks",
+    "name": "backtesting-frameworks",
+    "description": "Build robust backtesting systems for trading strategies with proper handling of look-ahead bias, survivorship bias, and transaction costs. Use when developing trading algorithms, validating strategies, or building backtesting infrastructure.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/quantitative-trading/skills/backtesting-frameworks"
+  },
+  {
+    "id": "wshobson-agents-screen-reader-testing",
+    "name": "screen-reader-testing",
+    "description": "Test web applications with screen readers including VoiceOver, NVDA, and JAWS. Use when validating screen reader compatibility, debugging accessibility issues, or ensuring assistive technology support.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/accessibility-compliance/skills/screen-reader-testing"
+  },
+  {
+    "id": "wshobson-agents-javascript-testing-patterns",
+    "name": "javascript-testing-patterns",
+    "description": "Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, integration tests, and end-to-end testing with mocking, fixtures, and test-driven development. Use when writing JavaScript/TypeScript tests, setting up test infrastructure, or implementing TDD/BDD workflows.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/javascript-testing-patterns"
   }
 ]

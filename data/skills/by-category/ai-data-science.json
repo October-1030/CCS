@@ -1263,5 +1263,85 @@
     "stars": 920,
     "updatedAt": "2026-01-08T21:10:22Z",
     "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/window-function-generator"
+  },
+  {
+    "id": "wshobson-agents-spark-optimization",
+    "name": "spark-optimization",
+    "description": "Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use when improving Spark performance, debugging slow jobs, or scaling data processing pipelines.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/spark-optimization"
+  },
+  {
+    "id": "wshobson-agents-data-storytelling",
+    "name": "data-storytelling",
+    "description": "Transform data into compelling narratives using visualization, context, and persuasive structure. Use when presenting analytics to stakeholders, creating data reports, or building executive presentations.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/business-analytics/skills/data-storytelling"
+  },
+  {
+    "id": "wshobson-agents-airflow-dag-patterns",
+    "name": "airflow-dag-patterns",
+    "description": "Build production Apache Airflow DAGs with best practices for operators, sensors, testing, and deployment. Use when creating data pipelines, orchestrating workflows, or scheduling batch jobs.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/airflow-dag-patterns"
+  },
+  {
+    "id": "wshobson-agents-gdpr-data-handling",
+    "name": "gdpr-data-handling",
+    "description": "Implement GDPR-compliant data handling with consent management, data subject rights, and privacy by design. Use when building systems that process EU personal data, implementing privacy controls, or conducting GDPR compliance reviews.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/hr-legal-compliance/skills/gdpr-data-handling"
+  },
+  {
+    "id": "wshobson-agents-data-quality-frameworks",
+    "name": "data-quality-frameworks",
+    "description": "Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/data-quality-frameworks"
+  },
+  {
+    "id": "wshobson-agents-ml-pipeline-workflow",
+    "name": "ml-pipeline-workflow",
+    "description": "Build end-to-end MLOps pipelines from data preparation through model training, validation, and production deployment. Use when creating ML pipelines, implementing MLOps practices, or automating model training and deployment workflows.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/machine-learning-ops/skills/ml-pipeline-workflow"
+  },
+  {
+    "id": "wshobson-agents-langchain-architecture",
+    "name": "langchain-architecture",
+    "description": "Design LLM applications using the LangChain framework with agents, memory, and tool integration patterns. Use when building LangChain applications, implementing AI agents, or creating complex LLM workflows.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/langchain-architecture"
+  },
+  {
+    "id": "wshobson-agents-dbt-transformation-patterns",
+    "name": "dbt-transformation-patterns",
+    "description": "Master dbt (data build tool) for analytics engineering with model organization, testing, documentation, and incremental strategies. Use when building data transformations, creating data models, or implementing analytics engineering best practices.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/dbt-transformation-patterns"
   }
 ]

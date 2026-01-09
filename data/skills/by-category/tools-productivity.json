@@ -726,5 +726,575 @@
     "stars": 920,
     "updatedAt": "2026-01-08T21:10:22Z",
     "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/user-journey-mapper"
+  },
+  {
+    "id": "wshobson-agents-gitlab-ci-patterns",
+    "name": "gitlab-ci-patterns",
+    "description": "Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalable automation. Use when implementing GitLab CI/CD, optimizing pipeline performance, or setting up automated testing and deployment.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/gitlab-ci-patterns"
+  },
+  {
+    "id": "wshobson-agents-secrets-management",
+    "name": "secrets-management",
+    "description": "Implement secure secrets management for CI/CD pipelines using Vault, AWS Secrets Manager, or native platform solutions. Use when handling sensitive credentials, rotating secrets, or securing CI/CD environments.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/secrets-management"
+  },
+  {
+    "id": "wshobson-agents-llm-evaluation",
+    "name": "llm-evaluation",
+    "description": "Implement comprehensive evaluation strategies for LLM applications using automated metrics, human feedback, and benchmarking. Use when testing LLM performance, measuring AI application quality, or establishing evaluation frameworks.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/llm-evaluation"
+  },
+  {
+    "id": "wshobson-agents-unity-ecs-patterns",
+    "name": "unity-ecs-patterns",
+    "description": "Master Unity ECS (Entity Component System) with DOTS, Jobs, and Burst for high-performance game development. Use when building data-oriented games, optimizing performance, or working with large entity counts.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/game-development/skills/unity-ecs-patterns"
+  },
+  {
+    "id": "wshobson-agents-python-packaging",
+    "name": "python-packaging",
+    "description": "Create distributable Python packages with proper project structure, setup.py/pyproject.toml, and publishing to PyPI. Use when packaging Python libraries, creating CLI tools, or distributing Python code.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-packaging"
+  },
+  {
+    "id": "wshobson-agents-postmortem-writing",
+    "name": "postmortem-writing",
+    "description": "Write effective blameless postmortems with root cause analysis, timelines, and action items. Use when conducting incident reviews, writing postmortem documents, or improving incident response processes.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/incident-response/skills/postmortem-writing"
+  },
+  {
+    "id": "wshobson-agents-gitops-workflow",
+    "name": "gitops-workflow",
+    "description": "Implement GitOps workflows with ArgoCD and Flux for automated, declarative Kubernetes deployments with continuous reconciliation. Use when implementing GitOps practices, automating Kubernetes deployments, or setting up declarative infrastructure management.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/gitops-workflow"
+  },
+  {
+    "id": "wshobson-agents-uv-package-manager",
+    "name": "uv-package-manager",
+    "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/uv-package-manager"
+  },
+  {
+    "id": "wshobson-agents-angular-migration",
+    "name": "angular-migration",
+    "description": "Migrate from AngularJS to Angular using hybrid mode, incremental component rewriting, and dependency injection updates. Use when upgrading AngularJS applications, planning framework migrations, or modernizing legacy Angular code.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/angular-migration"
+  },
+  {
+    "id": "wshobson-agents-turborepo-caching",
+    "name": "turborepo-caching",
+    "description": "Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing distributed caching.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/turborepo-caching"
+  },
+  {
+    "id": "wshobson-agents-dependency-upgrade",
+    "name": "dependency-upgrade",
+    "description": "Manage major dependency version upgrades with compatibility analysis, staged rollout, and comprehensive testing. Use when upgrading framework versions, updating major dependencies, or managing breaking changes in libraries.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/dependency-upgrade"
+  },
+  {
+    "id": "wshobson-agents-rag-implementation",
+    "name": "rag-implementation",
+    "description": "Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and semantic search. Use when implementing knowledge-grounded AI, building document Q&A systems, or integrating LLMs with external knowledge bases.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/rag-implementation"
+  },
+  {
+    "id": "wshobson-agents-rust-async-patterns",
+    "name": "rust-async-patterns",
+    "description": "Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use when building async Rust applications, implementing concurrent systems, or debugging async code.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/systems-programming/skills/rust-async-patterns"
+  },
+  {
+    "id": "wshobson-agents-vector-index-tuning",
+    "name": "vector-index-tuning",
+    "description": "Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, selecting quantization strategies, or scaling vector search infrastructure.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/vector-index-tuning"
+  },
+  {
+    "id": "wshobson-agents-react-modernization",
+    "name": "react-modernization",
+    "description": "Upgrade React applications to latest versions, migrate from class components to hooks, and adopt concurrent features. Use when modernizing React codebases, migrating to React Hooks, or upgrading to latest React versions.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/react-modernization"
+  },
+  {
+    "id": "wshobson-agents-bash-defensive-patterns",
+    "name": "bash-defensive-patterns",
+    "description": "Master defensive Bash programming techniques for production-grade scripts. Use when writing robust shell scripts, CI/CD pipelines, or system utilities requiring fault tolerance and safety.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/shell-scripting/skills/bash-defensive-patterns"
+  },
+  {
+    "id": "wshobson-agents-shellcheck-configuration",
+    "name": "shellcheck-configuration",
+    "description": "Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuring script portability.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/shell-scripting/skills/shellcheck-configuration"
+  },
+  {
+    "id": "wshobson-agents-monorepo-management",
+    "name": "monorepo-management",
+    "description": "Master monorepo management with Turborepo, Nx, and pnpm workspaces to build efficient, scalable multi-package repositories with optimized builds and dependency management. Use when setting up monorepos, optimizing builds, or managing shared dependencies.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/monorepo-management"
+  },
+  {
+    "id": "wshobson-agents-embedding-strategies",
+    "name": "embedding-strategies",
+    "description": "Select and optimize embedding models for semantic search and RAG applications. Use when choosing embedding models, implementing chunking strategies, or optimizing embedding quality for specific domains.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/embedding-strategies"
+  },
+  {
+    "id": "wshobson-agents-github-actions-templates",
+    "name": "github-actions-templates",
+    "description": "Create production-ready GitHub Actions workflows for automated testing, building, and deploying applications. Use when setting up CI/CD with GitHub Actions, automating development workflows, or creating reusable workflow templates.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/github-actions-templates"
+  },
+  {
+    "id": "wshobson-agents-godot-gdscript-patterns",
+    "name": "godot-gdscript-patterns",
+    "description": "Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization. Use when building Godot games, implementing game systems, or learning GDScript best practices.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/game-development/skills/godot-gdscript-patterns"
+  },
+  {
+    "id": "wshobson-agents-async-python-patterns",
+    "name": "async-python-patterns",
+    "description": "Master Python asyncio, concurrent programming, and async/await patterns for high-performance applications. Use when building async APIs, concurrent systems, or I/O-bound applications requiring non-blocking operations.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/async-python-patterns"
+  },
+  {
+    "id": "wshobson-agents-debugging-strategies",
+    "name": "debugging-strategies",
+    "description": "Master systematic debugging techniques, profiling tools, and root cause analysis to efficiently track down bugs across any codebase or technology stack. Use when investigating bugs, performance issues, or unexpected behavior.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/debugging-strategies"
+  },
+  {
+    "id": "wshobson-agents-memory-safety-patterns",
+    "name": "memory-safety-patterns",
+    "description": "Implement memory-safe programming with RAII, ownership, smart pointers, and resource management across Rust, C++, and C. Use when writing safe systems code, managing resources, or preventing memory bugs.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/systems-programming/skills/memory-safety-patterns"
+  },
+  {
+    "id": "wshobson-agents-on-call-handoff-patterns",
+    "name": "on-call-handoff-patterns",
+    "description": "Master on-call shift handoffs with context transfer, escalation procedures, and documentation. Use when transitioning on-call responsibilities, documenting shift summaries, or improving on-call processes.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/incident-response/skills/on-call-handoff-patterns"
+  },
+  {
+    "id": "wshobson-agents-nx-workspace-patterns",
+    "name": "nx-workspace-patterns",
+    "description": "Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/nx-workspace-patterns"
+  },
+  {
+    "id": "wshobson-agents-code-review-excellence",
+    "name": "code-review-excellence",
+    "description": "Master effective code review practices to provide constructive feedback, catch bugs early, and foster knowledge sharing while maintaining team morale. Use when reviewing pull requests, establishing review standards, or mentoring developers.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/code-review-excellence"
+  },
+  {
+    "id": "wshobson-agents-grafana-dashboards",
+    "name": "grafana-dashboards",
+    "description": "Create and manage production Grafana dashboards for real-time visualization of system and application metrics. Use when building monitoring dashboards, visualizing metrics, or creating operational observability interfaces.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/grafana-dashboards"
+  },
+  {
+    "id": "wshobson-agents-slo-implementation",
+    "name": "slo-implementation",
+    "description": "Define and implement Service Level Indicators (SLIs) and Service Level Objectives (SLOs) with error budgets and alerting. Use when establishing reliability targets, implementing SRE practices, or measuring service performance.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/slo-implementation"
+  },
+  {
+    "id": "wshobson-agents-git-advanced-workflows",
+    "name": "git-advanced-workflows",
+    "description": "Master advanced Git workflows including rebasing, cherry-picking, bisect, worktrees, and reflog to maintain clean history and recover from any situation. Use when managing complex Git histories, collaborating on feature branches, or troubleshooting repository issues.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/git-advanced-workflows"
+  },
+  {
+    "id": "wshobson-agents-go-concurrency-patterns",
+    "name": "go-concurrency-patterns",
+    "description": "Master Go concurrency with goroutines, channels, sync primitives, and context. Use when building concurrent Go applications, implementing worker pools, or debugging race conditions.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/systems-programming/skills/go-concurrency-patterns"
+  },
+  {
+    "id": "wshobson-agents-incident-runbook-templates",
+    "name": "incident-runbook-templates",
+    "description": "Create structured incident response runbooks with step-by-step procedures, escalation paths, and recovery actions. Use when building runbooks, responding to incidents, or establishing incident response procedures.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/incident-response/skills/incident-runbook-templates"
+  },
+  {
+    "id": "wshobson-agents-wcag-audit-patterns",
+    "name": "wcag-audit-patterns",
+    "description": "Conduct WCAG 2.2 accessibility audits with automated testing, manual verification, and remediation guidance. Use when auditing websites for accessibility, fixing WCAG violations, or implementing accessible design patterns.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/accessibility-compliance/skills/wcag-audit-patterns"
+  },
+  {
+    "id": "wshobson-agents-helm-chart-scaffolding",
+    "name": "helm-chart-scaffolding",
+    "description": "Design, organize, and manage Helm charts for templating and packaging Kubernetes applications with reusable configurations. Use when creating Helm charts, packaging Kubernetes applications, or implementing templated deployments.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/helm-chart-scaffolding"
+  },
+  {
+    "id": "wshobson-agents-distributed-tracing",
+    "name": "distributed-tracing",
+    "description": "Implement distributed tracing with Jaeger and Tempo to track requests across microservices and identify performance bottlenecks. Use when debugging microservices, analyzing request flows, or implementing observability for distributed systems.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/distributed-tracing"
+  },
+  {
+    "id": "wshobson-agents-error-handling-patterns",
+    "name": "error-handling-patterns",
+    "description": "Master error handling patterns across languages including exceptions, Result types, error propagation, and graceful degradation to build resilient applications. Use when implementing error handling, designing APIs, or improving application reliability.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/error-handling-patterns"
+  },
+  {
+    "id": "wshobson-agents-k8s-manifest-generator",
+    "name": "k8s-manifest-generator",
+    "description": "Create production-ready Kubernetes manifests for Deployments, Services, ConfigMaps, and Secrets following best practices and security standards. Use when generating Kubernetes YAML manifests, creating K8s resources, or implementing production-grade Kubernetes configurations.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/k8s-manifest-generator"
+  },
+  {
+    "id": "wshobson-agents-risk-metrics-calculation",
+    "name": "risk-metrics-calculation",
+    "description": "Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monitoring systems.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/quantitative-trading/skills/risk-metrics-calculation"
+  },
+  {
+    "id": "wshobson-agents-changelog-automation",
+    "name": "changelog-automation",
+    "description": "Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use when setting up release workflows, generating release notes, or standardizing commit conventions.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/changelog-automation"
+  },
+  {
+    "id": "wshobson-agents-similarity-search-patterns",
+    "name": "similarity-search-patterns",
+    "description": "Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/similarity-search-patterns"
+  },
+  {
+    "id": "wshobson-agents-sql-optimization-patterns",
+    "name": "sql-optimization-patterns",
+    "description": "Master SQL query optimization, indexing strategies, and EXPLAIN analysis to dramatically improve database performance and eliminate slow queries. Use when debugging slow queries, designing database schemas, or optimizing application performance.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/sql-optimization-patterns"
+  },
+  {
+    "id": "wshobson-agents-typescript-advanced-types",
+    "name": "typescript-advanced-types",
+    "description": "Master TypeScript's advanced type system including generics, conditional types, mapped types, template literals, and utility types for building type-safe applications. Use when implementing complex type logic, creating reusable type utilities, or ensuring compile-time type safety in TypeScript projects.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/typescript-advanced-types"
+  },
+  {
+    "id": "wshobson-agents-prompt-engineering-patterns",
+    "name": "prompt-engineering-patterns",
+    "description": "Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability in production. Use when optimizing prompts, improving LLM outputs, or designing production prompt templates.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/prompt-engineering-patterns"
+  },
+  {
+    "id": "wshobson-agents-modern-javascript-patterns",
+    "name": "modern-javascript-patterns",
+    "description": "Master ES6+ features including async/await, destructuring, spread operators, arrow functions, promises, modules, iterators, generators, and functional programming patterns for writing clean, efficient JavaScript code. Use when refactoring legacy code, implementing modern patterns, or optimizing JavaScript applications.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/modern-javascript-patterns"
+  },
+  {
+    "id": "wshobson-agents-hybrid-search-implementation",
+    "name": "hybrid-search-implementation",
+    "description": "Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, building search engines, or when neither approach alone provides sufficient recall.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/hybrid-search-implementation"
+  },
+  {
+    "id": "wshobson-agents-prometheus-configuration",
+    "name": "prometheus-configuration",
+    "description": "Set up Prometheus for comprehensive metric collection, storage, and monitoring of infrastructure and applications. Use when implementing metrics collection, setting up monitoring infrastructure, or configuring alerting systems.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/prometheus-configuration"
+  },
+  {
+    "id": "wshobson-agents-employment-contract-templates",
+    "name": "employment-contract-templates",
+    "description": "Create employment contracts, offer letters, and HR policy documents following legal best practices. Use when drafting employment agreements, creating HR policies, or standardizing employment documentation.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/hr-legal-compliance/skills/employment-contract-templates"
+  },
+  {
+    "id": "wshobson-agents-auth-implementation-patterns",
+    "name": "auth-implementation-patterns",
+    "description": "Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC to build secure, scalable access control systems. Use when implementing auth systems, securing APIs, or debugging security issues.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/auth-implementation-patterns"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-docx",
+    "name": "docx",
+    "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/document-skills/docx"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-pptx",
+    "name": "pptx",
+    "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/document-skills/pptx"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-template-skill",
+    "name": "template-skill",
+    "description": "Replace with description of the skill and when Claude should use it.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/template-skill"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-xlsx",
+    "name": "xlsx",
+    "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/document-skills/xlsx"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-internal-comms",
+    "name": "internal-comms",
+    "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/internal-comms"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-slack-gif-creator",
+    "name": "slack-gif-creator",
+    "description": "Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and composable animation primitives. This skill applies when users request animated GIFs or emoji animations for Slack from descriptions like \"make me a GIF for Slack of X doing Y\".",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/slack-gif-creator"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-pdf",
+    "name": "pdf",
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/document-skills/pdf"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-theme-factory",
+    "name": "theme-factory",
+    "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/theme-factory"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-canvas-design",
+    "name": "canvas-design",
+    "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/canvas-design"
   }
 ]

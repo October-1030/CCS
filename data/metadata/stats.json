@@ -1,14 +1,14 @@
 {
-  "totalSkills": 627,
+  "totalSkills": 741,
   "byCategory": {
-    "ai-data-science": 122,
-    "frontend-development": 89,
-    "tools-productivity": 68,
-    "business-marketing": 60,
-    "testing-quality": 58,
-    "backend-development": 77,
-    "specialized": 52,
-    "devops-infrastructure": 101
+    "ai-data-science": 130,
+    "frontend-development": 97,
+    "tools-productivity": 125,
+    "business-marketing": 64,
+    "testing-quality": 64,
+    "backend-development": 91,
+    "specialized": 61,
+    "devops-infrastructure": 109
   },
   "topTags": [
     {
@@ -213,26 +213,26 @@
     }
   ],
   "recentlyUpdated": [
-    "jeremylongshore-claude-code-plugins-plus-skills-alertmanager-rules-config",
-    "jeremylongshore-claude-code-plugins-plus-skills-ansible-playbook-generator",
-    "jeremylongshore-claude-code-plugins-plus-skills-ansible-role-creator",
-    "jeremylongshore-claude-code-plugins-plus-skills-argocd-app-deployer",
-    "jeremylongshore-claude-code-plugins-plus-skills-cert-manager-setup",
-    "jeremylongshore-claude-code-plugins-plus-skills-consul-service-discovery",
-    "jeremylongshore-claude-code-plugins-plus-skills-elasticsearch-index-manager",
-    "jeremylongshore-claude-code-plugins-plus-skills-envoy-proxy-config",
-    "jeremylongshore-claude-code-plugins-plus-skills-fluentd-config-generator",
-    "jeremylongshore-claude-code-plugins-plus-skills-flux-gitops-setup",
-    "jeremylongshore-claude-code-plugins-plus-skills-grafana-dashboard-creator",
-    "jeremylongshore-claude-code-plugins-plus-skills-helm-chart-generator",
-    "jeremylongshore-claude-code-plugins-plus-skills-helm-values-manager",
-    "jeremylongshore-claude-code-plugins-plus-skills-istio-service-mesh-config",
-    "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-configmap-handler",
-    "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-deployment-creator",
-    "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-ingress-config",
-    "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-secrets-manager",
-    "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-service-manager",
-    "jeremylongshore-claude-code-plugins-plus-skills-nginx-ingress-manager"
+    "composiohq-awesome-claude-skills-mcp-builder",
+    "composiohq-awesome-claude-skills-docx",
+    "composiohq-awesome-claude-skills-webapp-testing",
+    "composiohq-awesome-claude-skills-pptx",
+    "composiohq-awesome-claude-skills-template-skill",
+    "composiohq-awesome-claude-skills-skill-creator",
+    "composiohq-awesome-claude-skills-xlsx",
+    "composiohq-awesome-claude-skills-internal-comms",
+    "composiohq-awesome-claude-skills-slack-gif-creator",
+    "composiohq-awesome-claude-skills-artifacts-builder",
+    "composiohq-awesome-claude-skills-pdf",
+    "composiohq-awesome-claude-skills-theme-factory",
+    "composiohq-awesome-claude-skills-canvas-design",
+    "composiohq-awesome-claude-skills-brand-guidelines",
+    "wshobson-agents-postgresql",
+    "wshobson-agents-web3-testing",
+    "wshobson-agents-nft-standards",
+    "wshobson-agents-solidity-security",
+    "wshobson-agents-pci-compliance",
+    "wshobson-agents-fastapi-templates"
   ],
-  "lastSyncTime": "2026-01-08T21:26:52.122Z"
+  "lastSyncTime": "2026-01-09T04:46:21.797Z"
 }

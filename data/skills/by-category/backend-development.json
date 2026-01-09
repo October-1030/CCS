@@ -768,5 +768,145 @@
     "stars": 920,
     "updatedAt": "2026-01-08T21:10:22Z",
     "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/websocket-client-creator"
+  },
+  {
+    "id": "wshobson-agents-postgresql",
+    "name": "postgresql-table-design",
+    "description": "Design a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, and advanced features",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/database-design/skills/postgresql"
+  },
+  {
+    "id": "wshobson-agents-fastapi-templates",
+    "name": "fastapi-templates",
+    "description": "Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensive error handling. Use when building new FastAPI applications or setting up backend API projects.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/api-scaffolding/skills/fastapi-templates"
+  },
+  {
+    "id": "wshobson-agents-database-migration",
+    "name": "database-migration",
+    "description": "Execute database migrations across ORMs and platforms with zero-downtime strategies, data transformation, and rollback procedures. Use when migrating databases, changing schemas, performing data transformations, or implementing zero-downtime deployment strategies.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/database-migration"
+  },
+  {
+    "id": "wshobson-agents-saga-orchestration",
+    "name": "saga-orchestration",
+    "description": "Implement saga patterns for distributed transactions and cross-aggregate workflows. Use when coordinating multi-step business processes, handling compensating transactions, or managing long-running workflows.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/saga-orchestration"
+  },
+  {
+    "id": "wshobson-agents-event-store-design",
+    "name": "event-store-design",
+    "description": "Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/event-store-design"
+  },
+  {
+    "id": "wshobson-agents-cqrs-implementation",
+    "name": "cqrs-implementation",
+    "description": "Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/cqrs-implementation"
+  },
+  {
+    "id": "wshobson-agents-projection-patterns",
+    "name": "projection-patterns",
+    "description": "Build read models and projections from event streams. Use when implementing CQRS read sides, building materialized views, or optimizing query performance in event-sourced systems.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/projection-patterns"
+  },
+  {
+    "id": "wshobson-agents-architecture-patterns",
+    "name": "architecture-patterns",
+    "description": "Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture, and Domain-Driven Design. Use when architecting complex backend systems or refactoring existing applications for better maintainability.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/architecture-patterns"
+  },
+  {
+    "id": "wshobson-agents-api-design-principles",
+    "name": "api-design-principles",
+    "description": "Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers. Use when designing new APIs, reviewing API specifications, or establishing API design standards.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/api-design-principles"
+  },
+  {
+    "id": "wshobson-agents-microservices-patterns",
+    "name": "microservices-patterns",
+    "description": "Design microservices architectures with service boundaries, event-driven communication, and resilience patterns. Use when building distributed systems, decomposing monoliths, or implementing microservices.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/microservices-patterns"
+  },
+  {
+    "id": "wshobson-agents-dotnet-backend-patterns",
+    "name": "dotnet-backend-patterns",
+    "description": "Master C#/.NET backend development patterns for building robust APIs, MCP servers, and enterprise applications. Covers async/await, dependency injection, Entity Framework Core, Dapper, configuration, caching, and testing with xUnit. Use when developing .NET backends, reviewing C# code, or designing API architectures.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/dotnet-contribution/skills/dotnet-backend-patterns"
+  },
+  {
+    "id": "wshobson-agents-temporal-python-testing",
+    "name": "temporal-python-testing",
+    "description": "Test Temporal workflows with pytest, time-skipping, and mocking strategies. Covers unit testing, integration testing, replay testing, and local development setup. Use when implementing Temporal workflow tests or debugging test failures.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/temporal-python-testing"
+  },
+  {
+    "id": "wshobson-agents-nodejs-backend-patterns",
+    "name": "nodejs-backend-patterns",
+    "description": "Build production-ready Node.js backend services with Express/Fastify, implementing middleware patterns, error handling, authentication, database integration, and API design best practices. Use when creating Node.js servers, REST APIs, GraphQL backends, or microservices architectures.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/nodejs-backend-patterns"
+  },
+  {
+    "id": "wshobson-agents-openapi-spec-generation",
+    "name": "openapi-spec-generation",
+    "description": "Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when creating API documentation, generating SDKs, or ensuring API contract compliance.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/openapi-spec-generation"
   }
 ]

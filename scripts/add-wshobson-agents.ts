@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
- * Add skills from ComposioHQ/awesome-claude-skills
- * 27 skills from official Composio repository
+ * Add skills from wshobson/agents
+ * 111 skills from a highly-starred repository
  */
 
 import { config } from "dotenv";
@@ -12,44 +12,44 @@ import matter from "gray-matter";
 
 config({ path: resolve(process.cwd(), ".env.local") });
 
-const OWNER = "ComposioHQ";
-const REPO = "awesome-claude-skills";
+const OWNER = "wshobson";
+const REPO = "agents";
 
-// Category inference based on skill name/path
-function inferCategory(path: string, name: string, description: string): string {
-  const text = `${path} ${name} ${description}`.toLowerCase();
+// Category inference based on plugin path
+function inferCategory(path: string): string {
+  const pathLower = path.toLowerCase();
 
-  if (text.includes("document") || text.includes("docx") || text.includes("pdf") || text.includes("pptx")) {
-    return "tools-productivity";
+  if (pathLower.includes("blockchain") || pathLower.includes("web3") || pathLower.includes("security")) {
+    return "specialized";
   }
-  if (text.includes("frontend") || text.includes("ui") || text.includes("design") || text.includes("react")) {
-    return "frontend-development";
-  }
-  if (text.includes("backend") || text.includes("api") || text.includes("database")) {
+  if (pathLower.includes("database")) {
     return "backend-development";
   }
-  if (text.includes("mcp") || text.includes("builder") || text.includes("tool")) {
-    return "tools-productivity";
+  if (pathLower.includes("payment") || pathLower.includes("ecommerce")) {
+    return "business-marketing";
   }
-  if (text.includes("test") || text.includes("qa")) {
+  if (pathLower.includes("api") || pathLower.includes("backend")) {
+    return "backend-development";
+  }
+  if (pathLower.includes("frontend") || pathLower.includes("ui") || pathLower.includes("design")) {
+    return "frontend-development";
+  }
+  if (pathLower.includes("test") || pathLower.includes("qa")) {
     return "testing-quality";
   }
-  if (text.includes("devops") || text.includes("deploy") || text.includes("infrastructure")) {
+  if (pathLower.includes("devops") || pathLower.includes("deploy") || pathLower.includes("infrastructure")) {
     return "devops-infrastructure";
   }
-  if (text.includes("ai") || text.includes("ml") || text.includes("data")) {
+  if (pathLower.includes("ml") || pathLower.includes("ai") || pathLower.includes("data")) {
     return "ai-data-science";
-  }
-  if (text.includes("business") || text.includes("marketing") || text.includes("invoice")) {
-    return "business-marketing";
   }
 
   return "tools-productivity";
 }
 
-async function addComposioSkills() {
+async function addWshobsonAgents() {
   console.log(`🚀 Adding skills from ${OWNER}/${REPO}...`);
-  console.log(`📦 Repository has 27 SKILL.md files\n`);
+  console.log(`📦 Repository has 111 SKILL.md files\n`);
 
   const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
@@ -78,9 +78,9 @@ async function addComposioSkills() {
   for (const item of searchResults.items) {
     const skillPath = item.path;
 
-    // Extract skill name from path
+    // Extract skill name from path (e.g., "plugins/database-design/skills/postgresql/SKILL.md" -> "postgresql")
     const parts = skillPath.split("/");
-    const skillName = parts.length > 2 ? parts[parts.length - 2] : parts[0];
+    const skillName = parts[parts.length - 2];
 
     const skillId = `${OWNER}-${REPO}-${skillName}`.toLowerCase();
 
@@ -106,14 +106,12 @@ async function addComposioSkills() {
       const { data: frontmatter, content: markdown } = matter(content);
 
       const tags = frontmatter.tags || [];
-      const name = frontmatter.name || skillName;
-      const description = frontmatter.description || "";
-      const category = inferCategory(skillPath, name, description);
+      const category = inferCategory(skillPath);
 
       const skill = {
         id: skillId,
-        name,
-        description,
+        name: frontmatter.name || skillName,
+        description: frontmatter.description || "",
         repo: {
           owner: OWNER,
           name: REPO,
@@ -155,14 +153,20 @@ async function addComposioSkills() {
       existingIds.add(skillId);
 
       addedCount++;
-      console.log(`✅ Added: ${skill.name}`);
+      if (addedCount % 10 === 0) {
+        process.stdout.write(".");
+        console.log(` ${addedCount} skills added`);
+      }
 
-      // Rate limiting
+      // Rate limiting - be respectful
       await new Promise(resolve => setTimeout(resolve, 700));
 
     } catch (error: any) {
       errorCount++;
-      console.log(`❌ Error with ${skillName}: ${error.message}`);
+      if (error.status === 403) {
+        console.log(`\n⚠️  Rate limit hit, waiting 60 seconds...`);
+        await new Promise(resolve => setTimeout(resolve, 60000));
+      }
     }
   }
 
@@ -172,11 +176,11 @@ async function addComposioSkills() {
   writeFileSync(indexPath, JSON.stringify(indexData, null, 2));
   writeFileSync(fullPath, JSON.stringify(fullData, null, 2));
 
-  console.log(`\n\n✅ ComposioHQ Complete!`);
+  console.log(`\n\n✅ wshobson/agents Complete!`);
   console.log(`➕ Added: ${addedCount} new skills`);
   console.log(`⏭️  Skipped: ${skippedCount} existing`);
   console.log(`❌ Errors: ${errorCount}`);
   console.log(`📊 Total: ${indexData.totalSkills} skills`);
 }
 
-addComposioSkills();
+addWshobsonAgents();

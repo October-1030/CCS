@@ -948,5 +948,85 @@
     "stars": 918,
     "updatedAt": "2026-01-08T17:44:17Z",
     "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/fastapi-router-creator"
+  },
+  {
+    "id": "wshobson-agents-kpi-dashboard-design",
+    "name": "kpi-dashboard-design",
+    "description": "Design effective KPI dashboards with metrics selection, visualization best practices, and real-time monitoring patterns. Use when building business dashboards, selecting metrics, or designing data visualization layouts.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/business-analytics/skills/kpi-dashboard-design"
+  },
+  {
+    "id": "wshobson-agents-deployment-pipeline-design",
+    "name": "deployment-pipeline-design",
+    "description": "Design multi-stage CI/CD pipelines with approval gates, security checks, and deployment orchestration. Use when architecting deployment workflows, setting up continuous delivery, or implementing GitOps practices.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/deployment-pipeline-design"
+  },
+  {
+    "id": "wshobson-agents-bazel-build-optimization",
+    "name": "bazel-build-optimization",
+    "description": "Optimize Bazel builds for large-scale monorepos. Use when configuring Bazel, implementing remote execution, or optimizing build performance for enterprise codebases.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/bazel-build-optimization"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-mcp-builder",
+    "name": "mcp-builder",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/mcp-builder"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-webapp-testing",
+    "name": "webapp-testing",
+    "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/webapp-testing"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/skill-creator"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-artifacts-builder",
+    "name": "artifacts-builder",
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/artifacts-builder"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-brand-guidelines",
+    "name": "brand-guidelines",
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16387,
+    "updatedAt": "2026-01-08T23:38:27Z",
+    "repoUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/brand-guidelines"
   }
 ]

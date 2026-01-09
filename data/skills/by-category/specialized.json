@@ -518,5 +518,95 @@
     "stars": 920,
     "updatedAt": "2026-01-08T21:10:22Z",
     "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/zero-trust-config-helper"
+  },
+  {
+    "id": "wshobson-agents-web3-testing",
+    "name": "web3-testing",
+    "description": "Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forking. Use when testing Solidity contracts, setting up blockchain test suites, or validating DeFi protocols.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/web3-testing"
+  },
+  {
+    "id": "wshobson-agents-nft-standards",
+    "name": "nft-standards",
+    "description": "Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementing digital asset systems.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/nft-standards"
+  },
+  {
+    "id": "wshobson-agents-solidity-security",
+    "name": "solidity-security",
+    "description": "Master smart contract security best practices to prevent common vulnerabilities and implement secure Solidity patterns. Use when writing smart contracts, auditing existing contracts, or implementing security measures for blockchain applications.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/solidity-security"
+  },
+  {
+    "id": "wshobson-agents-sast-configuration",
+    "name": "sast-configuration",
+    "description": "Configure Static Application Security Testing (SAST) tools for automated vulnerability detection in application code. Use when setting up security scanning, implementing DevSecOps practices, or automating code vulnerability detection.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/sast-configuration"
+  },
+  {
+    "id": "wshobson-agents-defi-protocol-templates",
+    "name": "defi-protocol-templates",
+    "description": "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/defi-protocol-templates"
+  },
+  {
+    "id": "wshobson-agents-stride-analysis-patterns",
+    "name": "stride-analysis-patterns",
+    "description": "Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, conducting threat modeling sessions, or creating security documentation.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/stride-analysis-patterns"
+  },
+  {
+    "id": "wshobson-agents-attack-tree-construction",
+    "name": "attack-tree-construction",
+    "description": "Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/attack-tree-construction"
+  },
+  {
+    "id": "wshobson-agents-threat-mitigation-mapping",
+    "name": "threat-mitigation-mapping",
+    "description": "Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/threat-mitigation-mapping"
+  },
+  {
+    "id": "wshobson-agents-k8s-security-policies",
+    "name": "k8s-security-policies",
+    "description": "Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolicy, and RBAC for production-grade security. Use when securing Kubernetes clusters, implementing network isolation, or enforcing pod security standards.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/k8s-security-policies"
   }
 ]
