@@ -1387,5 +1387,150 @@
     "stars": 1,
     "updatedAt": "2026-01-09T17:01:48Z",
     "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/llm-application-dev/skills/vector-index-tuning"
+  },
+  {
+    "id": "korjavin-claude-common-skills-portainer-deploy",
+    "name": "portainer-deploy",
+    "description": "Setup automated deployment with GitHub Actions, ghcr.io, and Portainer webhooks. Supports Traefik reverse proxy and multi-service Docker Compose. Use when user wants to setup CI/CD, deployment, or Portainer integration.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:15:16Z",
+    "repoUrl": "https://github.com/korjavin/claude-common-skills/tree/main/skills/portainer-deploy"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-github-pages-skill",
+    "name": "GithubPages",
+    "description": "Complete GitHub Pages deployment and management system. Static site hosting with Jekyll, custom domains, and GitHub Actions. USE WHEN user mentions 'github pages', 'deploy static site', 'host website on github', 'jekyll site', 'custom domain for github', OR wants to publish a website from a repository.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/github-pages-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-argo-rollouts-skill",
+    "name": "ArgoRollouts",
+    "description": "Argo Rollouts progressive delivery controller for Kubernetes. USE WHEN user mentions rollouts, canary deployments, blue-green deployments, progressive delivery, traffic shifting, analysis templates, or Argo Rollouts. Provides deployment strategies, CLI commands, metrics analysis, and YAML examples.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/argo-rollouts-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-opentelemetry-skill",
+    "name": "opentelemetry",
+    "description": "Implement OpenTelemetry (OTEL) observability - Collector configuration, Kubernetes deployment, traces/metrics/logs pipelines, instrumentation, and troubleshooting. Use when working with OTEL Collector, telemetry pipelines, observability infrastructure, or Kubernetes monitoring.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/opentelemetry-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-managing-infra-skill",
+    "name": "managing-infra",
+    "description": "Infrastructure patterns for Kubernetes, Terraform, Helm, Kustomize, and GitHub Actions. Use when making K8s architectural decisions, choosing between Helm vs Kustomize, structuring Terraform modules, writing CI/CD workflows, or applying security best practices.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/managing-infra-skill"
+  },
+  {
+    "id": "dnyoussef-context-cascade-deployment-readiness",
+    "name": "deployment-readiness",
+    "description": "Verify service readiness before deployment with explicit go/no-go gates",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/operations/deployment-readiness"
+  },
+  {
+    "id": "aiskillstore-marketplace-writing-skills",
+    "name": "writing-skills",
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/obra/writing-skills"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-btp-connectivity",
+    "name": "sap-btp-connectivity",
+    "description": "This skill provides comprehensive knowledge for SAP BTP Connectivity, including the Destination Service, Connectivity Service, Cloud Connector, Connectivity Proxy, and Transparent Proxy for Kubernetes. It should be used when configuring destinations, setting up cloud-to-on-premise connectivity, implementing principal propagation, deploying connectivity proxies in Kubernetes/Kyma environments, or troubleshooting connectivity issues.\n\nUse this skill when:\n- Creating or configuring SAP BTP destinations (HTTP, RFC, LDAP, MAIL, TCP)\n- Setting up Cloud Connector for on-premise connectivity\n- Implementing OAuth authentication flows for destinations\n- Configuring principal propagation or user propagation\n- Deploying Connectivity Proxy or Transparent Proxy in Kubernetes\n- Troubleshooting connectivity errors (405, 407, 503)\n- Setting up high availability for Cloud Connector\n- Configuring multitenancy for destinations\n\nKeywords: SAP BTP, Connectivity, Destination Service, Cloud Connector, Connectivity Proxy, Transparent Proxy, Kyma, Kubernetes, OAuth, Principal Propagation, RFC, LDAP, on-premise, hybrid connectivity, service channels, SOCKS5, reverse proxy, tunnel\n",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-connectivity/skills/sap-btp-connectivity"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ios-ml",
+    "name": "axiom-ios-ml",
+    "description": "Use when deploying ANY machine learning model on-device, converting models to CoreML, compressing models, or implementing speech-to-text. Covers CoreML conversion, MLTensor, model compression (quantization/palettization/pruning), stateful models, KV-cache, multi-function models, async prediction, SpeechAnalyzer, SpeechTranscriber.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-ml"
+  },
+  {
+    "id": "charleswiltgen-axiom-coreml",
+    "name": "coreml",
+    "description": "Use when deploying custom ML models on-device, converting PyTorch models, compressing models, implementing LLM inference, or optimizing CoreML performance. Covers model conversion, compression, stateful models, KV-cache, multi-function models, MLTensor.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-ml/coreml"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-edge-computing-patterns",
+    "name": "edge-computing-patterns",
+    "description": "Use when deploying to Cloudflare Workers, Vercel Edge, or Deno Deploy. Covers edge middleware, streaming, runtime constraints, and globally distributed low-latency patterns.",
+    "category": "devops-infrastructure",
+    "tags": [
+      "edge",
+      "cloudflare",
+      "vercel",
+      "deno",
+      "serverless",
+      2025
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/edge-computing-patterns"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-langfuse-observability",
+    "name": "langfuse-observability",
+    "description": "Use when adding observability to LLM applications with Langfuse. Covers tracing, evaluation, prompt management, and cost tracking for self-hosted deployments.",
+    "category": "devops-infrastructure",
+    "tags": [
+      "langfuse",
+      "llm",
+      "observability",
+      "tracing",
+      "evaluation",
+      "prompts",
+      2025
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/langfuse-observability"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-devops-deployment",
+    "name": "DevOps & Deployment",
+    "description": "Use when setting up CI/CD pipelines, containerizing applications, deploying to Kubernetes, or writing infrastructure as code. Covers GitHub Actions, Docker, Helm, and Terraform patterns.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/devops-deployment"
   }
 ]

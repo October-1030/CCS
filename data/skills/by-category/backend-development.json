@@ -1582,5 +1582,555 @@
     "stars": 0,
     "updatedAt": "2026-01-09T16:55:30Z",
     "repoUrl": "https://github.com/akashaali98/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking"
+  },
+  {
+    "id": "overdrive-consulting-overdrive-ai-devkit-debug",
+    "name": "debug",
+    "description": "Debug issues by investigating logs, database state, and git history",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T17:51:40Z",
+    "repoUrl": "https://github.com/Overdrive-Consulting/overdrive-ai-devkit/tree/main/skills/debug"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-sentry-skill",
+    "name": "sentry-skill",
+    "description": "Comprehensive skill for Sentry error monitoring and performance tracking. Use when Claude needs to (1) Configure Sentry SDKs for error tracking and performance monitoring, (2) Manage releases, source maps, and debug symbols via CLI, (3) Query issues, events, and metrics via API, (4) Set up alerting and notification rules, (5) Configure sampling strategies and quota management, (6) Deploy self-hosted Sentry instances, (7) Integrate with OpenTelemetry for distributed tracing, or any other Sentry automation task.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/sentry-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-knative-skill",
+    "name": "knative",
+    "description": "Knative serverless platform for Kubernetes. Use when deploying serverless workloads, configuring autoscaling (scale-to-zero), event-driven architectures, traffic management (blue-green, canary), CloudEvents routing, Brokers/Triggers/Sources, or working with Knative Serving/Eventing/Functions. Covers installation, networking (Kourier/Istio/Contour), and troubleshooting.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/knative-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-grafana-skill",
+    "name": "grafana-http-api",
+    "description": "Comprehensive skill for interacting with Grafana's HTTP API to manage dashboards, data sources, folders, alerting, annotations, users, teams, and organizations. Use when Claude needs to (1) Create, read, update, or delete Grafana dashboards, (2) Manage data sources and connections, (3) Configure alerting rules, contact points, and notification policies, (4) Work with folders and permissions, (5) Manage users, teams, and service accounts, (6) Create or query annotations, (7) Execute queries against data sources, or any other Grafana automation task via API.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/grafana-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-zabbix-api-skill",
+    "name": "zabbix",
+    "description": "Zabbix monitoring system automation via API and Python. Use when: (1) Managing hosts, templates, items, triggers, or host groups, (2) Automating monitoring configuration, (3) Sending data via Zabbix trapper/sender, (4) Querying historical data or events, (5) Bulk operations on Zabbix objects, (6) Maintenance window management, (7) User/permission management",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/zabbix-api-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-prometheus-skill",
+    "name": "prometheus-api",
+    "description": "Query and interact with Prometheus HTTP API for monitoring data. Use when Claude needs to query Prometheus metrics, execute PromQL queries, retrieve targets/alerts/rules status, access metadata about series/labels, manage TSDB operations, or troubleshoot monitoring infrastructure. Supports instant queries, range queries, metadata endpoints, admin APIs, and alerting information.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/prometheus-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-senhasegura-skill",
+    "name": "senhasegura-skill",
+    "description": "Comprehensive senhasegura PAM platform skill for secrets management, credential vaulting, SSH key rotation, and DevOps secrets integration. Use when working with senhasegura A2A APIs, DSM CLI, MySafe, credential management, password rotation, External Secrets Operator integration, or any senhasegura PAM operations.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/senhasegura-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-azure-devops-skill",
+    "name": "azure-devops-skill",
+    "description": "Comprehensive Azure DevOps REST API skill for work items, pipelines, repos, test plans, wikis, and search operations via MCP tools and direct API calls",
+    "category": "backend-development",
+    "tags": [
+      "azure-devops",
+      "rest-api",
+      "devops",
+      "work-items",
+      "pipelines",
+      "git",
+      "testing",
+      "wikis"
+    ],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/azure-devops-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-obsidian-bases-skill",
+    "name": "obsidian-bases",
+    "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/obsidian-bases-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-looking-up-docs-skill",
+    "name": "looking-up-docs",
+    "description": "Look up library documentation using Context7. Use when needing API reference, library docs, framework documentation, or technical documentation lookup. Provides up-to-date, version-specific docs and code examples.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/looking-up-docs-skill"
+  },
+  {
+    "id": "lennetech-claude-code-using-lt-cli",
+    "name": "using-lt-cli",
+    "description": "Expert for lenne.tech CLI (lt command). ALWAYS activate when user mentions \"lt\", \"lt CLI\", \"lenne.tech CLI\", fullstack workspace, local templates, or any lt command. Provides comprehensive reference for all lt CLI features including fullstack init, git workflows, server creation, and advanced options. Works alongside generating-nest-servers for NestJS development tasks.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:46:10Z",
+    "repoUrl": "https://github.com/lenneTech/claude-code/tree/main/plugins/lt-dev/skills/using-lt-cli"
+  },
+  {
+    "id": "lennetech-claude-code-generating-nest-servers",
+    "name": "generating-nest-servers",
+    "description": "PRIMARY expert for ALL NestJS and @lenne.tech/nest-server tasks. ALWAYS use this skill when working in projects with @lenne.tech/nest-server in package.json dependencies (supports monorepos with projects/*, packages/*, apps/* structure), or when asked about NestJS modules, services, controllers, resolvers, models, objects, tests, server creation, debugging, or any NestJS/nest-server development task. Handles lt server commands, security analysis, test creation, and all backend development. ALWAYS reads CrudService base class before working with Services.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:46:10Z",
+    "repoUrl": "https://github.com/lenneTech/claude-code/tree/main/plugins/lt-dev/skills/generating-nest-servers"
+  },
+  {
+    "id": "mucho-g-pi-skills-transcribe",
+    "name": "transcribe",
+    "description": "Speech-to-text transcription using Groq Whisper API. Supports m4a, mp3, wav, ogg, flac, webm.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:18:54Z",
+    "repoUrl": "https://github.com/Mucho-G/pi-skills/tree/main/transcribe"
+  },
+  {
+    "id": "dnyoussef-context-cascade-micro-skill-creator",
+    "name": "micro-skill-creator",
+    "description": "Rapidly craft atomic, single-purpose skills with tight contracts, examples, and validation so they can be composed safely.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/foundry/micro-skill-creator"
+  },
+  {
+    "id": "dnyoussef-context-cascade-pilot-2-api-helper",
+    "name": "pilot-2-api-helper",
+    "description": "Generate boilerplate code for REST API integrations with authentication, error handling, and retry logic",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/foundry/skill-forge/pilots/pilot-2-api-helper/V0-SKILL.md"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-cloud-signup",
+    "name": "cloud-signup",
+    "description": "Create PopKit Cloud account, generate API key, and configure local connection",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-cloud-signup"
+  },
+  {
+    "id": "aiskillstore-marketplace-polars",
+    "name": "polars",
+    "description": "Fast DataFrame library (Apache Arrow). Select, filter, group_by, joins, lazy evaluation, CSV/Parquet I/O, expression API, for high-performance data analysis workflows.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/polars"
+  },
+  {
+    "id": "aiskillstore-marketplace-payload",
+    "name": "payload",
+    "description": "Use when working with Payload CMS projects (payload.config.ts, collections, fields, hooks, access control, Payload API). Use when debugging validation errors, security issues, relationship queries, transactions, or hook behavior.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/payloadcms/payload"
+  },
+  {
+    "id": "glebis-claude-skills-zoom",
+    "name": "zoom",
+    "description": "Create and manage Zoom meetings and access cloud recordings via the Zoom API. Use for queries like \"create a Zoom meeting\", \"list my Zoom meetings\", \"show my Zoom recordings\", or \"schedule a meeting for tomorrow\".",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/zoom"
+  },
+  {
+    "id": "glebis-claude-skills-fathom",
+    "name": "fathom",
+    "description": "Fetch meetings, transcripts, summaries, and action items from Fathom API. Use when user asks to get Fathom recordings, sync meeting transcripts, or fetch recent calls.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/fathom"
+  },
+  {
+    "id": "glebis-claude-skills-health-data",
+    "name": "health-data",
+    "description": "Query Apple Health SQLite database for vitals, activity, sleep, and workouts. Supports Markdown, JSON, and FHIR R4 output formats. This skill should be used when analyzing health metrics, generating health reports, answering questions about fitness or sleep patterns, or exporting health data in standard formats.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/health-data"
+  },
+  {
+    "id": "glebis-claude-skills-deep-research",
+    "name": "deep-research",
+    "description": "This skill should be used when conducting comprehensive research on any topic using the OpenAI Deep Research API. It automates prompt enhancement through interactive clarifying questions, saves research parameters, and executes deep research with web search capabilities. Use when the user asks for in-depth analysis, investigation, research summaries, or topic exploration.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/deep-research"
+  },
+  {
+    "id": "glebis-claude-skills-elevenlabs-tts",
+    "name": "elevenlabs-tts",
+    "description": "This skill converts text to high-quality audio files using ElevenLabs API. Use this skill when users request text-to-speech generation, audio narration, or voice synthesis with customizable voice parameters (stability, similarity boost) and voice presets (rachel, adam, bella, elli, josh, arnold, ava).",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/elevenlabs-tts"
+  },
+  {
+    "id": "glebis-claude-skills-google-image-search",
+    "name": "google-image-search",
+    "description": "Search and download images via Google Custom Search API with LLM-powered selection. This skill should be used when finding images for articles, presentations, research documents, or enriching Obsidian notes with relevant visuals. Supports simple queries, batch processing from JSON config, automatic config generation from terms, and full note enrichment with automatic image insertion below headings.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/google-image-search"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-hana-cli",
+    "name": "sap-hana-cli",
+    "description": "Assists with SAP HANA Developer CLI (hana-cli) for database development and administration.\nUse when: installing hana-cli, connecting to SAP HANA databases, inspecting database objects\n(tables, views, procedures, functions), managing HDI containers, executing SQL queries,\nconverting metadata to CDS/EDMX/OpenAPI formats, managing SAP HANA Cloud instances,\nworking with BTP CLI integration, or troubleshooting hana-cli commands.\nCovers: 91 commands, 17+ output formats, HDI container management, cloud operations.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-hana-cli/skills/sap-hana-cli"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-btp-master-data-integration",
+    "name": "sap-btp-master-data-integration",
+    "description": "Configures and integrates SAP Master Data Integration (MDI) service on SAP Business Technology Platform. Use when setting up MDI tenants, connecting applications (S/4HANA, SuccessFactors, Ariba, Fieldglass, etc.), configuring distribution models, SOAP APIs for business partners, extensibility, or troubleshooting master data replication. Covers One Domain Model integration, Business Data Orchestration, client authentication (OAuth2, mTLS), and security configurations.\n",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-master-data-integration/skills/sap-btp-master-data-integration"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ios-data",
+    "name": "axiom-ios-data",
+    "description": "Use when working with ANY data persistence, database, axiom-storage, CloudKit, migration, or serialization. Covers SwiftData, Core Data, GRDB, SQLite, CloudKit sync, file storage, Codable, migrations.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-data"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-storage-management-ref",
+    "name": "axiom-storage-management-ref",
+    "description": "Use when asking about 'purge files', 'storage pressure', 'disk space iOS', 'isExcludedFromBackup', 'URL resource values', 'volumeAvailableCapacity', 'low storage', 'file purging priority', 'cache management' - comprehensive reference for iOS storage management and URL resource value APIs",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-storage-management-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-sqlitedata",
+    "name": "axiom-sqlitedata",
+    "description": "SQLiteData queries, @Table models, Point-Free SQLite, RETURNING clause, FTS5 full-text search, CloudKit sync, CTEs, JSON aggregation, @DatabaseFunction",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-sqlitedata"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-extensions-widgets-ref",
+    "name": "axiom-extensions-widgets-ref",
+    "description": "Use when implementing widgets, Live Activities, Control Center controls, or app extensions - comprehensive API reference for WidgetKit, ActivityKit, App Groups, and extension lifecycle for iOS 14+",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-extensions-widgets-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-cloudkit-ref",
+    "name": "axiom-cloudkit-ref",
+    "description": "Use when implementing 'CloudKit sync', 'CKSyncEngine', 'CKRecord', 'CKDatabase', 'SwiftData CloudKit', 'shared database', 'public database', 'CloudKit zones', 'conflict resolution' - comprehensive CloudKit database APIs and modern sync patterns reference",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-cloudkit-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-file-protection-ref",
+    "name": "axiom-file-protection-ref",
+    "description": "Use when asking about 'FileProtectionType', 'file encryption iOS', 'NSFileProtection', 'data protection', 'secure file storage', 'encrypt files at rest', 'complete protection', 'file security' - comprehensive reference for iOS file encryption and data protection APIs",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-file-protection-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-coreml-ref",
+    "name": "coreml-ref",
+    "description": "CoreML API reference - MLModel lifecycle, MLTensor operations, coremltools conversion, compression APIs, state management, compute device availability, performance profiling.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-ml/coreml-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-camera-capture-ref",
+    "name": "axiom-camera-capture-ref",
+    "description": "Reference — AVCaptureSession, AVCapturePhotoSettings, AVCapturePhotoOutput, RotationCoordinator, photoQualityPrioritization, deferred processing, AVCaptureMovieFileOutput, session presets, capture device APIs",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-camera-capture-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-energy-ref",
+    "name": "axiom-energy-ref",
+    "description": "Complete energy optimization API reference - Power Profiler workflows, timer/network/location/background APIs, iOS 26 BGContinuedProcessingTask, MetricKit monitoring, with all WWDC code examples",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-energy-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-app-shortcuts-ref",
+    "name": "axiom-app-shortcuts-ref",
+    "description": "Use when implementing App Shortcuts for instant Siri/Spotlight availability, configuring AppShortcutsProvider, adding suggested phrases, or debugging shortcuts not appearing - covers complete App Shortcuts API for iOS 16+",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-app-shortcuts-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-database-migration",
+    "name": "axiom-database-migration",
+    "description": "Use when adding/modifying database columns, encountering \"FOREIGN KEY constraint failed\", \"no such column\", \"cannot add NOT NULL column\" errors, or creating schema migrations for SQLite/GRDB/SQLiteData - prevents data loss with safe migration patterns and testing workflows for iOS/macOS apps",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-database-migration"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-apple-docs-research",
+    "name": "axiom-apple-docs-research",
+    "description": "Use when researching Apple frameworks, APIs, or WWDC sessions - provides techniques for retrieving full transcripts, code samples, and documentation using Chrome browser and sosumi.ai",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-apple-docs-research"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-background-processing-ref",
+    "name": "axiom-background-processing-ref",
+    "description": "Complete background task API reference - BGTaskScheduler, BGAppRefreshTask, BGProcessingTask, BGContinuedProcessingTask (iOS 26), beginBackgroundTask, background URLSession, with all WWDC code examples",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-background-processing-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-avfoundation-ref",
+    "name": "axiom-avfoundation-ref",
+    "description": "Reference — AVFoundation audio APIs, AVAudioSession categories/modes, AVAudioEngine pipelines, bit-perfect DAC output, iOS 26+ spatial audio capture, ASAF/APAC, Audio Mix with Cinematic framework",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-avfoundation-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-networking",
+    "name": "axiom-networking",
+    "description": "Use when implementing Network.framework connections, debugging connection failures, migrating from sockets/URLSession streams, or adopting structured concurrency networking patterns - prevents deprecated API usage, reachability anti-patterns, and thread-safety violations with iOS 12-26+ APIs",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-networking"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-core-location-ref",
+    "name": "axiom-core-location-ref",
+    "description": "Use for Core Location API reference - CLLocationUpdate, CLMonitor, CLServiceSession, authorization, background location, geofencing",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-core-location-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ios-networking",
+    "name": "axiom-ios-networking",
+    "description": "Use when implementing or debugging ANY network connection, API call, or socket. Covers URLSession, Network.framework, NetworkConnection, deprecated APIs, connection diagnostics, structured concurrency networking.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-networking"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-llm-streaming",
+    "name": "llm-streaming",
+    "description": "LLM streaming response patterns. Use when implementing real-time token streaming, Server-Sent Events for AI responses, or streaming with tool calls.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/llm-streaming"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-integration-testing",
+    "name": "integration-testing",
+    "description": "Integration testing patterns for APIs and components. Use when testing component interactions, API endpoints with test databases, or service layer integration.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/integration-testing"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-type-safety-validation",
+    "name": "type-safety-validation",
+    "description": "Use when adding runtime validation, type-safe APIs, or end-to-end TypeScript safety. Covers Zod schemas, tRPC, Prisma, and exhaustive type checking patterns.",
+    "category": "backend-development",
+    "tags": [
+      "typescript",
+      "zod",
+      "trpc",
+      "prisma",
+      "type-safety",
+      "validation",
+      "exhaustive-types",
+      "branded-types",
+      2025
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/type-safety-validation"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-vcr-http-recording",
+    "name": "vcr-http-recording",
+    "description": "VCR.py HTTP recording for Python tests. Use when testing Python code making HTTP requests, recording API responses for replay, or creating deterministic tests for external services.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/vcr-http-recording"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-rate-limiting",
+    "name": "rate-limiting",
+    "description": "API rate limiting with token bucket, sliding window, and Redis distributed patterns. Use when protecting APIs from abuse, implementing tiered limits, or scaling rate limiting across instances.",
+    "category": "backend-development",
+    "tags": [
+      "rate-limiting",
+      "redis",
+      "token-bucket",
+      "fastapi",
+      "security",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/rate-limiting"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-caching-strategies",
+    "name": "caching-strategies",
+    "description": "Backend caching patterns with Redis including write-through, write-behind, cache-aside, and invalidation strategies. Use when optimizing read performance or reducing database load.",
+    "category": "backend-development",
+    "tags": [
+      "caching",
+      "redis",
+      "performance",
+      "fastapi",
+      "python",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/caching-strategies"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-error-handling-rfc9457",
+    "name": "error-handling-rfc9457",
+    "description": "Structured error responses using RFC 9457 Problem Details for HTTP APIs. Use when standardizing error responses, implementing error registries, or improving API error handling.",
+    "category": "backend-development",
+    "tags": [
+      "error-handling",
+      "rfc9457",
+      "problem-details",
+      "fastapi",
+      "api",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/error-handling-rfc9457"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-test-data-management",
+    "name": "test-data-management",
+    "description": "Test data management with fixtures and factories. Use when creating test data strategies, implementing data factories, managing fixtures, or seeding test databases.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/test-data-management"
   }
 ]

@@ -688,5 +688,81 @@
     "stars": 244,
     "updatedAt": "2026-01-09T16:42:41Z",
     "repoUrl": "https://github.com/disler/claude-code-damage-control/tree/main/.claude/skills/damage-control"
+  },
+  {
+    "id": "dnyoussef-context-cascade-holistic-evaluation",
+    "name": "holistic-evaluation",
+    "description": "Deliver a 360° evaluation of a codebase or feature, blending architecture, correctness, performance, security, and UX signals.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/quality/holistic-evaluation"
+  },
+  {
+    "id": "dnyoussef-context-cascade-reverse-engineering-deep",
+    "name": "reverse-engineering-deep",
+    "description": "Advanced reverse engineering with dynamic tracing, memory inspection, and symbolic execution for complex binaries.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/security/reverse-engineering-deep"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-assessment-security",
+    "name": "pop-assessment-security",
+    "description": "Validates PopKit security posture using concrete vulnerability patterns, automated secret scanning, and OWASP-aligned checklists",
+    "category": "specialized",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-ops/skills/pop-assessment-security"
+  },
+  {
+    "id": "aiskillstore-marketplace-find-bugs",
+    "name": "find-bugs",
+    "description": "Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/find-bugs"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-auth-patterns",
+    "name": "auth-patterns",
+    "description": "Authentication and authorization patterns. Use when implementing login flows, JWT tokens, session management, password security, OAuth 2.1, Passkeys/WebAuthn, or role-based access control.",
+    "category": "specialized",
+    "tags": [
+      "security",
+      "authentication",
+      "oauth",
+      "passkeys",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/auth-patterns"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-owasp-top-10",
+    "name": "owasp-top-10",
+    "description": "OWASP Top 10 security vulnerabilities and mitigations. Use when conducting security audits, implementing security controls, or reviewing code for common vulnerabilities.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/owasp-top-10"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-security-scanning",
+    "name": "security-scanning",
+    "description": "Automated security scanning for dependencies and code. Use when running npm audit, pip-audit, Semgrep, secret detection, or integrating security checks into CI/CD.",
+    "category": "specialized",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/security-scanning"
   }
 ]

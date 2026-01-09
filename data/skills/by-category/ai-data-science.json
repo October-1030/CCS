@@ -3334,5 +3334,1133 @@
     "stars": 7,
     "updatedAt": "2026-01-09T16:49:10Z",
     "repoUrl": "https://github.com/shajith003/awesome-claude-skills/tree/main/slack-gif-creator"
+  },
+  {
+    "id": "everyone-needs-a-copilot-claude-copilot-frontmatter-validation",
+    "name": "frontmatter-validation",
+    "description": "Validate and fix YAML frontmatter in markdown documentation",
+    "category": "ai-data-science",
+    "tags": [
+      "frontmatter",
+      "yaml",
+      "documentation",
+      "validation",
+      "metadata",
+      "shared-docs"
+    ],
+    "stars": 5,
+    "updatedAt": "2026-01-09T18:16:01Z",
+    "repoUrl": "https://github.com/Everyone-Needs-A-Copilot/claude-copilot/tree/main/templates/skills/frontmatter-validation"
+  },
+  {
+    "id": "avalidurl-aisync-skill-skill",
+    "name": "aisync",
+    "description": "Sync AI coding sessions (Claude Code, Codex CLI, Cursor) to Obsidian vault as markdown notes. Use when user wants to backup, export, or sync their AI chat sessions to Obsidian, set up automatic syncing via launchd, check sync status, or troubleshoot sync issues. Handles secret redaction automatically.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:11:42Z",
+    "repoUrl": "https://github.com/avalidurl/aisync-skill/tree/main/skill"
+  },
+  {
+    "id": "cblecker-claude-skills-creating-commit",
+    "name": "Create a git commit",
+    "description": "Enhances Claude Code commit workflow with mainline protection, conventional commits detection, and atomic context gathering. Integrates with standard commit behavior—adds branch safety checks, format detection, and diff analysis before delegating to default commit execution. Use for 'commit', 'save changes', 'create commit', 'check in code'.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T18:11:23Z",
+    "repoUrl": "https://github.com/cblecker/claude-skills/tree/main/git-workflows/skills/creating-commit"
+  },
+  {
+    "id": "cblecker-claude-skills-creating-branch",
+    "name": "Create a git branch",
+    "description": "Enhances Claude Code branch creation with mainline detection, conventional naming, and base branch awareness. Integrates with standard git workflows—adds automatic base branch detection, naming convention inference, and remote sync before creating branches. Use for 'create branch', 'new branch', 'start branch for', 'feature branch', 'work on'.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T18:11:23Z",
+    "repoUrl": "https://github.com/cblecker/claude-skills/tree/main/git-workflows/skills/creating-branch"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-trivy",
+    "name": "trivy",
+    "description": "Security vulnerability scanner using Trivy for container images, filesystems, and IaC. Blocks CRITICAL and HIGH severity vulnerabilities before commit. Triggers on \"trivy\", \"vulnerability scan\", \"security scan\", \"container scan\", \"image scan\", \"sbom\", \"cve\", \"dependency scan\", \"supply chain security\", \"docker scan\", \"scan image\", \"scan container\", \"check vulnerabilities\", \"security check\", \"license scan\", \"secret scan\", \"misconfig scan\", \"iac scan\", \"terraform scan\", \"kubernetes scan\", \"helm scan\", \"dockerfile scan\", \"package vulnerabilities\", \"npm audit\", \"pip audit\", \"go mod vulnerabilities\", \"scan dependencies\", \"security gate\", \"compliance scan\", \"aqua trivy\". PROACTIVE: MUST invoke before committing code with new dependencies or container images.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/trivy"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-improve-skill",
+    "name": "improve-skill",
+    "description": "Analyze Claude Code session transcripts to improve existing skills or create new ones. Use when you want to review a past session to identify what worked, what didn't, and how to enhance skill documentation. Extracts session data and provides structured analysis prompts. Triggers on \"improve skill\", \"analyze session\", \"review session\", \"skill improvement\", \"create skill from session\", \"skill not working\", \"skill missed\", \"skill didn't trigger\", \"enhance skill\", \"refine skill\", \"skill feedback\", \"session transcript\", \"what went wrong\", \"skill optimization\", \"better triggers\".",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/improve-skill"
+  },
+  {
+    "id": "overdrive-consulting-overdrive-ai-devkit-create_plan",
+    "name": "create_plan",
+    "description": "Create detailed implementation plans through interactive research and iteration",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T17:51:40Z",
+    "repoUrl": "https://github.com/Overdrive-Consulting/overdrive-ai-devkit/tree/main/assets/continuous-claude/skills/create_plan"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-git-skill",
+    "name": "git-advanced-workflows",
+    "description": "Master advanced Git workflows including rebasing, cherry-picking, bisect, worktrees, and reflog to maintain clean history and recover from any situation. Use when managing complex Git histories, collaborating on feature branches, or troubleshooting repository issues.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/Git-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-kargo-skill",
+    "name": "kargo-skill",
+    "description": "Comprehensive Kargo GitOps continuous promotion platform skill. Use when implementing progressive delivery pipelines, promotion workflows, freight management, ArgoCD integration, warehouse configuration, stage pipelines, verification templates, or any Kargo-related tasks. Covers installation, core concepts, patterns, security, and complete YAML examples.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/kargo-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-repomix-skill",
+    "name": "repomix",
+    "description": "Pack entire codebases into AI-friendly files for LLM analysis. Use when consolidating code for AI review, generating codebase summaries, or preparing context for ChatGPT, Claude, or other AI tools.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/repomix-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-az-aks-agent-skill",
+    "name": "az-aks-agent",
+    "description": "Azure AKS Agentic CLI - AI-powered troubleshooting and insights tool for Azure Kubernetes Service. Use when diagnosing AKS cluster issues, getting cluster health insights, troubleshooting networking/storage/security problems, or analyzing cluster configuration with natural language queries.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/az-aks-agent-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-writing-python-skill",
+    "name": "writing-python",
+    "description": "Idiomatic Python 3.14+ development. Use when writing Python code, CLI tools, scripts, or services. Emphasizes stdlib, type hints, uv/ruff toolchain, and minimal dependencies.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/writing-python-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-reviewing-code-skill",
+    "name": "reviewing-code",
+    "description": "Get code review from Codex AI for implementation quality, bug detection, and best practices. Use when asked to review code, check for bugs, find security issues, or get feedback on implementation patterns.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/reviewing-code-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-researching-web-skill",
+    "name": "researching-web",
+    "description": "Search the web using Perplexity AI. Use when needing to search, look up, research, find current information, best practices, compare technologies, or answer factual questions about tools and libraries.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/researching-web-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-git",
+    "name": "git-advanced-workflows",
+    "description": "Master advanced Git workflows including rebasing, cherry-picking, bisect, worktrees, and reflog to maintain clean history and recover from any situation. Use when managing complex Git histories, collaborating on feature branches, or troubleshooting repository issues.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/Git-skill/git"
+  },
+  {
+    "id": "mucho-g-pi-skills-gmcli",
+    "name": "gmcli",
+    "description": "Gmail CLI for searching emails, reading threads, sending messages, managing drafts, and handling labels/attachments.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:18:54Z",
+    "repoUrl": "https://github.com/Mucho-G/pi-skills/tree/main/gmcli"
+  },
+  {
+    "id": "mucho-g-pi-skills-gccli",
+    "name": "gccli",
+    "description": "Google Calendar CLI for listing calendars, viewing/creating/updating events, and checking availability.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:18:54Z",
+    "repoUrl": "https://github.com/Mucho-G/pi-skills/tree/main/gccli"
+  },
+  {
+    "id": "dnyoussef-context-cascade-ml",
+    "name": "ml",
+    "description": "General-purpose machine learning skill for scoping, prototyping, and coordinating ML solutions.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/specialists/ml"
+  },
+  {
+    "id": "dnyoussef-context-cascade-cognitive-mode",
+    "name": "cognitive-mode",
+    "description": "Comprehensive cognitive mode management skill for the VERILINGUA x VERIX x DSPy x GlobalMOO integration. Enables automatic mode selection, frame configuration, VERIX epistemic notation, and GlobalMOO optimization. Use this skill when configuring AI behavior for specific task types, optimizing prompt engineering, or ensuring epistemic consistency in responses.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/cognitive-architecture/skills/cognitive-mode"
+  },
+  {
+    "id": "dnyoussef-context-cascade-intent-analyzer",
+    "name": "intent-analyzer",
+    "description": "Determine the true user intent, constraints, and success criteria for research tasks with explicit confidence ceilings.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/research/intent-analyzer"
+  },
+  {
+    "id": "dnyoussef-context-cascade-opentelemetry-observability",
+    "name": "opentelemetry-observability",
+    "description": "",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/research/observability/opentelemetry-observability/skill.md"
+  },
+  {
+    "id": "dnyoussef-context-cascade-verification-quality",
+    "name": "verification-quality",
+    "description": "Verify outputs and claims for accuracy, grounding, and policy compliance with explicit evidence and confidence ceilings.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/quality/verification-quality"
+  },
+  {
+    "id": "dnyoussef-context-cascade-language-specialists",
+    "name": "language-specialists",
+    "description": "Route language-specific engineering work to the right specialist and maintain language playbooks.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/specialists/language-specialists"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-nightly",
+    "name": "nightly",
+    "description": "End-of-day cleanup and maintenance routine. Calculates Sleep Score (0-100) based on uncommitted work, branch cleanup, issue updates, CI status, and service shutdown. Automatically captures session state to STATUS.json. Use at end of work day before closing Claude Code.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-nightly"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-research-merge",
+    "name": "research-merge",
+    "description": "Processes research branches from Claude Code Web sessions - merges content, moves docs to docs/research/, and creates GitHub issues. Use when /popkit:next detects research branches or when manually processing research from mobile sessions. Do NOT use for regular feature branches - only for branches matching claude/research-* or containing research documentation.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-research/skills/pop-research-merge"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-knowledge-lookup",
+    "name": "pop-knowledge-lookup",
+    "description": "Queries cached external documentation and blog content for authoritative, up-to-date information. Sources include Claude Code docs, engineering blog, and configured knowledge bases with 24-hour TTL caching. Use when you need current information about Claude Code features, hooks, or best practices. Do NOT use for general coding questions - rely on training knowledge or web search instead.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-research/skills/pop-knowledge-lookup"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-research-capture",
+    "name": "research-capture",
+    "description": "Captures research insights, decisions, and learnings during development. Use after completing spikes, making architectural decisions, or discovering important patterns. Prompts for context and rationale, stores with embeddings for later semantic retrieval. Do NOT use for trivial notes - this is for significant findings worth surfacing later.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-research/skills/pop-research-capture"
+  },
+  {
+    "id": "zl190-md-slides-md-slides",
+    "name": "md-slides",
+    "description": "Convert Markdown to presentation slides in multiple formats (PDF, PPTX, HTML). Use when user mentions slides, presentations, Marp, Beamer, or wants to generate PDF/PPTX from markdown. Supports flavors (audience, style, language) and visual comparisons.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:21:43Z",
+    "repoUrl": "https://github.com/zl190/md-slides/tree/main/.claude/skills/md-slides"
+  },
+  {
+    "id": "data-wise-craft-mermaid-linter",
+    "name": "mermaid-linter",
+    "description": "",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:20:53Z",
+    "repoUrl": "https://github.com/Data-Wise/craft/tree/main/skills/docs/mermaid-linter/skill.md"
+  },
+  {
+    "id": "data-wise-craft-architecture-decision-records",
+    "name": "architecture-decision-records",
+    "description": "Write and maintain Architecture Decision Records (ADRs) following best practices for technical decision documentation. Use when documenting significant technical decisions, reviewing past architectural choices, or establishing decision processes.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:20:53Z",
+    "repoUrl": "https://github.com/Data-Wise/craft/tree/main/skills/docs/architecture-decision-records"
+  },
+  {
+    "id": "aiskillstore-marketplace-shap",
+    "name": "shap",
+    "description": "Model interpretability and explainability using SHAP (SHapley Additive exPlanations). Use this skill when explaining machine learning model predictions, computing feature importance, generating SHAP plots (waterfall, beeswarm, bar, scatter, force, heatmap), debugging models, analyzing model bias or fairness, comparing models, or implementing explainable AI. Works with tree-based models (XGBoost, LightGBM, Random Forest), deep learning (TensorFlow, PyTorch), linear models, and any black-box model.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/shap"
+  },
+  {
+    "id": "aiskillstore-marketplace-dask",
+    "name": "dask",
+    "description": "Parallel/distributed computing. Scale pandas/NumPy beyond memory, parallel DataFrames/Arrays, multi-file processing, task graphs, for larger-than-RAM datasets and parallel workflows.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/dask"
+  },
+  {
+    "id": "aiskillstore-marketplace-pytdc",
+    "name": "pytdc",
+    "description": "Therapeutics Data Commons. AI-ready drug discovery datasets (ADME, toxicity, DTI), benchmarks, scaffold splits, molecular oracles, for therapeutic ML and pharmacological prediction.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/pytdc"
+  },
+  {
+    "id": "aiskillstore-marketplace-gtars",
+    "name": "gtars",
+    "description": "High-performance toolkit for genomic interval analysis in Rust with Python bindings. Use when working with genomic regions, BED files, coverage tracks, overlap detection, tokenization for ML models, or fragment analysis in computational genomics and machine learning applications.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/gtars"
+  },
+  {
+    "id": "aiskillstore-marketplace-theme-factory",
+    "name": "theme-factory",
+    "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/theme-factory"
+  },
+  {
+    "id": "aiskillstore-marketplace-pysam",
+    "name": "pysam",
+    "description": "Genomic file toolkit. Read/write SAM/BAM/CRAM alignments, VCF/BCF variants, FASTA/FASTQ sequences, extract regions, calculate coverage, for NGS data processing pipelines.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/pysam"
+  },
+  {
+    "id": "aiskillstore-marketplace-sympy",
+    "name": "sympy",
+    "description": "Use this skill when working with symbolic mathematics in Python. This skill should be used for symbolic computation tasks including solving equations algebraically, performing calculus operations (derivatives, integrals, limits), manipulating algebraic expressions, working with matrices symbolically, physics calculations, number theory problems, geometry computations, and generating executable code from mathematical expressions. Apply this skill when the user needs exact symbolic results rather than numerical approximations, or when working with mathematical formulas that contain variables and parameters.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/sympy"
+  },
+  {
+    "id": "aiskillstore-marketplace-pathml",
+    "name": "pathml",
+    "description": "Computational pathology toolkit for analyzing whole-slide images (WSI) and multiparametric imaging data. Use this skill when working with histopathology slides, H&E stained images, multiplex immunofluorescence (CODEX, Vectra), spatial proteomics, nucleus detection/segmentation, tissue graph construction, or training ML models on pathology data. Supports 160+ slide formats including Aperio SVS, NDPI, DICOM, OME-TIFF for digital pathology workflows.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/pathml"
+  },
+  {
+    "id": "aiskillstore-marketplace-deslop",
+    "name": "deslop",
+    "description": "Remove AI-generated code slop from a branch. Use when cleaning up AI-generated code, removing unnecessary comments, defensive checks, or type casts. Checks diff against main and fixes style inconsistencies.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/deslop"
+  },
+  {
+    "id": "aiskillstore-marketplace-flowio",
+    "name": "flowio",
+    "description": "Parse FCS (Flow Cytometry Standard) files v2.0-3.1. Extract events as NumPy arrays, read metadata/channels, convert to CSV/DataFrame, for flow cytometry data preprocessing.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/flowio"
+  },
+  {
+    "id": "aiskillstore-marketplace-scanpy",
+    "name": "scanpy",
+    "description": "Single-cell RNA-seq analysis. Load .h5ad/10X data, QC, normalization, PCA/UMAP/t-SNE, Leiden clustering, marker genes, cell type annotation, trajectory, for scRNA-seq analysis.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/scanpy"
+  },
+  {
+    "id": "aiskillstore-marketplace-datamol",
+    "name": "datamol",
+    "description": "Pythonic wrapper around RDKit with simplified interface and sensible defaults. Preferred for standard drug discovery: SMILES parsing, standardization, descriptors, fingerprints, clustering, 3D conformers, parallel processing. Returns native rdkit.Chem.Mol objects. For advanced control or custom parameters, use rdkit directly.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/datamol"
+  },
+  {
+    "id": "aiskillstore-marketplace-medchem",
+    "name": "medchem",
+    "description": "Medicinal chemistry filters. Apply drug-likeness rules (Lipinski, Veber), PAINS filters, structural alerts, complexity metrics, for compound prioritization and library filtering.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/medchem"
+  },
+  {
+    "id": "aiskillstore-marketplace-anndata",
+    "name": "anndata",
+    "description": "This skill should be used when working with annotated data matrices in Python, particularly for single-cell genomics analysis, managing experimental measurements with metadata, or handling large-scale biological datasets. Use when tasks involve AnnData objects, h5ad files, single-cell RNA-seq data, or integration with scanpy/scverse tools.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/anndata"
+  },
+  {
+    "id": "aiskillstore-marketplace-astropy",
+    "name": "astropy",
+    "description": "Comprehensive Python library for astronomy and astrophysics. This skill should be used when working with astronomical data including celestial coordinates, physical units, FITS files, cosmological calculations, time systems, tables, world coordinate systems (WCS), and astronomical data analysis. Use when tasks involve coordinate transformations, unit conversions, FITS file manipulation, cosmological distance calculations, time scale conversions, or astronomical data processing.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/astropy"
+  },
+  {
+    "id": "aiskillstore-marketplace-qutip",
+    "name": "qutip",
+    "description": "Quantum mechanics simulations and analysis using QuTiP (Quantum Toolbox in Python). Use when working with quantum systems including: (1) quantum states (kets, bras, density matrices), (2) quantum operators and gates, (3) time evolution and dynamics (Schrödinger, master equations, Monte Carlo), (4) open quantum systems with dissipation, (5) quantum measurements and entanglement, (6) visualization (Bloch sphere, Wigner functions), (7) steady states and correlation functions, or (8) advanced methods (Floquet theory, HEOM, stochastic solvers). Handles both closed and open quantum systems across various domains including quantum optics, quantum computing, and condensed matter physics.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/k-dense-ai/qutip"
+  },
+  {
+    "id": "aiskillstore-marketplace-pyopenms",
+    "name": "pyopenms",
+    "description": "Python interface to OpenMS for mass spectrometry data analysis. Use for LC-MS/MS proteomics and metabolomics workflows including file handling (mzML, mzXML, mzTab, FASTA, pepXML, protXML, mzIdentML), signal processing, feature detection, peptide identification, and quantitative analysis. Apply when working with mass spectrometry data, analyzing proteomics experiments, or processing metabolomics datasets.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/pyopenms"
+  },
+  {
+    "id": "aiskillstore-marketplace-deepchem",
+    "name": "deepchem",
+    "description": "Molecular machine learning toolkit. Property prediction (ADMET, toxicity), GNNs (GCN, MPNN), MoleculeNet benchmarks, pretrained models, featurization, for drug discovery ML.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/deepchem"
+  },
+  {
+    "id": "aiskillstore-marketplace-arboreto",
+    "name": "arboreto",
+    "description": "Infer gene regulatory networks (GRNs) from gene expression data using scalable algorithms (GRNBoost2, GENIE3). Use when analyzing transcriptomics data (bulk RNA-seq, single-cell RNA-seq) to identify transcription factor-target gene relationships and regulatory interactions. Supports distributed computation for large-scale datasets.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/arboreto"
+  },
+  {
+    "id": "aiskillstore-marketplace-neurokit2",
+    "name": "neurokit2",
+    "description": "Comprehensive biosignal processing toolkit for analyzing physiological data including ECG, EEG, EDA, RSP, PPG, EMG, and EOG signals. Use this skill when processing cardiovascular signals, brain activity, electrodermal responses, respiratory patterns, muscle activity, or eye movements. Applicable for heart rate variability analysis, event-related potentials, complexity measures, autonomic nervous system assessment, psychophysiology research, and multi-modal physiological signal integration.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/neurokit2"
+  },
+  {
+    "id": "aiskillstore-marketplace-slack-gif-creator",
+    "name": "slack-gif-creator",
+    "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/slack-gif-creator"
+  },
+  {
+    "id": "aiskillstore-marketplace-denario",
+    "name": "denario",
+    "description": "Multiagent AI system for scientific research assistance that automates research workflows from data analysis to publication. This skill should be used when generating research ideas from datasets, developing research methodologies, executing computational experiments, performing literature searches, or generating publication-ready papers in LaTeX format. Supports end-to-end research pipelines with customizable agent orchestration.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/k-dense-ai/denario"
+  },
+  {
+    "id": "aiskillstore-marketplace-matchms",
+    "name": "matchms",
+    "description": "Mass spectrometry analysis. Process mzML/MGF/MSP, spectral similarity (cosine, modified cosine), metadata harmonization, compound ID, for metabolomics and MS data processing.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/k-dense-ai/matchms"
+  },
+  {
+    "id": "aiskillstore-marketplace-iterate-pr",
+    "name": "iterate-pr",
+    "description": "Iterate on a PR until CI passes. Use when you need to fix CI failures, address review feedback, or continuously push fixes until all checks are green. Automates the feedback-fix-push-wait cycle.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/iterate-pr"
+  },
+  {
+    "id": "aiskillstore-marketplace-doc-sync",
+    "name": "doc-sync",
+    "description": "Keeps IdeaVim documentation in sync with code changes. Use this skill when you need to verify documentation accuracy after code changes, or when checking if documentation (in doc/, README.md, CONTRIBUTING.md) matches the current codebase. The skill can work bidirectionally - from docs to code verification, or from code changes to documentation updates.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/jetbrains/doc-sync"
+  },
+  {
+    "id": "aiskillstore-marketplace-pydicom",
+    "name": "pydicom",
+    "description": "Python library for working with DICOM (Digital Imaging and Communications in Medicine) files. Use this skill when reading, writing, or modifying medical imaging data in DICOM format, extracting pixel data from medical images (CT, MRI, X-ray, ultrasound), anonymizing DICOM files, working with DICOM metadata and tags, converting DICOM images to other formats, handling compressed DICOM data, or processing medical imaging datasets. Applies to tasks involving medical image analysis, PACS systems, radiology workflows, and healthcare imaging applications.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/k-dense-ai/pydicom"
+  },
+  {
+    "id": "aiskillstore-marketplace-umap-learn",
+    "name": "umap-learn",
+    "description": "UMAP dimensionality reduction. Fast nonlinear manifold learning for 2D/3D visualization, clustering preprocessing (HDBSCAN), supervised/parametric UMAP, for high-dimensional data.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/umap-learn"
+  },
+  {
+    "id": "aiskillstore-marketplace-youtrack",
+    "name": "youtrack",
+    "description": "Interacts with YouTrack issue tracker for IdeaVim. Use when working with tickets (VIM-XXXX), adding comments, managing tags, setting status, or release management. This project does NOT use GitHub Issues - use YouTrack instead.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/jetbrains/youtrack"
+  },
+  {
+    "id": "aiskillstore-marketplace-markitdown",
+    "name": "markitdown",
+    "description": "Convert files and office documents to Markdown. Supports PDF, DOCX, PPTX, XLSX, images (with OCR), audio (with transcription), HTML, CSV, JSON, XML, ZIP, YouTube URLs, EPubs and more.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/markitdown"
+  },
+  {
+    "id": "aiskillstore-marketplace-cobrapy",
+    "name": "cobrapy",
+    "description": "Constraint-based metabolic modeling (COBRA). FBA, FVA, gene knockouts, flux sampling, SBML models, for systems biology and metabolic engineering analysis.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/k-dense-ai/cobrapy"
+  },
+  {
+    "id": "aiskillstore-marketplace-molfeat",
+    "name": "molfeat",
+    "description": "Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors, pretrained models (ChemBERTa), convert SMILES to features, for QSAR and molecular ML.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/k-dense-ai/molfeat"
+  },
+  {
+    "id": "aiskillstore-marketplace-scvi-tools",
+    "name": "scvi-tools",
+    "description": "This skill should be used when working with single-cell omics data analysis using scvi-tools, including scRNA-seq, scATAC-seq, CITE-seq, spatial transcriptomics, and other single-cell modalities. Use this skill for probabilistic modeling, batch correction, dimensionality reduction, differential expression, cell type annotation, multimodal integration, and spatial analysis tasks.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/scvi-tools"
+  },
+  {
+    "id": "glebis-claude-skills-gmail",
+    "name": "gmail",
+    "description": "This skill should be used when searching, fetching, or downloading emails from Gmail. Use for queries like \"search Gmail for...\", \"find emails from John\", \"show unread emails\", \"emails about project X\", or \"download attachment from email\".",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/gmail"
+  },
+  {
+    "id": "glebis-claude-skills-browsing-history",
+    "name": "browsing-history",
+    "description": "Query browsing history from all synced devices (iPhone, Mac, iPad, desktop). Supports natural language queries for filtering by date, device, domain, and keywords. Uses LLM classification for content categories. Can output to stdout or save as markdown/JSON to Obsidian vault.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/browsing-history/skill.md"
+  },
+  {
+    "id": "glebis-claude-skills-pdf-generation",
+    "name": "pdf-generation",
+    "description": "Professional PDF generation from markdown using Pandoc with Eisvogel template and EB Garamond fonts. Use when converting markdown to PDF, creating white papers, research documents, marketing materials, or technical documentation. Supports both English and Russian documents with professional typography and color-coded themes. Mobile-optimized layout (6x9) by default for Telegram bot context, desktop/print layout (A4) for other contexts.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/pdf-generation"
+  },
+  {
+    "id": "glebis-claude-skills-firecrawl-research",
+    "name": "firecrawl-research",
+    "description": "This skill should be used when the user requests to research topics using FireCrawl, enrich notes with web sources, search and scrape information, or write scientific/academic papers. It extracts research topics from markdown files, creates research documents with scraped sources, generates BibTeX bibliographies from research results, and provides Pandoc/MyST templates for academic writing with citation management.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/firecrawl-research"
+  },
+  {
+    "id": "glebis-claude-skills-youtube-transcript",
+    "name": "youtube-transcript",
+    "description": "Extract YouTube video transcripts with metadata and save as Markdown to Obsidian vault. Use this skill when the user requests downloading YouTube transcripts, converting YouTube videos to text, or extracting video subtitles. Does not download video/audio files, only metadata and subtitles.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/youtube-transcript"
+  },
+  {
+    "id": "glebis-claude-skills-presentation-generator",
+    "name": "presentation-generator",
+    "description": "Generate interactive HTML presentations with neobrutalism styling, ASCII art decorations, and Agency brand colors. Outputs HTML (interactive with navigation), PNG (individual slides via Playwright), and PDF. References brand-agency skill for colors and typography. Use when creating presentations, slide decks, pitch materials, or visual summaries.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/presentation-generator"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ios-ai",
+    "name": "axiom-ios-ai",
+    "description": "Use when implementing ANY Apple Intelligence or on-device AI feature. Covers Foundation Models, @Generable, LanguageModelSession, structured output, Tool protocol, iOS 26 AI integration.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-ai"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-vision-diag",
+    "name": "axiom-vision-diag",
+    "description": "subject not detected, hand pose missing landmarks, low confidence observations, Vision performance, coordinate conversion, VisionKit errors, observation nil, text not recognized, barcode not detected, DataScannerViewController not working, document scan issues",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-vision-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-app-discoverability",
+    "name": "axiom-app-discoverability",
+    "description": "Use when making app surface in Spotlight search, Siri suggestions, or system experiences - covers the 6-step strategy combining App Intents, App Shortcuts, Core Spotlight, and NSUserActivity to feed the system metadata for iOS 16+",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-app-discoverability"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-energy-diag",
+    "name": "axiom-energy-diag",
+    "description": "Symptom-based energy troubleshooting - decision trees for 'app at top of battery settings', 'phone gets hot', 'background drain', 'high cellular usage', with time-cost analysis for each diagnosis path",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-energy-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-accessibility-diag",
+    "name": "axiom-accessibility-diag",
+    "description": "Use when fixing VoiceOver issues, Dynamic Type violations, color contrast failures, touch target problems, keyboard navigation gaps, or Reduce Motion support - comprehensive accessibility diagnostics with WCAG compliance, Accessibility Inspector workflows, and App Store Review preparation for iOS/macOS",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-accessibility-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ios-performance",
+    "name": "axiom-ios-performance",
+    "description": "Use when app feels slow, memory grows, battery drains, or diagnosing ANY performance issue. Covers memory leaks, profiling, Instruments workflows, retain cycles, performance optimization.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-performance"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-app-composition",
+    "name": "axiom-app-composition",
+    "description": "Use when structuring app entry points, managing authentication flows, switching root views, handling scene lifecycle, or asking 'how do I structure my @main', 'where does auth state live', 'how do I prevent screen flicker on launch', 'when should I modularize' - app-level composition patterns for iOS 26+",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-app-composition"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-storage",
+    "name": "axiom-storage",
+    "description": "Use when asking 'where should I store this data', 'should I use SwiftData or files', 'CloudKit vs iCloud Drive', 'Documents vs Caches', 'local or cloud storage', 'how do I sync data', 'where do app files go' - comprehensive decision framework for all iOS storage options",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-storage"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-now-playing",
+    "name": "axiom-now-playing",
+    "description": "Use when Now Playing metadata doesn't appear on Lock Screen/Control Center, remote commands (play/pause/skip) don't respond, artwork is missing/wrong/flickering, or playback state is out of sync - provides systematic diagnosis, correct patterns, and professional push-back for audio/video apps on iOS 18+",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-now-playing"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-core-data",
+    "name": "axiom-core-data",
+    "description": "Use when choosing Core Data vs SwiftData, setting up the Core Data stack, modeling relationships, or implementing concurrency patterns - prevents thread-confinement errors and migration crashes",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-core-data"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-extensions-widgets",
+    "name": "axiom-extensions-widgets",
+    "description": "Use when implementing widgets, Live Activities, or Control Center controls - enforces correct patterns for timeline management, data sharing, and extension lifecycle to prevent common crashes and memory issues",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-extensions-widgets"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-storage-diag",
+    "name": "axiom-storage-diag",
+    "description": "Use when debugging 'files disappeared', 'data missing after restart', 'backup too large', 'can't save file', 'file not found', 'storage full error', 'file inaccessible when locked' - systematic local file storage diagnostics",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-storage-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ios-concurrency",
+    "name": "axiom-ios-concurrency",
+    "description": "Use when writing ANY code with async, actors, threads, or seeing ANY concurrency error. Covers Swift 6 concurrency, @MainActor, Sendable, data races, async/await patterns, performance optimization.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-concurrency"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-codable",
+    "name": "axiom-codable",
+    "description": "Use when working with Codable protocol, JSON encoding/decoding, CodingKeys customization, enum serialization, date strategies, custom containers, or encountering \"Type does not conform to Decodable/Encodable\" errors - comprehensive Codable patterns and anti-patterns for Swift 6.x",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-codable"
+  },
+  {
+    "id": "charleswiltgen-axiom-speech",
+    "name": "speech",
+    "description": "Use when implementing speech-to-text, live transcription, or audio transcription. Covers SpeechAnalyzer (iOS 26+), SpeechTranscriber, volatile/finalized results, AssetInventory model management, audio format handling.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-ml/speech"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-networking-diag",
+    "name": "axiom-networking-diag",
+    "description": "Use when debugging connection timeouts, TLS handshake failures, data not arriving, connection drops, performance issues, or proxy/VPN interference - systematic Network.framework diagnostics with production crisis defense",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-networking-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-performance-profiling",
+    "name": "axiom-performance-profiling",
+    "description": "Use when app feels slow, memory grows over time, battery drains fast, or you want to profile proactively - decision trees to choose the right Instruments tool, deep workflows for Time Profiler/Allocations/Core Data, and pressure scenarios for misinterpreting results",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-performance-profiling"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-synchronization",
+    "name": "axiom-synchronization",
+    "description": "Use when needing thread-safe primitives for performance-critical code. Covers Mutex (iOS 18+), OSAllocatedUnfairLock (iOS 16+), Atomic types, when to use locks vs actors, deadlock prevention with Swift Concurrency.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-synchronization"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-vision",
+    "name": "axiom-vision",
+    "description": "subject segmentation, VNGenerateForegroundInstanceMaskRequest, isolate object from hand, VisionKit subject lifting, image foreground detection, instance masks, class-agnostic segmentation, VNRecognizeTextRequest, OCR, VNDetectBarcodesRequest, DataScannerViewController, document scanning, RecognizeDocumentsRequest",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-vision"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-foundation-models-diag",
+    "name": "axiom-foundation-models-diag",
+    "description": "Use when debugging Foundation Models issues — context exceeded, guardrail violations, slow generation, availability problems, unsupported language, or unexpected output. Systematic diagnostics with production crisis defense.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-foundation-models-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-concurrency-profiling",
+    "name": "axiom-concurrency-profiling",
+    "description": "Use when profiling async/await performance, diagnosing actor contention, or investigating thread pool exhaustion. Covers Swift Concurrency Instruments template, task visualization, actor contention analysis, thread pool debugging.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-concurrency-profiling"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-energy",
+    "name": "axiom-energy",
+    "description": "Use when app drains battery, device gets hot, users report energy issues, or auditing power consumption - systematic Power Profiler diagnosis, subsystem identification (CPU/GPU/Network/Location/Display), anti-pattern fixes for iOS/iPadOS",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-energy"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-networking-legacy",
+    "name": "axiom-networking-legacy",
+    "description": "This skill should be used when working with NWConnection patterns for iOS 12-25, supporting apps that can't use async/await yet, or maintaining backward compatibility with completion handler networking.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-networking-legacy"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-auto-layout-debugging",
+    "name": "axiom-auto-layout-debugging",
+    "description": "Use when encountering \"Unable to simultaneously satisfy constraints\" errors, constraint conflicts, ambiguous layout warnings, or views positioned incorrectly - systematic debugging workflow for Auto Layout issues in iOS",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-auto-layout-debugging"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-swift-concurrency",
+    "name": "axiom-swift-concurrency",
+    "description": "Use when you see 'actor-isolated', 'Sendable', 'data race', '@MainActor' errors, or when asking 'why is this not thread safe', 'how do I use async/await', 'what is @MainActor for', 'my app is crashing with concurrency errors', 'how do I fix data races' - Swift 6 strict concurrency patterns with actor isolation and async/await",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swift-concurrency"
+  },
+  {
+    "id": "netresearch-typo3-conformance-skill-typo3-conformance",
+    "name": "typo3-conformance",
+    "description": "Agent Skill: Evaluate TYPO3 extensions for conformance to v12/v13/v14 standards. Use when assessing quality, generating reports, or planning modernization. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T15:36:23Z",
+    "repoUrl": "https://github.com/netresearch/typo3-conformance-skill/tree/main/skills/typo3-conformance"
+  },
+  {
+    "id": "gokhanarkan-claude-github-summary-skill",
+    "name": "github-summary",
+    "description": "Generate an AI-synthesised summary of your GitHub activity (issues, PRs, commits) for a specified organisation and time period. Creates a natural language narrative with inline URL references. Use when user wants to summarise their work, review their contributions, or generate a work log.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T15:29:56Z",
+    "repoUrl": "https://github.com/gokhanarkan/claude-github-summary/tree/main/SKILL.md"
+  },
+  {
+    "id": "nnnsightnnn-claudekit-pain-point-manager",
+    "name": "Pain Point Manager",
+    "description": "Automatically capture, update, and manage development pain points. Use when user mentions friction, blockers, workarounds, or wants to track development obstacles.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T15:23:11Z",
+    "repoUrl": "https://github.com/Nnnsightnnn/claudekit/tree/main/.claude/skills/pain-point-manager"
+  },
+  {
+    "id": "wayne930242-reflexive-claude-code-commands",
+    "name": "rcc:improve-skill",
+    "description": "Optimize a skill by analyzing project conventions and researching best practices",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T15:14:26Z",
+    "repoUrl": "https://github.com/wayne930242/Reflexive-Claude-Code/tree/main/plugins/ACE-core/commands/improve-skill.md"
+  },
+  {
+    "id": "wayne930242-reflexive-claude-code-write-command",
+    "name": "write-command",
+    "description": "Create effective Claude Code slash commands with proper YAML frontmatter and argument handling. Use when writing new slash commands, improving existing commands, or learning command best practices.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T15:14:26Z",
+    "repoUrl": "https://github.com/wayne930242/Reflexive-Claude-Code/tree/main/plugins/ACE-core/skills/write-command"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-ollama-local",
+    "name": "ollama-local",
+    "description": "Local LLM inference with Ollama. Use when setting up local models for development, CI pipelines, or cost reduction. Covers model selection, LangChain integration, and performance tuning.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/ollama-local"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-llm-safety-patterns",
+    "name": "llm-safety-patterns",
+    "description": "Use when securing LLM integrations against prompt injection, hallucination, or data leakage. Implements context separation, input validation, and output filtering patterns.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/llm-safety-patterns"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-input-validation",
+    "name": "input-validation",
+    "description": "Input validation and sanitization patterns. Use when validating user input, preventing injection attacks, implementing allowlists, or sanitizing HTML/SQL/command inputs.",
+    "category": "ai-data-science",
+    "tags": [
+      "security",
+      "validation",
+      "zod",
+      "pydantic",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/input-validation"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-prompt-caching",
+    "name": "prompt-caching",
+    "description": "Provider-native prompt caching for Claude and OpenAI. Use when optimizing LLM costs with cache breakpoints, caching system prompts, or reducing token costs for repeated prefixes.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/prompt-caching"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-pgvector-search",
+    "name": "pgvector-search",
+    "description": "Use when implementing vector search with PostgreSQL. Covers PGVector hybrid search with BM25, metadata filtering, and performance optimization for semantic retrieval.",
+    "category": "ai-data-science",
+    "tags": [
+      "pgvector-0.8",
+      "hybrid-search",
+      "bm25",
+      "rrf",
+      "semantic-search",
+      "retrieval",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/pgvector-search"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-llm-evaluation",
+    "name": "llm-evaluation",
+    "description": "LLM output evaluation and quality assessment. Use when implementing LLM-as-judge patterns, quality gates for AI outputs, or automated evaluation pipelines.",
+    "category": "ai-data-science",
+    "tags": [
+      "evaluation",
+      "llm",
+      "quality",
+      "ragas",
+      "langfuse",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/llm-evaluation"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-worktree-coordination",
+    "name": "worktree-coordination",
+    "description": "Manage multiple Claude Code instances across git worktrees. Check status, claim/release file locks, sync decisions, and prevent conflicts.",
+    "category": "ai-data-science",
+    "tags": [
+      "coordination",
+      "worktree",
+      "multi-instance",
+      "locking",
+      "parallel-development",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/worktree-coordination"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-contextual-retrieval",
+    "name": "contextual-retrieval",
+    "description": "Anthropic's Contextual Retrieval technique for improved RAG. Use when chunks lose context during retrieval, implementing hybrid BM25+vector search, or reducing retrieval failures.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/contextual-retrieval"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-ascii-visualizer",
+    "name": "ASCII Visualizer",
+    "description": "Use when visualizing architecture, data flows, or system diagrams in text. Creates ASCII art for plans, workflows, and structures that render in terminals and markdown.",
+    "category": "ai-data-science",
+    "tags": [
+      "ascii",
+      "visualization",
+      "diagrams",
+      "architecture",
+      2025
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/ascii-visualizer"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-golden-dataset-validation",
+    "name": "golden-dataset-validation",
+    "description": "Use when validating golden dataset quality. Runs schema checks, duplicate detection, and coverage analysis to ensure dataset integrity for AI evaluation.",
+    "category": "ai-data-science",
+    "tags": [
+      "golden-dataset",
+      "validation",
+      "integrity",
+      "schema",
+      "duplicate-detection",
+      2025
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/golden-dataset-validation"
   }
 ]

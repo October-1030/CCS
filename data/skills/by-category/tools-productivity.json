@@ -3076,5 +3076,1241 @@
     "stars": 0,
     "updatedAt": "2026-01-09T16:48:40Z",
     "repoUrl": "https://github.com/AbeJitsu/Need_This_Done/tree/main/.claude/skills/worktree-swarm"
+  },
+  {
+    "id": "benzema216-dreamina-claude-skills-storyboard-generator",
+    "name": "storyboard-generator",
+    "description": "根据用户的创意/故事想法，批量生成多张连贯的图片和视频，并以专业分镜表（Storyboard）的形式展示。支持单镜头重新生成、图生视频、首尾帧视频生成等高级功能。适用于短视频脚本、动画分镜、广告创意、故事可视化等场景。",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T18:14:25Z",
+    "repoUrl": "https://github.com/BENZEMA216/dreamina-claude-skills/tree/main/.claude/skills/storyboard-generator"
+  },
+  {
+    "id": "everyone-needs-a-copilot-claude-copilot-link-validation",
+    "name": "link-validation",
+    "description": "Validate markdown links and cross-references in documentation",
+    "category": "tools-productivity",
+    "tags": [
+      "links",
+      "documentation",
+      "validation",
+      "shared-docs",
+      "cross-references"
+    ],
+    "stars": 5,
+    "updatedAt": "2026-01-09T18:16:01Z",
+    "repoUrl": "https://github.com/Everyone-Needs-A-Copilot/claude-copilot/tree/main/templates/skills/link-validation"
+  },
+  {
+    "id": "everyone-needs-a-copilot-claude-copilot-token-budget-check",
+    "name": "token-budget-check",
+    "description": "Analyze markdown files for token budget compliance",
+    "category": "tools-productivity",
+    "tags": [
+      "tokens",
+      "documentation",
+      "budget",
+      "validation",
+      "shared-docs"
+    ],
+    "stars": 5,
+    "updatedAt": "2026-01-09T18:16:01Z",
+    "repoUrl": "https://github.com/Everyone-Needs-A-Copilot/claude-copilot/tree/main/templates/skills/token-budget-check"
+  },
+  {
+    "id": "chadboyda-iterm-worktree-skill-skill",
+    "name": "iterm-worktree",
+    "description": "Manage git worktrees with iTerm2 integration. Use when user asks to create isolated development environments, work on features in parallel, manage worktrees, open worktrees in new tabs/windows, switch between worktrees, or close completed worktrees. Triggers on \"create worktree\", \"new worktree\", \"feature branch with worktree\", \"open worktree\", \"switch worktree\", \"close worktree\", \"list worktrees\", or mentions wanting to work on multiple features simultaneously.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:11:29Z",
+    "repoUrl": "https://github.com/chadboyda/iterm-worktree-skill/tree/main/SKILL.md"
+  },
+  {
+    "id": "cblecker-claude-skills-creating-pull-request",
+    "name": "Create a GitHub pull request",
+    "description": "Enhances Claude Code PR workflow with fork detection, uncommitted changes handling, and MCP-based creation. Integrates with standard PR behavior—adds repository-aware checks, template discovery, and target branch detection before delegating to default PR content generation. Use for 'create PR', 'open PR', 'pull request', 'submit for review', 'open pull request'.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T18:11:23Z",
+    "repoUrl": "https://github.com/cblecker/claude-skills/tree/main/git-workflows/skills/creating-pull-request"
+  },
+  {
+    "id": "mquandalle-browser-history-skill-skill",
+    "name": "browser-history",
+    "description": "Search local browser history. Use when user asks about visited pages, forgotten URLs, or time spent on sites.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T18:08:58Z",
+    "repoUrl": "https://github.com/mquandalle/browser-history-skill/tree/main/SKILL.md"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-ast-grep",
+    "name": "ast-grep",
+    "description": "AST-aware code search and refactoring using ast-grep (sg). Use INSTEAD of grep/ripgrep for searching code structure. Finds functions, classes, patterns, anti-patterns across Go, Python, Bash, Terraform/HCL codebases. Triggers on \"ast-grep\", \"sg\", \"find function\", \"find class\", \"find method\", \"find all usages\", \"where is X used\", \"search for pattern\", \"find anti-pattern\", \"code smell\", \"refactor pattern\", \"structural search\", \"AST search\", \"find error handling\", \"find imports\", \"find decorators\", \"find struct\", \"find interface\", \"search code\", \"locate function\", \"grep for function\", \"find definition\". PROACTIVE: Use for ANY code search task; prefer over grep/ripgrep for code files.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/ast-grep"
+  },
+  {
+    "id": "overdrive-consulting-overdrive-ai-devkit-qlty-check",
+    "name": "qlty-check",
+    "description": "Code quality checks, formatting, and metrics via qlty CLI",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T17:51:40Z",
+    "repoUrl": "https://github.com/Overdrive-Consulting/overdrive-ai-devkit/tree/main/skills/qlty-check"
+  },
+  {
+    "id": "overdrive-consulting-overdrive-ai-devkit-resume_handoff",
+    "name": "resume_handoff",
+    "description": "Resume work from handoff document with context analysis and validation",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T17:51:40Z",
+    "repoUrl": "https://github.com/Overdrive-Consulting/overdrive-ai-devkit/tree/main/assets/continuous-claude/skills/resume_handoff"
+  },
+  {
+    "id": "overdrive-consulting-overdrive-ai-devkit-create_handoff",
+    "name": "create_handoff",
+    "description": "Create handoff document for transferring work to another session",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T17:51:40Z",
+    "repoUrl": "https://github.com/Overdrive-Consulting/overdrive-ai-devkit/tree/main/assets/continuous-claude/skills/create_handoff"
+  },
+  {
+    "id": "overdrive-consulting-overdrive-ai-devkit-morph-search",
+    "name": "morph-search",
+    "description": "Fast codebase search via WarpGrep (20x faster than grep)",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T17:51:40Z",
+    "repoUrl": "https://github.com/Overdrive-Consulting/overdrive-ai-devkit/tree/main/skills/morph-search"
+  },
+  {
+    "id": "overdrive-consulting-overdrive-ai-devkit-ast-grep-find",
+    "name": "ast-grep-find",
+    "description": "AST-based code search and refactoring via ast-grep MCP",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T17:51:40Z",
+    "repoUrl": "https://github.com/Overdrive-Consulting/overdrive-ai-devkit/tree/main/skills/ast-grep-find"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-iterm2-skill",
+    "name": "Iterm2",
+    "description": "iTerm2 terminal emulator and tmux multiplexer expertise. USE WHEN user mentions iTerm2, tmux, terminal sessions, split panes, window management, OR terminal productivity on macOS.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/iterm2-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-json-canvas-skill",
+    "name": "json-canvas",
+    "description": "Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when working with .canvas files, creating visual canvases, mind maps, flowcharts, or when the user mentions Canvas files in Obsidian.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/json-canvas-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-skill-template",
+    "name": "your-skill-name",
+    "description": "Brief description of what this skill does. Include specific triggers - when should Claude use this skill? Example triggers, file types, or keywords that indicate this skill applies.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/templates/skill-template"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-azure-ad-sso-skill",
+    "name": "azure-ad-sso",
+    "description": "Azure AD OAuth2/OIDC SSO integration for Kubernetes applications. Use when implementing Single Sign-On, configuring Azure AD App Registrations, restricting access by groups, or integrating tools (DefectDojo, Grafana, ArgoCD, Harbor, SonarQube) with Azure AD authentication.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/azure-ad-sso-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-shell-prompt-skill",
+    "name": "shell-prompt",
+    "description": "Modern shell prompt configuration with Powerlevel10k and Zsh Vi Mode. Use when configuring shell prompts, setting up vi/vim keybindings in zsh, customizing cursor styles per mode, adding mode indicators, optimizing prompt performance, or troubleshooting slow prompts. Covers P10k instant prompt, vi mode plugins, and cursor customization.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/shell-prompt-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-git-worktree-skill",
+    "name": "git-worktree",
+    "description": "Git worktree management with tmux and iTerm2 integration. Use when creating isolated dev environments, managing parallel feature branches, switching contexts without stashing, or running multiple Claude instances. Covers worktree creation, tmux window management, iTerm2 tabs, and cleanup workflows.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/git-worktree-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-using-cloud-cli-skill",
+    "name": "using-cloud-cli",
+    "description": "Cloud CLI patterns for GCP and AWS. Use when running bq queries, gcloud commands, aws commands, or making decisions about cloud services. Covers BigQuery cost optimization and operational best practices.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/using-cloud-cli-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-obsidian-markdown-skill",
+    "name": "obsidian-markdown",
+    "description": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/obsidian-markdown-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-using-git-worktrees-skill",
+    "name": "using-git-worktrees",
+    "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans. Creates isolated git worktrees with smart directory selection and safety verification.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/using-git-worktrees-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-keyvault-csi-driver-skill",
+    "name": "keyvault-csi-driver",
+    "description": "Azure Key Vault + CSI Driver integration for Kubernetes secrets management. Use when creating SecretProviderClass resources, mounting secrets from Key Vault, troubleshooting 403 errors, syncing secrets to K8s, or configuring applications to use Key Vault secrets.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/keyvault-csi-driver-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-argocd-applicationset-skill",
+    "name": "argocd-applicationset-skill",
+    "description": "",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/argocd-applicationset-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-zsh-path-skill",
+    "name": "zsh-path-skill",
+    "description": "Manage and troubleshoot PATH configuration in zsh. Use when adding tools to PATH (bun, nvm, Python venv, cargo, go), diagnosing \"command not found\" errors, validating PATH entries, or organizing shell configuration in .zshrc and .zshrc.local files.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/zsh-path-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-argocd-cluster-bootstrapping",
+    "name": "argocd-cluster-bootstrapping",
+    "description": "Complete ArgoCD cluster bootstrapping skill for multi-repository GitOps environments. Use when provisioning new Kubernetes clusters, registering clusters with ArgoCD, configuring ApplicationSets, setting up cluster secrets, or troubleshooting cluster connectivity issues.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/argocd-cluster-bootstrapping"
+  },
+  {
+    "id": "lennetech-claude-code-marketplace-optimizer",
+    "name": "marketplace-optimizer",
+    "description": "Optimizes this Claude Code marketplace based on official documentation and optional secondary sources. Use when optimizing plugins, skills, commands, agents, or the marketplace structure. Triggers on \"optimize marketplace\", \"update documentation sources\", \"sync with best practices\", or when user wants to improve the plugin quality.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:46:10Z",
+    "repoUrl": "https://github.com/lenneTech/claude-code/tree/main/.claude/skills/marketplace-optimizer"
+  },
+  {
+    "id": "lennetech-claude-code-claude-code-plugin-expert",
+    "name": "claude-code-plugin-expert",
+    "description": "Expert for Claude Code plugin and marketplace development. Use when creating, editing, or optimizing skills (SKILL.md), commands (*.md), agents, hooks (hooks.json), scripts, or plugin.json files. Ensures consistency with official best practices from code.claude.com documentation. Activates for any file in plugins/ directory.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:46:10Z",
+    "repoUrl": "https://github.com/lenneTech/claude-code/tree/main/plugins/lt-dev/skills/claude-code-plugin-expert"
+  },
+  {
+    "id": "swiftlysingh-excalidraw-skill-skill",
+    "name": "Excalidraw Flowchart",
+    "description": "Create Excalidraw flowcharts from descriptions. Use when user asks to \"create a flowchart\", \"draw a diagram\", \"visualize a process\", \"make a flow diagram\", \"architecture diagram\", or discusses workflow/process visualization.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:37:54Z",
+    "repoUrl": "https://github.com/swiftlysingh/excalidraw-skill/tree/main/SKILL.md"
+  },
+  {
+    "id": "mucho-g-pi-skills-gdcli",
+    "name": "gdcli",
+    "description": "Google Drive CLI for listing, searching, uploading, downloading, and sharing files and folders.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:18:54Z",
+    "repoUrl": "https://github.com/Mucho-G/pi-skills/tree/main/gdcli"
+  },
+  {
+    "id": "mucho-g-pi-skills-vscode",
+    "name": "vscode",
+    "description": "VS Code integration for viewing diffs and comparing files. Use when showing file differences to the user.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:18:54Z",
+    "repoUrl": "https://github.com/Mucho-G/pi-skills/tree/main/vscode"
+  },
+  {
+    "id": "mucho-g-pi-skills-youtube-transcript",
+    "name": "youtube-transcript",
+    "description": "Fetch transcripts from YouTube videos for summarization and analysis.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:18:54Z",
+    "repoUrl": "https://github.com/Mucho-G/pi-skills/tree/main/youtube-transcript"
+  },
+  {
+    "id": "dnyoussef-context-cascade-workflow-commands",
+    "name": "create-micro-skill",
+    "description": "Single responsibility description",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/commands/delivery/workflow-commands/create-micro-skill.md"
+  },
+  {
+    "id": "dnyoussef-context-cascade-dogfooding-system",
+    "name": "dogfooding-system",
+    "description": "Run continuous dogfooding loops that apply our own skills to themselves, measure deltas, and harvest reusable patterns.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/quality/dogfooding-system"
+  },
+  {
+    "id": "dnyoussef-context-cascade-sop-dogfooding-quality-detection",
+    "name": "sop-dogfooding-quality-detection",
+    "description": "SOP for detecting quality regressions during dogfooding runs and turning them into actionable fixes.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/quality/sop-dogfooding-quality-detection"
+  },
+  {
+    "id": "dnyoussef-context-cascade-pilot-1-code-formatter",
+    "name": "pilot-1-code-formatter",
+    "description": "Automatically format code files using the appropriate formatter based on file type, providing clear feedback on changes made",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/foundry/skill-forge/pilots/pilot-1-code-formatter/V0-SKILL.md"
+  },
+  {
+    "id": "dnyoussef-context-cascade-examples",
+    "name": "examples",
+    "description": "",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/foundry/micro-skill-creator/examples/example-1-create-atomic-skill.md"
+  },
+  {
+    "id": "dnyoussef-context-cascade-theater-detection-audit",
+    "name": "theater-detection-audit",
+    "description": "Detect fake or placeholder code (theater) and ensure real implementations replace stubs before deeper audits.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/quality/theater-detection-audit"
+  },
+  {
+    "id": "dnyoussef-context-cascade-sop-dogfooding-continuous-improvement",
+    "name": "sop-dogfooding-continuous-improvement",
+    "description": "SOP for running continuous improvement cycles via dogfooding and adversarial validation.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/quality/sop-dogfooding-continuous-improvement"
+  },
+  {
+    "id": "dnyoussef-context-cascade-smart-bug-fix",
+    "name": "smart-bug-fix",
+    "description": "Advanced defect eradication with hypothesis-driven RCA, guarded fixes, and comprehensive validation.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/delivery/smart-bug-fix"
+  },
+  {
+    "id": "dnyoussef-context-cascade-skill-forge",
+    "name": "skill-forge",
+    "description": "Meta-skill for producing production-grade skills with complete structure, validation, and self-improvement loops.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/foundry/skill-forge"
+  },
+  {
+    "id": "dnyoussef-context-cascade-clarity-linter",
+    "name": "clarity-linter",
+    "description": "Evaluate and improve code clarity and cognitive load with rubric-driven scoring and targeted fixes.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/tooling/clarity-linter"
+  },
+  {
+    "id": "dnyoussef-context-cascade-recursive-improvement",
+    "name": "recursive-improvement",
+    "description": "Drive iterative refinement loops with evidence capture, evaluation checkpoints, and stop conditions for skills, prompts, or agents.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/foundry/recursive-improvement"
+  },
+  {
+    "id": "dnyoussef-context-cascade-gemini-media",
+    "name": "gemini-media",
+    "description": "Gemini media and multimodal workflows across image, audio, and video.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/platforms/gemini-media"
+  },
+  {
+    "id": "dnyoussef-context-cascade-cognitive-lensing",
+    "name": "cognitive-lensing",
+    "description": "Apply multilingual cognitive frames to re-approach complex tasks with targeted reasoning patterns and bias checks.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/foundry/cognitive-lensing"
+  },
+  {
+    "id": "dnyoussef-context-cascade-agentdb-memory-patterns",
+    "name": "agentdb-memory-patterns",
+    "description": "Reusable memory patterns (short/long/episodic/semantic) implemented on AgentDB.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/platforms/agentdb-memory-patterns"
+  },
+  {
+    "id": "dnyoussef-context-cascade-reasoningbank-intelligence",
+    "name": "reasoningbank-intelligence",
+    "description": "ReasoningBank skill for structured reasoning workflows and verification.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/platforms/reasoningbank-intelligence"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-morning",
+    "name": "morning",
+    "description": "Start-of-day setup and readiness routine. Calculates Ready to Code Score (0-100) based on session restoration, service health, dependency updates, branch sync, PR reviews, and issue triage. Automatically captures session state to STATUS.json. Use at start of work day after opening Claude Code.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-morning"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-doc-sync",
+    "name": "doc-sync",
+    "description": "Synchronize documentation with codebase - updates AUTO-GEN sections in CLAUDE.md, validates cross-references, and reports stale documentation",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-doc-sync"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-power-mode",
+    "name": "power-mode",
+    "description": "Multi-agent orchestration system using Claude Code's native background agents (2.0.64+) for true parallel collaboration. Enables shared context, sync barriers between phases, and coordinator oversight. Use for complex tasks benefiting from parallel execution (epics, large refactors, multi-phase features). Do NOT use for simple tasks or sequential workflows - the coordination overhead isn't justified.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-power-mode"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-next-action",
+    "name": "pop-next-action",
+    "description": "Context-aware recommendation engine that analyzes git status, TypeScript errors, GitHub issues, and technical debt to suggest prioritized next actions. Returns specific popkit commands with explanations of why each is relevant. Use when unsure what to work on next, starting a session, or feeling stuck. Do NOT use when you already know what to do - just proceed with that task directly.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-next-action"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-bug-reporter",
+    "name": "bug-reporter",
+    "description": "Capture bug context, generate reports, and optionally create GitHub issues or share patterns",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-bug-reporter"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-embed-project",
+    "name": "embed-project",
+    "description": "Embed project-local skills, agents, and commands for semantic search. Use after creating items manually or to update embeddings. Works with both keyword and semantic search modes.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-embed-project"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-routine-measure",
+    "name": "pop-routine-measure",
+    "description": "Display routine measurement dashboard with metrics, costs, trends, and visualization",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-routine-measure"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-routine-optimized",
+    "name": "pop-routine-optimized",
+    "description": "Token-optimized morning/nightly routine using caching and selective execution",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-routine-optimized"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-validation-engine",
+    "name": "validation-engine",
+    "description": "Validate plugin integrity and offer safe auto-fixes for common issues - checks agents, skills, hooks, routing config, and plugin structure",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-validation-engine"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-complexity-analyzer",
+    "name": "complexity-analyzer",
+    "description": "Analyzes task/feature complexity (1-10) and recommends subtask breakdown for planning and prioritization. Provides actionable recommendations for agent selection, phase distribution, and risk assessment. Silent analysis that feeds into other workflows.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-complexity-analyzer"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-assessment-architecture",
+    "name": "pop-assessment-architecture",
+    "description": "Validates PopKit code quality using concrete metrics for DRY, coupling, cohesion, and architectural patterns",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-ops/skills/pop-assessment-architecture"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-assessment-ux",
+    "name": "pop-assessment-ux",
+    "description": "Evaluates PopKit user experience using concrete heuristics for command naming, error messages, and interaction patterns",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-ops/skills/pop-assessment-ux"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-project-init",
+    "name": "project-init",
+    "description": "Initialize .claude/ structure and surgically add PopKit section to CLAUDE.md without overwriting. Detects conflicts, creates config, prompts for Power Mode. Use for new projects only - use analyze-project for existing.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-project-init"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-assessment-anthropic",
+    "name": "pop-assessment-anthropic",
+    "description": "Validates PopKit compliance with Claude Code patterns using concrete standards and automated checks",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-ops/skills/pop-assessment-anthropic"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-changelog-automation",
+    "name": "pop-changelog-automation",
+    "description": "Enhanced changelog generation with semantic versioning, auto-categorization, and release notes. Parses conventional commits, determines version bump (MAJOR.MINOR.PATCH), categorizes changes by type, generates CHANGELOG.md updates, and creates GitHub release notes. Use before releases or on PR merge to automate version management.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-changelog-automation"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-session-resume",
+    "name": "session-resume",
+    "description": "Use at start of new session to restore context from STATUS.json - loads previous state, displays session type, shows what to continue working on. Calculates session type (Continuation/Resume/Fresh Start) based on time gap. Do NOT use mid-session or when starting fresh work unrelated to previous session - just begin the new task directly.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-session-resume"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-assessment-performance",
+    "name": "pop-assessment-performance",
+    "description": "Evaluates PopKit efficiency using concrete metrics for context usage, token consumption, and lazy loading validation",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-ops/skills/pop-assessment-performance"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-embed-content",
+    "name": "embed-content",
+    "description": "Use when you need to manage project embeddings - embed skills, agents, commands, and MCP tools for semantic discovery. Handles rate limiting, incremental updates, and status reporting. Do NOT use if you just want to search for content - use the semantic router directly instead.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-embed-content"
+  },
+  {
+    "id": "dhhn2002-notebooklm-skill-skill",
+    "name": "notebooklm",
+    "description": "Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. Browser automation, library management, persistent auth. Drastically reduced hallucinations through document-only responses.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 3,
+    "updatedAt": "2026-01-09T16:49:40Z",
+    "repoUrl": "https://github.com/dhhn2002/notebooklm-skill/tree/main/SKILL.md"
+  },
+  {
+    "id": "keithdv-claudeskills-docs-snippets",
+    "name": "docs-snippets",
+    "description": "Documentation snippet synchronization. Use when adding code examples to documentation, syncing snippets from samples to docs, verifying docs are in sync with code, working with",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:45:36Z",
+    "repoUrl": "https://github.com/keithdv/ClaudeSkills/tree/main/skills/docs-snippets"
+  },
+  {
+    "id": "data-wise-craft-changelog-automation",
+    "name": "changelog-automation",
+    "description": "Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use when setting up release workflows, generating release notes, or standardizing commit conventions.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:20:53Z",
+    "repoUrl": "https://github.com/Data-Wise/craft/tree/main/skills/docs/changelog-automation"
+  },
+  {
+    "id": "data-wise-craft-doc-classifier",
+    "name": "doc-classifier",
+    "description": "",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:20:53Z",
+    "repoUrl": "https://github.com/Data-Wise/craft/tree/main/skills/docs/doc-classifier/skill.md"
+  },
+  {
+    "id": "aiskillstore-marketplace-pdf",
+    "name": "pdf",
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/pdf"
+  },
+  {
+    "id": "aiskillstore-marketplace-internal-comms",
+    "name": "internal-comms",
+    "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/internal-comms"
+  },
+  {
+    "id": "aiskillstore-marketplace-template-skill",
+    "name": "template-skill",
+    "description": "Replace with description of the skill and when Claude should use it.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/template-skill"
+  },
+  {
+    "id": "aiskillstore-marketplace-pymatgen",
+    "name": "pymatgen",
+    "description": "Materials science toolkit. Crystal structures (CIF, POSCAR), phase diagrams, band structure, DOS, Materials Project integration, format conversion, for computational materials science.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/pymatgen"
+  },
+  {
+    "id": "aiskillstore-marketplace-commit",
+    "name": "commit",
+    "description": "Create commit messages following Sentry conventions. Use when committing code changes, writing commit messages, or formatting git history. Follows conventional commits with Sentry-specific issue references.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/getsentry/commit"
+  },
+  {
+    "id": "aiskillstore-marketplace-etetoolkit",
+    "name": "etetoolkit",
+    "description": "Phylogenetic tree toolkit (ETE). Tree manipulation (Newick/NHX), evolutionary event detection, orthology/paralogy, NCBI taxonomy, visualization (PDF/SVG), for phylogenomics.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/etetoolkit"
+  },
+  {
+    "id": "aiskillstore-marketplace-matplotlib",
+    "name": "matplotlib",
+    "description": "Foundational plotting library. Create line plots, scatter, bar, histograms, heatmaps, 3D, subplots, export PNG/PDF/SVG, for scientific visualization and publication figures.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/matplotlib"
+  },
+  {
+    "id": "aiskillstore-marketplace-create-plan",
+    "name": "create-plan",
+    "description": "Create a concise plan. Use when a user explicitly asks for a plan related to a coding task.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/create-plan"
+  },
+  {
+    "id": "aiskillstore-marketplace-zarr-python",
+    "name": "zarr-python",
+    "description": "Chunked N-D arrays for cloud storage. Compressed arrays, parallel I/O, S3/GCS integration, NumPy/Dask/Xarray compatible, for large-scale scientific computing pipelines.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/zarr-python"
+  },
+  {
+    "id": "aiskillstore-marketplace-paper-2-web",
+    "name": "paper-2-web",
+    "description": "This skill should be used when converting academic papers into promotional and presentation formats including interactive websites (Paper2Web), presentation videos (Paper2Video), and conference posters (Paper2Poster). Use this skill for tasks involving paper dissemination, conference preparation, creating explorable academic homepages, generating video abstracts, or producing print-ready posters from LaTeX or PDF sources.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/paper-2-web"
+  },
+  {
+    "id": "glebis-claude-skills-retrospective",
+    "name": "retrospective",
+    "description": "",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/retrospective/skill.md"
+  },
+  {
+    "id": "glebis-claude-skills-llm-cli",
+    "name": "llm-cli",
+    "description": "Process textual and multimedia files with various LLM providers using the llm CLI. Supports both non-interactive and interactive modes with model selection, config persistence, and file input handling.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/llm-cli"
+  },
+  {
+    "id": "glebis-claude-skills-telegram",
+    "name": "telegram",
+    "description": "This skill should be used when fetching, searching, downloading, sending, or editing messages on Telegram. Use for queries like \"show my Telegram messages\", \"search Telegram for...\", \"get unread messages\", \"send a message to...\", \"edit that message\", or \"add Telegram messages to my notes\".",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/telegram"
+  },
+  {
+    "id": "glebis-claude-skills-chrome-history",
+    "name": "chrome-history",
+    "description": "Query Chrome browsing history with natural language. Filter by date range, article type, keywords, and specific sites.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/chrome-history"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-localization",
+    "name": "axiom-localization",
+    "description": "Use when localizing apps, using String Catalogs, generating type-safe symbols (Xcode 26+), handling plurals, RTL layouts, locale-aware formatting, or migrating from .strings files - comprehensive i18n patterns for Xcode 15-26",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-localization"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ios-vision",
+    "name": "axiom-ios-vision",
+    "description": "Use when implementing ANY computer vision feature - image analysis, object detection, pose detection, person segmentation, subject lifting, hand/body pose tracking.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-vision"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-now-playing-carplay",
+    "name": "axiom-now-playing-carplay",
+    "description": "CarPlay Now Playing integration patterns. Use when implementing CarPlay audio controls, CPNowPlayingTemplate customization, or debugging CarPlay-specific issues.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-now-playing-carplay"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-typography-ref",
+    "name": "axiom-typography-ref",
+    "description": "Apple platform typography reference (San Francisco fonts, text styles, Dynamic Type, tracking, leading, internationalization) through iOS 26",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-typography-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-core-spotlight-ref",
+    "name": "axiom-core-spotlight-ref",
+    "description": "Use when indexing app content for Spotlight search, using NSUserActivity for prediction/handoff, or choosing between CSSearchableItem and IndexedEntity - covers Core Spotlight framework and NSUserActivity integration for iOS 9+",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-core-spotlight-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ownership-conventions",
+    "name": "axiom-ownership-conventions",
+    "description": "Use when optimizing large value type performance, working with noncopyable types, or reducing ARC traffic. Covers borrowing, consuming, inout modifiers, consume operator, ~Copyable types.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ownership-conventions"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ios-accessibility",
+    "name": "axiom-ios-accessibility",
+    "description": "Use when fixing or auditing ANY accessibility issue - VoiceOver, Dynamic Type, color contrast, touch targets, WCAG compliance, App Store accessibility review.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-accessibility"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-core-location",
+    "name": "axiom-core-location",
+    "description": "Use for Core Location implementation patterns - authorization strategy, monitoring strategy, accuracy selection, background location",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-core-location"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-camera-capture-diag",
+    "name": "axiom-camera-capture-diag",
+    "description": "camera freezes, preview rotated wrong, capture slow, session interrupted, black preview, front camera mirrored, camera not starting, AVCaptureSession errors, startRunning blocks, phone call interrupts camera",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-camera-capture-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-background-processing-diag",
+    "name": "axiom-background-processing-diag",
+    "description": "Symptom-based background task troubleshooting - decision trees for 'task never runs', 'task terminates early', 'works in dev not prod', 'handler not called', with time-cost analysis for each diagnosis path",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-background-processing-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-display-performance",
+    "name": "axiom-display-performance",
+    "description": "Use when app runs at unexpected frame rate, stuck at 60fps on ProMotion, frame pacing issues, or configuring render loops. Covers MTKView, CADisplayLink, CAMetalDisplayLink, frame pacing, hitches, system caps.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-display-performance"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-core-location-diag",
+    "name": "axiom-core-location-diag",
+    "description": "Use for Core Location troubleshooting - no location updates, background location broken, authorization denied, geofence not triggering",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-core-location-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-camera-capture",
+    "name": "axiom-camera-capture",
+    "description": "AVCaptureSession, camera preview, photo capture, video recording, RotationCoordinator, session interruptions, deferred processing, capture responsiveness, zero-shutter-lag, photoQualityPrioritization, front camera mirroring",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-camera-capture"
+  },
+  {
+    "id": "wayne930242-reflexive-claude-code-write-skill",
+    "name": "write-skill",
+    "description": "Create effective Claude Code SKILL.md files following Anthropic's official patterns. Use when writing new skills, improving existing skills, or learning skill best practices.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T15:14:26Z",
+    "repoUrl": "https://github.com/wayne930242/Reflexive-Claude-Code/tree/main/plugins/ACE-core/skills/write-skill"
+  },
+  {
+    "id": "wayne930242-reflexive-claude-code-write-claude-md",
+    "name": "write-claude-md",
+    "description": "Create effective CLAUDE.md files with proper constitution using <law> blocks. Use when creating project setup, writing new CLAUDE.md, or improving existing configuration.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T15:14:26Z",
+    "repoUrl": "https://github.com/wayne930242/Reflexive-Claude-Code/tree/main/plugins/ACE-core/skills/write-claude-md"
+  },
+  {
+    "id": "wayne930242-reflexive-claude-code-agent-architect",
+    "name": "agent-architect",
+    "description": "Claude Code architecture advisor. Classifies knowledge and delegates to appropriate skills. Use when deciding where to put new knowledge or restructuring components.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T15:14:26Z",
+    "repoUrl": "https://github.com/wayne930242/Reflexive-Claude-Code/tree/main/plugins/ACE-core/skills/agent-architect"
+  },
+  {
+    "id": "antoniocascais-claude-code-toolkit-commands",
+    "name": "commands",
+    "description": "Warm up skill discovery then execute task",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T15:09:47Z",
+    "repoUrl": "https://github.com/antoniocascais/claude-code-toolkit/tree/main/commands/myskill.md"
+  },
+  {
+    "id": "antoniocascais-claude-code-toolkit-pr-review",
+    "name": "pr-review",
+    "description": "Reviews code changes before merging. Use when reviewing PRs, checking staged changes, reviewing diffs, code review, merge readiness check, or validating changes before commit/push.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T15:09:47Z",
+    "repoUrl": "https://github.com/antoniocascais/claude-code-toolkit/tree/main/skills/pr-review"
+  },
+  {
+    "id": "antoniocascais-claude-code-toolkit-planner",
+    "name": "planner",
+    "description": "Captures and organizes personal tasks into typed folders (work, learning, product, content, career, admin). Use when user mentions adding tasks, planning the week, reviewing task backlog, triaging inbox, or managing todos.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T15:09:47Z",
+    "repoUrl": "https://github.com/antoniocascais/claude-code-toolkit/tree/main/skills/planner.example"
+  },
+  {
+    "id": "antoniocascais-claude-code-toolkit-git-commit",
+    "name": "git-commit",
+    "description": "Plans and executes git commits with optional TICKET_ID prefix. Analyzes staged changes, proposes optimal commit structure (single or multiple), generates descriptive messages with technical context, and executes after user approval. Use when committing code changes, creating atomic commits, or splitting large changesets.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T15:09:47Z",
+    "repoUrl": "https://github.com/antoniocascais/claude-code-toolkit/tree/main/skills/git-commit"
+  },
+  {
+    "id": "antoniocascais-claude-code-toolkit-note-taking",
+    "name": "note-taking",
+    "description": "Manages task notes and knowledge base entries. Use when creating/updating notes, curating knowledge, reviewing task progress, or at session end for cleanup.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T15:09:47Z",
+    "repoUrl": "https://github.com/antoniocascais/claude-code-toolkit/tree/main/skills/note-taking.example"
+  },
+  {
+    "id": "antoniocascais-claude-code-toolkit-skill-creator",
+    "name": "skill-creator",
+    "description": "Creates new Claude Code skills with proper structure and best practices. Use when user wants to create a skill, add a new command, scaffold a workflow, or asks \"how do I make a skill\".",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T15:09:47Z",
+    "repoUrl": "https://github.com/antoniocascais/claude-code-toolkit/tree/main/skills/skill-creator"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-github-cli",
+    "name": "github-cli",
+    "description": "Use when working with GitHub issues, pull requests, or Projects v2 via CLI. Covers gh commands for automation, PR creation, issue management, and workflow scripts.",
+    "category": "tools-productivity",
+    "tags": [
+      "github",
+      "gh",
+      "cli",
+      "issues",
+      "pr",
+      "projects",
+      "automation",
+      2025
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/github-cli"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-quality-gates",
+    "name": "quality-gates",
+    "description": "Use when assessing task complexity, before starting complex tasks, or when stuck after multiple attempts. Provides complexity scoring (1-5), blocking thresholds, and escalation workflows to prevent wasted work.",
+    "category": "tools-productivity",
+    "tags": [
+      "quality",
+      "complexity",
+      "planning",
+      "escalation",
+      "blocking"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/quality-gates"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-multi-agent-orchestration",
+    "name": "multi-agent-orchestration",
+    "description": "Multi-agent coordination and synthesis patterns. Use when orchestrating multiple specialized agents, implementing fan-out/fan-in workflows, or synthesizing outputs from parallel agents.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/multi-agent-orchestration"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-langgraph-human-in-loop",
+    "name": "langgraph-human-in-loop",
+    "description": "LangGraph human-in-the-loop patterns. Use when implementing approval workflows, manual review gates, user feedback integration, or interactive agent supervision.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/langgraph-human-in-loop"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-query-decomposition",
+    "name": "query-decomposition",
+    "description": "Query decomposition for multi-concept retrieval. Use when handling complex queries spanning multiple topics, implementing multi-hop retrieval, or improving coverage for compound questions.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/query-decomposition"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-function-calling",
+    "name": "function-calling",
+    "description": "LLM function calling and tool use patterns. Use when enabling LLMs to call external tools, defining tool schemas, implementing tool execution loops, or getting structured output from LLMs.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/function-calling"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-code-review-playbook",
+    "name": "code-review-playbook",
+    "description": "Use this skill when conducting or improving code reviews. Provides structured review processes, conventional comments patterns, language-specific checklists, and feedback templates. Ensures consistent, constructive, and thorough code reviews across teams.",
+    "category": "tools-productivity",
+    "tags": [
+      "code-review",
+      "quality",
+      "collaboration",
+      "best-practices"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/code-review-playbook"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-cache-cost-tracking",
+    "name": "cache-cost-tracking",
+    "description": "LLM cost tracking with Langfuse for cached responses. Use when monitoring cache effectiveness, tracking cost savings, or attributing costs to agents in multi-agent systems.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/cache-cost-tracking"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-hyde-retrieval",
+    "name": "hyde-retrieval",
+    "description": "HyDE (Hypothetical Document Embeddings) for improved semantic retrieval. Use when queries don't match document vocabulary, retrieval quality is poor, or implementing advanced RAG patterns.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/hyde-retrieval"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-project-structure-enforcer",
+    "name": "project-structure-enforcer",
+    "description": "Enforce 2026 folder structure standards - feature-based organization, max nesting depth, unidirectional imports. Blocks structural violations. Use when creating files or reviewing project architecture.",
+    "category": "tools-productivity",
+    "tags": [
+      "structure",
+      "architecture",
+      "enforcement",
+      "blocking",
+      "imports",
+      "organization"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/project-structure-enforcer"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-context-compression",
+    "name": "context-compression",
+    "description": "Use when conversation context is too long, hitting token limits, or responses are degrading. Compresses history while preserving critical information using anchored summarization and probe-based validation.",
+    "category": "tools-productivity",
+    "tags": [
+      "context",
+      "compression",
+      "summarization",
+      "memory",
+      "optimization",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/context-compression"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-reranking-patterns",
+    "name": "reranking-patterns",
+    "description": "Reranking patterns for improving search precision. Use when implementing cross-encoder reranking, LLM-based relevance scoring, or improving retrieval quality in RAG pipelines.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/reranking-patterns"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-langgraph-parallel",
+    "name": "langgraph-parallel",
+    "description": "LangGraph parallel execution patterns. Use when implementing fan-out/fan-in workflows, map-reduce over tasks, or running independent agents concurrently.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/langgraph-parallel"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-observability-monitoring",
+    "name": "Observability & Monitoring",
+    "description": "Use when adding logging, metrics, tracing, or alerting to applications. Covers structured logging, Prometheus metrics, OpenTelemetry tracing, and alerting strategies.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/observability-monitoring"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-langgraph-checkpoints",
+    "name": "langgraph-checkpoints",
+    "description": "LangGraph checkpointing and persistence. Use when implementing fault-tolerant workflows, resuming interrupted executions, debugging with state history, or avoiding re-running expensive operations.",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/langgraph-checkpoints"
   }
 ]
