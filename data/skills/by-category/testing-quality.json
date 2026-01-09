@@ -1140,5 +1140,386 @@
     "stars": 35,
     "updatedAt": "2026-01-09T16:54:31Z",
     "repoUrl": "https://github.com/athola/skrills/tree/main/assets/demo-skills/test-writer"
+  },
+  {
+    "id": "cblecker-claude-skills-syncing-branch",
+    "name": "Sync a git branch",
+    "description": "Provides fork-aware branch synchronization with automatic remote detection and safe merge handling. Detects fork vs origin repositories, fetches from correct remotes (upstream for forks), and handles fast-forward merges with conflict prevention. Use for 'sync branch', 'pull latest', 'get latest changes', 'sync with upstream', 'update from main'.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T18:11:23Z",
+    "repoUrl": "https://github.com/cblecker/claude-skills/tree/main/git-workflows/skills/syncing-branch"
+  },
+  {
+    "id": "brucevanfdm-agent-skills-guard-test-skills",
+    "name": "Safe Skill Test",
+    "description": "A legitimate skill with no security issues",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 28,
+    "updatedAt": "2026-01-09T18:00:51Z",
+    "repoUrl": "https://github.com/brucevanfdm/agent-skills-guard/tree/main/test-skills/safe-skill.md"
+  },
+  {
+    "id": "overdrive-consulting-overdrive-ai-devkit-test-driven-development",
+    "name": "test-driven-development",
+    "description": "Use when implementing any feature or bugfix, before writing implementation code",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T17:51:40Z",
+    "repoUrl": "https://github.com/Overdrive-Consulting/overdrive-ai-devkit/tree/main/skills/test-driven-development"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-python-project-skill",
+    "name": "python-project",
+    "description": "Python project scaffolding and development with modern tooling. Use when creating new Python projects, setting up virtual environments, configuring dependencies, or working with Flask web applications. Triggers on mentions of Python setup, uv, Flask, pytest, or project initialization.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/python-project-skill"
+  },
+  {
+    "id": "motium-ai-claude-code-toolkit-webapp-testing",
+    "name": "webapp-testing",
+    "description": "Toolkit for testing and automating web applications. Prioritizes Claude Code Chrome integration for real browser testing. Falls back to Playwright scripts for CI/CD or headless scenarios.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:29:01Z",
+    "repoUrl": "https://github.com/Motium-AI/claude-code-toolkit/tree/main/config/skills/webapp-testing"
+  },
+  {
+    "id": "dnyoussef-context-cascade-python-specialist",
+    "name": "python-specialist",
+    "description": "Deliver production-quality Python solutions with framework-aware patterns and tests.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/specialists/language-specialists/python-specialist"
+  },
+  {
+    "id": "dnyoussef-context-cascade-wcag-accessibility",
+    "name": "wcag-accessibility",
+    "description": "WCAG 2.1 AA/AAA accessibility compliance specialist for ARIA attributes, keyboard navigation, screen reader testing, color contrast validation, semantic HTML, and automated a11y testing with axe-core/",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/security/compliance/wcag-accessibility"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-analyze-project",
+    "name": "analyze-project",
+    "description": "Use when starting work on an unfamiliar project or needing to understand a codebase - performs comprehensive analysis discovering architecture, patterns, dependencies, testing coverage, and improvement opportunities. Do NOT use on projects you already know well or for targeted questions about specific files - use direct exploration instead for focused queries.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-analyze-project"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-skill-generator",
+    "name": "skill-generator",
+    "description": "Use when you want to capture project-specific patterns as reusable skills - generates custom skills based on codebase patterns, common workflows, and team conventions discovered during analysis. Creates skills for patterns, testing, deployment, debugging, and setup. Do NOT use for generic skills that would work across any project - those belong in popkit core, not project-specific generation.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-skill-generator"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-systematic-debugging",
+    "name": "systematic-debugging",
+    "description": "Four-phase debugging: root cause → patterns → hypothesis → implement. For complex bugs, test failures, multi-component issues. NOT for obvious syntax errors.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-ops/skills/pop-systematic-debugging"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-plugin-test",
+    "name": "plugin-test",
+    "description": "Run comprehensive tests on plugin components using the modular test runner. Validates hooks, agents, skills, and plugin structure across all PopKit plugin packages.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-plugin-test"
+  },
+  {
+    "id": "keithdv-claudeskills-bunit",
+    "name": "bunit",
+    "description": "Blazor component testing with bUnit. Use when writing unit tests for Blazor components, testing user interactions, mocking services/dependencies, testing MudBlazor components, testing components with Neatoo domain objects, or debugging component rendering issues.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:45:36Z",
+    "repoUrl": "https://github.com/keithdv/ClaudeSkills/tree/main/skills/bunit"
+  },
+  {
+    "id": "keithdv-claudeskills-knockoff",
+    "name": "knockoff",
+    "description": "KnockOff source-generated test stubs. Use when creating interface stubs for unit tests, migrating from Moq, understanding the duality pattern (user methods vs callbacks), configuring stub behavior, verifying invocations, or working with interceptors for tracking calls.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:45:36Z",
+    "repoUrl": "https://github.com/keithdv/ClaudeSkills/tree/main/skills/knockoff"
+  },
+  {
+    "id": "keithdv-claudeskills-playwright-blazor-e2e",
+    "name": "playwright-blazor-e2e",
+    "description": "End-to-end testing for Blazor applications using Playwright for .NET. Use when writing E2E tests, creating test infrastructure, testing MudBlazor components, handling Blazor WebAssembly loading, debugging test failures, or setting up CI/CD test pipelines.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:45:36Z",
+    "repoUrl": "https://github.com/keithdv/ClaudeSkills/tree/main/skills/playwright-blazor-e2e"
+  },
+  {
+    "id": "aiskillstore-marketplace-pyhealth",
+    "name": "pyhealth",
+    "description": "Comprehensive healthcare AI toolkit for developing, testing, and deploying machine learning models with clinical data. This skill should be used when working with electronic health records (EHR), clinical prediction tasks (mortality, readmission, drug recommendation), medical coding systems (ICD, NDC, ATC), physiological signals (EEG, ECG), healthcare datasets (MIMIC-III/IV, eICU, OMOP), or implementing deep learning models for healthcare applications (RETAIN, SafeDrug, Transformer, GNN).",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/pyhealth"
+  },
+  {
+    "id": "aiskillstore-marketplace-pydeseq2",
+    "name": "pydeseq2",
+    "description": "Differential gene expression analysis (Python DESeq2). Identify DE genes from bulk RNA-seq counts, Wald tests, FDR correction, volcano/MA plots, for RNA-seq analysis.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/pydeseq2"
+  },
+  {
+    "id": "aiskillstore-marketplace-hypogenic",
+    "name": "hypogenic",
+    "description": "Automated hypothesis generation and testing using large language models. Use this skill when generating scientific hypotheses from datasets, combining literature insights with empirical data, testing hypotheses against observational data, or conducting systematic hypothesis exploration for research discovery in domains like deception detection, AI content detection, mental health analysis, or other empirical research tasks.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/hypogenic"
+  },
+  {
+    "id": "aiskillstore-marketplace-statsmodels",
+    "name": "statsmodels",
+    "description": "Statistical modeling toolkit. OLS, GLM, logistic, ARIMA, time series, hypothesis tests, diagnostics, AIC/BIC, for rigorous statistical inference and econometric analysis.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/statsmodels"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-abap",
+    "name": "sap-abap",
+    "description": "Comprehensive ABAP development skill for SAP systems. Use when writing ABAP code,\nworking with internal tables, structures, ABAP SQL, object-oriented programming,\nRAP (RESTful Application Programming Model), CDS views, EML statements, ABAP Cloud\ndevelopment, string processing, dynamic programming, RTTI/RTTC, field symbols,\ndata references, exception handling, or ABAP unit testing. Covers both classic\nABAP and modern ABAP for Cloud Development patterns.\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-abap/skills/sap-abap"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-in-app-purchases",
+    "name": "axiom-in-app-purchases",
+    "description": "Use when implementing in-app purchases, StoreKit 2, subscriptions, or transaction handling - testing-first workflow with .storekit configuration, StoreManager architecture, transaction verification, subscription management, and restore purchases for consumables, non-consumables, and auto-renewable subscriptions",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-in-app-purchases"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-deep-link-debugging",
+    "name": "axiom-deep-link-debugging",
+    "description": "Use when adding debug-only deep links for testing, enabling simulator navigation to specific screens, or integrating with automated testing workflows - enables closed-loop debugging without production deep link implementation",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-deep-link-debugging"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-assume-isolated",
+    "name": "axiom-assume-isolated",
+    "description": "Use when needing synchronous actor access in tests, legacy delegate callbacks, or performance-critical code. Covers MainActor.assumeIsolated, @preconcurrency protocol conformances, crash behavior, Task vs assumeIsolated.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-assume-isolated"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-core-data-diag",
+    "name": "axiom-core-data-diag",
+    "description": "Use when debugging schema migration crashes, concurrency thread-confinement errors, N+1 query performance, SwiftData to Core Data bridging, or testing migrations without data loss - systematic Core Data diagnostics with safety-first migration patterns",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-core-data-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-testflight-triage",
+    "name": "axiom-testflight-triage",
+    "description": "Use when ANY beta tester reports a crash, ANY crash appears in Organizer or App Store Connect, crash logs need symbolication, app was killed without crash report, or you need to triage TestFlight feedback",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-testflight-triage"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-swiftdata-migration-diag",
+    "name": "axiom-swiftdata-migration-diag",
+    "description": "Use when SwiftData migrations crash, fail to preserve relationships, lose data, or work in simulator but fail on device - systematic diagnostics for schema version mismatches, relationship errors, and migration testing gaps",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swiftdata-migration-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-background-processing",
+    "name": "axiom-background-processing",
+    "description": "Use when implementing BGTaskScheduler, debugging background tasks that never run, understanding why tasks terminate early, or testing background execution - systematic task lifecycle management with proper registration, expiration handling, and Swift 6 cancellation patterns",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-background-processing"
+  },
+  {
+    "id": "wayne930242-reflexive-claude-code-write-subagent",
+    "name": "write-subagent",
+    "description": "Create Claude Code subagent configurations for .claude/agents/. Defines specialized agents with isolated contexts. Use when creating dedicated agents for code review, testing, or domain-specific tasks.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T15:14:26Z",
+    "repoUrl": "https://github.com/wayne930242/Reflexive-Claude-Code/tree/main/plugins/ACE-core/skills/write-subagent"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-performance-testing",
+    "name": "performance-testing",
+    "description": "Performance and load testing with k6 and Locust. Use when validating system performance under load, stress testing, identifying bottlenecks, or establishing performance baselines.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/performance-testing"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-webapp-testing",
+    "name": "Webapp Testing",
+    "description": "Use when testing web applications with AI-assisted Playwright. Features autonomous test agents for planning, generating, and self-healing tests automatically.",
+    "category": "testing-quality",
+    "tags": [
+      "playwright",
+      "testing",
+      "e2e",
+      "automation",
+      "agents",
+      2025
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/webapp-testing"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-llm-testing",
+    "name": "llm-testing",
+    "description": "Testing patterns for LLM-based applications. Use when testing AI/ML integrations, mocking LLM responses, testing async timeouts, or validating structured outputs from LLMs.",
+    "category": "testing-quality",
+    "tags": [
+      "testing",
+      "llm",
+      "ai",
+      "deepeval",
+      "ragas",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/llm-testing"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-e2e-testing",
+    "name": "e2e-testing",
+    "description": "End-to-end testing with Playwright 1.57+. Use when testing critical user journeys, browser automation, cross-browser testing, AI-assisted test generation, or validating complete application flows.",
+    "category": "testing-quality",
+    "tags": [
+      "playwright",
+      "e2e",
+      "testing",
+      "ai-agents",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/e2e-testing"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-golden-dataset-curation",
+    "name": "golden-dataset-curation",
+    "description": "Use when creating or improving golden datasets for AI evaluation. Defines quality criteria, curation workflows, and multi-agent analysis patterns for test data.",
+    "category": "testing-quality",
+    "tags": [
+      "golden-dataset",
+      "curation",
+      "quality",
+      "multi-agent",
+      "langfuse",
+      2025
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/golden-dataset-curation"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-golden-dataset-management",
+    "name": "golden-dataset-management",
+    "description": "Use when backing up, restoring, or validating golden datasets. Prevents data loss and ensures test data integrity for AI/ML evaluation systems.",
+    "category": "testing-quality",
+    "tags": [
+      "golden-dataset",
+      "backup",
+      "data-protection",
+      "testing",
+      "regression",
+      2025
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/golden-dataset-management"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-test-standards-enforcer",
+    "name": "test-standards-enforcer",
+    "description": "Enforce testing best practices - AAA pattern, naming conventions, isolation, coverage thresholds. Blocks non-compliant tests. Use when writing or reviewing tests.",
+    "category": "testing-quality",
+    "tags": [
+      "testing",
+      "quality",
+      "enforcement",
+      "blocking",
+      "aaa-pattern",
+      "coverage"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/test-standards-enforcer"
   }
 ]

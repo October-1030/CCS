@@ -4083,5 +4083,2162 @@
     "stars": 0,
     "updatedAt": "2026-01-09T16:48:40Z",
     "repoUrl": "https://github.com/AbeJitsu/Need_This_Done/tree/main/.claude/skills/frontend-design"
+  },
+  {
+    "id": "cblecker-claude-skills-rebasing-branch",
+    "name": "Rebase a git branch",
+    "description": "Provides comprehensive rebase workflow with automatic base branch sync, author date management, and conflict resolution guidance. Syncs base branch before rebasing, prevents mainline rebase errors, resets author dates on request. Integrates with Git Safety Protocol for force push warnings. Use for 'rebase', 'rebase on main', 'rebase onto', 'update branch with main'.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T18:11:23Z",
+    "repoUrl": "https://github.com/cblecker/claude-skills/tree/main/git-workflows/skills/rebasing-branch"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-scm",
+    "name": "scm",
+    "description": "Guide for effective source control management with Git following modern best practices. Covers branching strategies, commit hygiene, PR workflows, and team collaboration patterns. Triggers on \"git\", \"source control\", \"version control\", \"branching\", \"merge\", \"rebase\", \"git workflow\", \"pull request\", \"commit message\", \"git history\", \"git conflict\", \"git stash\", \"git cherry-pick\", \"git bisect\", \"git blame\", \"git log\", \"git diff\", \"git reset\", \"git checkout\", \"git switch\", \"git restore\", \"git tag\", \"git remote\", \"git fetch\", \"git pull\", \"git push\", \"git branch\", \"conventional commits\", \"squash\", \"force push\", \"git hooks\", \"pre-commit\", \"commit-msg\", \"gitignore\", \"git submodule\", \"git worktree\", \"feature branch\", \"trunk based\", \"git flow\", \"github flow\". PROACTIVE: MUST invoke when performing complex Git operations or setting up workflows.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/scm"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-bash",
+    "name": "bash",
+    "description": "Guide for writing production-quality bash scripts following modern idiomatic practices. Enforces set -euo pipefail, [[ ]] conditionals, ${var} syntax, ShellCheck compliance. Triggers on \"bash script\", \"shell script\", \".sh file\", \"write a script\", \"automation script\", \"bash function\", \"shellcheck\", \"bash template\", \"pre-commit hook\", \"deploy script\", \"build script\", \"install script\", \"setup script\", \"bash error handling\", \"bash arrays\", \"bash loop\", \"bash conditional\", \"parse arguments\", \"getopts\", \"bash logging\", \"#!/bin/bash\", \"source script\", \"dot script\", \"shell function\". PROACTIVE: MUST invoke when writing ANY .sh file or pre-commit hook.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/bash"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-make",
+    "name": "make",
+    "description": "Guide for writing idiomatic, maintainable Makefiles following modern best practices. Enforces safety headers (SHELL, .SHELLFLAGS, .DELETE_ON_ERROR), self-documenting help, .PHONY declarations, modular includes. Triggers on \"makefile\", \"Makefile\", \"make target\", \"make rule\", \"make pattern\", \"make help\", \"make template\", \".mk file\", \"make include\", \"make variable\", \"make phony\", \"make dependency\", \"build system\", \"make clean\", \"make install\", \"make test\", \"make build\", \"make all\", \"make default\", \"task runner\", \"make automation\", \"GNU make\", \"make recipe\", \"make prerequisite\". PROACTIVE: MUST invoke when writing ANY Makefile or *.mk file.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/make"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-python",
+    "name": "python",
+    "description": "Guide for writing clean, efficient, idiomatic Python 3.11+ code. Enforces type hints, Pydantic v2 for APIs, comprehensions over loops, EAFP error handling. Triggers on \"python\", \"pythonic\", \".py file\", \"write python\", \"python script\", \"python function\", \"python class\", \"pydantic\", \"fastapi\", \"pytest\", \"type hint\", \"typing\", \"dataclass\", \"async def\", \"asyncio\", \"aiohttp\", \"comprehension\", \"generator\", \"decorator\", \"context manager\", \"with statement\", \"exception handling\", \"try except\", \"raise\", \"logging python\", \"argparse\", \"click\", \"typer\", \"__init__\", \"__main__\", \"import\", \"from import\", \"python module\", \"python package\", \"requirements.txt\", \"pyproject.toml\", \"ruff\", \"mypy\", \"black\", \"isort\", \"python testing\", \"fixture\", \"parametrize\". PROACTIVE: MUST invoke when writing ANY .py file.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/python"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-golang",
+    "name": "golang",
+    "description": "Comprehensive Go 1.26 development skill enforcing idiomatic patterns, error wrapping with fmt.Errorf %w, small interfaces, table-driven tests. Triggers on \"go\", \"golang\", \".go file\", \"write go\", \"go function\", \"go struct\", \"go interface\", \"go method\", \"go error handling\", \"errors.Is\", \"errors.As\", \"fmt.Errorf\", \"go concurrency\", \"goroutine\", \"channel\", \"sync.Mutex\", \"errgroup\", \"context.Context\", \"go mod\", \"go.mod\", \"go.sum\", \"go test\", \"go build\", \"go run\", \"golangci-lint\", \"go fmt\", \"gofmt\", \"go vet\", \"go generate\", \"go embed\", \"go template\", \"http handler\", \"gin\", \"echo\", \"chi\", \"fiber\", \"gorm\", \"sqlx\", \"go project\", \"go package\", \"go module\", \"defer\", \"panic recover\", \"go slice\", \"go map\", \"go pointer\". PROACTIVE: MUST invoke when writing ANY .go file.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/golang"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-terraform",
+    "name": "terraform",
+    "description": "Guide for writing production-quality Terraform and Terragrunt infrastructure code following HashiCorp and community best practices. Triggers on \"terraform\", \"terragrunt\", \"tf\", \"hcl\", \"infrastructure as code\", \"iac\", \"aws terraform\", \"gcp terraform\", \"azure terraform\", \"terraform module\", \"terraform state\", \"terraform plan\", \"terraform apply\", \"terraform init\", \"terraform workspace\", \"terraform backend\", \"terraform provider\", \"terraform resource\", \"terraform data\", \"terraform variable\", \"terraform output\", \"terraform locals\", \"terraform for_each\", \"terraform count\", \"terraform dynamic\", \"tfvars\", \"terraform validate\", \"terraform fmt\", \"tflint\", \"terraform import\", \"terraform destroy\", \"remote state\", \"state locking\", \"terraform cloud\", \"opentofu\". PROACTIVE: MUST invoke when writing ANY .tf or .hcl file.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/terraform"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-gemini-review",
+    "name": "gemini-review",
+    "description": "Invoke Gemini for design/code review. PROACTIVE: (1) BEFORE proposing new features/architecture, (2) AFTER >100 lines or >3 files changed (before tests), (3) AFTER security/perf changes, (4) ON SESSION RESUME - check thresholds first. Triggers on \"new feature\", \"architectural decision\", \"security review\", \"performance review\", \"code review\", \"gemini review\", \"debug\", \"cross-service\", \"data flow\", \"frontend backend\", \"analysis\", \"implementation complete\", \"run the tests\", \"commit these\", \"modified multiple files\", \"session resumed\", \"context compaction\", \"left off\", \"I've implemented\", \"I've added\", \"I've modified\", \"changes are done\", \"done implementing\", \"finished implementing\", \"implementation is complete\", \"let me run\", \"now let me test\", \"rebuild\", \"make rebuild\", \"pytest\", \"all tests pass\", \"tests pass\", \"fixed the\", \"added the\", \"updated the\".",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/gemini-review"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating and managing Claude Code skills. Use when creating a new skill, updating an existing skill, or validating skill structure. Enforces ABOUTME headers, proper frontmatter format, and progressive disclosure patterns. Triggers on \"create skill\", \"new skill\", \"skill template\", \"init skill\", \"validate skill\", \"skill structure\", \"update skill\", \"modify skill\", \"edit skill\", \"add to skill\", \"change skill\", \"SKILL.md\", \"skill frontmatter\", \"skill description\", \"skill triggers\", \"allowed-tools\", \"skill file\", \"claude code skill\", \"custom skill\", \"personal skill\", \"project skill\".",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/skill-creator"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-web-automation",
+    "name": "web-automation",
+    "description": "Web automation, debugging, and E2E testing with Playwright. Handles interactive (login, forms, reproduce bugs) and passive modes (network/console capture). Triggers on \"e2e test\", \"browser test\", \"playwright\", \"screenshot\", \"debug UI\", \"debug frontend\", \"reproduce bug\", \"network trace\", \"console output\", \"verify fix\", \"test that\", \"verify change\", \"test the flow\", \"http://localhost\", \"open browser\", \"click button\", \"fill form\", \"submit form\", \"check page\", \"web scraping\", \"automation script\", \"headless browser\", \"browser automation\", \"selenium alternative\", \"puppeteer alternative\", \"page object\", \"web testing\", \"UI testing\", \"frontend testing\", \"visual regression\", \"capture network\", \"intercept requests\", \"mock API responses\". PROACTIVE: Invoke for security verification, UI fix verification, testing forms/dropdowns, or multi-step UI flows. ON SESSION RESUME - check for pending UI verifications.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/web-automation"
+  },
+  {
+    "id": "mauromedda-agent-toolkit-design-patterns",
+    "name": "design-patterns",
+    "description": "Cross-language architectural patterns for Go, Python, Bash, and Terraform. Covers dependency injection, error handling, configuration, logging, testing heuristics, and common anti-patterns. Use for architectural guidance and consistent patterns across languages. Triggers on \"dependency injection\", \"DI pattern\", \"error handling pattern\", \"cross-language\", \"architectural pattern\", \"anti-pattern\", \"naming convention\", \"design pattern\", \"testing heuristic\", \"config pattern\", \"logging pattern\".",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:54:59Z",
+    "repoUrl": "https://github.com/mauromedda/agent-toolkit/tree/main/skills/design-patterns"
+  },
+  {
+    "id": "overdrive-consulting-overdrive-ai-devkit-frontend-design",
+    "name": "frontend-design",
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applications.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T17:51:40Z",
+    "repoUrl": "https://github.com/Overdrive-Consulting/overdrive-ai-devkit/tree/main/skills/frontend-design"
+  },
+  {
+    "id": "overdrive-consulting-overdrive-ai-devkit-continuity_ledger",
+    "name": "continuity_ledger",
+    "description": "Create or update continuity ledger for state preservation across clears",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T17:51:40Z",
+    "repoUrl": "https://github.com/Overdrive-Consulting/overdrive-ai-devkit/tree/main/assets/continuous-claude/skills/continuity_ledger"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-uv-skill",
+    "name": "uv-skill",
+    "description": "Guide for using uv - an extremely fast Python package and project manager written in Rust. Use when installing Python, managing virtual environments, adding dependencies, running scripts, building packages, or working with pyproject.toml. Replaces pip, pip-tools, pipx, poetry, pyenv, twine, and virtualenv.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/uv-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-obsidian-second-brain-skill",
+    "name": "obsidian-second-brain",
+    "description": "Comprehensive guide for integrating Obsidian vaults as AI-powered second brains with Claude Code. Covers MCP integration, vault manifests, self-evolving patterns, auto-linking, and knowledge graph automation. Use when setting up Claude Code + Obsidian workflows, implementing bidirectional sync, creating CLAUDE.md manifests, or building self-healing knowledge systems.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/obsidian-second-brain-skill/skill.md"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-loki-skill",
+    "name": "loki",
+    "description": "Guide for implementing Grafana Loki - a horizontally scalable, highly available log aggregation system. Use when configuring Loki deployments, setting up storage backends (S3, Azure Blob, GCS), writing LogQL queries, configuring retention and compaction, deploying via Helm, integrating with OpenTelemetry, or troubleshooting Loki issues on Kubernetes.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/loki-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-tempo-skill",
+    "name": "tempo",
+    "description": "Guide for implementing Grafana Tempo - a high-scale distributed tracing backend for OpenTelemetry traces. Use when configuring Tempo deployments, setting up storage backends (S3, Azure Blob, GCS), writing TraceQL queries, deploying via Helm, understanding trace structure, or troubleshooting Tempo issues on Kubernetes.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/tempo-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-atuin-skill",
+    "name": "atuin",
+    "description": "Shell history management with Atuin. Use when configuring shell history, setting up history sync, searching command history, importing history from other shells, troubleshooting atuin issues, or optimizing history workflows. Covers installation, sync setup, search modes, statistics, and self-hosting.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/atuin-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-mimir-skill",
+    "name": "mimir",
+    "description": "Guide for implementing Grafana Mimir - a horizontally scalable, highly available, multi-tenant TSDB for long-term storage of Prometheus metrics. Use when configuring Mimir on Kubernetes, setting up Azure/S3/GCS storage backends, troubleshooting authentication issues, or optimizing performance.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/mimir-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-neovim-skill",
+    "name": "neovim",
+    "description": "Comprehensive guide for this Neovim configuration - a modular, performance-optimized Lua-based IDE. Use when configuring plugins, adding keybindings, setting up LSP servers, debugging, or extending the configuration. Covers lazy.nvim, 82+ plugins across 9 categories, DAP debugging, AI integrations, and performance optimization.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/neovim-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-direnv-skill",
+    "name": "direnv",
+    "description": "Guide for using direnv - a shell extension for loading directory-specific environment variables. Use when setting up project environments, creating .envrc files, configuring per-project environment variables, integrating with Python/Node/Ruby/Go layouts, working with Nix flakes, or troubleshooting environment loading issues on macOS and Linux.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/direnv-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-mkdocs-skill",
+    "name": "mkdocs",
+    "description": "Build project documentation sites with MkDocs static site generator. USE WHEN user mentions mkdocs, documentation site, docs site, project documentation, OR wants to create, configure, build, or deploy documentation using Markdown. Covers installation, configuration, theming, plugins, and deployment.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/mkdocs-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-obsidian-skill",
+    "name": "obsidian",
+    "description": "Guide for implementing Obsidian knowledge management - vault operations, plugin development, URI scheme automation, markdown extensions, and Local REST API integration. Use when working with Obsidian vaults, creating plugins, automating note workflows, querying notes via API, or implementing knowledge graph features.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/obsidian-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-pyroscope-skill",
+    "name": "pyroscope",
+    "description": "Guide for Grafana Pyroscope continuous profiling. Use for Kubernetes Helm deployment, Go/Java/Python/.NET/Ruby/Node.js profiling, storage backends, trace-to-profile linking, and troubleshooting.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/pyroscope-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-holmesgpt-skill",
+    "name": "holmesgpt-skill",
+    "description": "Guide for implementing HolmesGPT - an AI agent for troubleshooting cloud-native environments. Use when investigating Kubernetes issues, analyzing alerts from Prometheus/AlertManager/PagerDuty, performing root cause analysis, configuring HolmesGPT installations (CLI/Helm/Docker), setting up AI providers (OpenAI/Anthropic/Azure), creating custom toolsets, or integrating with observability platforms (Grafana, Loki, Tempo, DataDog).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/holmesgpt-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-1password-skill",
+    "name": "1password",
+    "description": "Guide for implementing 1Password secrets management - CLI operations, service accounts, and Kubernetes integration. Use when retrieving secrets, managing vaults, configuring CI/CD pipelines, integrating with External Secrets Operator, or automating secrets workflows with 1Password.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/1password-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-markitdown-skill",
+    "name": "markitdown-skill",
+    "description": "Guide for using Microsoft MarkItDown - a Python utility for converting files to Markdown. Use when converting PDF, Word, PowerPoint, Excel, images, audio, HTML, CSV, JSON, XML, ZIP, YouTube URLs, EPubs, Jupyter notebooks, RSS feeds, or Wikipedia pages to Markdown format. Also use for document processing pipelines, LLM preprocessing, or text extraction tasks.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/markitdown-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-writing-go-skill",
+    "name": "writing-go",
+    "description": "Idiomatic Go 1.25+ development. Use when writing Go code, designing APIs, discussing Go patterns, or reviewing Go implementations. Emphasizes stdlib, concrete types, simple error handling, and minimal dependencies.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/writing-go-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-defectdojo-skill",
+    "name": "defectdojo",
+    "description": "Guide for implementing DefectDojo - an open-source DevSecOps, ASPM, and vulnerability management platform. Use when querying vulnerabilities, managing findings, configuring CI/CD pipeline imports, or working with security scan data. Includes MCP tools for direct API interaction.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/defectdojo-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-playwright-skill",
+    "name": "Playwright Browser Automation",
+    "description": "Complete browser automation with Playwright. Auto-detects dev servers, writes clean test scripts to /tmp. Test pages, fill forms, take screenshots, check responsive design, validate UX, test login flows, check links, automate any browser task. Use when user wants to test websites, automate browser interactions, validate web functionality, or perform any browser-based testing.",
+    "category": "frontend-development",
+    "tags": [
+      "testing",
+      "automation",
+      "browser",
+      "e2e",
+      "playwright",
+      "web-testing"
+    ],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/playwright-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-external-dns-skill",
+    "name": "external-dns",
+    "description": "Comprehensive guide for configuring, troubleshooting, and implementing External-DNS across Azure DNS, AWS Route53, Cloudflare, and Google Cloud DNS. Use when implementing automatic DNS management in Kubernetes, configuring provider-specific authentication (managed identities, IRSA, API tokens), troubleshooting DNS synchronization issues, setting up secure production-grade external-dns deployments, optimizing performance, avoiding rate limits, or implementing GitOps patterns with ArgoCD.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/external-dns-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-external-urls-skill",
+    "name": "external-urls",
+    "description": "Hypera infrastructure URLs and endpoints reference. Use when user asks about URLs, domains, ingress endpoints, cluster API servers, application URLs, Helm repositories, Git repositories, or needs to check connectivity to services. Provides quick lookup of all external URLs across all environments (hub, dev, prd) and clusters (cafehyna, loyalty, painelclientes, sonora).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/external-urls-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-obsidian-nvim-skill",
+    "name": "obsidian-nvim",
+    "description": "Guide for implementing obsidian.nvim - a Neovim plugin for Obsidian vault management. Use when configuring, troubleshooting, or extending obsidian.nvim features including workspace setup, daily notes, templates, completion, pickers, and UI customization.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/obsidian-nvim-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-cloudflare-dns-skill",
+    "name": "cloudflare-dns",
+    "description": "Comprehensive guide for managing Cloudflare DNS with Azure integration. Use when configuring Cloudflare as authoritative DNS provider for Azure-hosted applications, managing DNS records via API, setting up API tokens, configuring proxy settings, troubleshooting DNS issues, implementing DNS security best practices, or integrating External-DNS with Cloudflare for Kubernetes workloads.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/cloudflare-dns-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-dependency-track-skill",
+    "name": "dependency-track-skill",
+    "description": "Comprehensive guide for Dependency-Track - Software Composition Analysis (SCA) and SBOM management platform. USE WHEN deploying Dependency-Track, integrating with CI/CD pipelines, configuring vulnerability scanning, managing SBOMs, setting up policy compliance, troubleshooting installation issues, or working with the REST API.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/dependency-track-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-consulting-design-skill",
+    "name": "consulting-design",
+    "description": "Consult Gemini AI for architecture alternatives, design trade-offs, and brainstorming. Use when seeking different perspectives on design, evaluating architectural approaches, comparing solutions, or generating creative ideas.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/consulting-design-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-gitops-principles-skill",
+    "name": "gitops-principles-skill",
+    "description": "Comprehensive GitOps methodology and principles skill for cloud-native operations. Use when (1) Designing GitOps architecture for Kubernetes deployments, (2) Implementing declarative infrastructure with Git as single source of truth, (3) Setting up continuous deployment pipelines with ArgoCD/Flux/Kargo, (4) Establishing branching strategies and repository structures, (5) Troubleshooting drift, sync failures, or reconciliation issues, (6) Evaluating GitOps tooling decisions, (7) Teaching or explaining GitOps concepts and best practices, (8) Deploying ArgoCD on Azure Arc-enabled Kubernetes or AKS with workload identity. Covers the 4 pillars of GitOps (OpenGitOps), patterns, anti-patterns, tooling ecosystem, Azure Arc integration, and operational guidance.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/gitops-principles-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-writing-typescript-skill",
+    "name": "writing-typescript",
+    "description": "Idiomatic TypeScript development. Use when writing TypeScript code, Node.js services, React apps, or discussing TS patterns. Emphasizes strict typing, composition, and modern tooling (bun/vite).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/writing-typescript-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-obsidian-vault-management-skill",
+    "name": "obsidian-vault-management",
+    "description": "Creates, edits, and manages Obsidian vault content including notes, templates, daily notes, and dataview queries. Use when working with markdown files in an Obsidian vault, creating notes, writing templates, building dataview queries, or organizing knowledge management content.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/obsidian-vault-management-skill"
+  },
+  {
+    "id": "julianobarbosa-claude-code-skills-argocd-image-updater-skill",
+    "name": "argocd-image-updater",
+    "description": "Automate container image updates for Kubernetes workloads managed by Argo CD. USE WHEN configuring ArgoCD Image Updater, setting up automatic image updates, configuring update strategies (semver, digest, newest-build, alphabetical), implementing git write-back, troubleshooting image update issues, or working with ImageUpdater CRDs. Covers installation, configuration, authentication, and best practices.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:49:32Z",
+    "repoUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/argocd-image-updater-skill"
+  },
+  {
+    "id": "lennetech-claude-code-nest-server-updating",
+    "name": "nest-server-updating",
+    "description": "Knowledge base for updating @lenne.tech/nest-server. Use when discussing nest-server updates, upgrades, migrations, breaking changes, or version compatibility. Provides resources, migration guide patterns, and error solutions. For execution, use the nest-server-updater agent.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:46:10Z",
+    "repoUrl": "https://github.com/lenneTech/claude-code/tree/main/plugins/lt-dev/skills/nest-server-updating"
+  },
+  {
+    "id": "lennetech-claude-code-developing-lt-frontend",
+    "name": "developing-lt-frontend",
+    "description": "Develops lenne.tech frontend applications with Nuxt 4, Nuxt UI 4, strict TypeScript, and Valibot forms. Integrates backend APIs via generated types (types.gen.ts, sdk.gen.ts). Creates components with programmatic modals (useOverlay), composables per backend controller, TailwindCSS-only styling. Handles Nuxt 4 patterns including app/ directory, useFetch, useState, SSR, and hydration. Use when working with app/interfaces/, app/composables/, app/components/, app/pages/ in Nuxt projects or monorepos (projects/app/). NOT for NestJS backend (use generating-nest-servers).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:46:10Z",
+    "repoUrl": "https://github.com/lenneTech/claude-code/tree/main/plugins/lt-dev/skills/developing-lt-frontend"
+  },
+  {
+    "id": "lennetech-claude-code-npm-package-maintenance",
+    "name": "npm-package-maintenance",
+    "description": "Guides npm package maintenance tasks. Use when user mentions outdated packages, npm audit, security vulnerabilities, dependency updates, package optimization, unused dependencies, or devDependencies categorization. Recommends the npm-package-maintainer agent via /maintain commands.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:46:10Z",
+    "repoUrl": "https://github.com/lenneTech/claude-code/tree/main/plugins/lt-dev/skills/npm-package-maintenance"
+  },
+  {
+    "id": "lennetech-claude-code-building-stories-with-tdd",
+    "name": "building-stories-with-tdd",
+    "description": "Expert for building user stories using Test-Driven Development (TDD) with NestJS and @lenne.tech/nest-server. Implements new features by creating story tests first in tests/stories/, then uses generating-nest-servers skill to develop code until all tests pass. Ensures high code quality and security compliance. Use in projects with @lenne.tech/nest-server in package.json dependencies (supports monorepos with projects/*, packages/*, apps/* structure).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:46:10Z",
+    "repoUrl": "https://github.com/lenneTech/claude-code/tree/main/plugins/lt-dev/skills/building-stories-with-tdd"
+  },
+  {
+    "id": "hyperspell-claude-setup",
+    "name": "Setting up Hyperspell",
+    "description": "Guide the user through integrating Hyperspell into their project",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:53:32Z",
+    "repoUrl": "https://github.com/hyperspell/claude/tree/main/setup/skills/setup"
+  },
+  {
+    "id": "motium-ai-claude-code-toolkit-ux-designer",
+    "name": "UX Designer",
+    "description": "User experience and interface design specialist",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:29:01Z",
+    "repoUrl": "https://github.com/Motium-AI/claude-code-toolkit/tree/main/config/skills/ux-designer"
+  },
+  {
+    "id": "motium-ai-claude-code-toolkit-async-python-patterns",
+    "name": "async-python-patterns",
+    "description": "Master Python asyncio, concurrent programming, and async/await patterns for high-performance applications. Use when building async APIs, concurrent systems, or I/O-bound applications requiring non-blocking operations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:29:01Z",
+    "repoUrl": "https://github.com/Motium-AI/claude-code-toolkit/tree/main/config/skills/async-python-patterns"
+  },
+  {
+    "id": "motium-ai-claude-code-toolkit-nextjs-tanstack-stack",
+    "name": "nextjs-tanstack-stack",
+    "description": "Use when building Next.js applications with TanStack ecosystem (Table, Query, Form, Virtual), Zustand state management, or implementing data-intensive dashboards, virtualized tables, forms with validation, or performance optimization. Triggers on \"Next.js App Router\", \"TanStack\", \"data table\", \"virtualization\", \"memoization\", \"server components\", \"client state\", \"Zustand\".",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:29:01Z",
+    "repoUrl": "https://github.com/Motium-AI/claude-code-toolkit/tree/main/config/skills/nextjs-tanstack-stack"
+  },
+  {
+    "id": "motium-ai-claude-code-toolkit-prompt-engineering-patterns",
+    "name": "prompt-engineering-patterns",
+    "description": "Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability in production. Use when optimizing prompts, improving LLM outputs, or designing production prompt templates.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:29:01Z",
+    "repoUrl": "https://github.com/Motium-AI/claude-code-toolkit/tree/main/config/skills/prompt-engineering-patterns"
+  },
+  {
+    "id": "motium-ai-claude-code-toolkit-frontend-design",
+    "name": "frontend-design",
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applications. Generates creative, polished code that avoids generic AI aesthetics.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:29:01Z",
+    "repoUrl": "https://github.com/Motium-AI/claude-code-toolkit/tree/main/config/skills/frontend-design"
+  },
+  {
+    "id": "mucho-g-pi-skills-brave-search",
+    "name": "brave-search",
+    "description": "Web search and content extraction via Brave Search API. Use for searching documentation, facts, or any web content. Lightweight, no browser required.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:18:54Z",
+    "repoUrl": "https://github.com/Mucho-G/pi-skills/tree/main/brave-search"
+  },
+  {
+    "id": "mucho-g-pi-skills-browser-tools",
+    "name": "browser-tools",
+    "description": "Interactive browser automation via Chrome DevTools Protocol. Use when you need to interact with web pages, test frontends, or when user interaction with a visible browser is required.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:18:54Z",
+    "repoUrl": "https://github.com/Mucho-G/pi-skills/tree/main/browser-tools"
+  },
+  {
+    "id": "dnyoussef-context-cascade-docs",
+    "name": "agent-creator",
+    "description": "Creates specialized AI agents with optimized system prompts using the official 4-phase SOP methodology from Desktop .claude-flow, combined with evidence-based prompting techniques and Claude Agent SDK implementation. Use this skill when creating production-ready agents for specific domains, workflows, or tasks requiring consistent high-quality performance with deeply embedded domain knowledge.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/docs/agent-creator-enhanced-SKILL.md"
+  },
+  {
+    "id": "dnyoussef-context-cascade-.backup-complete-20251215-220149",
+    "name": ".backup-complete-20251215-220149",
+    "description": "Generate structured research manuscript drafts in 10-15 minutes with proper academic sections (Abstract, Introduction, Methods, Results, Discussion). Creates scaffolded drafts with placeholders for data, not fabricated content. Use for quickly producing first drafts from research ideas, speeding up the writing process while maintaining academic integrity.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/research/.backup-complete-20251215-220149/rapid-manuscript-drafter-SKILL.md"
+  },
+  {
+    "id": "dnyoussef-context-cascade-sandbox-configurator",
+    "name": "sandbox-configurator",
+    "description": "Secure sandbox policy design (filesystem, network, secrets, observability) with auditable guardrails for development runtimes.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/security/sandbox-configurator"
+  },
+  {
+    "id": "dnyoussef-context-cascade-sql-database-specialist",
+    "name": "sql-database-specialist",
+    "description": "Design, optimize, and migrate SQL databases with reliability and performance guardrails.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/specialists/database-specialists/sql-database-specialist"
+  },
+  {
+    "id": "dnyoussef-context-cascade-research-driven-planning",
+    "name": "research-driven-planning",
+    "description": "Build plans anchored in research evidence, constraints, and validation gates.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 9,
+    "updatedAt": "2026-01-09T17:16:02Z",
+    "repoUrl": "https://github.com/DNYoussef/context-cascade/tree/main/skills/research/research-driven-planning"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-worktrees",
+    "name": "using-git-worktrees",
+    "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification. Verifies .gitignore, runs project setup, confirms clean test baseline. Do NOT use for quick fixes or small changes - worktrees add overhead; use simple branch switching for trivial changes.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-worktrees"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-dashboard",
+    "name": "dashboard",
+    "description": "Multi-project dashboard for managing PopKit-enabled projects. Shows health scores, recent activity, and quick actions across all registered projects. Use when switching between projects, checking overall status, or managing project registry. Do NOT use if only working in a single project - use morning routine or next-action instead.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-dashboard"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-auto-docs",
+    "name": "auto-docs",
+    "description": "Generate comprehensive documentation from codebase analysis - creates README sections, API docs, migration guides, and examples from code",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-auto-docs"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-code-review",
+    "name": "code-review",
+    "description": "Confidence-based code review that filters issues to 80+ threshold, eliminating false positives and noise. Reviews implementation against plan or requirements for bugs, quality issues, and project conventions. Use after completing major features, before merging to main, or after each task in multi-step workflows. Do NOT use for quick fixes, single-line changes, or when you need immediate feedback - the thorough review adds overhead best reserved for significant changes.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-ops/skills/pop-code-review"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-writing-plans",
+    "name": "writing-plans",
+    "description": "Creates comprehensive implementation plans with exact file paths, complete code examples, and verification steps for engineers with zero codebase context. Assumes skilled developers who need domain-specific guidance, following DRY, YAGNI, and TDD principles. Use after brainstorming/design is complete when handing off to another developer or planning complex multi-step work. Do NOT use for simple tasks, quick fixes, or when you're implementing yourself and already understand the codebase - just start coding instead.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-writing-plans"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-finish-branch",
+    "name": "finishing-a-development-branch",
+    "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup. Presents exactly 4 options: merge locally, create PR, keep as-is, or discard. Do NOT use when tests are failing or work is incomplete - fix issues first before finishing the branch.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-finish-branch"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-mcp-generator",
+    "name": "mcp-generator",
+    "description": "Use when setting up project-specific development tools or after analyzing a codebase - generates custom MCP server with semantic search, project-aware tools, and health monitoring capabilities. Works with both basic and enhanced modes. Do NOT use if generic popkit commands are sufficient or for small projects where MCP server overhead isn't justified - stick with built-in tools for simple workflows.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-mcp-generator"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-context-restore",
+    "name": "context-restore",
+    "description": "Use when you need to fully restore working context from a previous session - loads STATUS.json, reads key files, rebuilds mental model of current work state. Do NOT use for quick questions or when starting fresh unrelated work - the full context restoration adds overhead that isn't needed for standalone tasks.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-context-restore"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-executing-plans",
+    "name": "executing-plans",
+    "description": "Controlled batch execution of implementation plans with review checkpoints between phases. Loads plan, critically reviews for issues, executes tasks in batches, then pauses for architect feedback before continuing. Use when you have a complete implementation plan from brainstorming/writing-plans and want structured execution with quality gates. Do NOT use for ad-hoc implementation, exploratory coding, or when you don't have a formal plan - just implement directly with code review at the end.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-executing-plans"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-project-templates",
+    "name": "project-templates",
+    "description": "Curated project templates that guide feature-dev Phase 3 questions with research-backed technology choices. Provides standardized options for common project types (SaaS API, ML Service, CLI Tool, Full-Stack). Use when starting new projects or when feature-dev needs structured decision guidance. Do NOT use for existing projects with established stacks - analyze existing code instead.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-core/skills/pop-project-templates"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-session-capture",
+    "name": "session-capture",
+    "description": "Saves complete session state to STATUS.json for seamless continuation across conversations. Captures git context, in-progress tasks, service status, focus area, and next actions. Use at the end of work sessions, before context limits, or when switching to a different task. Do NOT use mid-task or for quick questions - the overhead is only worthwhile when you actually need to resume later.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-session-capture"
+  },
+  {
+    "id": "jrc1883-popkit-claude-pop-brainstorming",
+    "name": "brainstorming",
+    "description": "Collaborative design refinement that transforms rough ideas into fully-formed specifications through Socratic questioning. Explores alternatives, validates incrementally, and presents designs in digestible chunks for feedback. Use before writing code or implementation plans when requirements are unclear or multiple approaches exist. Do NOT use when requirements are already well-defined, you're implementing a known pattern, or making small changes - proceed directly to implementation instead.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:54:34Z",
+    "repoUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-brainstorming"
+  },
+  {
+    "id": "parkerhancock-browser-canvas-canvas",
+    "name": "canvas",
+    "description": "Render interactive React UIs in a browser window using file operations.\nUse when users ask to: show forms, render charts/graphs, create dashboards,\ndisplay data tables, build visual interfaces, or show any UI component.\nTrigger phrases: \"show me\", \"render\", \"display\", \"create a form/chart/table/dashboard\".\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T16:47:15Z",
+    "repoUrl": "https://github.com/parkerhancock/browser-canvas/tree/main/skills/canvas"
+  },
+  {
+    "id": "keithdv-claudeskills-neatoo",
+    "name": "neatoo",
+    "description": "Neatoo DDD framework for .NET with Blazor WebAssembly. Use when building domain entities with EntityBase, implementing business rules and validation, creating factories with [Factory] attribute, setting up client-server communication with RemoteFactory, working with aggregates and parent-child relationships, or troubleshooting source generator issues.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:45:36Z",
+    "repoUrl": "https://github.com/keithdv/ClaudeSkills/tree/main/skills/neatoo"
+  },
+  {
+    "id": "keithdv-claudeskills-questpdf",
+    "name": "questpdf",
+    "description": "QuestPDF report generation with fluent C# API. Use when generating PDF documents, designing report layouts, creating invoices/data tables, implementing page structures with headers/footers, or building reusable document components.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:45:36Z",
+    "repoUrl": "https://github.com/keithdv/ClaudeSkills/tree/main/skills/questpdf"
+  },
+  {
+    "id": "keithdv-claudeskills-mudblazor",
+    "name": "mudblazor",
+    "description": "Build enterprise Blazor applications with MudBlazor component library. Use when creating forms, data grids, dialogs, navigation, theming, layout systems, or integrating with Neatoo domain objects. Covers installation, components, validation, data display, and enterprise patterns.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:45:36Z",
+    "repoUrl": "https://github.com/keithdv/ClaudeSkills/tree/main/skills/mudblazor"
+  },
+  {
+    "id": "keithdv-claudeskills-roslyn-source-generators",
+    "name": "roslyn-source-generators",
+    "description": "Create and maintain Roslyn source generators for compile-time code generation. Use when building incremental generators, designing pipelines with ForAttributeWithMetadataName, creating marker attributes, implementing equatable models, testing generators, or debugging generator performance issues.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:45:36Z",
+    "repoUrl": "https://github.com/keithdv/ClaudeSkills/tree/main/skills/roslyn-source-generators"
+  },
+  {
+    "id": "data-wise-craft-openapi-spec-generation",
+    "name": "openapi-spec-generation",
+    "description": "Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when creating API documentation, generating SDKs, or ensuring API contract compliance.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:20:53Z",
+    "repoUrl": "https://github.com/Data-Wise/craft/tree/main/skills/docs/openapi-spec-generation"
+  },
+  {
+    "id": "aiskillstore-marketplace-esm",
+    "name": "esm",
+    "description": "Comprehensive toolkit for protein language models including ESM3 (generative multimodal protein design across sequence, structure, and function) and ESM C (efficient protein embeddings and representations). Use this skill when working with protein sequences, structures, or function prediction; designing novel proteins; generating protein embeddings; performing inverse folding; or conducting protein engineering tasks. Supports both local model usage and cloud-based Forge API for scalable inference.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/esm"
+  },
+  {
+    "id": "aiskillstore-marketplace-gget",
+    "name": "gget",
+    "description": "CLI/Python toolkit for rapid bioinformatics queries. Preferred for quick BLAST searches. Access to 20+ databases: gene info (Ensembl/UniProt), AlphaFold, ARCHS4, Enrichr, OpenTargets, COSMIC, genome downloads. For advanced BLAST/batch processing, use biopython. For multi-database integration, use bioservices.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/gget"
+  },
+  {
+    "id": "aiskillstore-marketplace-aeon",
+    "name": "aeon",
+    "description": "This skill should be used for time series machine learning tasks including classification, regression, clustering, forecasting, anomaly detection, segmentation, and similarity search. Use when working with temporal data, sequential patterns, or time-indexed observations requiring specialized algorithms beyond standard ML approaches. Particularly suited for univariate and multivariate time series analysis with scikit-learn compatible APIs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/aeon"
+  },
+  {
+    "id": "aiskillstore-marketplace-simpy",
+    "name": "simpy",
+    "description": "Process-based discrete-event simulation framework in Python. Use this skill when building simulations of systems with processes, queues, resources, and time-based events such as manufacturing systems, service operations, network traffic, logistics, or any system where entities interact with shared resources over time.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/simpy"
+  },
+  {
+    "id": "aiskillstore-marketplace-canvas-design",
+    "name": "canvas-design",
+    "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/canvas-design"
+  },
+  {
+    "id": "aiskillstore-marketplace-pymoo",
+    "name": "pymoo",
+    "description": "Multi-objective optimization framework. NSGA-II, NSGA-III, MOEA/D, Pareto fronts, constraint handling, benchmarks (ZDT, DTLZ), for engineering design and optimization problems.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/pymoo"
+  },
+  {
+    "id": "aiskillstore-marketplace-skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/skill-creator"
+  },
+  {
+    "id": "aiskillstore-marketplace-swarm",
+    "name": "swarm",
+    "description": "Autonomous multi-agent workflow system for complex coding tasks. Use when the user requests non-trivial changes that would benefit from autonomous execution with built-in review gates. Ideal for refactoring modules, adding major features, migrating codebases, adding comprehensive test coverage, or any multi-step development task that can run autonomously. NOT for simple fixes, typos, or single-file changes.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/nbashaw/swarm"
+  },
+  {
+    "id": "aiskillstore-marketplace-rdkit",
+    "name": "rdkit",
+    "description": "Cheminformatics toolkit for fine-grained molecular control. SMILES/SDF parsing, descriptors (MW, LogP, TPSA), fingerprints, substructure search, 2D/3D generation, similarity, reactions. For standard workflows with simpler interface, use datamol (wrapper around RDKit). Use rdkit for advanced control, custom sanitization, specialized algorithms.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/rdkit"
+  },
+  {
+    "id": "aiskillstore-marketplace-geniml",
+    "name": "geniml",
+    "description": "This skill should be used when working with genomic interval data (BED files) for machine learning tasks. Use for training region embeddings (Region2Vec, BEDspace), single-cell ATAC-seq analysis (scEmbed), building consensus peaks (universes), or any ML-based analysis of genomic regions. Applies to BED file collections, scATAC-seq data, chromatin accessibility datasets, and region-based genomic feature learning.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/geniml"
+  },
+  {
+    "id": "aiskillstore-marketplace-qiskit",
+    "name": "qiskit",
+    "description": "Comprehensive quantum computing toolkit for building, optimizing, and executing quantum circuits. Use when working with quantum algorithms, simulations, or quantum hardware including (1) Building quantum circuits with gates and measurements, (2) Running quantum algorithms (VQE, QAOA, Grover), (3) Transpiling/optimizing circuits for hardware, (4) Executing on IBM Quantum or other providers, (5) Quantum chemistry and materials science, (6) Quantum machine learning, (7) Visualizing circuits and results, or (8) Any quantum computing development task.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/qiskit"
+  },
+  {
+    "id": "aiskillstore-marketplace-plotly",
+    "name": "plotly",
+    "description": "Interactive scientific and statistical data visualization library for Python. Use when creating charts, plots, or visualizations including scatter plots, line charts, bar charts, heatmaps, 3D plots, geographic maps, statistical distributions, financial charts, and dashboards. Supports both quick visualizations (Plotly Express) and fine-grained customization (graph objects). Outputs interactive HTML or static images (PNG, PDF, SVG).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/plotly"
+  },
+  {
+    "id": "aiskillstore-marketplace-webapp-testing",
+    "name": "webapp-testing",
+    "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/webapp-testing"
+  },
+  {
+    "id": "aiskillstore-marketplace-biomni",
+    "name": "biomni",
+    "description": "Autonomous biomedical AI agent framework for executing complex research tasks across genomics, drug discovery, molecular biology, and clinical analysis. Use this skill when conducting multi-step biomedical research including CRISPR screening design, single-cell RNA-seq analysis, ADMET prediction, GWAS interpretation, rare disease diagnosis, or lab protocol optimization. Leverages LLM reasoning with code execution and integrated biomedical databases.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/biomni"
+  },
+  {
+    "id": "aiskillstore-marketplace-doc-coauthoring",
+    "name": "doc-coauthoring",
+    "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/doc-coauthoring"
+  },
+  {
+    "id": "aiskillstore-marketplace-adaptyv",
+    "name": "adaptyv",
+    "description": "Cloud laboratory platform for automated protein testing and validation. Use when designing proteins and needing experimental validation including binding assays, expression testing, thermostability measurements, enzyme activity assays, or protein sequence optimization. Also use for submitting experiments via API, tracking experiment status, downloading results, optimizing protein sequences for better expression using computational tools (NetSolP, SoluProt, SolubleMPNN, ESM), or managing protein design workflows with wet-lab validation.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/adaptyv"
+  },
+  {
+    "id": "aiskillstore-marketplace-modal",
+    "name": "modal",
+    "description": "Run Python code in the cloud with serverless containers, GPUs, and autoscaling. Use when deploying ML models, running batch processing jobs, scheduling compute-intensive tasks, or serving APIs that require GPU acceleration or dynamic scaling.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/k-dense-ai/modal"
+  },
+  {
+    "id": "aiskillstore-marketplace-hook-development",
+    "name": "Hook Development",
+    "description": "This skill should be used when the user asks to \"create a hook\", \"add a PreToolUse/PostToolUse/Stop hook\", \"validate tool use\", \"implement prompt-based hooks\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"set up event-driven automation\", \"block dangerous commands\", or mentions hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification). Provides comprehensive guidance for creating and implementing Claude Code plugin hooks with focus on advanced prompt-based hooks API.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/hook-development"
+  },
+  {
+    "id": "aiskillstore-marketplace-diffdock",
+    "name": "diffdock",
+    "description": "Diffusion-based molecular docking. Predict protein-ligand binding poses from PDB/SMILES, confidence scores, virtual screening, for structure-based drug design. Not for affinity prediction.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/diffdock"
+  },
+  {
+    "id": "aiskillstore-marketplace-brand-guidelines",
+    "name": "brand-guidelines",
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/brand-guidelines"
+  },
+  {
+    "id": "aiskillstore-marketplace-senior-qa",
+    "name": "senior-qa",
+    "description": "Comprehensive QA and testing skill for quality assurance, test automation, and testing strategies for ReactJS, NextJS, NodeJS applications. Includes test suite generation, coverage analysis, E2E testing setup, and quality metrics. Use when designing test strategies, writing test cases, implementing test automation, performing manual testing, or analyzing test coverage.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/senior-qa"
+  },
+  {
+    "id": "aiskillstore-marketplace-skill-development",
+    "name": "Skill Development",
+    "description": "This skill should be used when the user wants to \"create a skill\", \"add a skill to plugin\", \"write a new skill\", \"improve skill description\", \"organize skill content\", or needs guidance on skill structure, progressive disclosure, or skill development best practices for Claude Code plugins.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/skill-development"
+  },
+  {
+    "id": "aiskillstore-marketplace-pennylane",
+    "name": "pennylane",
+    "description": "Cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Enables building and training quantum circuits with automatic differentiation, seamless integration with PyTorch/JAX/TensorFlow, and device-independent execution across simulators and quantum hardware (IBM, Amazon Braket, Google, Rigetti, IonQ, etc.). Use when working with quantum circuits, variational quantum algorithms (VQE, QAOA), quantum neural networks, hybrid quantum-classical models, molecular simulations, quantum chemistry calculations, or any quantum computing tasks requiring gradient-based optimization, hardware-agnostic programming, or quantum machine learning workflows.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/pennylane"
+  },
+  {
+    "id": "aiskillstore-marketplace-cocoindex",
+    "name": "cocoindex",
+    "description": "Comprehensive toolkit for developing with the CocoIndex library. Use when users need to create data transformation pipelines (flows), write custom functions, or operate flows via CLI or API. Covers building ETL workflows for AI data processing, including embedding documents into vector databases, building knowledge graphs, creating search indexes, or processing data streams with incremental updates.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/cocoindex"
+  },
+  {
+    "id": "aiskillstore-marketplace-agent-development",
+    "name": "Agent Development",
+    "description": "This skill should be used when the user asks to \"create an agent\", \"add an agent\", \"write a subagent\", \"agent frontmatter\", \"when to use description\", \"agent examples\", \"agent tools\", \"agent colors\", \"autonomous agent\", or needs guidance on agent structure, system prompts, triggering conditions, or agent development best practices for Claude Code plugins.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/agent-development"
+  },
+  {
+    "id": "aiskillstore-marketplace-gh-fix-ci",
+    "name": "gh-fix-ci",
+    "description": "Inspect GitHub PR checks with gh, pull failing GitHub Actions logs, summarize failure context, then create a fix plan and implement after user approval. Use when a user asks to debug or fix failing PR CI/CD checks on GitHub Actions and wants a plan + code changes; for external checks (e.g., Buildkite), only report the details URL and mark them out of scope.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/gh-fix-ci"
+  },
+  {
+    "id": "aiskillstore-marketplace-biopython",
+    "name": "biopython",
+    "description": "Primary Python toolkit for molecular biology. Preferred for Python-based PubMed/NCBI queries (Bio.Entrez), sequence manipulation, file parsing (FASTA, GenBank, FASTQ, PDB), advanced BLAST workflows, structures, phylogenetics. For quick BLAST, use gget. For direct REST API, use pubmed-database.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/biopython"
+  },
+  {
+    "id": "aiskillstore-marketplace-pylabrobot",
+    "name": "pylabrobot",
+    "description": "Laboratory automation toolkit for controlling liquid handlers, plate readers, pumps, heater shakers, incubators, centrifuges, and analytical equipment. Use this skill when automating laboratory workflows, programming liquid handling robots (Hamilton STAR, Opentrons OT-2, Tecan EVO), integrating lab equipment, managing deck layouts and resources (plates, tips, containers), reading plates, or creating reproducible laboratory protocols. Applicable for both simulated protocols and physical hardware control.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/pylabrobot"
+  },
+  {
+    "id": "aiskillstore-marketplace-lamindb",
+    "name": "lamindb",
+    "description": "This skill should be used when working with LaminDB, an open-source data framework for biology that makes data queryable, traceable, reproducible, and FAIR. Use when managing biological datasets (scRNA-seq, spatial, flow cytometry, etc.), tracking computational workflows, curating and validating data with biological ontologies, building data lakehouses, or ensuring data lineage and reproducibility in biological research. Covers data management, annotation, ontologies (genes, cell types, diseases, tissues), schema validation, integrations with workflow managers (Nextflow, Snakemake) and MLOps platforms (W&B, MLflow), and deployment strategies.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/k-dense-ai/lamindb"
+  },
+  {
+    "id": "aiskillstore-marketplace-brainstorming",
+    "name": "brainstorming",
+    "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/obra/brainstorming"
+  },
+  {
+    "id": "aiskillstore-marketplace-cto-advisor",
+    "name": "cto-advisor",
+    "description": "Technical leadership guidance for engineering teams, architecture decisions, and technology strategy. Includes tech debt analyzer, team scaling calculator, engineering metrics frameworks, technology evaluation tools, and ADR templates. Use when assessing technical debt, scaling engineering teams, evaluating technologies, making architecture decisions, establishing engineering metrics, or when user mentions CTO, tech debt, technical debt, team scaling, architecture decisions, technology evaluation, engineering metrics, DORA metrics, or technology strategy.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/cto-advisor"
+  },
+  {
+    "id": "aiskillstore-marketplace-command-development",
+    "name": "Command Development",
+    "description": "This skill should be used when the user asks to \"create a slash command\", \"add a command\", \"write a custom command\", \"define command arguments\", \"use command frontmatter\", \"organize commands\", \"create command with file references\", \"interactive command\", \"use AskUserQuestion in command\", or needs guidance on slash command structure, YAML frontmatter fields, dynamic arguments, bash execution in commands, user interaction patterns, or command development best practices for Claude Code.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/command-development"
+  },
+  {
+    "id": "aiskillstore-marketplace-mcp-builder",
+    "name": "mcp-builder",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/mcp-builder"
+  },
+  {
+    "id": "aiskillstore-marketplace-ceo-advisor",
+    "name": "ceo-advisor",
+    "description": "Executive leadership guidance for strategic decision-making, organizational development, and stakeholder management. Includes strategy analyzer, financial scenario modeling, board governance frameworks, and investor relations playbooks. Use when planning strategy, preparing board presentations, managing investors, developing organizational culture, making executive decisions, or when user mentions CEO, strategic planning, board meetings, investor updates, organizational leadership, or executive strategy.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/davila7/ceo-advisor"
+  },
+  {
+    "id": "aiskillstore-marketplace-create-pr",
+    "name": "create-pr",
+    "description": "Create pull requests following Sentry conventions. Use when opening PRs, writing PR descriptions, or preparing changes for review. Follows Sentry's code review guidelines.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 32,
+    "updatedAt": "2026-01-09T16:24:32Z",
+    "repoUrl": "https://github.com/aiskillstore/marketplace/tree/main/plugins/getsentry/create-pr"
+  },
+  {
+    "id": "glebis-claude-skills-github-gist",
+    "name": "github-gist",
+    "description": "Publish files or Obsidian notes as GitHub Gists. Use when user wants to share code/notes publicly, create quick shareable snippets, or publish markdown to GitHub. Triggers include \"publish as gist\", \"create gist\", \"share on github\", \"make a gist from this\".",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/github-gist"
+  },
+  {
+    "id": "glebis-claude-skills-brand-agency",
+    "name": "brand-agency",
+    "description": "Applies Agency brand colors and typography to artifacts including presentations, SVG graphics, documents, and web interfaces. This skill should be used when brand colors, visual formatting, neobrutalism style, or Agency design standards apply. Keywords - branding, corporate identity, visual identity, styling, brand colors, typography, visual formatting, visual design, neobrutalism.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/brand-agency"
+  },
+  {
+    "id": "glebis-claude-skills-transcript-analyzer",
+    "name": "transcript-analyzer",
+    "description": "This skill analyzes meeting transcripts to extract decisions, action items, opinions, questions, and terminology using Cerebras AI (llama-3.3-70b). Use this skill when the user asks to analyze a transcript, extract action items from meetings, find decisions in conversations, build glossaries from discussions, or summarize key points from recorded meetings.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T16:05:12Z",
+    "repoUrl": "https://github.com/glebis/claude-skills/tree/main/transcript-analyzer"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-cap-capire",
+    "name": "sap-cap-capire",
+    "description": "SAP Cloud Application Programming Model (CAP) development skill using Capire documentation.\nUse when: building CAP applications, defining CDS models, implementing services, working with\nSAP HANA/SQLite/PostgreSQL databases, deploying to SAP BTP Cloud Foundry or Kyma, implementing\nFiori UIs, handling authorization, multitenancy, or messaging. Covers CDL/CQL/CSN syntax,\nNode.js and Java runtimes, event handlers, OData services, and CAP plugins.\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-cap-capire/skills/sap-cap-capire.backup"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-api-style",
+    "name": "sap-api-style",
+    "description": "This skill provides comprehensive guidance for documenting SAP APIs following official SAP API Style Guide standards.\nIt should be used when creating or reviewing API documentation for REST, OData, Java, JavaScript, .NET, or C/C++ APIs.\n\nThe skill covers naming conventions, documentation comments, OpenAPI specifications, quality checklists, deprecation policies,\nand manual documentation templates. It ensures consistency with SAP API Business Hub standards and industry best practices.\n\nKeywords: SAP API, REST, OData, OpenAPI, Swagger, Javadoc, JSDoc, XML documentation, API Business Hub, API naming,\nAPI deprecation, x-sap-stateInfo, Entity Data Model, EDM, documentation tags, API quality, API templates\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-api-style/skills/sap-api-style"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-hana-ml",
+    "name": "sap-hana-ml",
+    "description": "SAP HANA Machine Learning Python Client (hana-ml) development skill.\n\nUse when: Building ML solutions with SAP HANA's in-database machine learning\nusing Python hana-ml library for PAL/APL algorithms, DataFrame operations,\nAutoML, model persistence, and visualization.\n\nKeywords: hana-ml, SAP HANA, machine learning, PAL, APL, predictive analytics,\nHANA DataFrame, ConnectionContext, classification, regression, clustering,\ntime series, ARIMA, gradient boosting, AutoML, SHAP, model storage\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-hana-ml/skills/sap-hana-ml"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-datasphere",
+    "name": "sap-datasphere",
+    "description": "Comprehensive plugin for SAP Datasphere development with 3 specialized agents, 4 slash commands, and validation hooks. Use when building data warehouses on SAP BTP, creating analytic models, configuring data flows and replication flows, setting up connections to SAP and third-party systems, managing spaces and users, implementing data access controls, using the datasphere CLI, creating data products for the marketplace, or monitoring data integration tasks. Covers Data Builder (graphical/SQL views, local/remote tables, transformation flows), Business Builder (business entities, consumption models), analytic models (dimensions, measures, hierarchies), 40+ connection types (SAP S/4HANA, BW/4HANA, HANA Cloud, AWS, Azure, GCP, Kafka, Generic HTTP), real-time replication, task chains, content transport, CLI automation, catalog governance, and data marketplace. Includes 2025 features: Generic HTTP connections, REST API tasks in task chains, SAP Business Data Cloud integration. Keywords: sap datasphere, data warehouse cloud, dwc, data builder, business builder, analytic model, graphical view, sql view, transformation flow, replication flow, data flow, task chain, remote table, local table, sap btp data warehouse, datasphere connection, datasphere space, data access control, elastic compute node, sap analytics cloud integration, datasphere cli, data products, data marketplace, catalog, governance\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-datasphere/skills/sap-datasphere"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-btp-business-application-studio",
+    "name": "sap-btp-business-application-studio",
+    "description": "This skill provides comprehensive guidance for SAP Business Application Studio (BAS), the cloud-based IDE on SAP BTP built on Code-OSS. Use when setting up BAS subscriptions, creating dev spaces, connecting to external systems, deploying MTA applications, troubleshooting connectivity issues, managing Git repositories, configuring runtime versions, or using the layout editor.\n\nKeywords: SAP Business Application Studio, BAS, SAP BTP, dev space, Cloud Foundry, MTA, multitarget application, SAP Fiori, CAP, HANA, destination, WebIDEEnabled, Cloud Connector, Service Center, Storyboard, Layout Editor, ABAP, OData, subscription, entitlements, role collection, Business_Application_Studio_Developer, Git, clone, push, pull, Gerrit, PAT, OAuth, asdf, runtime, Node.js, Java, Python, Task Explorer, CI/CD, Yeoman, generator, template wizard, mbt, mtar, debugging, breakpoint\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-business-application-studio/skills/sap-btp-business-application-studio"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-sac-scripting",
+    "name": "sap-sac-scripting",
+    "description": "Comprehensive SAC scripting skill for SAP Analytics Cloud Analytics Designer and Optimized Story Experience. This skill should be used when the user asks to \"create SAC script\", \"debug Analytics Designer\", \"optimize SAC performance\", \"planning operations in SAC\", \"filter data in SAC\", \"use DataSource API\", \"chart scripting\", \"table manipulation\", \"SAC event handlers\", \"version management\", \"data locking\", or works with SAC widgets, planning models, or analytics applications.\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sac-scripting/skills/sap-sac-scripting"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-btp-job-scheduling",
+    "name": "sap-btp-job-scheduling",
+    "description": "This skill provides comprehensive guidance for SAP BTP Job Scheduling Service development, configuration, and operations.\nIt should be used when creating, managing, or troubleshooting scheduled jobs on SAP Business Technology Platform.\n\nThe skill covers service setup, REST API usage, schedule types and formats, OAuth 2.0 authentication, multitenancy,\nCloud Foundry tasks, Kyma runtime integration, and monitoring with SAP Cloud ALM and Alert Notification Service.\n\nKeywords: SAP BTP, Job Scheduling, jobscheduler, cron, schedule, recurring jobs, one-time jobs, Cloud Foundry tasks,\nCF tasks, Kyma, OAuth 2.0, XSUAA, @sap/jobs-client, REST API, asynchronous jobs, action endpoint, run logs,\nSAP Cloud ALM, Alert Notification Service, multitenancy, tenant-aware, BC-CP-CF-JBS\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-job-scheduling/skills/sap-btp-job-scheduling"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-fiori-tools",
+    "name": "sap-fiori-tools",
+    "description": "Develops SAP Fiori applications using SAP Fiori tools extensions for VS Code and SAP Business Application Studio.\nUse when: generating Fiori Elements or Freestyle SAPUI5 applications, configuring Page Editor for List Report\nor Object Page, working with annotations and Service Modeler, setting up deployment to ABAP or Cloud Foundry,\ncreating adaptation projects, using Guided Development, previewing with mock data or live data, configuring\nSAP Fiori launchpad, or using AI-powered generation with Project Accelerator/Joule.\nTechnologies: SAP Fiori Elements, SAPUI5, OData V2/V4, CAP, SAP BTP, ABAP, Cloud Foundry.\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-fiori-tools/skills/sap-fiori-tools"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-btp-developer-guide",
+    "name": "sap-btp-developer-guide",
+    "description": "Develops business applications on SAP Business Technology Platform (BTP) using CAP (Node.js/Java) or ABAP Cloud. \n\nUse when: building cloud applications on SAP BTP, deploying to Cloud Foundry or Kyma runtimes, integrating with SAP HANA Cloud, implementing SAP Fiori UIs, connecting to remote SAP systems, building multitenant SaaS applications, extending SAP S/4HANA or SuccessFactors, setting up CI/CD pipelines, implementing observability, or following SAP development best practices.\n\nKeywords: SAP BTP, Business Technology Platform, CAP, Cloud Application Programming Model, ABAP Cloud, Cloud Foundry, Kyma, SAP HANA Cloud, SAP Fiori, SAPUI5, CI/CD, observability, multitenant, SaaS, SAP BTP ABAP environment, SAP Business Application Studio, SAP Cloud SDK, SAP Integration Suite, SAP Event Mesh, SAP Connectivity Service, SAP Destination Service, XSUAA, OAuth, OpenID Connect, OData, CDS, Core Data Services, ABAP CDS, ABAP RESTful Application Programming Model, RAP, ABAP development, SAP BTP development\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-developer-guide/skills/sap-btp-developer-guide"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-ai-core",
+    "name": "sap-ai-core",
+    "description": "Guides development with SAP AI Core and SAP AI Launchpad for enterprise AI/ML workloads on SAP BTP. Use when: deploying generative AI models (GPT, Claude, Gemini, Llama), building orchestration workflows with templating/filtering/grounding, implementing RAG with vector databases, managing ML training pipelines with Argo Workflows, configuring content filtering and data masking for PII protection, using the Generative AI Hub for prompt experimentation, or integrating AI capabilities into SAP applications. Covers service plans (Free/Standard/Extended), model providers (Azure OpenAI, AWS Bedrock, GCP Vertex AI, Mistral, IBM), orchestration modules, embeddings, tool calling, and structured outputs.\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-ai-core/skills/sap-ai-core"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-cloud-sdk-ai",
+    "name": "sap-cloud-sdk-ai",
+    "description": "Integrates SAP Cloud SDK for AI into JavaScript/TypeScript and Java applications. Use when building applications with SAP AI Core, Generative AI Hub, or Orchestration Service. Covers chat completion, embedding, streaming, function calling, content filtering, data masking, document grounding, prompt registry, and LangChain/Spring AI integration. Supports OpenAI GPT-4o, Claude, Gemini, Amazon Nova, and other foundation models via SAP BTP.\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-cloud-sdk-ai/skills/sap-cloud-sdk-ai"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-sqlscript",
+    "name": "sap-sqlscript",
+    "description": "This skill should be used when the user asks to \"write a SQLScript procedure\", \"create HANA stored procedure\", \"implement AMDP method\", \"optimize SQLScript performance\", \"handle SQLScript exceptions\", \"debug HANA procedure\", \"create table function\", or mentions SQLScript, SAP HANA procedures, AMDP, EXIT HANDLER, or code-to-data paradigm.\n\nComprehensive SQLScript development guidance for SAP HANA database programming including syntax patterns, built-in functions, exception handling, performance optimization, cursor management, and ABAP Managed Database Procedure (AMDP) integration.\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sqlscript/skills/sap-sqlscript"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-btp-intelligent-situation-automation",
+    "name": "sap-btp-intelligent-situation-automation",
+    "description": "This skill provides comprehensive guidance for SAP BTP Intelligent Situation Automation setup, configuration, and operations.\nIt should be used when implementing situation-based automation between SAP S/4HANA systems and SAP Business Technology Platform.\n\nThe skill covers subscription setup, Event Mesh integration, destination configuration, system onboarding,\nuser management with role collections, automatic situation resolution, and troubleshooting.\n\nKeywords: SAP BTP, Intelligent Situation Automation, ISA, situation handling, SAP S/4HANA, SAP S/4HANA Cloud,\nEvent Mesh, Business Event Handling, situation automation, situation dashboard, analyze situations,\nSAP_COM_0345, SAP_COM_0376, SAP_COM_0092, SituationAutomationKeyUser, SituationAutomationAdminUser,\nCloud Connector, cf-eu10, CA-SIT-ATM, business situations, situation types, situation actions\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-intelligent-situation-automation/skills/sap-btp-intelligent-situation-automation"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-btp-best-practices",
+    "name": "sap-btp-best-practices",
+    "description": "Production-ready SAP BTP best practices for enterprise architecture, account management, security, and operations. Use when planning BTP implementations, setting up account hierarchies, configuring environments, implementing authentication, designing CI/CD pipelines, establishing governance, building Platform Engineering teams, implementing failover strategies, or managing application lifecycle on SAP BTP.\n\nKeywords: SAP BTP, account hierarchy, global account, directory, subaccount, Cloud Foundry, Kyma, ABAP, SAP Identity Authentication, CI/CD, governance, Platform Engineering, failover, multi-region, SAP BTP best practices\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-best-practices/skills/sap-btp-best-practices"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-hana-cloud-data-intelligence",
+    "name": "sap-hana-cloud-data-intelligence",
+    "description": "Develops data processing pipelines, integrations, and machine learning scenarios in SAP Data Intelligence Cloud. Use when building graphs/pipelines with operators, integrating ABAP/S4HANA systems, creating replication flows, developing ML scenarios with JupyterLab, or using Data Transformation Language functions. Covers Gen1/Gen2 operators, subengines (Python, Node.js, C++), structured data operators, and repository objects.\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-hana-cloud-data-intelligence/skills/sap-hana-cloud-data-intelligence"
+  },
+  {
+    "id": "secondsky-sap-skills-sap-btp-build-work-zone-advanced",
+    "name": "sap-btp-build-work-zone-advanced",
+    "description": "Develops and administers SAP Build Work Zone, advanced edition digital workplace solutions. Use when creating workspaces, workpages, and collaborative sites, developing UI Integration Cards in SAP Business Application Studio, building content packages and workspace templates, integrating with Microsoft 365/Teams/SharePoint/Google Drive, configuring chatbots and webhooks, implementing SCIM API user provisioning, setting up OData business records, managing themes and branding, configuring role-based access and SSO, troubleshooting deployment issues, or working with the Administration Console.\n\nKeywords: SAP Build Work Zone advanced edition, digital workplace, UI Integration Cards, content packages, workspace templates, SAP Business Application Studio, SAP Conversational AI, SCIM API, OData, Microsoft Teams integration, SSO, theming, Administration Console\n",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T16:52:47Z",
+    "repoUrl": "https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-build-work-zone-advanced/skills/sap-btp-build-work-zone-advanced"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-hig",
+    "name": "axiom-hig",
+    "description": "Use when making design decisions, reviewing UI for HIG compliance, choosing colors/backgrounds/typography, or defending design choices - quick decision frameworks and checklists for Apple Human Interface Guidelines",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-hig"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-textkit-ref",
+    "name": "axiom-textkit-ref",
+    "description": "TextKit 2 complete reference (architecture, migration, Writing Tools, SwiftUI TextEditor) through iOS 26",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-textkit-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ios-ui",
+    "name": "axiom-ios-ui",
+    "description": "Use when building, fixing, or improving ANY iOS UI including SwiftUI, UIKit, layout, navigation, animations, design guidelines. Covers view updates, layout bugs, navigation issues, performance, architecture, Apple design compliance.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-ui"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-swiftui-performance",
+    "name": "axiom-swiftui-performance",
+    "description": "Use when UI is slow, scrolling lags, animations stutter, or when asking 'why is my SwiftUI view slow', 'how do I optimize List performance', 'my app drops frames', 'view body is called too often', 'List is laggy' - SwiftUI performance optimization with Instruments 26 and WWDC 2025 patterns",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swiftui-performance"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-swiftui-nav-diag",
+    "name": "axiom-swiftui-nav-diag",
+    "description": "Use when debugging navigation not responding, unexpected pops, deep links showing wrong screen, state lost on tab switch or background, crashes in navigationDestination, or any SwiftUI navigation failure - systematic diagnostics with production crisis defense",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swiftui-nav-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-metal-migration-ref",
+    "name": "axiom-metal-migration-ref",
+    "description": "Use when converting shaders or looking up API equivalents - GLSL to MSL, HLSL to MSL, GL/DirectX to Metal mappings, MTKView setup code",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-metal-migration-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-swiftui-animation-ref",
+    "name": "axiom-swiftui-animation-ref",
+    "description": "Use when implementing SwiftUI animations, understanding VectorArithmetic, using @Animatable macro, zoom transitions, UIKit/AppKit animation bridging, choosing between spring and timing curve animations, or debugging animation behavior - comprehensive animation reference from iOS 13 through iOS 26",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swiftui-animation-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-sqlitedata-migration",
+    "name": "axiom-sqlitedata-migration",
+    "description": "Use when migrating from SwiftData to SQLiteData — decision guide, pattern equivalents, code examples, CloudKit sharing (SwiftData can't), performance benchmarks, gradual migration strategy",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-sqlitedata-migration"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-icloud-drive-ref",
+    "name": "axiom-icloud-drive-ref",
+    "description": "Use when implementing 'iCloud Drive', 'ubiquitous container', 'file sync', 'NSFileCoordinator', 'NSFilePresenter', 'isUbiquitousItem', 'NSUbiquitousKeyValueStore', 'ubiquitous file sync' - comprehensive file-based iCloud sync reference",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-icloud-drive-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-foundation-models-ref",
+    "name": "axiom-foundation-models-ref",
+    "description": "Reference — Complete Foundation Models framework guide covering LanguageModelSession, @Generable, @Guide, Tool protocol, streaming, dynamic schemas, built-in use cases, and all WWDC 2025 code examples",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-foundation-models-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-liquid-glass-ref",
+    "name": "axiom-liquid-glass-ref",
+    "description": "Use when planning comprehensive Liquid Glass adoption across an app, auditing existing interfaces for Liquid Glass compatibility, implementing app icon updates, or understanding platform-specific Liquid Glass behavior - comprehensive reference guide covering all aspects of Liquid Glass adoption from WWDC 2025",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-liquid-glass-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-using-axiom",
+    "name": "axiom-using-axiom",
+    "description": "Use when starting any iOS/Swift conversation - establishes how to find and use Axiom skills, requiring Skill tool invocation before ANY response including clarifying questions",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-using-axiom"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-build-performance",
+    "name": "axiom-build-performance",
+    "description": "Use when build times are slow, investigating build performance, analyzing Build Timeline, identifying type checking bottlenecks, enabling compilation caching, or optimizing incremental builds - comprehensive build optimization workflows including Xcode 26 compilation caching",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-build-performance"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-networking-migration",
+    "name": "axiom-networking-migration",
+    "description": "Network framework migration guides. Use when migrating from BSD sockets to NWConnection, NWConnection to NetworkConnection (iOS 26+), or URLSession StreamTask to NetworkConnection.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-networking-migration"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-hig-ref",
+    "name": "axiom-hig-ref",
+    "description": "Reference — Comprehensive Apple Human Interface Guidelines covering colors (semantic, custom, patterns), backgrounds (material hierarchy, dynamic), typography (built-in styles, custom fonts, Dynamic Type), SF Symbols (rendering modes, color, axiom-localization), Dark Mode, accessibility, and platform-specific considerations",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-hig-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-liquid-glass",
+    "name": "axiom-liquid-glass",
+    "description": "Use when implementing Liquid Glass effects, reviewing UI for Liquid Glass adoption, debugging visual artifacts, optimizing performance, or requesting expert review of Liquid Glass implementation - provides comprehensive design principles, API patterns, and troubleshooting guidance from WWDC 2025. Includes design review pressure handling and professional push-back frameworks",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-liquid-glass"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-storekit-ref",
+    "name": "axiom-storekit-ref",
+    "description": "Reference — Complete StoreKit 2 API guide covering Product, Transaction, AppTransaction, RenewalInfo, SubscriptionStatus, StoreKit Views, purchase options, server APIs, and all iOS 18.4 enhancements with WWDC 2025 code examples",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-storekit-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-uikit-animation-debugging",
+    "name": "axiom-uikit-animation-debugging",
+    "description": "Use when CAAnimation completion handler doesn't fire, spring physics look wrong on device, animation duration mismatches actual time, gesture + animation interaction causes jank, or timing differs between simulator and real hardware - systematic CAAnimation diagnosis with CATransaction patterns, frame rate awareness, and device-specific behavior",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-uikit-animation-debugging"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-swiftui-gestures",
+    "name": "axiom-swiftui-gestures",
+    "description": "Use when implementing SwiftUI gestures (tap, drag, long press, magnification, rotation), composing gestures, managing gesture state, or debugging gesture conflicts - comprehensive patterns for gesture recognition, composition, accessibility, and cross-platform support",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swiftui-gestures"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ios-build",
+    "name": "axiom-ios-build",
+    "description": "Use when ANY iOS build fails, test crashes, Xcode misbehaves, or environment issue occurs before debugging code. Covers build failures, compilation errors, dependency conflicts, simulator problems, environment-first diagnostics.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-build"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-xcode-debugging",
+    "name": "axiom-xcode-debugging",
+    "description": "Use when encountering BUILD FAILED, test crashes, simulator hangs, stale builds, zombie xcodebuild processes, \"Unable to boot simulator\", \"No such module\" after SPM changes, or mysterious test failures despite no code changes - systematic environment-first diagnostics for iOS/macOS projects",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-xcode-debugging"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-swiftui-debugging-diag",
+    "name": "axiom-swiftui-debugging-diag",
+    "description": "Use when SwiftUI view debugging requires systematic investigation - view updates not working after basic troubleshooting, intermittent UI issues, complex state dependencies, or when Self._printChanges() shows unexpected update patterns - systematic diagnostic workflows with Instruments integration",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swiftui-debugging-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-cloud-sync-diag",
+    "name": "axiom-cloud-sync-diag",
+    "description": "Use when debugging 'file not syncing', 'CloudKit error', 'sync conflict', 'iCloud upload failed', 'ubiquitous item error', 'data not appearing on other devices', 'CKError', 'quota exceeded' - systematic iCloud sync diagnostics for both CloudKit and iCloud Drive",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-cloud-sync-diag"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-grdb",
+    "name": "axiom-grdb",
+    "description": "Use when writing raw SQL queries with GRDB, complex joins, ValueObservation for reactive queries, DatabaseMigrator patterns, query profiling under performance pressure, or dropping down from SQLiteData for performance - direct SQLite access for iOS/macOS",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-grdb"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ui-testing",
+    "name": "axiom-ui-testing",
+    "description": "Use when writing UI tests, recording interactions, tests have race conditions, timing dependencies, inconsistent pass/fail behavior, or XCTest UI tests are flaky - covers Recording UI Automation (WWDC 2025), condition-based waiting, network conditioning, multi-factor testing, crash debugging, and accessibility-first testing patterns",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ui-testing"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-swiftui-layout",
+    "name": "axiom-swiftui-layout",
+    "description": "Use when layouts need to adapt to different screen sizes, iPad multitasking, or iOS 26 free-form windows — decision trees for ViewThatFits vs AnyLayout vs onGeometryChange, size class limitations, and anti-patterns preventing device-based layout mistakes",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swiftui-layout"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-ios-testing",
+    "name": "axiom-ios-testing",
+    "description": "Use when writing ANY test, debugging flaky tests, making tests faster, or asking about Swift Testing vs XCTest. Covers unit tests, UI tests, fast tests without simulator, async testing, test architecture.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-ios-testing"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-foundation-models",
+    "name": "axiom-foundation-models",
+    "description": "Use when implementing on-device AI with Apple's Foundation Models framework — prevents context overflow, blocking UI, wrong model use cases, and manual JSON parsing when @Generable should be used. iOS 26+, macOS 26+, iPadOS 26+, axiom-visionOS 26+",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-foundation-models"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-swiftui-debugging",
+    "name": "axiom-swiftui-debugging",
+    "description": "Use when debugging SwiftUI view updates, preview crashes, or layout issues - diagnostic decision trees to identify root causes quickly and avoid misdiagnosis under pressure",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swiftui-debugging"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-haptics",
+    "name": "axiom-haptics",
+    "description": "Use when implementing haptic feedback, Core Haptics patterns, audio-haptic synchronization, or debugging haptic issues - covers UIFeedbackGenerator, CHHapticEngine, AHAP patterns, and Apple's Causality-Harmony-Utility design principles from WWDC 2021",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-haptics"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-swiftui-26-ref",
+    "name": "axiom-swiftui-26-ref",
+    "description": "Use when implementing iOS 26 SwiftUI features - covers Liquid Glass design system, performance improvements, @Animatable macro, 3D spatial layout, scene bridging, WebView/WebPage, AttributedString rich text editing, drag and drop enhancements, and visionOS integration for iOS 26+",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swiftui-26-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-swiftui-nav-ref",
+    "name": "axiom-swiftui-nav-ref",
+    "description": "Reference — Comprehensive SwiftUI navigation guide covering NavigationStack (iOS 16+), NavigationSplitView (iOS 16+), NavigationPath, deep linking, state restoration, Tab+Navigation integration (iOS 18+), Liquid Glass navigation (iOS 26+), and coordinator patterns",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swiftui-nav-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-realm-migration-ref",
+    "name": "axiom-realm-migration-ref",
+    "description": "Use when migrating from Realm to SwiftData - comprehensive migration guide covering pattern equivalents, threading model conversion, schema migration strategies, CloudKit sync transition, and real-world scenarios",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-realm-migration-ref"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-cloud-sync",
+    "name": "axiom-cloud-sync",
+    "description": "Use when choosing between CloudKit vs iCloud Drive, implementing reliable sync, handling offline-first patterns, or designing sync architecture - prevents common sync mistakes that cause data loss",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-cloud-sync"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-swiftui-architecture",
+    "name": "axiom-swiftui-architecture",
+    "description": "Use when separating logic from SwiftUI views, choosing architecture patterns, refactoring view files, or asking 'where should this code go', 'how do I organize my SwiftUI app', 'MVVM vs TCA vs vanilla SwiftUI', 'how do I make SwiftUI testable' - comprehensive architecture patterns with refactoring workflows for iOS 26+",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swiftui-architecture"
+  },
+  {
+    "id": "charleswiltgen-axiom-axiom-privacy-ux",
+    "name": "axiom-privacy-ux",
+    "description": "Use when implementing privacy manifests, requesting permissions, App Tracking Transparency UX, or preparing Privacy Nutrition Labels - covers just-in-time permission requests, tracking domain management, and Required Reason APIs from WWDC 2023",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-01-09T15:47:30Z",
+    "repoUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-privacy-ux"
+  },
+  {
+    "id": "nnnsightnnn-claudekit-project-builder",
+    "name": "Project Builder",
+    "description": "Automatically analyze project plans and generate comprehensive task breakdowns. Use when user describes a project, feature set, or asks to build/implement something complex requiring multiple tasks.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T15:23:11Z",
+    "repoUrl": "https://github.com/Nnnsightnnn/claudekit/tree/main/.claude/skills/project-builder"
+  },
+  {
+    "id": "nnnsightnnn-claudekit-investigation-analysis",
+    "name": "Investigation & Analysis",
+    "description": "Analyze feature requests, refactor plans, or technical decisions to determine investment value and provide recommendations. Use when user mentions investigating, analyzing, or asks \"should we build this\".",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T15:23:11Z",
+    "repoUrl": "https://github.com/Nnnsightnnn/claudekit/tree/main/.claude/skills/investigation-analysis"
+  },
+  {
+    "id": "wayne930242-reflexive-claude-code-write-hook",
+    "name": "write-hook",
+    "description": "Create Claude Code hooks for static analysis and code quality. Provides pre-built linting, formatting, and type-checking hooks. Use when setting up project quality gates, enforcing code standards, or adding pre-commit style checks.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T15:14:26Z",
+    "repoUrl": "https://github.com/wayne930242/Reflexive-Claude-Code/tree/main/plugins/ACE-core/skills/write-hook"
+  },
+  {
+    "id": "wayne930242-reflexive-claude-code-write-rules",
+    "name": "write-rules",
+    "description": "Create Claude Code rule files for .claude/rules/. Writes conventions and shared guidelines that auto-inject into context. Use for path-specific coding conventions or shared project guidelines. NOT for constitution/laws (use <law> in CLAUDE.md instead).",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T15:14:26Z",
+    "repoUrl": "https://github.com/wayne930242/Reflexive-Claude-Code/tree/main/plugins/ACE-core/skills/write-rules"
+  },
+  {
+    "id": "wayne930242-reflexive-claude-code-project-discovery",
+    "name": "project-discovery",
+    "description": "Deep project analysis for architecture planning. Use when starting migration or designing new agent components for an unfamiliar codebase.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T15:14:26Z",
+    "repoUrl": "https://github.com/wayne930242/Reflexive-Claude-Code/tree/main/plugins/ACE-core/skills/project-discovery"
+  },
+  {
+    "id": "wayne930242-reflexive-claude-code-write-plugin",
+    "name": "write-plugin",
+    "description": "Claude Code plugin authoring expert. Creates complete plugin packages with manifests, commands, agents, skills, hooks, and marketplaces following official 2025 schema. Use when creating new plugins, building marketplaces, or packaging skills for distribution.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 7,
+    "updatedAt": "2026-01-09T15:14:26Z",
+    "repoUrl": "https://github.com/wayne930242/Reflexive-Claude-Code/tree/main/plugins/RCC-dev-helper/skills/write-plugin"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-embeddings",
+    "name": "embeddings",
+    "description": "Text embeddings for semantic search and similarity. Use when converting text to vectors, choosing embedding models, implementing chunking strategies, or building document similarity features.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/embeddings"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-react-server-components-framework",
+    "name": "react-server-components-framework",
+    "description": "Use when building Next.js 16+ apps with React Server Components. Covers App Router, streaming SSR, Server Actions, and React 19 patterns for server-first architecture.",
+    "category": "frontend-development",
+    "tags": [
+      "frontend",
+      "react",
+      "react-19.2",
+      "nextjs-16",
+      "server-components",
+      "streaming",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/react-server-components-framework"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-brainstorming",
+    "name": "brainstorming",
+    "description": "Use when creating or developing anything, before writing code or implementation plans - refines rough ideas into fully-formed designs through structured Socratic questioning, alternative exploration, and incremental validation",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/brainstorming"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-langgraph-routing",
+    "name": "langgraph-routing",
+    "description": "LangGraph conditional routing patterns. Use when implementing dynamic routing based on state, creating branching workflows, or building retry loops with conditional edges.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/langgraph-routing"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-performance-optimization",
+    "name": "Performance Optimization",
+    "description": "Use when application is slow, bundle is too large, or investigating performance issues. Covers profiling, React concurrent features, bundle analysis, and optimization patterns.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/performance-optimization"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-i18n-date-patterns",
+    "name": "i18n-date-patterns",
+    "description": "Use this skill for internationalization (i18n) in React applications. Covers ALL user-facing strings, date/time handling, locale-aware formatting (useFormatting hook), ICU MessageFormat, Trans component, and RTL/LTR support.",
+    "category": "frontend-development",
+    "tags": [
+      "i18n",
+      "internationalization",
+      "dayjs",
+      "dates",
+      "react-i18next",
+      "localization",
+      "rtl",
+      "useTranslation",
+      "useFormatting",
+      "ICU",
+      "Trans"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/i18n-date-patterns"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-msw-mocking",
+    "name": "msw-mocking",
+    "description": "Mock Service Worker (MSW) 2.x for API mocking. Use when testing frontend components with network mocking, simulating API errors, or creating deterministic API responses in tests.",
+    "category": "frontend-development",
+    "tags": [
+      "msw",
+      "testing",
+      "mocking",
+      "frontend",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/msw-mocking"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-langgraph-functional",
+    "name": "langgraph-functional",
+    "description": "LangGraph Functional API with @entrypoint and @task decorators. Use when building workflows with the modern LangGraph pattern, enabling parallel execution, persistence, and human-in-the-loop.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/langgraph-functional"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-unit-testing",
+    "name": "unit-testing",
+    "description": "Unit testing patterns and best practices. Use when writing isolated unit tests, implementing AAA pattern, designing test isolation, or setting coverage targets for business logic.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/unit-testing"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-clean-architecture",
+    "name": "clean-architecture",
+    "description": "SOLID principles, hexagonal architecture, ports & adapters, and DDD tactical patterns for maintainable Python/FastAPI backends. Use when designing service layers, domain models, or refactoring legacy code.",
+    "category": "frontend-development",
+    "tags": [
+      "architecture",
+      "solid",
+      "hexagonal",
+      "ddd",
+      "python",
+      "fastapi",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/clean-architecture"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-evidence-verification",
+    "name": "evidence-verification",
+    "description": "Use when completing tasks, code reviews, or deployments to verify work with evidence. Collects test results, build outputs, coverage metrics, and exit codes to prove work is complete.",
+    "category": "frontend-development",
+    "tags": [
+      "quality",
+      "verification",
+      "testing",
+      "evidence",
+      "completion"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/evidence-verification"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-resilience-patterns",
+    "name": "resilience-patterns",
+    "description": "Use when building fault-tolerant systems with circuit breakers, bulkheads, or retry logic. Provides resilience patterns for LLM integrations, distributed workflows, and cascade failure protection.",
+    "category": "frontend-development",
+    "tags": [
+      "resilience",
+      "circuit-breaker",
+      "bulkhead",
+      "retry",
+      "fault-tolerance"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/resilience-patterns"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-fastapi-advanced",
+    "name": "fastapi-advanced",
+    "description": "FastAPI 2026 advanced patterns including lifespan, dependencies, middleware, settings, and async best practices. Use when building production FastAPI applications.",
+    "category": "frontend-development",
+    "tags": [
+      "fastapi",
+      "python",
+      "async",
+      "middleware",
+      "dependencies",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/fastapi-advanced"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-rag-retrieval",
+    "name": "rag-retrieval",
+    "description": "Retrieval-Augmented Generation patterns for grounded LLM responses. Use when building RAG pipelines, constructing context from retrieved documents, adding citations, or implementing hybrid search.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/rag-retrieval"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-design-system-starter",
+    "name": "design-system-starter",
+    "description": "Use this skill when creating or evolving design systems for applications. Provides design token structures, component architecture patterns, documentation templates, and accessibility guidelines. Ensures consistent, scalable, and accessible UI design across products.",
+    "category": "frontend-development",
+    "tags": [
+      "design-system",
+      "ui",
+      "components",
+      "design-tokens",
+      "accessibility",
+      "frontend"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/design-system-starter"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-langgraph-supervisor",
+    "name": "langgraph-supervisor",
+    "description": "LangGraph supervisor-worker pattern. Use when building central coordinator agents that route to specialized workers, implementing round-robin or priority-based agent dispatch.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/langgraph-supervisor"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-system-design-interrogation",
+    "name": "system-design-interrogation",
+    "description": "Use when planning system architecture to ensure nothing is missed. Provides structured questions covering scalability, security, data, and operational dimensions before implementation.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/system-design-interrogation"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-motion-animation-patterns",
+    "name": "motion-animation-patterns",
+    "description": "Use this skill for implementing Motion (Framer Motion) animations in React applications. Covers animation presets, page transitions, modal animations, list stagger effects, hover interactions, skeleton loaders, and RTL-aware animation patterns.",
+    "category": "frontend-development",
+    "tags": [
+      "motion",
+      "framer-motion",
+      "animation",
+      "react",
+      "ux",
+      "transitions",
+      "hover",
+      "stagger",
+      "skeleton"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/motion-animation-patterns"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-backend-architecture-enforcer",
+    "name": "backend-architecture-enforcer",
+    "description": "Enforce FastAPI Clean Architecture - layer separation, dependency injection, async patterns, no business logic in routers. Blocks violations. Use when building or reviewing backend code.",
+    "category": "frontend-development",
+    "tags": [
+      "backend",
+      "fastapi",
+      "architecture",
+      "enforcement",
+      "blocking",
+      "clean-architecture",
+      "di"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/backend-architecture-enforcer"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-browser-content-capture",
+    "name": "browser-content-capture",
+    "description": "Capture content from JavaScript-rendered pages, login-protected sites, and multi-page documentation using Playwright MCP tools or Claude Chrome extension. Use when WebFetch fails on SPAs, dynamic content, or auth-required pages. Integrates with SkillForge's analysis pipeline for automatic content processing.",
+    "category": "frontend-development",
+    "tags": [
+      "browser",
+      "playwright",
+      "mcp",
+      "scraping",
+      "spa",
+      "authentication",
+      "chrome-extension",
+      2025
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/browser-content-capture"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-context-engineering",
+    "name": "context-engineering",
+    "description": "Use when designing agent system prompts, optimizing RAG retrieval, or when context is too expensive or slow. Reduces tokens while maintaining quality through strategic positioning and attention-aware design.",
+    "category": "frontend-development",
+    "tags": [
+      "context",
+      "attention",
+      "optimization",
+      "llm",
+      "performance",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/context-engineering"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-langgraph-state",
+    "name": "langgraph-state",
+    "description": "LangGraph state management patterns. Use when designing workflow state schemas, using TypedDict vs Pydantic, implementing accumulating state with Annotated operators, or managing shared state across nodes.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/langgraph-state"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-api-versioning",
+    "name": "api-versioning",
+    "description": "API versioning strategies including URL path, header, and content negotiation. Use when designing version evolution, deprecation policies, or multi-version support.",
+    "category": "frontend-development",
+    "tags": [
+      "api",
+      "versioning",
+      "rest",
+      "fastapi",
+      "backward-compatibility",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/api-versioning"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-agent-loops",
+    "name": "agent-loops",
+    "description": "Agentic workflow patterns for autonomous LLM reasoning. Use when building ReAct agents, implementing reasoning loops, or creating LLMs that plan and execute multi-step tasks.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/agent-loops"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-streaming-api-patterns",
+    "name": "streaming-api-patterns",
+    "description": "Use when building real-time features with SSE, WebSockets, or streaming APIs. Covers backpressure handling, reconnection strategies, and LLM token streaming patterns.",
+    "category": "frontend-development",
+    "tags": [
+      "streaming",
+      "sse",
+      "websocket",
+      "real-time",
+      "api",
+      2025
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/streaming-api-patterns"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-semantic-caching",
+    "name": "semantic-caching",
+    "description": "Redis semantic caching for LLM applications. Use when implementing vector similarity caching, optimizing LLM costs through cached responses, or building multi-level cache hierarchies.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/semantic-caching"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-defense-in-depth",
+    "name": "defense-in-depth",
+    "description": "Use when building secure AI pipelines or hardening LLM integrations. Implements 8 validation layers from edge to storage with no single point of failure.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/defense-in-depth"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-mcp-server-building",
+    "name": "mcp-server-building",
+    "description": "Building MCP (Model Context Protocol) servers for Claude extensibility. Use when creating custom tools, integrating external services, or extending Claude's capabilities.",
+    "category": "frontend-development",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/mcp-server-building"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-database-schema-designer",
+    "name": "database-schema-designer",
+    "description": "Use this skill when designing database schemas for relational (SQL) or document (NoSQL) databases. Provides normalization guidelines, indexing strategies, migration patterns, and performance optimization techniques. Ensures scalable, maintainable, and performant data models.",
+    "category": "frontend-development",
+    "tags": [
+      "database",
+      "schema-design",
+      "sql",
+      "nosql",
+      "performance",
+      "migrations"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/database-schema-designer"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-background-jobs",
+    "name": "background-jobs",
+    "description": "Async task processing with Celery, ARQ, and Redis for Python backends. Use when offloading long-running tasks, scheduling jobs, or building worker pipelines.",
+    "category": "frontend-development",
+    "tags": [
+      "background-jobs",
+      "celery",
+      "arq",
+      "redis",
+      "async",
+      "python",
+      2026
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/background-jobs"
+  },
+  {
+    "id": "yonatangross-skillforge-claude-plugin-api-design-framework",
+    "name": "api-design-framework",
+    "description": "Use this skill when designing REST, GraphQL, or gRPC APIs. Provides comprehensive API design patterns, versioning strategies, error handling conventions, authentication approaches, and OpenAPI/AsyncAPI templates. Ensures consistent, well-documented, and developer-friendly APIs across all backend services.",
+    "category": "frontend-development",
+    "tags": [
+      "api",
+      "rest",
+      "graphql",
+      "grpc",
+      "backend",
+      "documentation"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-09T17:04:39Z",
+    "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/api-design-framework"
   }
 ]

@@ -1,23 +1,35 @@
 {
-  "totalSkills": 1503,
+  "totalSkills": 2037,
   "byCategory": {
-    "ai-data-science": 301,
-    "frontend-development": 379,
-    "tools-productivity": 299,
+    "ai-data-science": 409,
+    "frontend-development": 581,
+    "tools-productivity": 418,
     "business-marketing": 68,
-    "testing-quality": 112,
-    "backend-development": 148,
-    "specialized": 69,
-    "devops-infrastructure": 127
+    "testing-quality": 146,
+    "backend-development": 199,
+    "specialized": 76,
+    "devops-infrastructure": 140
   },
   "topTags": [
+    {
+      "tag": "2026",
+      "count": 18
+    },
     {
       "tag": "claude-skills",
       "count": 14
     },
     {
+      "tag": "testing",
+      "count": 12
+    },
+    {
       "tag": "Multimodal",
       "count": 12
+    },
+    {
+      "tag": "2025",
+      "count": 11
     },
     {
       "tag": "claude-code",
@@ -52,6 +64,10 @@
       "count": 7
     },
     {
+      "tag": "fastapi",
+      "count": 7
+    },
+    {
       "tag": "PyTorch",
       "count": 6
     },
@@ -72,6 +88,26 @@
       "count": 6
     },
     {
+      "tag": "validation",
+      "count": 6
+    },
+    {
+      "tag": "quality",
+      "count": 6
+    },
+    {
+      "tag": "python",
+      "count": 5
+    },
+    {
+      "tag": "llm",
+      "count": 5
+    },
+    {
+      "tag": "automation",
+      "count": 5
+    },
+    {
       "tag": "LoRA",
       "count": 5
     },
@@ -86,6 +122,14 @@
     {
       "tag": "Fast Inference",
       "count": 5
+    },
+    {
+      "tag": "github",
+      "count": 5
+    },
+    {
+      "tag": "ai",
+      "count": 4
     },
     {
       "tag": "claude-ai",
@@ -128,10 +172,6 @@
       "count": 4
     },
     {
-      "tag": "github",
-      "count": 4
-    },
-    {
       "tag": "forensics",
       "count": 4
     },
@@ -140,99 +180,59 @@
       "count": 4
     },
     {
+      "tag": "git",
+      "count": 4
+    },
+    {
+      "tag": "security",
+      "count": 4
+    },
+    {
+      "tag": "documentation",
+      "count": 4
+    },
+    {
+      "tag": "playwright",
+      "count": 4
+    },
+    {
+      "tag": "blocking",
+      "count": 4
+    },
+    {
+      "tag": "architecture",
+      "count": 4
+    },
+    {
+      "tag": "api",
+      "count": 4
+    },
+    {
       "tag": "codex",
-      "count": 3
-    },
-    {
-      "tag": "ai",
-      "count": 3
-    },
-    {
-      "tag": "testing",
-      "count": 3
-    },
-    {
-      "tag": "Embeddings",
-      "count": 3
-    },
-    {
-      "tag": "Semantic Search",
-      "count": 3
-    },
-    {
-      "tag": "MLOps",
-      "count": 3
-    },
-    {
-      "tag": "Experiment Tracking",
-      "count": 3
-    },
-    {
-      "tag": "TensorFlow",
-      "count": 3
-    },
-    {
-      "tag": "Vision-Language",
-      "count": 3
-    },
-    {
-      "tag": "Zero-Shot",
-      "count": 3
-    },
-    {
-      "tag": "Multilingual",
-      "count": 3
-    },
-    {
-      "tag": "OpenAI",
-      "count": 3
-    },
-    {
-      "tag": "Llama",
-      "count": 3
-    },
-    {
-      "tag": "Gemma",
-      "count": 3
-    },
-    {
-      "tag": "Infrastructure",
-      "count": 3
-    },
-    {
-      "tag": "vLLM",
-      "count": 3
-    },
-    {
-      "tag": "Efficient Inference",
-      "count": 3
-    },
-    {
-      "tag": "Safety Alignment",
       "count": 3
     }
   ],
   "recentlyUpdated": [
-    "klaushofrichter-een-oauth-proxy-pr-and-check",
-    "leeovery-claude-laravel-laravel-jobs",
-    "leeovery-claude-laravel-laravel-dtos",
-    "leeovery-claude-laravel-laravel-enums",
-    "leeovery-claude-laravel-laravel-models",
-    "leeovery-claude-laravel-laravel-quality",
-    "leeovery-claude-laravel-laravel-testing",
-    "leeovery-claude-laravel-laravel-routing",
-    "leeovery-claude-laravel-laravel-actions",
-    "leeovery-claude-laravel-laravel-services",
-    "leeovery-claude-laravel-laravel-packages",
-    "leeovery-claude-laravel-laravel-policies",
-    "leeovery-claude-laravel-laravel-providers",
-    "leeovery-claude-laravel-laravel-validation",
-    "leeovery-claude-laravel-laravel-exceptions",
-    "leeovery-claude-laravel-laravel-controllers",
-    "leeovery-claude-laravel-laravel-architecture",
-    "leeovery-claude-laravel-laravel-value-objects",
-    "leeovery-claude-laravel-laravel-multi-tenancy",
-    "leeovery-claude-laravel-skill-creator"
+    "everyone-needs-a-copilot-claude-copilot-link-validation",
+    "everyone-needs-a-copilot-claude-copilot-token-budget-check",
+    "everyone-needs-a-copilot-claude-copilot-frontmatter-validation",
+    "korjavin-claude-common-skills-portainer-deploy",
+    "benzema216-dreamina-claude-skills-storyboard-generator",
+    "avalidurl-aisync-skill-skill",
+    "chadboyda-iterm-worktree-skill-skill",
+    "cblecker-claude-skills-syncing-branch",
+    "cblecker-claude-skills-creating-commit",
+    "cblecker-claude-skills-creating-branch",
+    "cblecker-claude-skills-rebasing-branch",
+    "cblecker-claude-skills-creating-pull-request",
+    "mquandalle-browser-history-skill-skill",
+    "brucevanfdm-agent-skills-guard-test-skills",
+    "mauromedda-agent-toolkit-scm",
+    "mauromedda-agent-toolkit-bash",
+    "mauromedda-agent-toolkit-make",
+    "mauromedda-agent-toolkit-trivy",
+    "mauromedda-agent-toolkit-python",
+    "mauromedda-agent-toolkit-golang"
   ],
-  "lastSyncTime": "2026-01-09T17:29:56.277Z"
+  "lastSyncTime": "2026-01-09T18:30:39.505Z"
 }
