@@ -1,0 +1,689 @@
+[
+  {
+    "id": "maryanohit549-wiggle-claude-skill",
+    "name": "wiggle",
+    "description": "Create animated logo files (Lottie JSON, GIF, MP4) from static logo images. This skill should be used when users provide a logo image (PNG/SVG/JPG) and request any kind of logo animation, motion graphics, animated logo effect, waveform animation, bouncing logo, rotating logo, pulsing logo, wiggling logo, or ask to \"animate my logo\" or \"make my logo move\". Outputs standalone animation files (not React/HTML artifacts). Generates Lottie JSON with automatic GIF/MP4 rendering, perfect loop validation, and professional motion design patterns.",
+    "category": "development",
+    "tags": [
+      "ai",
+      "animation",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-desktop",
+      "claude-skills",
+      "logo",
+      "lottie",
+      "lottie-animation"
+    ],
+    "stars": 2,
+    "updatedAt": "2026-01-08T05:27:10Z",
+    "repoUrl": "https://github.com/Maryanohit549/wiggle-claude-skill"
+  },
+  {
+    "id": "santiago-afonso-codex-sandbox-preflight",
+    "name": "codex-sandbox-preflight",
+    "description": "Use at the start of a Codex session (especially sandboxed) to run `scripts/codex-sandbox-preflight.sh` and interpret network + writable_roots constraints.",
+    "category": "development",
+    "tags": [
+      "claude-skills",
+      "codex",
+      "skills",
+      "start",
+      "session",
+      "especially",
+      "sandboxed"
+    ],
+    "stars": 0,
+    "updatedAt": "2026-01-06T15:04:26Z",
+    "repoUrl": "https://github.com/santiago-afonso/codex-sandbox-preflight"
+  },
+  {
+    "id": "jjmartres-reachy-mini-sdk-skill",
+    "name": "reachy-mini-sdk",
+    "description": "Programming guide for Reachy Mini robot using Python SDK v1.2.6 and REST API. Use when controlling Reachy Mini robots, programming movements (head/antennas/body), accessing sensors (camera/microphone/IMU), recording motions, building AI applications, deploying to Hugging Face, or using the daemon REST API. Covers SDK patterns, coordinate systems, interpolation methods, app management, and OpenAPI client generation.",
+    "category": "development",
+    "tags": [
+      "agentskills",
+      "claude-code",
+      "claude-skills",
+      "programming",
+      "reachy",
+      "mini",
+      "using",
+      "rest"
+    ],
+    "stars": 3,
+    "updatedAt": "2026-01-06T20:29:23Z",
+    "repoUrl": "https://github.com/jjmartres/reachy-mini-sdk-skill"
+  },
+  {
+    "id": "texmeijin-video-to-gif-skill",
+    "name": "video-to-gif",
+    "description": "Convert multiple video files (MOV/MP4) into a single merged GIF with customizable speed per segment.\nUse this skill when users want to:\n- Merge multiple videos into one GIF\n- Create demo GIFs from screen recordings\n- Combine video clips with different playback speeds\n- Convert videos to optimized GIFs with compression\nTriggers: \"create GIF from videos\", \"merge videos to GIF\", \"convert MOV to GIF\", \"combine videos into animated GIF\"\n",
+    "category": "development",
+    "tags": [
+      "claude-code-skill",
+      "claude-skills",
+      "videos",
+      "convert",
+      "into",
+      "with",
+      "multiple"
+    ],
+    "stars": 0,
+    "updatedAt": "2026-01-04T09:01:47Z",
+    "repoUrl": "https://github.com/TeXmeijin/video-to-gif-skill"
+  },
+  {
+    "id": "finelagusaz-proofread-ja",
+    "name": "proofread-ja",
+    "description": "日本語テキストの誤字脱字チェック、表記揺れの検出と修正。小説、技術文書、ブログ記事などで使用。ユーザーが「誤字脱字をチェック」「表記の揺れを確認」「校正して」などと依頼した時、または文書の品質向上が必要な時に使用。",
+    "category": "development",
+    "tags": [
+      "claude-code-skill",
+      "claude-skills"
+    ],
+    "stars": 1,
+    "updatedAt": "2026-01-03T09:12:17Z",
+    "repoUrl": "https://github.com/finelagusaz/proofread-ja"
+  },
+  {
+    "id": "gl0bal01-black-box-architecture",
+    "name": "black-box-architecture",
+    "description": "Apply Eskil Steenberg's black box architecture principles to build modular, maintainable software. Automatically refactors code into replaceable components, designs system architectures with clean boundaries, and debugs with modular isolation.",
+    "category": "development",
+    "tags": [
+      "ai-prompts",
+      "claude-agents",
+      "claude-code",
+      "claude-prompts",
+      "claude-skills",
+      "modular-design",
+      "software-architecture",
+      "modular",
+      "with",
+      "apply"
+    ],
+    "stars": 0,
+    "updatedAt": "2025-12-31T10:55:07Z",
+    "repoUrl": "https://github.com/gl0bal01/black-box-architecture"
+  },
+  {
+    "id": "tripleyak-skillforge",
+    "name": "skillforge",
+    "description": "Intelligent skill router and creator. Analyzes ANY input to recommend existing skills, improve them, or create new ones. Uses deep iterative analysis with 11 thinking models, regression questioning, evolution lens, and multi-agent synthesis panel. Phase 0 triage ensures you never duplicate existing functionality.",
+    "category": "development",
+    "tags": [
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "existing",
+      "intelligent",
+      "skill",
+      "router",
+      "creator"
+    ],
+    "stars": 225,
+    "updatedAt": "2026-01-07T20:33:51Z",
+    "repoUrl": "https://github.com/tripleyak/SkillForge"
+  },
+  {
+    "id": "santiago-afonso-read-webpage-content-as-markdown",
+    "name": "read-webpage-content-as-markdown",
+    "description": "Read a webpage into cleaned markdown using curl + markitdown + codex exec. Use whenever asked to read a webpage or extract article content from a URL. Static HTML only; JS/client-rendered pages require a Playwright workflow.",
+    "category": "development",
+    "tags": [
+      "claude-skills",
+      "codex",
+      "skills",
+      "read",
+      "webpage",
+      "into",
+      "cleaned",
+      "markdown"
+    ],
+    "stars": 0,
+    "updatedAt": "2025-12-27T19:24:09Z",
+    "repoUrl": "https://github.com/santiago-afonso/read-webpage-content-as-markdown"
+  },
+  {
+    "id": "wrsmith108-docker-claude-skill",
+    "name": "docker",
+    "description": "Container-based development for isolated, reproducible environments. Use when running npm commands, installing packages, executing code, or managing project dependencies. Trigger phrases include \"npm install\", \"run the build\", \"start the server\", \"install package\", or any code execution request.",
+    "category": "development",
+    "tags": [
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "containers",
+      "docker",
+      "code",
+      "install",
+      "container",
+      "based",
+      "development"
+    ],
+    "stars": 1,
+    "updatedAt": "2025-12-27T18:11:04Z",
+    "repoUrl": "https://github.com/wrsmith108/docker-claude-skill"
+  },
+  {
+    "id": "wrsmith108-clerk-claude-skill",
+    "name": "clerk",
+    "description": "Clerk authentication integration for Astro/Next.js. Use when implementing authentication, handling Clerk middleware, testing with Playwright, or debugging auth issues. Trigger phrases include \"Clerk auth\", \"sign in\", \"authentication\", \"middleware\", \"E2E testing with Clerk\".",
+    "category": "development",
+    "tags": [
+      "authentication",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "clerk",
+      "middleware",
+      "testing",
+      "with"
+    ],
+    "stars": 1,
+    "updatedAt": "2025-12-27T05:06:29Z",
+    "repoUrl": "https://github.com/wrsmith108/clerk-claude-skill"
+  },
+  {
+    "id": "shuntacurosu-llm-council-skill",
+    "name": "LLM Council",
+    "description": "Orchestrate multiple LLMs as a council, generating collective intelligence through peer review and chairman synthesis",
+    "category": "development",
+    "tags": [
+      "claude-skills",
+      "git-worktree",
+      "multi-agent",
+      "opencode",
+      "peer-review",
+      "orchestrate",
+      "multiple",
+      "llms",
+      "council",
+      "generating"
+    ],
+    "stars": 1,
+    "updatedAt": "2026-01-05T06:49:58Z",
+    "repoUrl": "https://github.com/shuntacurosu/llm_council_skill"
+  },
+  {
+    "id": "one-kash-sap-odata-explorer",
+    "name": "sap-odata-explorer",
+    "description": "Query and explore SAP OData endpoints with secure logging and configurable output. Use this skill when the user needs to fetch data from SAP systems, explore SAP entity structures, or query SAP business objects like BusinessPartner, SalesOrder, Product, etc.",
+    "category": "development",
+    "tags": [
+      "agentic-ai",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "odata",
+      "sap",
+      "query",
+      "explore",
+      "endpoints",
+      "with"
+    ],
+    "stars": 18,
+    "updatedAt": "2025-12-28T14:31:20Z",
+    "repoUrl": "https://github.com/one-kash/sap-odata-explorer"
+  },
+  {
+    "id": "daverobinson-claude-skill--gutenberg-block",
+    "name": "gutenberg-block-development",
+    "description": "Best practices for creating custom WordPress Gutenberg blocks with React/TypeScript, covering scaffolding, block architecture, attributes, dynamic vs static rendering, and testing",
+    "category": "development",
+    "tags": [
+      "claude-code",
+      "claude-skill",
+      "claude-skills",
+      "gutenberg-blocks",
+      "wordpress",
+      "wordpress-plugin",
+      "best",
+      "practices",
+      "creating",
+      "custom"
+    ],
+    "stars": 0,
+    "updatedAt": "2025-11-13T09:45:34Z",
+    "repoUrl": "https://github.com/DaveRobinson/claude-skill--gutenberg-block"
+  },
+  {
+    "id": "mikedemarais-grok-skill",
+    "name": "grok-skill",
+    "description": "Search and analyze X (Twitter) using xAI Grok 4 via OpenRouter with Live Search. Trigger on prompts that explicitly or implicitly ask to \"search Twitter/X\", \"what's trending\", \"tweets from @handle\", \"hashtag #…\", \"what are people saying\", or that require tweet-level activity/engagement from X.\n",
+    "category": "development",
+    "tags": [
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "grok",
+      "openrouter",
+      "xai",
+      "search",
+      "twitter",
+      "that",
+      "what"
+    ],
+    "stars": 14,
+    "updatedAt": "2026-01-01T23:35:28Z",
+    "repoUrl": "https://github.com/mikedemarais/grok-skill"
+  },
+  {
+    "id": "anombyte93-prd-taskmaster",
+    "name": "prd-taskmaster",
+    "description": "AI-powered PRD generation for Claude Code with taskmaster integration",
+    "category": "development",
+    "tags": [
+      "ai-development",
+      "claude-code",
+      "claude-skills",
+      "prd",
+      "product-management",
+      "product-requirements",
+      "requirements-engineering",
+      "taskmaster",
+      "powered",
+      "generation"
+    ],
+    "stars": 34,
+    "updatedAt": "2026-01-08T01:45:53Z",
+    "repoUrl": "https://github.com/anombyte93/prd-taskmaster"
+  },
+  {
+    "id": "yfe404-web-scraper",
+    "name": "web-scraping",
+    "description": "This skill activates for web scraping and Actor development. It proactively discovers sitemaps/APIs, recommends optimal strategy (sitemap/API/Playwright/hybrid), and implements iteratively. For production, it guides TypeScript Actor creation via Apify CLI.",
+    "category": "development",
+    "tags": [
+      "apify",
+      "claude-code",
+      "claude-skills",
+      "crawlee",
+      "playwright",
+      "typescript",
+      "web-scraping",
+      "actor",
+      "this",
+      "skill"
+    ],
+    "stars": 1,
+    "updatedAt": "2025-12-12T05:41:12Z",
+    "repoUrl": "https://github.com/yfe404/web-scraper"
+  },
+  {
+    "id": "karanb192-algo-sensei",
+    "name": "algo-sensei",
+    "description": "Your personal DSA & LeetCode mentor. Use for problem explanations, progressive hints, code reviews, mock interviews, pattern recognition, complexity analysis, and custom problem generation. Automatically adapts to your learning style and request type.",
+    "category": "development",
+    "tags": [
+      "ai-tutor",
+      "algorithms",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "coding-interview",
+      "coding-interviews",
+      "competitive-programming",
+      "data-structures"
+    ],
+    "stars": 16,
+    "updatedAt": "2026-01-03T21:30:59Z",
+    "repoUrl": "https://github.com/karanb192/algo-sensei"
+  },
+  {
+    "id": "talknerdytome-labs-wiggle-claude-skill",
+    "name": "wiggle",
+    "description": "Create animated logo files (Lottie JSON, GIF, MP4) from static logo images. This skill should be used when users provide a logo image (PNG/SVG/JPG) and request any kind of logo animation, motion graphics, animated logo effect, waveform animation, bouncing logo, rotating logo, pulsing logo, wiggling logo, or ask to \"animate my logo\" or \"make my logo move\". Outputs standalone animation files (not React/HTML artifacts). Generates Lottie JSON with automatic GIF/MP4 rendering, perfect loop validation, and professional motion design patterns.",
+    "category": "development",
+    "tags": [
+      "ai",
+      "animation",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-desktop",
+      "claude-skills",
+      "logo",
+      "lottie",
+      "lottie-animation"
+    ],
+    "stars": 1,
+    "updatedAt": "2025-10-21T09:39:53Z",
+    "repoUrl": "https://github.com/talknerdytome-labs/wiggle-claude-skill"
+  },
+  {
+    "id": "waddie-lisp-validator-skill",
+    "name": "lisp-validator",
+    "description": "Validate Lisp code (Clojure, Racket, Scheme, Common Lisp) for syntax errors, parenthesis balance, and semantic issues. This skill should be used when validating Lisp code files, checking for syntax errors before execution, or validating LLM-generated Lisp code including incomplete or partial expressions. Provides structured JSON output optimized for automated workflows.",
+    "category": "development",
+    "tags": [
+      "babashka",
+      "claude",
+      "claude-skills",
+      "clojure",
+      "clojurescript",
+      "lisp",
+      "llm",
+      "racket",
+      "scheme",
+      "code"
+    ],
+    "stars": 0,
+    "updatedAt": "2025-10-18T21:19:21Z",
+    "repoUrl": "https://github.com/waddie/lisp-validator-skill"
+  },
+  {
+    "id": "netresearch-jira-skill",
+    "name": "jira-integration",
+    "description": "Agent Skill: Comprehensive Jira integration through lightweight Python scripts. AUTOMATICALLY TRIGGER when user mentions Jira URLs like 'https://jira.*/browse/*', 'https://*.atlassian.net/browse/*', or issue keys like 'PROJ-123'. Use when searching issues (JQL), getting/updating issue details, creating issues, transitioning status, adding comments, logging worklogs, managing sprints and boards, creating issue links, or formatting Jira wiki markup. If authentication fails, offer to configure credentials interactively. Supports both Jira Cloud and Server/Data Center with automatic authentication detection. By Netresearch.",
+    "category": "development",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "atlassian",
+      "claude-code-skill",
+      "jira",
+      "mcp",
+      "open-standard",
+      "project-management",
+      "skill",
+      "issue"
+    ],
+    "stars": 7,
+    "updatedAt": "2026-01-07T13:34:48Z",
+    "repoUrl": "https://github.com/netresearch/jira-skill"
+  },
+  {
+    "id": "rickygao-specrate",
+    "name": "specrate",
+    "description": "Skill to manage specs and changes. Use this when working with Specrate-managed documents.",
+    "category": "development",
+    "tags": [
+      "agent-skills",
+      "github-copilot",
+      "spec",
+      "spec-driven-development",
+      "skill",
+      "manage",
+      "specs",
+      "changes",
+      "this"
+    ],
+    "stars": 2,
+    "updatedAt": "2026-01-07T08:12:10Z",
+    "repoUrl": "https://github.com/rickygao/specrate"
+  },
+  {
+    "id": "gmickel-sheets-cli",
+    "name": "sheets-cli",
+    "description": "Read, write, and update Google Sheets data via CLI. Use when the user asks to read spreadsheet data, update cells, append rows, or work with Google Sheets. Triggers on mentions of spreadsheets, sheets, Google Sheets, tabular data in the cloud, or specific sheet names like \"Projects\" or \"Tasks\".",
+    "category": "development",
+    "tags": [
+      "agent-skills",
+      "automation",
+      "bun",
+      "claude-code",
+      "cli",
+      "google-sheets",
+      "openai-codex",
+      "spreadsheet",
+      "typescript",
+      "sheets"
+    ],
+    "stars": 12,
+    "updatedAt": "2026-01-03T11:20:50Z",
+    "repoUrl": "https://github.com/gmickel/sheets-cli"
+  },
+  {
+    "id": "m81098s-claude-skill-homeassistant",
+    "name": "home-assistant-manager",
+    "description": "Expert-level Home Assistant configuration management with efficient deployment workflows (git and rapid scp iteration), remote CLI access via SSH and hass-cli, automation verification protocols, log analysis, reload vs restart optimization, and comprehensive Lovelace dashboard management for tablet-optimized UIs. Includes template patterns, card types, debugging strategies, and real-world examples.",
+    "category": "development",
+    "tags": [
+      "agentic-ai",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "home-assistant",
+      "management",
+      "expert",
+      "level",
+      "home",
+      "assistant"
+    ],
+    "stars": 0,
+    "updatedAt": "2026-01-08T05:46:20Z",
+    "repoUrl": "https://github.com/m81098s/claude-skill-homeassistant"
+  },
+  {
+    "id": "pleaseprompto-google-ai-mode-skill",
+    "name": "google-ai-mode-skill",
+    "description": "Use this skill when the user requests current information, documentation, coding examples, or web research beyond the knowledge cutoff. Queries Google's AI Search mode to retrieve comprehensive AI-generated overviews with source citations from 100+ websites. Returns markdown with inline footnoted references [1][2][3]. You will receive a detailed Markdown file with references and information summarized directly from Google's AI search. Ideal for you to get new information and clues for further research.",
+    "category": "development",
+    "tags": [
+      "ai-search",
+      "browser-automation",
+      "citations",
+      "claude-code",
+      "claude-skill",
+      "google-ai-mode",
+      "patchright",
+      "python",
+      "web-research",
+      "information"
+    ],
+    "stars": 19,
+    "updatedAt": "2026-01-08T07:05:43Z",
+    "repoUrl": "https://github.com/PleasePrompto/google-ai-mode-skill"
+  },
+  {
+    "id": "alirezarezvani-claudeforge",
+    "name": "claude-md-enhancer",
+    "description": "Analyzes, generates, and enhances CLAUDE.md files for any project type using best practices, modular architecture support, and tech stack customization. Use when setting up new projects, improving existing CLAUDE.md files, or establishing AI-assisted development standards.",
+    "category": "development",
+    "tags": [
+      "agentic-ai",
+      "agentic-workflow",
+      "claude-code",
+      "claude-skill",
+      "claude-subagents",
+      "claude",
+      "files",
+      "analyzes",
+      "generates",
+      "enhances"
+    ],
+    "stars": 113,
+    "updatedAt": "2026-01-08T05:10:34Z",
+    "repoUrl": "https://github.com/alirezarezvani/ClaudeForge"
+  },
+  {
+    "id": "digitalsamba-digital-samba-skill",
+    "name": "digital-samba",
+    "description": "Build video conferencing integrations using Digital Samba's API and SDK. Use when creating meeting rooms, embedding video calls, generating participant tokens, managing recordings, or integrating real-time collaboration features. Triggers include \"Digital Samba\", \"video conferencing API\", \"embed video calls\", \"meeting room integration\", \"WebRTC iframe\", \"participant tokens\".",
+    "category": "development",
+    "tags": [
+      "ai-assisted-development",
+      "api-integration",
+      "claude-code",
+      "claude-skill",
+      "digital-samba",
+      "embedded-video",
+      "meeting-rooms",
+      "sdk",
+      "video-calls",
+      "video-conferencing"
+    ],
+    "stars": 2,
+    "updatedAt": "2026-01-05T21:27:44Z",
+    "repoUrl": "https://github.com/digitalsamba/digital-samba-skill"
+  },
+  {
+    "id": "felixrieseberg-claude-coach",
+    "name": "coach",
+    "description": "Create personalized triathlon, marathon, and ultra-endurance training plans. Use when athletes ask for training plans, workout schedules, race preparation, or coaching advice. Can sync with Strava to analyze training history, or work from manually provided fitness data. Generates periodized plans with sport-specific workouts, zones, and race-day strategies.",
+    "category": "development",
+    "tags": [
+      "claude",
+      "claude-code",
+      "claude-skill",
+      "garmin",
+      "marathon",
+      "strava",
+      "triathlon",
+      "zwift",
+      "training",
+      "plans"
+    ],
+    "stars": 2,
+    "updatedAt": "2026-01-05T20:19:33Z",
+    "repoUrl": "https://github.com/felixrieseberg/claude-coach"
+  },
+  {
+    "id": "echovic-spec-flow",
+    "name": "spec-flow",
+    "description": "Interactive spec-driven development workflow with phase-by-phase confirmation. Each phase waits for user confirmation before proceeding. Trigger phrases include \"spec-flow\", \"spec mode\", \"need a plan\", or \"structured development\". Creates .spec-flow/ directory with proposal, requirements, design, and tasks documents.",
+    "category": "development",
+    "tags": [
+      "ai-skill",
+      "claude",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skill",
+      "development-workflow",
+      "documentation",
+      "project-planning",
+      "requirements-engineering",
+      "spec-driven-development"
+    ],
+    "stars": 0,
+    "updatedAt": "2026-01-05T06:44:18Z",
+    "repoUrl": "https://github.com/echoVic/spec-flow"
+  },
+  {
+    "id": "cosgroveb-chezmoi-skill",
+    "name": "chezmoi",
+    "description": "Manage dotfiles with chezmoi. Use when working with dotfiles, chezmoi templates, machine-specific configuration, or when the user mentions chezmoi.",
+    "category": "development",
+    "tags": [
+      "chezmoi",
+      "claude-code",
+      "claude-code-plugin",
+      "dotfiles",
+      "with",
+      "when",
+      "manage"
+    ],
+    "stars": 0,
+    "updatedAt": "2026-01-05T00:53:26Z",
+    "repoUrl": "https://github.com/cosgroveb/chezmoi-skill"
+  },
+  {
+    "id": "eddmann-whatsapp-cli",
+    "name": "whatsapp",
+    "description": "Query WhatsApp chats, messages, contacts, groups. Send, forward, react. Use when the user asks about their WhatsApp messages, wants to search history, send messages, or manage chats.",
+    "category": "development",
+    "tags": [
+      "claude-code",
+      "cli",
+      "go",
+      "golang",
+      "json",
+      "llm",
+      "messaging",
+      "unix",
+      "whatsapp",
+      "messages"
+    ],
+    "stars": 1,
+    "updatedAt": "2026-01-04T10:56:37Z",
+    "repoUrl": "https://github.com/eddmann/whatsapp-cli"
+  },
+  {
+    "id": "lpbaril-codebase-audit",
+    "name": "security-audit",
+    "description": "Comprehensive security audit for codebases. Use when asked to audit, review security, check for vulnerabilities, penetration test, or assess security posture. Supports web apps, mobile (iOS/Android/React Native/Flutter), APIs (REST/GraphQL), cloud (AWS), and Kubernetes deployments. Includes OWASP Top 10, SOC2, GDPR, PCI-DSS, and HIPAA compliance mapping.",
+    "category": "development",
+    "tags": [
+      "ai-assisted",
+      "api-security",
+      "application-security",
+      "aws-security",
+      "claude-code",
+      "devsecops",
+      "gdpr",
+      "kubernetes",
+      "mobile-security",
+      "owasp"
+    ],
+    "stars": 1,
+    "updatedAt": "2026-01-03T16:51:04Z",
+    "repoUrl": "https://github.com/lpbaril/codebase-audit"
+  },
+  {
+    "id": "helebest-wechat-mp-skill",
+    "name": "wechat-mp-skill",
+    "description": "微信公众号管理工具集，支持素材管理（上传/获取/删除图片、视频、语音等永久和临时素材）、草稿管理（创建/编辑/删除/发布草稿）和数据统计（用户/图文/消息数据分析）。适用于公众号创作者通过 Claude Code 进行内容管理和发布流程自动化。触发场景：用户提到微信公众号、公众号素材、公众号草稿、发布文章、上传图片到公众号、公众号数据统计等。",
+    "category": "development",
+    "tags": [
+      "api-client",
+      "claude-code",
+      "python",
+      "skill",
+      "wechat",
+      "wechat-official-account",
+      "weixin",
+      "claude",
+      "code"
+    ],
+    "stars": 3,
+    "updatedAt": "2026-01-06T11:18:19Z",
+    "repoUrl": "https://github.com/helebest/wechat-mp-skill"
+  },
+  {
+    "id": "yuntou-docker-pkg-install-skill-2026",
+    "name": "docker-pkg-install-skill-2026",
+    "description": "Claude Code skill: Install packages in Docker containers (Python, Node.js, Git, etc.)",
+    "category": "development",
+    "tags": [
+      "claude-code",
+      "claude-code-skill",
+      "container",
+      "devops",
+      "docker",
+      "git",
+      "installation",
+      "nodejs",
+      "package-management",
+      "python"
+    ],
+    "stars": 0,
+    "updatedAt": "2026-01-01T13:56:18Z",
+    "repoUrl": "https://github.com/yuntou/docker-pkg-install-skill-2026"
+  },
+  {
+    "id": "eesb99-universal-ideation-v3",
+    "name": "universal-ideation-v3",
+    "description": "Science-grounded autonomous ideation with Triple Generator, DARLING learning, 8-dimension scoring, and NovAScore atomic novelty",
+    "category": "development",
+    "tags": [
+      "ai-ideation",
+      "autonomous-agents",
+      "brainstorming",
+      "claude",
+      "claude-code",
+      "creativity",
+      "innovation",
+      "llm",
+      "machine-learning",
+      "python"
+    ],
+    "stars": 3,
+    "updatedAt": "2026-01-01T05:50:31Z",
+    "repoUrl": "https://github.com/eesb99/universal-ideation-v3"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tubone24-midi-agent-skill",
+    "name": "midi-generation",
+    "description": "Generate MIDI files with GM instruments and music theory. Use when creating music, composing melodies, or generating MIDI files.",
+    "category": "other",
+    "tags": [
+      "agent-skills",
+      "midi",
+      "files",
+      "music",
+      "generate",
+      "with"
+    ],
+    "stars": 1,
+    "updatedAt": "2025-12-21T02:08:07Z",
+    "repoUrl": "https://github.com/tubone24/midi-agent-skill"
+  }
+]

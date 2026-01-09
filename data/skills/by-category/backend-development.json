@@ -908,5 +908,55 @@
     "stars": 24701,
     "updatedAt": "2026-01-08T21:19:10Z",
     "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/openapi-spec-generation"
+  },
+  {
+    "id": "zebbern-claude-code-guide-sql-injection-testing",
+    "name": "SQL Injection Testing",
+    "description": "This skill should be used when the user asks to \"test for SQL injection vulnerabilities\", \"perform SQLi attacks\", \"bypass authentication using SQL injection\", \"extract database information through injection\", \"detect SQL injection flaws\", or \"exploit database query vulnerabilities\". It provides comprehensive techniques for identifying, exploiting, and understanding SQL injection attack vectors across different database systems.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/sql-injection-testing"
+  },
+  {
+    "id": "zebbern-claude-code-guide-top-web-vulnerabilities",
+    "name": "Top 100 Web Vulnerabilities Reference",
+    "description": "This skill should be used when the user asks to \"identify web application vulnerabilities\", \"explain common security flaws\", \"understand vulnerability categories\", \"learn about injection attacks\", \"review access control weaknesses\", \"analyze API security issues\", \"assess security misconfigurations\", \"understand client-side vulnerabilities\", \"examine mobile and IoT security flaws\", or \"reference the OWASP-aligned vulnerability taxonomy\". Use this skill to provide comprehensive vulnerability definitions, root causes, impacts, and mitigation strategies across all major web security categories.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/top-web-vulnerabilities"
+  },
+  {
+    "id": "zebbern-claude-code-guide-smtp-penetration-testing",
+    "name": "SMTP Penetration Testing",
+    "description": "This skill should be used when the user asks to \"perform SMTP penetration testing\", \"enumerate email users\", \"test for open mail relays\", \"grab SMTP banners\", \"brute force email credentials\", or \"assess mail server security\". It provides comprehensive techniques for testing SMTP server security.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 2943,
+    "updatedAt": "2026-01-09T06:31:35Z",
+    "repoUrl": "https://github.com/zebbern/claude-code-guide/tree/main/skills/smtp-penetration-testing"
+  },
+  {
+    "id": "diet103-claude-code-infrastructure-showcase-route-tester",
+    "name": "route-tester",
+    "description": "Test authenticated routes in the your project using cookie-based authentication. Use this skill when testing API endpoints, validating route functionality, or debugging authentication issues. Includes patterns for using test-auth-route.js and mock authentication.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 8244,
+    "updatedAt": "2026-01-09T06:28:32Z",
+    "repoUrl": "https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/route-tester"
+  },
+  {
+    "id": "diet103-claude-code-infrastructure-showcase-error-tracking",
+    "name": "error-tracking",
+    "description": "Add Sentry v8 error tracking and performance monitoring to your project services. Use this skill when adding error handling, creating new controllers, instrumenting cron jobs, or tracking database performance. ALL ERRORS MUST BE CAPTURED TO SENTRY - no exceptions.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 8244,
+    "updatedAt": "2026-01-09T06:28:32Z",
+    "repoUrl": "https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking"
   }
 ]
