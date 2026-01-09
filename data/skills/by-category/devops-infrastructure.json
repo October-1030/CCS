@@ -1347,5 +1347,45 @@
     "stars": 530,
     "updatedAt": "2026-01-09T12:54:41Z",
     "repoUrl": "https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/12-inference-serving/tensorrt-llm"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace-architecture-diagram-creator",
+    "name": "architecture-diagram-creator",
+    "description": "Create comprehensive HTML architecture diagrams showing data flows, business objectives, features, technical architecture, and deployment. Use when users request system architecture, project documentation, high-level overviews, or technical specifications.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 188,
+    "updatedAt": "2026-01-09T15:29:30Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/visual-documentation-plugin/skills/architecture-diagram-creator"
+  },
+  {
+    "id": "danielmiessler-personal_ai_infrastructure-core",
+    "name": "CORE",
+    "description": "Personal AI Infrastructure core. AUTO-LOADS at session start. USE WHEN any session begins OR user asks about identity, response format, contacts, stack preferences, security protocols, or asset management.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 4109,
+    "updatedAt": "2026-01-09T16:57:51Z",
+    "repoUrl": "https://github.com/danielmiessler/Personal_AI_Infrastructure/tree/main/Packs/pai-core-install/src/skills/CORE"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-writing-skills",
+    "name": "writing-skills",
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/superpowers/skills/writing-skills"
+  },
+  {
+    "id": "ericgrill-agents-skills-plugins-vector-index-tuning",
+    "name": "vector-index-tuning",
+    "description": "Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, selecting quantization strategies, or scaling vector search infrastructure.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T17:01:48Z",
+    "repoUrl": "https://github.com/EricGrill/agents-skills-plugins/tree/main/plugins/llm-application-dev/skills/vector-index-tuning"
   }
 ]

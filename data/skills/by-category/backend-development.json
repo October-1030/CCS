@@ -1172,5 +1172,415 @@
     "stars": 618,
     "updatedAt": "2026-01-09T15:29:32Z",
     "repoUrl": "https://github.com/Prat011/awesome-llm-skills/tree/main/notion-knowledge-capture"
+  },
+  {
+    "id": "catlog22-claude-code-workflow-ccw",
+    "name": "ccw",
+    "description": "Stateless workflow orchestrator that automatically selects and executes the optimal workflow combination based on task intent. Supports rapid (lite-plan+execute), full (brainstorm+plan+execute), coupled (plan+execute), bugfix (lite-fix), and issue (multi-point fixes) workflows. Triggers on \"ccw\", \"workflow\", \"自动工作流\", \"智能调度\".",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 893,
+    "updatedAt": "2026-01-09T15:12:57Z",
+    "repoUrl": "https://github.com/catlog22/Claude-Code-Workflow/tree/main/.claude/skills/ccw"
+  },
+  {
+    "id": "iptag-jimeng-api-jimeng-api",
+    "name": "jimeng-api",
+    "description": "Generate images using the Jimeng API based on text prompts. Use this skill when users request AI-generated images from the Jimeng (即梦AI) service, artwork, illustrations, or visual content creation. Supports text-to-image and image-to-image generation with customizable ratios and resolutions.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 370,
+    "updatedAt": "2026-01-09T16:50:55Z",
+    "repoUrl": "https://github.com/iptag/jimeng-api/tree/main/jimeng-api/Skill.md"
+  },
+  {
+    "id": "alirezarezvani-claude-code-skill-factory-aws-solution-architect",
+    "name": "aws-solution-architect",
+    "description": "Expert AWS solution architecture for startups focusing on serverless, scalable, and cost-effective cloud infrastructure with modern DevOps practices and infrastructure-as-code",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 306,
+    "updatedAt": "2026-01-09T15:29:32Z",
+    "repoUrl": "https://github.com/alirezarezvani/claude-code-skill-factory/tree/main/generated-skills/aws-solution-architect"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace-code-refactor",
+    "name": "code-refactor",
+    "description": "Perform bulk code refactoring operations like renaming variables/functions across files, replacing patterns, and updating API calls. Use when users request renaming identifiers, replacing deprecated code patterns, updating method calls, or making consistent changes across multiple locations.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 188,
+    "updatedAt": "2026-01-09T15:29:30Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/code-operations-plugin/skills/code-refactor"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace-code-execution",
+    "name": "code-execution",
+    "description": "Execute Python code locally with marketplace API access for 90%+ token savings on bulk operations. Activates when user requests bulk operations (10+ files), complex multi-step workflows, iterative processing, or mentions efficiency/performance.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 188,
+    "updatedAt": "2026-01-09T15:29:30Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/code-operations-plugin/skills/code-execution"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace-technical-doc-creator",
+    "name": "technical-doc-creator",
+    "description": "Create HTML technical documentation with code blocks, API workflows, system architecture diagrams, and syntax highlighting. Use when users request technical documentation, API docs, API references, code examples, or developer documentation.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 188,
+    "updatedAt": "2026-01-09T15:29:30Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/visual-documentation-plugin/skills/technical-doc-creator"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-debug",
+    "name": "debug",
+    "description": "Debug issues by investigating logs, database state, and git history",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/debug"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-research-agent",
+    "name": "research-agent",
+    "description": "Research agent for external documentation, best practices, and library APIs via MCP tools",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/research-agent"
+  },
+  {
+    "id": "parcadei-continuous-claude-v2-morph-apply",
+    "name": "morph-apply",
+    "description": "Fast file editing via Morph Apply API (10,500 tokens/sec, 98% accuracy)",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 1719,
+    "updatedAt": "2026-01-09T16:59:25Z",
+    "repoUrl": "https://github.com/parcadei/Continuous-Claude-v2/tree/main/.claude/skills/morph-apply"
+  },
+  {
+    "id": "microsoftdocs-mcp-microsoft-code-reference",
+    "name": "microsoft-code-reference",
+    "description": "Look up Microsoft API references, find working code samples, and verify SDK code is correct. Use when working with Azure SDKs, .NET libraries, or Microsoft APIs—to find the right method, check parameters, get working examples, or troubleshoot errors. Catches hallucinated methods, wrong signatures, and deprecated patterns by querying official docs.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 1267,
+    "updatedAt": "2026-01-09T14:17:52Z",
+    "repoUrl": "https://github.com/MicrosoftDocs/mcp/tree/main/skills/microsoft-code-reference"
+  },
+  {
+    "id": "gadievron-raptor-github-evidence-kit",
+    "name": "github-evidence-kit",
+    "description": "Generate, export, load, and verify forensic evidence from GitHub sources. Use when creating verifiable evidence objects from GitHub API, GH Archive, Wayback Machine, local git repositories, or security vendor reports. Handles evidence storage, querying, and re-verification against original sources.",
+    "category": "backend-development",
+    "tags": [
+      "github",
+      "forensics",
+      "osint",
+      "evidence",
+      "verification",
+      "git"
+    ],
+    "stars": 970,
+    "updatedAt": "2026-01-09T13:32:53Z",
+    "repoUrl": "https://github.com/gadievron/raptor/tree/main/.claude/skills/oss-forensics/github-evidence-kit"
+  },
+  {
+    "id": "gadievron-raptor-github-commit-recovery",
+    "name": "github-commit-recovery",
+    "description": "Recover deleted commits from GitHub using REST API, web interface, and git fetch. Use when you have commit SHAs and need to retrieve actual commit content, diffs, or patches. Includes techniques for accessing \"deleted\" commits that remain on GitHub servers.",
+    "category": "backend-development",
+    "tags": [
+      "github",
+      "git",
+      "forensics",
+      "recovery",
+      "osint"
+    ],
+    "stars": 970,
+    "updatedAt": "2026-01-09T13:32:53Z",
+    "repoUrl": "https://github.com/gadievron/raptor/tree/main/.claude/skills/oss-forensics/github-commit-recovery"
+  },
+  {
+    "id": "gadievron-raptor-github-wayback-recovery",
+    "name": "github-wayback-recovery",
+    "description": "Recover deleted GitHub content using the Wayback Machine and Archive.org APIs. Use when repositories, files, issues, PRs, or wiki pages have been deleted from GitHub but may persist in web archives. Covers CDX API queries, URL patterns, and systematic recovery workflows.",
+    "category": "backend-development",
+    "tags": [
+      "github",
+      "wayback",
+      "archive",
+      "osint",
+      "forensics",
+      "recovery"
+    ],
+    "stars": 970,
+    "updatedAt": "2026-01-09T13:32:53Z",
+    "repoUrl": "https://github.com/gadievron/raptor/tree/main/.claude/skills/oss-forensics/github-wayback-recovery"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-dtos",
+    "name": "laravel-dtos",
+    "description": "Data Transfer Objects using Spatie Laravel Data. Use when handling data transfer, API requests/responses, or when user mentions DTOs, data objects, Spatie Data, formatters, transformers, or structured data handling.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-dtos"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-models",
+    "name": "laravel-models",
+    "description": "Eloquent model patterns and database layer. Use when working with models, database entities, Eloquent ORM, or when user mentions models, eloquent, relationships, casts, observers, database entities.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-models"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-services",
+    "name": "laravel-services",
+    "description": "Service layer for external API integration using manager pattern and Saloon. Use when working with external APIs, third-party services, or when user mentions services, external API, Saloon, API integration, manager pattern.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-services"
+  },
+  {
+    "id": "leeovery-claude-laravel-laravel-controllers",
+    "name": "laravel-controllers",
+    "description": "Thin HTTP layer controllers. Controllers contain zero domain logic, only HTTP concerns. Use when working with controllers, HTTP layer, web vs API patterns, or when user mentions controllers, routes, HTTP responses.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T17:18:02Z",
+    "repoUrl": "https://github.com/leeovery/claude-laravel/tree/main/skills/laravel-controllers"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-polars",
+    "name": "polars",
+    "description": "Fast in-memory DataFrame library for datasets that fit in RAM. Use when pandas is too slow but data still fits in memory. Lazy evaluation, parallel execution, Apache Arrow backend. Best for 1-100GB datasets, ETL pipelines, faster pandas replacement. For larger-than-RAM data use dask or vaex.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/polars"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-geopandas",
+    "name": "geopandas",
+    "description": "Python library for working with geospatial vector data including shapefiles, GeoJSON, and GeoPackage files. Use when working with geographic data for spatial analysis, geometric operations, coordinate transformations, spatial joins, overlay operations, choropleth mapping, or any task involving reading/writing/analyzing vector geographic data. Supports PostGIS databases, interactive maps, and integration with matplotlib/folium/cartopy. Use for tasks like buffer analysis, spatial joins between datasets, dissolving boundaries, clipping data, calculating areas/distances, reprojecting coordinate systems, creating maps, or converting between spatial file formats.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/geopandas"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-kegg-database",
+    "name": "kegg-database",
+    "description": "Direct REST API access to KEGG (academic use only). Pathway analysis, gene-pathway mapping, metabolic pathways, drug interactions, ID conversion. For Python workflows with multiple databases, prefer bioservices. Use this for direct HTTP/REST work or KEGG-specific control.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/kegg-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-perplexity-search",
+    "name": "perplexity-search",
+    "description": "Perform AI-powered web searches with real-time information using Perplexity models via LiteLLM and OpenRouter. This skill should be used when conducting web searches for current information, finding recent scientific literature, getting grounded answers with source citations, or accessing information beyond the model knowledge cutoff. Provides access to multiple Perplexity models including Sonar Pro, Sonar Pro Search (advanced agentic search), and Sonar Reasoning Pro through a single OpenRouter API key.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/perplexity-search"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-gwas-database",
+    "name": "gwas-database",
+    "description": "Query NHGRI-EBI GWAS Catalog for SNP-trait associations. Search variants by rs ID, disease/trait, gene, retrieve p-values and summary statistics, for genetic epidemiology and polygenic risk scores.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/gwas-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-clinvar-database",
+    "name": "clinvar-database",
+    "description": "Query NCBI ClinVar for variant clinical significance. Search by gene/position, interpret pathogenicity classifications, access via E-utilities API or FTP, annotate VCFs, for genomic medicine.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/clinvar-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-opentargets-database",
+    "name": "opentargets-database",
+    "description": "Query Open Targets Platform for target-disease associations, drug target discovery, tractability/safety data, genetics/omics evidence, known drugs, for therapeutic target identification.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/opentargets-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-metabolomics-workbench-database",
+    "name": "metabolomics-workbench-database",
+    "description": "Access NIH Metabolomics Workbench via REST API (4,200+ studies). Query metabolites, RefMet nomenclature, MS/NMR data, m/z searches, study metadata, for metabolomics and biomarker discovery.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/metabolomics-workbench-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-ensembl-database",
+    "name": "ensembl-database",
+    "description": "Query Ensembl genome database REST API for 250+ species. Gene lookups, sequence retrieval, variant analysis, comparative genomics, orthologs, VEP predictions, for genomic research.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/ensembl-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-clinicaltrials-database",
+    "name": "clinicaltrials-database",
+    "description": "Query ClinicalTrials.gov via API v2. Search trials by condition, drug, location, status, or phase. Retrieve trial details by NCT ID, export data, for clinical research and patient matching.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/clinicaltrials-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-pdb-database",
+    "name": "pdb-database",
+    "description": "Access RCSB PDB for 3D protein/nucleic acid structures. Search by text/sequence/structure, download coordinates (PDB/mmCIF), retrieve metadata, for structural biology and drug discovery.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pdb-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-ena-database",
+    "name": "ena-database",
+    "description": "Access European Nucleotide Archive via API/FTP. Retrieve DNA/RNA sequences, raw reads (FASTQ), genome assemblies by accession, for genomics and bioinformatics pipelines. Supports multiple formats.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/ena-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-pubchem-database",
+    "name": "pubchem-database",
+    "description": "Query PubChem via PUG-REST API/PubChemPy (110M+ compounds). Search by name/CID/SMILES, retrieve properties, similarity/substructure searches, bioactivity, for cheminformatics.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pubchem-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-protocolsio-integration",
+    "name": "protocolsio-integration",
+    "description": "Integration with protocols.io API for managing scientific protocols. This skill should be used when working with protocols.io to search, create, update, or publish protocols; manage protocol steps and materials; handle discussions and comments; organize workspaces; upload and manage files; or integrate protocols.io functionality into workflows. Applicable for protocol discovery, collaborative protocol development, experiment tracking, lab protocol management, and scientific documentation.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/protocolsio-integration"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-hmdb-database",
+    "name": "hmdb-database",
+    "description": "Access Human Metabolome Database (220K+ metabolites). Search by name/ID/structure, retrieve chemical properties, biomarker data, NMR/MS spectra, pathways, for metabolomics and identification.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/hmdb-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-string-database",
+    "name": "string-database",
+    "description": "Query STRING API for protein-protein interactions (59M proteins, 20B interactions). Network analysis, GO/KEGG enrichment, interaction discovery, 5000+ species, for systems biology.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/string-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-openalex-database",
+    "name": "openalex-database",
+    "description": "Query and analyze scholarly literature using the OpenAlex database. This skill should be used when searching for academic papers, analyzing research trends, finding works by authors or institutions, tracking citations, discovering open access publications, or conducting bibliometric analysis across 240M+ scholarly works. Use for literature searches, research output analysis, citation analysis, and academic database queries.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/openalex-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-uspto-database",
+    "name": "uspto-database",
+    "description": "Access USPTO APIs for patent/trademark searches, examination history (PEDS), assignments, citations, office actions, TSDR, for IP analysis and prior art searches.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/uspto-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-uniprot-database",
+    "name": "uniprot-database",
+    "description": "Direct REST API access to UniProt. Protein searches, FASTA retrieval, ID mapping, Swiss-Prot/TrEMBL. For Python workflows with multiple databases, prefer bioservices (unified interface to 40+ services). Use this for direct HTTP/REST work or UniProt-specific control.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/uniprot-database"
+  },
+  {
+    "id": "k-dense-ai-claude-scientific-skills-geo-database",
+    "name": "geo-database",
+    "description": "Access NCBI GEO for gene expression/genomics data. Search/download microarray and RNA-seq datasets (GSE, GSM, GPL), retrieve SOFT/Matrix files, for transcriptomics and expression analysis.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 5038,
+    "updatedAt": "2026-01-09T17:16:08Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/geo-database"
+  },
+  {
+    "id": "akashaali98-claude-code-infrastructure-showcase-route-tester",
+    "name": "route-tester",
+    "description": "Test authenticated routes in the your project using cookie-based authentication. Use this skill when testing API endpoints, validating route functionality, or debugging authentication issues. Includes patterns for using test-auth-route.js and mock authentication.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:55:30Z",
+    "repoUrl": "https://github.com/akashaali98/claude-code-infrastructure-showcase/tree/main/.claude/skills/route-tester"
+  },
+  {
+    "id": "akashaali98-claude-code-infrastructure-showcase-error-tracking",
+    "name": "error-tracking",
+    "description": "Add Sentry v8 error tracking and performance monitoring to your project services. Use this skill when adding error handling, creating new controllers, instrumenting cron jobs, or tracking database performance. ALL ERRORS MUST BE CAPTURED TO SENTRY - no exceptions.",
+    "category": "backend-development",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T16:55:30Z",
+    "repoUrl": "https://github.com/akashaali98/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking"
   }
 ]
