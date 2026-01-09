@@ -1018,5 +1018,85 @@
     "stars": 920,
     "updatedAt": "2026-01-08T21:10:22Z",
     "repoUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/14-gcp-skills/vpc-network-setup"
+  },
+  {
+    "id": "wshobson-agents-linkerd-patterns",
+    "name": "linkerd-patterns",
+    "description": "Implement Linkerd service mesh patterns for lightweight, security-focused service mesh deployments. Use when setting up Linkerd, configuring traffic policies, or implementing zero-trust networking with minimal overhead.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/linkerd-patterns"
+  },
+  {
+    "id": "wshobson-agents-cost-optimization",
+    "name": "cost-optimization",
+    "description": "Optimize cloud costs through resource rightsizing, tagging strategies, reserved instances, and spending analysis. Use when reducing cloud expenses, analyzing infrastructure costs, or implementing cost governance policies.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/cost-optimization"
+  },
+  {
+    "id": "wshobson-agents-mtls-configuration",
+    "name": "mtls-configuration",
+    "description": "Configure mutual TLS (mTLS) for zero-trust service-to-service communication. Use when implementing zero-trust networking, certificate management, or securing internal service communication.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/mtls-configuration"
+  },
+  {
+    "id": "wshobson-agents-hybrid-cloud-networking",
+    "name": "hybrid-cloud-networking",
+    "description": "Configure secure, high-performance connectivity between on-premises infrastructure and cloud platforms using VPN and dedicated connections. Use when building hybrid cloud architectures, connecting data centers to cloud, or implementing secure cross-premises networking.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/hybrid-cloud-networking"
+  },
+  {
+    "id": "wshobson-agents-istio-traffic-management",
+    "name": "istio-traffic-management",
+    "description": "Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic policies, progressive delivery, or resilience patterns.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/istio-traffic-management"
+  },
+  {
+    "id": "wshobson-agents-terraform-module-library",
+    "name": "terraform-module-library",
+    "description": "Build reusable Terraform modules for AWS, Azure, and GCP infrastructure following infrastructure-as-code best practices. Use when creating infrastructure modules, standardizing cloud provisioning, or implementing reusable IaC components.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/terraform-module-library"
+  },
+  {
+    "id": "wshobson-agents-multi-cloud-architecture",
+    "name": "multi-cloud-architecture",
+    "description": "Design multi-cloud architectures using a decision framework to select and integrate services across AWS, Azure, and GCP. Use when building multi-cloud systems, avoiding vendor lock-in, or leveraging best-of-breed services from multiple providers.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/multi-cloud-architecture"
+  },
+  {
+    "id": "wshobson-agents-service-mesh-observability",
+    "name": "service-mesh-observability",
+    "description": "Implement comprehensive observability for service meshes including distributed tracing, metrics, and visualization. Use when setting up mesh monitoring, debugging latency issues, or implementing SLOs for service communication.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 24701,
+    "updatedAt": "2026-01-08T21:19:10Z",
+    "repoUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/service-mesh-observability"
   }
 ]
