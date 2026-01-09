@@ -1,14 +1,14 @@
 {
-  "totalSkills": 2037,
+  "totalSkills": 3000,
   "byCategory": {
-    "ai-data-science": 409,
-    "frontend-development": 581,
-    "tools-productivity": 418,
-    "business-marketing": 68,
-    "testing-quality": 146,
-    "backend-development": 199,
-    "specialized": 76,
-    "devops-infrastructure": 140
+    "ai-data-science": 554,
+    "frontend-development": 925,
+    "tools-productivity": 728,
+    "business-marketing": 69,
+    "testing-quality": 212,
+    "backend-development": 266,
+    "specialized": 82,
+    "devops-infrastructure": 164
   },
   "topTags": [
     {
@@ -64,6 +64,14 @@
       "count": 7
     },
     {
+      "tag": "validation",
+      "count": 7
+    },
+    {
+      "tag": "quality",
+      "count": 7
+    },
+    {
       "tag": "fastapi",
       "count": 7
     },
@@ -85,14 +93,6 @@
     },
     {
       "tag": "Distributed Training",
-      "count": 6
-    },
-    {
-      "tag": "validation",
-      "count": 6
-    },
-    {
-      "tag": "quality",
       "count": 6
     },
     {
@@ -213,26 +213,26 @@
     }
   ],
   "recentlyUpdated": [
-    "everyone-needs-a-copilot-claude-copilot-link-validation",
-    "everyone-needs-a-copilot-claude-copilot-token-budget-check",
-    "everyone-needs-a-copilot-claude-copilot-frontmatter-validation",
-    "korjavin-claude-common-skills-portainer-deploy",
-    "benzema216-dreamina-claude-skills-storyboard-generator",
-    "avalidurl-aisync-skill-skill",
-    "chadboyda-iterm-worktree-skill-skill",
-    "cblecker-claude-skills-syncing-branch",
-    "cblecker-claude-skills-creating-commit",
-    "cblecker-claude-skills-creating-branch",
-    "cblecker-claude-skills-rebasing-branch",
-    "cblecker-claude-skills-creating-pull-request",
-    "mquandalle-browser-history-skill-skill",
-    "brucevanfdm-agent-skills-guard-test-skills",
-    "mauromedda-agent-toolkit-scm",
-    "mauromedda-agent-toolkit-bash",
-    "mauromedda-agent-toolkit-make",
-    "mauromedda-agent-toolkit-trivy",
-    "mauromedda-agent-toolkit-python",
-    "mauromedda-agent-toolkit-golang"
+    "kilo-org-kilocode-translation",
+    "google-gemini-gemini-cli-pr-creator",
+    "bdambrosio-cognitive_workbench-relate",
+    "bdambrosio-cognitive_workbench-split",
+    "bdambrosio-cognitive_workbench-text-find",
+    "bdambrosio-cognitive_workbench-load",
+    "bdambrosio-cognitive_workbench-scienceworld-reset",
+    "bdambrosio-cognitive_workbench-as-json",
+    "bdambrosio-cognitive_workbench-scienceworld-act",
+    "bdambrosio-cognitive_workbench-extract-struct",
+    "bdambrosio-cognitive_workbench-is-question",
+    "bdambrosio-cognitive_workbench-summarize",
+    "bdambrosio-cognitive_workbench-mc-close",
+    "bdambrosio-cognitive_workbench-filter-structured",
+    "bdambrosio-cognitive_workbench-mc-pickup",
+    "bdambrosio-cognitive_workbench-extract-entities",
+    "bdambrosio-cognitive_workbench-mc-wait",
+    "bdambrosio-cognitive_workbench-flatten",
+    "bdambrosio-cognitive_workbench-test-json-sql-join",
+    "bdambrosio-cognitive_workbench-test-json-sql-sort"
   ],
-  "lastSyncTime": "2026-01-09T18:30:39.505Z"
+  "lastSyncTime": "2026-01-09T20:38:31.999Z"
 }

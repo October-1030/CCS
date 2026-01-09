@@ -1521,5 +1521,670 @@
     "stars": 16,
     "updatedAt": "2026-01-09T17:04:39Z",
     "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/test-standards-enforcer"
+  },
+  {
+    "id": "athola-claude-night-market-development-workflow",
+    "name": "development-workflow",
+    "description": "detailed development workflow with modular patterns for git, code review, testing, documentation, and deployment",
+    "category": "testing-quality",
+    "tags": [
+      "development",
+      "workflow",
+      "modular",
+      "hub-and-spoke"
+    ],
+    "stars": 96,
+    "updatedAt": "2026-01-09T18:23:27Z",
+    "repoUrl": "https://github.com/athola/claude-night-market/tree/main/plugins/abstract/docs/examples/modular-skills/complete-skills/development-workflow"
+  },
+  {
+    "id": "athola-claude-night-market-precommit-setup",
+    "name": "precommit-setup",
+    "description": "Configure comprehensive three-layer pre-commit quality system with linting, type checking, and testing enforcement",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 96,
+    "updatedAt": "2026-01-09T18:23:27Z",
+    "repoUrl": "https://github.com/athola/claude-night-market/tree/main/plugins/attune/skills/precommit-setup"
+  },
+  {
+    "id": "athola-claude-night-market-workflow-setup",
+    "name": "workflow-setup",
+    "description": "Configure GitHub Actions workflows for CI/CD (test, lint, typecheck, publish)",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 96,
+    "updatedAt": "2026-01-09T18:23:27Z",
+    "repoUrl": "https://github.com/athola/claude-night-market/tree/main/plugins/attune/skills/workflow-setup"
+  },
+  {
+    "id": "athola-claude-night-market-project-specification",
+    "name": "project-specification",
+    "description": "Transform project brief into detailed, testable specifications using spec-driven development methodology",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 96,
+    "updatedAt": "2026-01-09T18:23:27Z",
+    "repoUrl": "https://github.com/athola/claude-night-market/tree/main/plugins/attune/skills/project-specification"
+  },
+  {
+    "id": "maxritter-claude-codepro-verify",
+    "name": "verify",
+    "description": "Run tests and fix issues end-to-end with Claude CodePro",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 348,
+    "updatedAt": "2026-01-09T16:42:55Z",
+    "repoUrl": "https://github.com/maxritter/claude-codepro/tree/main/.claude/skills/verify"
+  },
+  {
+    "id": "vigo-claude-skills-code-like-djangonout",
+    "name": "code-like-djangonout",
+    "description": "Provides Django web framework expertise including project structure, models, views, admin, Celery tasks, testing, and Python best practices. Use when generating, analyzing, refactoring, or reviewing Django/Python code.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T05:48:25Z",
+    "repoUrl": "https://github.com/vigo/claude-skills/tree/main/code-like-djangonout"
+  },
+  {
+    "id": "troykelly-claude-skills-ipv6-first",
+    "name": "ipv6-first",
+    "description": "IPv6 is THE first-class citizen. All code, tests, documentation, and configurations MUST be IPv6-first. IPv4 MAY be added only for legacy support as a second-class citizen.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/ipv6-first"
+  },
+  {
+    "id": "troykelly-claude-skills-acceptance-criteria-verification",
+    "name": "acceptance-criteria-verification",
+    "description": "Use after implementing features - verifies each acceptance criterion with structured testing and posts verification reports to the GitHub issue",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/acceptance-criteria-verification"
+  },
+  {
+    "id": "troykelly-claude-skills-environment-bootstrap",
+    "name": "environment-bootstrap",
+    "description": "Use for development environment setup - create and maintain init scripts, run smoke tests, ensure consistent environment across sessions",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/environment-bootstrap"
+  },
+  {
+    "id": "troykelly-claude-skills-verification-before-merge",
+    "name": "verification-before-merge",
+    "description": "Use before merging PR - final gate ensuring all tests pass, review complete, CI green, and acceptance criteria verified",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/verification-before-merge"
+  },
+  {
+    "id": "troykelly-claude-skills-feedback-triage",
+    "name": "feedback-triage",
+    "description": "Use when receiving UAT feedback, bug reports, user testing results, stakeholder feedback, QA findings, or any batch of issues to investigate. Investigates each item BEFORE creating issues, classifies by type and priority, creates well-formed GitHub issues with proper project board integration.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/feedback-triage"
+  },
+  {
+    "id": "nickcrew-claude-cortex-writing-skills",
+    "name": "writing-skills",
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment - applies TDD to process documentation by testing with subagents before writing, iterating until bulletproof against rationalization",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/writing-skills"
+  },
+  {
+    "id": "nickcrew-claude-cortex-systematic-debugging",
+    "name": "systematic-debugging",
+    "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes - four-phase framework (root cause investigation, pattern analysis, hypothesis testing, implementation) that ensures understanding before attempting solutions",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/systematic-debugging"
+  },
+  {
+    "id": "nickcrew-claude-cortex-testing-anti-patterns",
+    "name": "testing-anti-patterns",
+    "description": "Use when writing or changing tests, adding mocks, or tempted to add test-only methods to production code - prevents testing mock behavior, production pollution with test-only methods, and mocking without understanding dependencies",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/testing-anti-patterns"
+  },
+  {
+    "id": "nickcrew-claude-cortex-python-testing-patterns",
+    "name": "python-testing-patterns",
+    "description": "Python testing patterns and best practices using pytest, mocking, and property-based testing. Use when writing unit tests, integration tests, or implementing test-driven development in Python projects.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/python-testing-patterns"
+  },
+  {
+    "id": "nickcrew-claude-cortex-condition-based-waiting",
+    "name": "condition-based-waiting",
+    "description": "Use when tests have race conditions, timing dependencies, or inconsistent pass/fail behavior - replaces arbitrary timeouts with condition polling to wait for actual state changes, eliminating flaky tests from timing guesses",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/condition-based-waiting"
+  },
+  {
+    "id": "nickcrew-claude-cortex-security-testing-patterns",
+    "name": "security-testing-patterns",
+    "description": "Security testing patterns including SAST, DAST, penetration testing, and vulnerability assessment techniques. Use when implementing security testing pipelines, conducting security audits, or validating application security controls.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/security-testing-patterns"
+  },
+  {
+    "id": "nickcrew-claude-cortex-testing-skills-with-subagents",
+    "name": "testing-skills-with-subagents",
+    "description": "Use when creating or editing skills, before deployment, to verify they work under pressure and resist rationalization - applies RED-GREEN-REFACTOR cycle to process documentation by running baseline without skill, writing to address failures, iterating to close loopholes",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/testing-skills-with-subagents"
+  },
+  {
+    "id": "nickcrew-claude-cortex-test-generation",
+    "name": "test-generation",
+    "description": "Use when generating tests for new or existing code to improve coverage - provides a structured workflow for analyzing code, creating tests, and validating coverage goals.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/test-generation"
+  },
+  {
+    "id": "masonegger-homedir-python",
+    "name": "python",
+    "description": "Python development standards and toolchain preferences. Use when (1) writing ANY Python code, (2) setting up Python projects with pyproject.toml, (3) creating standalone CLI scripts, (4) configuring Python tooling (ruff, mypy, pytest, nox, uv), (5) reviewing or refactoring Python code, or (6) advising on Python best practices. Enforces modern Pythonic style, strict type hints, and uv-based workflows.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T18:40:51Z",
+    "repoUrl": "https://github.com/MasonEgger/homedir/tree/main/.claude/skills/python"
+  },
+  {
+    "id": "rjmurillo-ai-agents-memories",
+    "name": "memories",
+    "description": "",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T18:00:00Z",
+    "repoUrl": "https://github.com/rjmurillo/ai-agents/tree/main/.serena/memories/testing-get-pr-checks-skill.md"
+  },
+  {
+    "id": "rjmurillo-ai-agents-decision-critic",
+    "name": "decision-critic",
+    "description": "Structured decision critic that systematically stress-tests reasoning before commitment surfacing hidden assumptions verifying claims and generating adversarial perspectives to improve decision quality.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T18:00:00Z",
+    "repoUrl": "https://github.com/rjmurillo/ai-agents/tree/main/.claude/skills/decision-critic"
+  },
+  {
+    "id": "rjmurillo-ai-agents-session-qa-eligibility",
+    "name": "session-qa-eligibility",
+    "description": "Check investigation session QA skip eligibility per ADR-034. Validates if staged files qualify for investigation-only exemption by checking against allowed paths (.agents/sessions/, .agents/analysis/, .serena/memories/, etc).",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T18:00:00Z",
+    "repoUrl": "https://github.com/rjmurillo/ai-agents/tree/main/.claude/skills/session-qa-eligibility"
+  },
+  {
+    "id": "tenzir-claude-plugins-managing-packages",
+    "name": "managing-packages",
+    "description": "Create and manage Tenzir packages. Use during package development when creating parsers for log samples, adding user-defined operators, showcasing example pipelines, and writing integration tests.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T17:35:49Z",
+    "repoUrl": "https://github.com/tenzir/claude-plugins/tree/main/plugins/tql/skills/managing-packages"
+  },
+  {
+    "id": "netresearch-typo3-extension-upgrade-skill-typo3-extension-upgrade",
+    "name": "typo3-extension-upgrade",
+    "description": "Agent Skill: Systematic TYPO3 extension upgrades to newer LTS versions. Covers Extension Scanner, Rector, Fractor, PHPStan, and testing. Use when upgrading extensions to newer TYPO3 versions or fixing compatibility issues. By Netresearch.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T14:50:26Z",
+    "repoUrl": "https://github.com/netresearch/typo3-extension-upgrade-skill/tree/main/skills/typo3-extension-upgrade"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
+    "name": "raffle-winner-picker",
+    "description": "Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-b8c9d0e1-f2a3-4b5c-8d9e-8f9a0b1c2d3e",
+    "name": "systematic-debugging",
+    "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/b8c9d0e1-f2a3-4b5c-8d9e-8f9a0b1c2d3e"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-c9d0e1f2-a3b4-4c5d-9e8f-9a0b1c2d3e4f",
+    "name": "test-driven-development",
+    "description": "Use when implementing any feature or bugfix, before writing implementation code",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/c9d0e1f2-a3b4-4c5d-9e8f-9a0b1c2d3e4f"
+  },
+  {
+    "id": "netresearch-typo3-testing-skill-typo3-testing",
+    "name": "typo3-testing",
+    "description": "Agent Skill: TYPO3 extension testing (unit, functional, E2E, architecture, mutation). Use when setting up test infrastructure, writing tests, configuring PHPUnit, or CI/CD. By Netresearch.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-08T12:24:59Z",
+    "repoUrl": "https://github.com/netresearch/typo3-testing-skill/tree/main/skills/typo3-testing"
+  },
+  {
+    "id": "netresearch-composer-agent-skill-plugin-invalid-frontmatter",
+    "name": "broken-skill",
+    "description": "",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-08T10:36:12Z",
+    "repoUrl": "https://github.com/netresearch/composer-agent-skill-plugin/tree/main/tests/Fixtures/invalid-frontmatter"
+  },
+  {
+    "id": "netresearch-composer-agent-skill-plugin-package-a",
+    "name": "duplicate-skill",
+    "description": "First version of duplicate skill from package A",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-08T10:36:12Z",
+    "repoUrl": "https://github.com/netresearch/composer-agent-skill-plugin/tree/main/tests/Fixtures/duplicate-names/package-a"
+  },
+  {
+    "id": "netresearch-composer-agent-skill-plugin-package-b",
+    "name": "duplicate-skill",
+    "description": "Second version of duplicate skill from package B (should win)",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-08T10:36:12Z",
+    "repoUrl": "https://github.com/netresearch/composer-agent-skill-plugin/tree/main/tests/Fixtures/duplicate-names/package-b"
+  },
+  {
+    "id": "arvindand-agent-skills-writing-skills",
+    "name": "writing-skills",
+    "description": "Create and maintain skills for AI agents. Use when creating new skills, fixing broken skills, improving skill discovery, or validating skills work under pressure. Covers structure, testing, Claude Search Optimization, and self-healing patterns.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T17:22:03Z",
+    "repoUrl": "https://github.com/arvindand/agent-skills/tree/main/writing-skills"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-typo3-docs",
+    "name": "typo3-docs",
+    "description": "Create and maintain TYPO3 extension documentation following official docs.typo3.org standards. Use when creating/editing Documentation/*.rst files or README.md, using TYPO3 directives (confval, versionadded, card-grid, accordion, tabs, admonitions), creating/adding screenshots, rendering/testing/viewing docs locally, or deploying to docs.typo3.org. By Netresearch.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/typo3-docs/skills/typo3-docs"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-typo3-ddev",
+    "name": "typo3-ddev",
+    "description": "Agent Skill: DDEV setup for TYPO3 extension development. Use when setting up local dev environment or multi-version testing (11.5/12.4/13.4/14.0). By Netresearch.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/typo3-ddev/skills/typo3-ddev"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-typo3-testing",
+    "name": "typo3-testing",
+    "description": "Agent Skill: TYPO3 extension testing (unit, functional, E2E, architecture, mutation). Use when setting up test infrastructure, writing tests, configuring PHPUnit, or CI/CD. By Netresearch.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/typo3-testing/skills/typo3-testing"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-typo3-extension-upgrade",
+    "name": "typo3-extension-upgrade",
+    "description": "Agent Skill: Systematic TYPO3 extension upgrades to newer LTS versions. Covers Extension Scanner, Rector, Fractor, PHPStan, and testing. Use when upgrading extensions to newer TYPO3 versions or fixing compatibility issues. By Netresearch.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/typo3-extension-upgrade/skills/typo3-extension-upgrade"
+  },
+  {
+    "id": "netresearch-typo3-docs-skill-typo3-docs",
+    "name": "typo3-docs",
+    "description": "Create and maintain TYPO3 extension documentation following official docs.typo3.org standards. Use when creating/editing Documentation/*.rst files or README.md, using TYPO3 directives (confval, versionadded, card-grid, accordion, tabs, admonitions), creating/adding screenshots, rendering/testing/viewing docs locally, or deploying to docs.typo3.org. By Netresearch.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-07T13:21:37Z",
+    "repoUrl": "https://github.com/netresearch/typo3-docs-skill/tree/main/skills/typo3-docs"
+  },
+  {
+    "id": "netresearch-typo3-ddev-skill-typo3-ddev",
+    "name": "typo3-ddev",
+    "description": "Agent Skill: DDEV setup for TYPO3 extension development. Use when setting up local dev environment or multi-version testing (11.5/12.4/13.4/14.0). By Netresearch.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 3,
+    "updatedAt": "2026-01-07T12:49:59Z",
+    "repoUrl": "https://github.com/netresearch/typo3-ddev-skill/tree/main/skills/typo3-ddev"
+  },
+  {
+    "id": "karanjot786-agent-skills-cli-test-skill",
+    "name": "test-skill",
+    "description": "Brief description of what this skill does and when to use it.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-05T20:47:00Z",
+    "repoUrl": "https://github.com/Karanjot786/agent-skills-cli/tree/main/skills/test-skill"
+  },
+  {
+    "id": "codingcossack-agent-skills-library-systematic-debugging",
+    "name": "systematic-debugging",
+    "description": "Root cause analysis for debugging. Use when bugs, test failures, or unexpected behavior have non-obvious causes, or after multiple fix attempts have failed.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-05T23:24:47Z",
+    "repoUrl": "https://github.com/CodingCossack/agent-skills-library/tree/main/skills/systematic-debugging"
+  },
+  {
+    "id": "codingcossack-agent-skills-library-requesting-code-review",
+    "name": "requesting-code-review",
+    "description": "Use when you need to request a code review for a PR/MR and want a consistent review brief (context, scope, risk areas, test instructions, acceptance criteria) before merge.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-05T23:24:47Z",
+    "repoUrl": "https://github.com/CodingCossack/agent-skills-library/tree/main/skills/requesting-code-review"
+  },
+  {
+    "id": "codingcossack-agent-skills-library-dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents",
+    "description": "Dispatches one subagent per independent domain to parallelize investigation/fixes. Use when you have 2+ unrelated failures (e.g., separate failing test files, subsystems, bugs) with no shared state or ordering dependencies.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-05T23:24:47Z",
+    "repoUrl": "https://github.com/CodingCossack/agent-skills-library/tree/main/skills/dispatching-parallel-agents"
+  },
+  {
+    "id": "codingcossack-agent-skills-library-verification-before-completion",
+    "name": "verification-before-completion",
+    "description": "Verification discipline for completion claims. Use when about to assert success, claim a fix is complete, report tests passing, or before commits and PRs. Enforces evidence-first workflow.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-05T23:24:47Z",
+    "repoUrl": "https://github.com/CodingCossack/agent-skills-library/tree/main/skills/verification-before-completion"
+  },
+  {
+    "id": "codingcossack-agent-skills-library-finishing-a-development-branch",
+    "name": "finishing-a-development-branch",
+    "description": "Git branch completion workflow. Use when implementation is complete, tests pass, and a feature branch needs to be integrated via merge, pull request, or cleanup.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-05T23:24:47Z",
+    "repoUrl": "https://github.com/CodingCossack/agent-skills-library/tree/main/skills/finishing-a-development-branch"
+  },
+  {
+    "id": "autohandai-community-skills-testing-strategies",
+    "name": "testing-strategies",
+    "description": "Comprehensive testing strategies with Vitest, Jest, and Testing Library",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-02T10:39:56Z",
+    "repoUrl": "https://github.com/autohandai/community-skills/tree/main/testing-strategies"
+  },
+  {
+    "id": "galligan-skills-packager-test-skill",
+    "name": "test-skill",
+    "description": "A test skill for validating the packager",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2025-12-29T18:43:50Z",
+    "repoUrl": "https://github.com/galligan/skills-packager/tree/main/skills/test-skill"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-operating-k8s-local",
+    "name": "operating-k8s-local",
+    "description": "Operates local Kubernetes clusters with Minikube for development and testing.\nUse when setting up local K8s, deploying applications locally, or debugging K8s issues.\nCovers Minikube, kubectl essentials, local image loading, and networking.\n",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/.claude/skills/operating-k8s-local"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-minikube",
+    "name": "minikube",
+    "description": "Manages local Kubernetes clusters using Minikube for development and testing. This skill should be used when setting up local K8s environments, enabling addons, configuring networking, and deploying applications locally. Use this skill for Phase IV local Kubernetes deployments before cloud deployment.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/docs/taskflow-vault/skills/engineering/minikube"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-aks-deployment-troubleshooter",
+    "name": "aks-deployment-troubleshooter",
+    "description": "Diagnose and fix Kubernetes deployment failures, especially ImagePullBackOff, CrashLoopBackOff, and architecture mismatches. Battle-tested from 4-hour AKS debugging session with 10+ failure modes resolved.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/docs/taskflow-vault/skills/engineering/aks-deployment-troubleshooter"
+  },
+  {
+    "id": "formulahendry-agent-skill-code-runner-code-runner",
+    "name": "code-runner",
+    "description": "Run code snippets in 30+ programming languages including JavaScript, Python, TypeScript, Java, C, C++, Go, Rust, Ruby, PHP, and more. Use when the user wants to execute code, test algorithms, verify output, run scripts, or check code behavior. Supports both interpreted and compiled languages.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T12:58:49Z",
+    "repoUrl": "https://github.com/formulahendry/agent-skill-code-runner/tree/main/.github/skills/code-runner"
+  },
+  {
+    "id": "taylorsatula-mira-oss-pytest-real-testing",
+    "name": "Real Pytest - No Mocks, Real Tests",
+    "description": "Write pytests that test real public interfaces with actual components, no mocking, and precise assertions. MIRA-specific patterns. Use when creating or reviewing tests.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 373,
+    "updatedAt": "2026-01-09T17:47:56Z",
+    "repoUrl": "https://github.com/taylorsatula/mira-OSS/tree/main/.claude/skills/pytest-real-testing"
+  },
+  {
+    "id": "carmentacollective-carmenta-testing-methodology",
+    "name": "testing-methodology",
+    "description": "Use when writing tests, verifying functionality, QA, test scenarios, user testing, or browser automation tests",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T19:26:53Z",
+    "repoUrl": "https://github.com/carmentacollective/carmenta/tree/main/.claude/skills/testing-methodology"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-test-json-sql-join",
+    "name": "test-json-sql-join",
+    "description": "Tests join primitive (INNER JOIN)",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/saved_plans/test-json-sql-join"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-test-json-sql-sort",
+    "name": "test-json-sql-sort",
+    "description": "Tests sort primitive (ORDER BY)",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/saved_plans/test-json-sql-sort"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-test-json-sql-project",
+    "name": "test-json-sql-project",
+    "description": "Tests project primitive (SELECT fields)",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/saved_plans/test-json-sql-project"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-test-json-sql-query-web",
+    "name": "test-json-sql-search-web",
+    "description": "Test JSON SQL primitives with search-web output",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/saved_plans/test-json-sql-query-web"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-test-json-sql-semantic-scholar",
+    "name": "test-json-sql-semantic-scholar",
+    "description": "Test JSON SQL primitives with semantic-scholar output",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/saved_plans/test-json-sql-semantic-scholar"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-assess",
+    "name": "assess",
+    "description": "Boolean test of text content against a natural language predicate. Features auto-chunking for long texts (returns \"true\" if ANY chunk matches).",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/tools/assess/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-test-json-sql-pluck",
+    "name": "test-json-sql-pluck",
+    "description": "Tests pluck primitive (SELECT single field)",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/saved_plans/test-json-sql-pluck"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-test-json-sql-setup",
+    "name": "test-json-sql-setup",
+    "description": "Creates test data for JSON SQL primitive tests",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/saved_plans/test-json-sql-setup"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-test-json-sql-filter",
+    "name": "test-json-sql-filter",
+    "description": "Tests filter-structured primitive (WHERE clause)",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/saved_plans/test-json-sql-filter"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-test-map-with-args",
+    "name": "test-map-with-args",
+    "description": "Tests map primitive with additional operation arguments",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/saved_plans/test-map-with-args"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-test-calculate",
+    "name": "test-calculate",
+    "description": "Tests calculate tool with arithmetic, trig, and variable substitution",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/saved_plans/test-calculate"
+  },
+  {
+    "id": "matheus-rech-meta-agent-mobile-publication-bias-detection",
+    "name": "publication-bias-detection",
+    "description": "Detect and assess publication bias in meta-analysis using funnel plots, Egger's test, trim-and-fill, and selection models. Use when users need to evaluate whether missing studies might affect their conclusions.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:30:14Z",
+    "repoUrl": "https://github.com/matheus-rech/meta-agent-mobile/tree/main/agentskills/publication-bias-detection"
+  },
+  {
+    "id": "matheus-rech-meta-agent-mobile-diagnostic-meta-analysis",
+    "name": "diagnostic-meta-analysis",
+    "description": "Teach meta-analysis of diagnostic test accuracy studies including sensitivity, specificity, SROC curves, and bivariate models. Use when users need to synthesize diagnostic accuracy data, understand SROC curves, or assess quality with QUADAS-2.",
+    "category": "testing-quality",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:30:14Z",
+    "repoUrl": "https://github.com/matheus-rech/meta-agent-mobile/tree/main/agentskills/diagnostic-meta-analysis"
   }
 ]

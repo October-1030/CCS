@@ -4462,5 +4462,1455 @@
     "stars": 16,
     "updatedAt": "2026-01-09T17:04:39Z",
     "repoUrl": "https://github.com/yonatangross/skillforge-claude-plugin/tree/main/.claude/skills/golden-dataset-validation"
+  },
+  {
+    "id": "athola-claude-night-market-project-brainstorming",
+    "name": "project-brainstorming",
+    "description": "Socratic questioning and ideation methodology for project conception using structured brainstorming frameworks",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 96,
+    "updatedAt": "2026-01-09T18:23:27Z",
+    "repoUrl": "https://github.com/athola/claude-night-market/tree/main/plugins/attune/skills/project-brainstorming"
+  },
+  {
+    "id": "zubayer0077-claude-multi-agent-research-system-skill-multi-agent-researcher",
+    "name": "multi-agent-researcher",
+    "description": "Conduct comprehensive research on any topic by coordinating 2-4 specialized researcher agents in parallel, then synthesizing findings into a detailed report via mandatory report-writer agent delegation",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T17:03:36Z",
+    "repoUrl": "https://github.com/zubayer0077/Claude-Multi-Agent-Research-System-Skill/tree/main/.claude/skills/multi-agent-researcher"
+  },
+  {
+    "id": "squirrelfishcityhall150-claude-code-kit-skill-developer",
+    "name": "skill-developer",
+    "description": "Create and manage Claude Code skills following Anthropic best practices. Use when creating new skills, modifying skill-rules.json, understanding trigger patterns, working with hooks, debugging skill activation, or implementing progressive disclosure. Covers skill structure, YAML frontmatter, trigger types (keywords, intent patterns, file paths, content patterns), enforcement levels (block, suggest, warn), hook mechanisms (UserPromptSubmit, PreToolUse), session tracking, and the 500-line rule.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T16:57:26Z",
+    "repoUrl": "https://github.com/Squirrelfishcityhall150/claude-code-kit/tree/main/cli/core/skills/skill-developer"
+  },
+  {
+    "id": "squirrelfishcityhall150-claude-code-kit-tailwindcss",
+    "name": "tailwindcss",
+    "description": "Tailwind CSS v4 utility-first styling patterns",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T16:57:26Z",
+    "repoUrl": "https://github.com/Squirrelfishcityhall150/claude-code-kit/tree/main/cli/kits/tailwindcss/skills/tailwindcss"
+  },
+  {
+    "id": "oaustegard-claude-skills-hello-demo",
+    "name": "hello-demo",
+    "description": "Delivers a static Hello World HTML demo page with bookmarklet. Use when user requests the hello demo, hello world demo, or demo page.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/hello-demo"
+  },
+  {
+    "id": "oaustegard-claude-skills-making-waffles",
+    "name": "making-waffles",
+    "description": "Generates WAFFLES Declarations for social media posts — preemptive lists of what a post does NOT say. Use when users mention WAFFLES, ask for clarifications on their post, want to prevent misinterpretation, or request disclaimers for controversial/nuanced takes.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/making-waffles"
+  },
+  {
+    "id": "oaustegard-claude-skills-exploring-data",
+    "name": "exploring-data",
+    "description": "Exploratory data analysis using ydata-profiling. Use when users upload .csv/.xlsx/.json/.parquet files or request \"explore data\", \"analyze dataset\", \"EDA\", \"profile data\". Generates interactive HTML or JSON reports with statistics, visualizations, correlations, and quality alerts.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/exploring-data"
+  },
+  {
+    "id": "oaustegard-claude-skills-extracting-keywords",
+    "name": "extracting-keywords",
+    "description": "Extract keywords from documents using YAKE algorithm with support for 34 languages (Arabic to Chinese). Use when users request keyword extraction, key terms, topic identification, content summarization, or document analysis. Includes domain-specific stopwords for AI/ML and life sciences. Optional deeper extraction mode (n=2+n=3 combined) for comprehensive coverage.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/extracting-keywords"
+  },
+  {
+    "id": "oaustegard-claude-skills-invoking-github",
+    "name": "invoking-github",
+    "description": "Enables GitHub repository operations (read/write/commit/PR) for Claude.ai chat environments. Use when users request GitHub commits, repository updates, DEVLOG persistence, or cross-session state management via GitHub branches. Not needed in Claude Code (has native git access).",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 25,
+    "updatedAt": "2026-01-09T14:52:22Z",
+    "repoUrl": "https://github.com/oaustegard/claude-skills/tree/main/invoking-github"
+  },
+  {
+    "id": "jezweb-claude-skills-sveltia-cms",
+    "name": "sveltia-cms",
+    "description": "Set up Sveltia CMS - lightweight Git-backed CMS successor to Decap/Netlify CMS (300KB bundle, 270+ fixes). Framework-agnostic for Hugo, Jekyll, 11ty, Astro.\n\nUse when adding CMS to static sites, migrating from Decap CMS, or fixing OAuth, YAML parse, CORS/COOP errors.\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/sveltia-cms"
+  },
+  {
+    "id": "jezweb-claude-skills-vercel-blob",
+    "name": "vercel-blob",
+    "description": "Integrate Vercel Blob for file uploads and CDN-delivered assets in Next.js. Supports client-side uploads with presigned URLs and multipart transfers for large files.\n\nUse when implementing file uploads (images, PDFs, videos) or troubleshooting missing tokens, size limits, or client upload failures.\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/vercel-blob"
+  },
+  {
+    "id": "jezweb-claude-skills-cloudflare-r2",
+    "name": "cloudflare-r2",
+    "description": "Store objects with R2's S3-compatible storage on Cloudflare's edge. Use when: uploading/downloading files, configuring CORS, generating presigned URLs, multipart uploads, managing metadata, or troubleshooting R2_ERROR, CORS failures, presigned URL issues, or quota errors.\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-r2"
+  },
+  {
+    "id": "jezweb-claude-skills-cloudflare-workers-ai",
+    "name": "cloudflare-workers-ai",
+    "description": "Run LLMs and AI models on Cloudflare's GPU network with Workers AI. Includes Llama 4, Gemma 3, Mistral 3.1, Flux images, BGE embeddings, streaming, and AI Gateway. Handles 2025 breaking changes.\n\nUse when: implementing LLM inference, images, RAG, or troubleshooting AI_ERROR, rate limits, max_tokens, BGE pooling.\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-workers-ai"
+  },
+  {
+    "id": "jezweb-claude-skills-open-source-contributions",
+    "name": "open-source-contributions",
+    "description": "Create maintainer-friendly pull requests with clean code and professional communication. Prevents 16 common mistakes that cause PR rejection.\n\nUse when: contributing to open source, submitting PRs, or troubleshooting PR rejection, CI failures, or personal artifacts in commits.\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 131,
+    "updatedAt": "2026-01-09T13:32:54Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/open-source-contributions"
+  },
+  {
+    "id": "maxritter-claude-codepro-plan",
+    "name": "plan",
+    "description": "Create a detailed implementation plan with exploration for Claude CodePro",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 348,
+    "updatedAt": "2026-01-09T16:42:55Z",
+    "repoUrl": "https://github.com/maxritter/claude-codepro/tree/main/.claude/skills/plan"
+  },
+  {
+    "id": "vigo-claude-skills-explaining-code",
+    "name": "explaining-code",
+    "description": "Explains code with visual diagrams and analogies. Use when explaining how code works, teaching about a codebase, or when the user asks \"how does this work?\"",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T05:48:25Z",
+    "repoUrl": "https://github.com/vigo/claude-skills/tree/main/explaining-code"
+  },
+  {
+    "id": "troykelly-claude-skills-postgis",
+    "name": "postgis",
+    "description": "MANDATORY when working with geographic data, spatial queries, geometry operations, or location-based features - enforces PostGIS 3.6.1 best practices including ST_CoverageClean, SFCGAL 3D functions, and bigint topology",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/postgis"
+  },
+  {
+    "id": "troykelly-claude-skills-worker-handover",
+    "name": "worker-handover",
+    "description": "Defines context handover format when workers hit turn limit. Posts structured handover to GitHub issue comments enabling replacement workers to continue seamlessly.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/worker-handover"
+  },
+  {
+    "id": "troykelly-claude-skills-ci-monitoring",
+    "name": "ci-monitoring",
+    "description": "Use after creating PR - monitor CI pipeline, resolve failures cyclically until green or issue is identified as unresolvable",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/ci-monitoring"
+  },
+  {
+    "id": "troykelly-claude-skills-pre-work-research",
+    "name": "pre-work-research",
+    "description": "Use before starting implementation - research repository documentation, codebase patterns, and external resources to inform the approach",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/pre-work-research"
+  },
+  {
+    "id": "troykelly-claude-skills-error-recovery",
+    "name": "error-recovery",
+    "description": "Use when encountering failures - assess severity, preserve evidence, execute rollback decision tree, and verify post-recovery state",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/error-recovery"
+  },
+  {
+    "id": "troykelly-claude-skills-conflict-resolution",
+    "name": "conflict-resolution",
+    "description": "Use when encountering merge conflicts - handle conflicts cleanly, verify resolution, and maintain code integrity",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/conflict-resolution"
+  },
+  {
+    "id": "troykelly-claude-skills-research-after-failure",
+    "name": "research-after-failure",
+    "description": "Use after 2 consecutive failed attempts at solving a problem - STOP guessing and research documentation, codebase, and online resources before resuming",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/research-after-failure"
+  },
+  {
+    "id": "troykelly-claude-skills-sentry-setup-ai-monitoring",
+    "name": "sentry-setup-ai-monitoring",
+    "description": "Setup Sentry AI Agent Monitoring in any project. Use this when asked to add AI monitoring, track LLM calls, monitor AI agents, or instrument OpenAI/Anthropic/Vercel AI/LangChain/Google GenAI. Automatically detects installed AI SDKs and configures the appropriate Sentry integration.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/external/skills/sentry-setup-ai-monitoring"
+  },
+  {
+    "id": "troykelly-claude-skills-memory-integration",
+    "name": "memory-integration",
+    "description": "Use to maintain context across sessions - integrates episodic-memory for conversation recall and mcp__memory knowledge graph for persistent facts",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/memory-integration"
+  },
+  {
+    "id": "troykelly-claude-skills-branch-discipline",
+    "name": "branch-discipline",
+    "description": "Use before any code changes - hard gate ensuring work never happens on main branch, with proper feature branch creation from correct base",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T05:45:39Z",
+    "repoUrl": "https://github.com/troykelly/claude-skills/tree/main/skills/branch-discipline"
+  },
+  {
+    "id": "itsmostafa-aws-agent-skills-ec2",
+    "name": "ec2",
+    "description": "AWS EC2 virtual machine management for instances, AMIs, and networking. Use when launching instances, configuring security groups, managing key pairs, troubleshooting connectivity, or automating instance lifecycle.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 934,
+    "updatedAt": "2026-01-09T16:08:05Z",
+    "repoUrl": "https://github.com/itsmostafa/aws-agent-skills/tree/main/skills/ec2"
+  },
+  {
+    "id": "schwepps-skills-suno-music-creator",
+    "name": "suno-music-creator",
+    "description": "Professional music creation with Suno AI V5 and Suno Studio. Use this skill when users want to create songs, playlists, corporate anthems, jingles, workout music, ambient soundscapes, or any AI-generated music. Triggers on requests mentioning Suno, music creation, playlist generation, song composition, or specific music projects like \"create a track\", \"make a playlist\", \"compose music for\", \"corporate anthem\", \"workout mix\", or any music production task.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-08T15:27:34Z",
+    "repoUrl": "https://github.com/schwepps/skills/tree/main/suno-music-creator"
+  },
+  {
+    "id": "schwepps-skills-seo-technical-audit",
+    "name": "seo-technical-audit",
+    "description": "Professional technical SEO audit that analyzes crawlability, Core Web Vitals, site architecture, mobile readiness, security, structured data, and AI crawler configuration. Use when auditing websites for technical SEO issues, diagnosing indexation problems, or preparing comprehensive SEO reports.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-08T15:27:34Z",
+    "repoUrl": "https://github.com/schwepps/skills/tree/main/seo-technical-audit"
+  },
+  {
+    "id": "schwepps-skills-geo-aeo-optimization",
+    "name": "geo-aeo-optimization",
+    "description": "Optimize content for AI search engines (ChatGPT, Perplexity, Claude, Gemini) and featured snippets. Covers Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), E-E-A-T signals, and content structuring for maximum AI citation probability. Use when optimizing content for AI visibility or auditing AI search readiness.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-08T15:27:34Z",
+    "repoUrl": "https://github.com/schwepps/skills/tree/main/geo-aeo-optimization"
+  },
+  {
+    "id": "nickcrew-claude-cortex-template-skill",
+    "name": "template-skill",
+    "description": "A template for creating new skills. Use when initializing a new skill to ensure proper structure and metadata.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/template-skill"
+  },
+  {
+    "id": "nickcrew-claude-cortex-code-explanation",
+    "name": "code-explanation",
+    "description": "Use when explaining code, concepts, or system behavior to a specific audience level - provides a structured explanation workflow with depth control and validation steps.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/code-explanation"
+  },
+  {
+    "id": "nickcrew-claude-cortex-using-superpowers",
+    "name": "using-superpowers",
+    "description": "Use when starting any conversation - establishes mandatory workflows for finding and using skills, including using Skill tool before announcing usage, following brainstorming before coding, and creating TodoWrite todos for checklists",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/using-superpowers"
+  },
+  {
+    "id": "nickcrew-claude-cortex-multi-llm-consult",
+    "name": "multi-llm-consult",
+    "description": "Consult external LLMs (Gemini, OpenAI/Codex, Qwen) for second opinions, alternative plans, independent reviews, or delegated tasks. Use when a user asks for another model's perspective, wants to compare answers, or requests delegating a subtask to Gemini/Codex/Qwen.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/multi-llm-consult"
+  },
+  {
+    "id": "nickcrew-claude-cortex-task-orchestration",
+    "name": "task-orchestration",
+    "description": "Use when coordinating complex tasks with orchestration, delegation, or parallel workstreams - provides structured workflows for orchestrate:brainstorm, orchestrate:spawn, and orchestrate:task.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/task-orchestration"
+  },
+  {
+    "id": "nickcrew-claude-cortex-root-cause-tracing",
+    "name": "root-cause-tracing",
+    "description": "Use when errors occur deep in execution and you need to trace back to find the original trigger - systematically traces bugs backward through call stack, adding instrumentation when needed, to identify source of invalid data or incorrect behavior",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/root-cause-tracing"
+  },
+  {
+    "id": "nickcrew-claude-cortex-mashup",
+    "name": "mashup",
+    "description": "Force-fit patterns from other domains to spark novel concepts.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/collaboration/mashup"
+  },
+  {
+    "id": "nickcrew-claude-cortex-xlsx",
+    "name": "xlsx",
+    "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/document-skills/xlsx"
+  },
+  {
+    "id": "nickcrew-claude-cortex-code-quality-workflow",
+    "name": "code-quality-workflow",
+    "description": "Use when assessing or improving code quality, maintainability, performance, or security hygiene - provides workflows for analysis, code review, and systematic improvements with validation steps.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/code-quality-workflow"
+  },
+  {
+    "id": "nickcrew-claude-cortex-pre_mortem",
+    "name": "pre-mortem",
+    "description": "Imagine failure first to surface guardrails and feature mitigations.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/collaboration/pre_mortem"
+  },
+  {
+    "id": "nickcrew-claude-cortex-dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents",
+    "description": "Use when facing 3+ independent failures that can be investigated without shared state or dependencies - dispatches multiple Claude agents to investigate and fix independent problems concurrently",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-08T15:26:50Z",
+    "repoUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/dispatching-parallel-agents"
+  },
+  {
+    "id": "jacobpevans-ai-assistant-instructions-consolidate-issues",
+    "name": "consolidate-issues",
+    "description": "Reduce GitHub issue backlog through deduplication, linking, and closure. Use before creating new issues, when enforcement_mode is CONSOLIDATION, when issue:PR ratio exceeds 3:1, when AI-created issues reach 25, or when total issues approach 50.\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-08T03:08:37Z",
+    "repoUrl": "https://github.com/JacobPEvans/ai-assistant-instructions/tree/main/docs/archived-skills/consolidate-issues"
+  },
+  {
+    "id": "jacobpevans-ai-assistant-instructions-permission-patterns",
+    "name": "permission-patterns",
+    "description": "Rules for evaluating, classifying, and deduplicating AI tool permissions",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-08T03:08:37Z",
+    "repoUrl": "https://github.com/JacobPEvans/ai-assistant-instructions/tree/main/agentsmd/skills/permission-patterns"
+  },
+  {
+    "id": "santiago-afonso-codex-container-sandbox-codex-container-sandbox",
+    "name": "codex-container-sandbox",
+    "description": "Run Codex CLI inside a Podman container with full internet access but filesystem exposure limited to the repo root + explicit bind mounts; use when you want yolo/web-search without giving the agent access to your whole host filesystem.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-06T20:34:49Z",
+    "repoUrl": "https://github.com/santiago-afonso/codex-container-sandbox/tree/main/skills/codex-container-sandbox"
+  },
+  {
+    "id": "matlab-skills-matlab-live-script",
+    "name": "matlab-live-script",
+    "description": "Create MATLAB plain text Live Scripts (.m files) following specific formatting rules. Use when generating MATLAB scripts, educational MATLAB content, Live Scripts, or when the user requests .m files with rich text formatting.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T09:21:04Z",
+    "repoUrl": "https://github.com/matlab/skills/tree/main/skills/matlab-live-script"
+  },
+  {
+    "id": "itsmostafa-llm-engineering-skills-rlhf",
+    "name": "rlhf",
+    "description": "Understanding Reinforcement Learning from Human Feedback (RLHF) for aligning language models. Use when learning about preference data, reward modeling, policy optimization, or direct alignment algorithms like DPO.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 10,
+    "updatedAt": "2026-01-06T06:11:30Z",
+    "repoUrl": "https://github.com/itsmostafa/llm-engineering-skills/tree/main/skills/rlhf"
+  },
+  {
+    "id": "itsmostafa-llm-engineering-skills-lora",
+    "name": "lora",
+    "description": "Parameter-efficient fine-tuning with Low-Rank Adaptation (LoRA). Use when fine-tuning large language models with limited GPU memory, creating task-specific adapters, or when you need to train multiple specialized models from a single base.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 10,
+    "updatedAt": "2026-01-06T06:11:30Z",
+    "repoUrl": "https://github.com/itsmostafa/llm-engineering-skills/tree/main/skills/lora"
+  },
+  {
+    "id": "githubnext-gh-aw-agentic-chat",
+    "name": "agentic-chat",
+    "description": "AI assistant for creating clear, actionable task descriptions for GitHub Copilot agents",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 287,
+    "updatedAt": "2026-01-09T18:32:54Z",
+    "repoUrl": "https://github.com/githubnext/gh-aw/tree/main/skills/agentic-chat"
+  },
+  {
+    "id": "ebowwa-seed-propose-change",
+    "name": "propose-change",
+    "description": "Propose code changes to the supervisor Claude. Generate diffs and rationale, but do not execute. Wait for supervisor approval.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 3,
+    "updatedAt": "2026-01-09T18:11:44Z",
+    "repoUrl": "https://github.com/ebowwa/seed/tree/main/skills/propose-change"
+  },
+  {
+    "id": "rjmurillo-ai-agents-memory-documentary",
+    "name": "memory-documentary",
+    "description": "Generate evidence-based documentary reports by searching across all 4 memory systems (Claude-Mem, Forgetful, Serena, DeepWiki), .agents/ artifacts, and GitHub issues. Produces investigative journalism-style analysis with full citation chains.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T18:00:00Z",
+    "repoUrl": "https://github.com/rjmurillo/ai-agents/tree/main/.claude/skills/memory-documentary"
+  },
+  {
+    "id": "rjmurillo-ai-agents-research-and-incorporate",
+    "name": "research-and-incorporate",
+    "description": "Research external topics, create comprehensive analysis, determine project applicability, and incorporate learnings into Serena and Forgetful memory systems. Transforms knowledge into searchable, actionable project context.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T18:00:00Z",
+    "repoUrl": "https://github.com/rjmurillo/ai-agents/tree/main/.claude/skills/research-and-incorporate"
+  },
+  {
+    "id": "rjmurillo-ai-agents-fix-markdown-fences",
+    "name": "fix-markdown-fences",
+    "description": "Repair malformed markdown code fence closings. Use when markdown files have closing fences with language identifiers (```text instead of ```) or when generating markdown with code blocks to ensure proper fence closure.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T18:00:00Z",
+    "repoUrl": "https://github.com/rjmurillo/ai-agents/tree/main/.claude/skills/fix-markdown-fences"
+  },
+  {
+    "id": "rjmurillo-ai-agents-memory",
+    "name": "memory",
+    "description": "Unified four-tier memory system for AI agents. Tier 1 Semantic (Serena+Forgetful search), Tier 2 Episodic (session replay), Tier 3 Causal (decision patterns). Enables memory-first architecture per ADR-007.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T18:00:00Z",
+    "repoUrl": "https://github.com/rjmurillo/ai-agents/tree/main/.claude/skills/memory"
+  },
+  {
+    "id": "rjmurillo-ai-agents-doc-sync",
+    "name": "doc-sync",
+    "description": "Synchronizes CLAUDE.md navigation indexes and README.md architecture docs across a repository. Use when asked to \"sync docs\", \"update CLAUDE.md files\", \"ensure documentation is in sync\", \"audit documentation\", or when documentation maintenance is needed after code changes.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T18:00:00Z",
+    "repoUrl": "https://github.com/rjmurillo/ai-agents/tree/main/.claude/skills/doc-sync"
+  },
+  {
+    "id": "rjmurillo-ai-agents-session-migration",
+    "name": "session-migration",
+    "description": "Migrate session logs from markdown to JSON format. Use when PRs contain markdown session logs that need conversion to the new JSON schema, or when batch-migrating historical sessions.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T18:00:00Z",
+    "repoUrl": "https://github.com/rjmurillo/ai-agents/tree/main/.claude/skills/session-migration"
+  },
+  {
+    "id": "tenzir-claude-plugins-managing-plugins",
+    "name": "managing-plugins",
+    "description": "Create and maintain Claude Code plugins. Use when editing ANY file in the plugins/ directory (commands, skills, hooks, subagents, or config), bumping plugin versions, registering plugins in marketplace.json, creating or modifying subagents, or asking about plugin structure and best practices.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-09T17:35:49Z",
+    "repoUrl": "https://github.com/tenzir/claude-plugins/tree/main/.claude/skills/managing-plugins"
+  },
+  {
+    "id": "emzod-speak-skill",
+    "name": "speak-tts",
+    "description": "Local text-to-speech generation using Chatterbox TTS on Apple Silicon. Use this when users request converting text to audio, reading articles/documents aloud, generating speech from clipboard content, voice cloning, or creating audiobook-style narration. Runs entirely on-device via MLX for private TTS. Supports auto-chunking for long documents, batch processing, and resume capability.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T18:08:20Z",
+    "repoUrl": "https://github.com/EmZod/speak/tree/main/SKILL.md"
+  },
+  {
+    "id": "clix-so-skills-event-tracking",
+    "name": "clix-event-tracking",
+    "description": "Implements Clix event tracking (Clix.trackEvent) with consistent naming, safe property schemas, and campaign-ready validation. Use when adding, reviewing, or debugging event tracking; when configuring event-triggered campaigns; or when the user mentions events, tracking, funnels, or properties — or when the user types `clix-event-tracking`.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T09:38:41Z",
+    "repoUrl": "https://github.com/clix-so/skills/tree/main/skills/event-tracking"
+  },
+  {
+    "id": "clix-so-skills-user-management",
+    "name": "clix-user-management",
+    "description": "Implements Clix user identification and user properties (setUserId, removeUserId, setUserProperty/setUserProperties, removeUserProperty/removeUserProperties) with safe schemas, logout best practices, and campaign-ready personalization/audience usage. Use when the user mentions login/logout, userId, user properties, personalization, audience targeting or when the user types `clix-user-management`.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 4,
+    "updatedAt": "2026-01-09T09:38:41Z",
+    "repoUrl": "https://github.com/clix-so/skills/tree/main/skills/user-management"
+  },
+  {
+    "id": "ks6088ts-labs-skills-skill-creator",
+    "name": "skill-creator",
+    "description": "効果的なスキルを作成するためのガイド。このスキルは、ユーザーがAIエージェントの機能を専門知識、ワークフロー、またはツール統合で拡張する新しいスキルを作成（または既存のスキルを更新）したい場合に使用します。",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T00:06:12Z",
+    "repoUrl": "https://github.com/ks6088ts-labs/skills/tree/main/skills/skill-creator"
+  },
+  {
+    "id": "ks6088ts-labs-skills-agents-md-creator",
+    "name": "agents-md-creator",
+    "description": "AIコーディングエージェント向けの指示書「AGENTS.md」を作成するスキル。プロジェクトにAIエージェントが作業するための文脈と指示を集約するファイルを作成したい場合に使用します。「AGENTS.mdを作成」「AIエージェント用の指示書を作る」「エージェント向けREADMEを作成」などのリクエストでトリガーします。OpenAI Codex、Claude Code、GitHub Copilot、Cursorなど、複数のAIエージェントで共通利用できるオープンな標準フォーマットです。",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T00:06:12Z",
+    "repoUrl": "https://github.com/ks6088ts-labs/skills/tree/main/skills/agents-md-creator"
+  },
+  {
+    "id": "gotalab-skillport-skill-evaluator",
+    "name": "skill-evaluator",
+    "description": "Evaluates agent skills against Anthropic's best practices. Use when asked to review, evaluate, assess, or audit a skill for quality. Analyzes SKILL.md structure, naming conventions, description quality, content organization, and identifies anti-patterns. Produces actionable improvement recommendations.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 200,
+    "updatedAt": "2026-01-09T15:29:37Z",
+    "repoUrl": "https://github.com/gotalab/skillport/tree/main/.skills/experimental/skill-evaluator"
+  },
+  {
+    "id": "dougtrajano-pydantic-ai-skills-web-research",
+    "name": "web-research",
+    "description": "Use this skill for requests related to web research; it provides a structured approach to conducting comprehensive web research.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 19,
+    "updatedAt": "2026-01-08T18:13:49Z",
+    "repoUrl": "https://github.com/DougTrajano/pydantic-ai-skills/tree/main/examples/skills/web-research"
+  },
+  {
+    "id": "netresearch-github-project-skill-github-project",
+    "name": "github-project",
+    "description": "GitHub repository setup and configuration. This skill should be used when creating new GitHub repositories, configuring branch protection or rulesets, setting up CODEOWNERS, or troubleshooting PR merge issues. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-08T15:15:46Z",
+    "repoUrl": "https://github.com/netresearch/github-project-skill/tree/main/skills/github-project"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-ab1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e",
+    "name": "planning-with-files",
+    "description": "Transforms workflow to use Manus-style persistent markdown files for planning, progress tracking, and knowledge storage. Use when starting complex tasks, multi-step projects, research tasks, or when the user mentions planning, organizing work, tracking progress, or wants structured output.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/ab1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+    "name": "content-research-writer",
+    "description": "Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section. Transforms your writing process from solo effort to collaborative partnership.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "name": "competitive-ads-extractor",
+    "description": "Extracts and analyzes competitors' ads from ad libraries (Facebook, LinkedIn, etc.) to understand what messaging, problems, and creative approaches are working. Helps inspire and improve your own ad campaigns.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+    "name": "lead-research-assistant",
+    "description": "Identifies high-quality leads for your product or service by analyzing your business, searching for target companies, and providing actionable contact strategies. Perfect for sales, business development, and marketing professionals.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b",
+    "name": "theme-factory",
+    "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-b1305128-9acc-42c9-af30-86fdb1c0e02a",
+    "name": "notion-research-documentation",
+    "description": "Searches across your Notion workspace, synthesizes findings from multiple pages, and creates comprehensive research documentation saved as new Notion pages. Turns scattered information into structured reports with proper citations and actionable insights.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/b1305128-9acc-42c9-af30-86fdb1c0e02a"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-b34fc506-ab64-4589-9ab9-610a0c346369",
+    "name": "slack-gif-creator",
+    "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/b34fc506-ab64-4589-9ab9-610a0c346369"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+    "name": "domain-name-brainstormer",
+    "description": "Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, .ai, etc.). Saves hours of brainstorming and manual checking.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-27d8604b-4c55-42c9-8438-ea6009900003",
+    "name": "notion-meeting-intelligence",
+    "description": "Prepares meeting materials by gathering context from Notion, enriching with Claude research, and creating both an internal pre-read and external agenda saved to Notion. Helps you arrive prepared with comprehensive background and structured meeting docs.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/27d8604b-4c55-42c9-8438-ea6009900003"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-0b8b1962-b81e-41a0-968c-1e79aefb0cec",
+    "name": "xlsx",
+    "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/0b8b1962-b81e-41a0-968c-1e79aefb0cec"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-8d9e0f1a-2b3c-4d5e-6f7a-8b9c0d1e2f3a",
+    "name": "web-asset-generator",
+    "description": "Generate web assets including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Use when users need icons, favicons, social sharing images, or Open Graph images from logos or text slogans. Handles image resizing, text-to-image generation, and provides proper HTML meta tags.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/8d9e0f1a-2b3c-4d5e-6f7a-8b9c0d1e2f3a"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a",
+    "name": "slack-gif-creator",
+    "description": "Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and composable animation primitives. This skill applies when users request animated GIFs or emoji animations for Slack from descriptions like \"make me a GIF for Slack of X doing Y\".",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+    "name": "skill-share",
+    "description": "A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaboration and skill discovery.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-805bfa87-7c72-4dff-a193-2057070834d4",
+    "name": "theme-factory",
+    "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/805bfa87-7c72-4dff-a193-2057070834d4"
+  },
+  {
+    "id": "onurkanbakirci-awesome-skills-xlsx",
+    "name": "xlsx",
+    "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 6,
+    "updatedAt": "2026-01-09T15:31:26Z",
+    "repoUrl": "https://github.com/onurkanbakirci/awesome-skills/tree/main/public/skills/5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b/xlsx"
+  },
+  {
+    "id": "netresearch-claude-coach-plugin-coach",
+    "name": "coach",
+    "description": "Self-improving learning system that detects friction signals and proposes rule updates. This skill should be used when Claude needs to learn from mistakes, when users repeatedly correct behavior, when tool failures indicate missing knowledge, or when reviewing learning candidates via /coach commands.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-08T12:00:46Z",
+    "repoUrl": "https://github.com/netresearch/claude-coach-plugin/tree/main/skills/coach"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-coach",
+    "name": "coach",
+    "description": "Self-improving learning system that detects friction signals and proposes rule updates. This skill should be used when Claude needs to learn from mistakes, when users repeatedly correct behavior, when tool failures indicate missing knowledge, or when reviewing learning candidates via /coach commands.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/plugins/coach/skills/coach"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-cli-tools",
+    "name": "cli-tools",
+    "description": "Agent Skill: CLI tool management. Use when commands fail with 'command not found', installing tools, or checking project environments. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/cli-tools/skills/cli-tools"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-git-workflow",
+    "name": "git-workflow",
+    "description": "Agent Skill: Git workflow best practices for teams and CI/CD. Use when establishing branching strategies, implementing Conventional Commits, configuring PRs, or integrating Git with CI/CD. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/git-workflow/skills/git-workflow"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-github-project",
+    "name": "github-project",
+    "description": "GitHub repository setup and configuration. This skill should be used when creating new GitHub repositories, configuring branch protection or rulesets, setting up CODEOWNERS, or troubleshooting PR merge issues. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/github-project/skills/github-project"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-security-audit",
+    "name": "security-audit",
+    "description": "Agent Skill: Security audit patterns for PHP/OWASP. Use when conducting security assessments, identifying vulnerabilities (XXE, SQL injection, XSS), or CVSS scoring. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/security-audit/skills/security-audit"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-typo3-ckeditor5",
+    "name": "typo3-ckeditor5",
+    "description": "Agent Skill: CKEditor 5 development for TYPO3 v12+. Use when developing custom plugins, configuring RTE presets, or migrating from CKEditor 4. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/typo3-ckeditor5/skills/typo3-ckeditor5"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-typo3-conformance",
+    "name": "typo3-conformance",
+    "description": "Agent Skill: Evaluate TYPO3 extensions for conformance to v12/v13/v14 standards. Use when assessing quality, generating reports, or planning modernization. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/typo3-conformance/skills/typo3-conformance"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-php-modernization",
+    "name": "php-modernization",
+    "description": "Agent Skill: PHP 8.x modernization patterns. Use when upgrading to PHP 8.1/8.2/8.3/8.4/8.5, implementing type safety, or achieving PHPStan level 10. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/php-modernization/skills/php-modernization"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-netresearch-branding",
+    "name": "netresearch-branding",
+    "description": "Agent Skill: Apply Netresearch brand identity. MANDATORY for Netresearch projects. Include: (1) [n] logo, (2) colors #2F99A4/#FF4D00/#585961, (3) Raleway+Open Sans fonts.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/netresearch-branding/skills/netresearch-branding"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-enterprise-readiness",
+    "name": "enterprise-readiness",
+    "description": "Assess and enhance software projects for enterprise-grade security, quality, and automation. Use when evaluating projects for production readiness, implementing supply chain security (SLSA, signing, SBOMs), hardening CI/CD pipelines, or establishing quality gates. Aligned with OpenSSF Scorecard, Best Practices Badge (all levels), SLSA, and S2C2F. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/enterprise-readiness/skills/enterprise-readiness"
+  },
+  {
+    "id": "netresearch-claude-code-marketplace-typo3-core-contributions",
+    "name": "typo3-core-contributions",
+    "description": "Agent Skill: TYPO3 Core contribution workflow. Use when working with Forge issues, submitting patches to Gerrit, or contributing docs. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 12,
+    "updatedAt": "2026-01-09T16:20:34Z",
+    "repoUrl": "https://github.com/netresearch/claude-code-marketplace/tree/main/skills/typo3-core-contributions/skills/typo3-core-contributions"
+  },
+  {
+    "id": "netresearch-php-modernization-skill-php-modernization",
+    "name": "php-modernization",
+    "description": "Agent Skill: PHP 8.x modernization patterns. Use when upgrading to PHP 8.1/8.2/8.3/8.4/8.5, implementing type safety, or achieving PHPStan level 10. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-08T09:16:19Z",
+    "repoUrl": "https://github.com/netresearch/php-modernization-skill/tree/main/skills/php-modernization"
+  },
+  {
+    "id": "netresearch-git-workflow-skill-git-workflow",
+    "name": "git-workflow",
+    "description": "Agent Skill: Git workflow best practices for teams and CI/CD. Use when establishing branching strategies, implementing Conventional Commits, configuring PRs, or integrating Git with CI/CD. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-07T12:50:13Z",
+    "repoUrl": "https://github.com/netresearch/git-workflow-skill/tree/main/skills/git-workflow"
+  },
+  {
+    "id": "netresearch-typo3-ckeditor5-skill-typo3-ckeditor5",
+    "name": "typo3-ckeditor5",
+    "description": "Agent Skill: CKEditor 5 development for TYPO3 v12+. Use when developing custom plugins, configuring RTE presets, or migrating from CKEditor 4. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-07T12:50:12Z",
+    "repoUrl": "https://github.com/netresearch/typo3-ckeditor5-skill/tree/main/skills/typo3-ckeditor5"
+  },
+  {
+    "id": "netresearch-cli-tools-skill-cli-tools",
+    "name": "cli-tools",
+    "description": "Agent Skill: CLI tool management. Use when commands fail with 'command not found', installing tools, or checking project environments. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 3,
+    "updatedAt": "2026-01-07T12:50:07Z",
+    "repoUrl": "https://github.com/netresearch/cli-tools-skill/tree/main/skills/cli-tools"
+  },
+  {
+    "id": "netresearch-typo3-core-contributions-skill-typo3-core-contributions",
+    "name": "typo3-core-contributions",
+    "description": "Agent Skill: TYPO3 Core contribution workflow. Use when working with Forge issues, submitting patches to Gerrit, or contributing docs. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-07T12:50:04Z",
+    "repoUrl": "https://github.com/netresearch/typo3-core-contributions-skill/tree/main/skills/typo3-core-contributions"
+  },
+  {
+    "id": "netresearch-netresearch-branding-skill-netresearch-branding",
+    "name": "netresearch-branding",
+    "description": "Agent Skill: Apply Netresearch brand identity. MANDATORY for Netresearch projects. Include: (1) [n] logo, (2) colors #2F99A4/#FF4D00/#585961, (3) Raleway+Open Sans fonts.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-07T12:50:01Z",
+    "repoUrl": "https://github.com/netresearch/netresearch-branding-skill/tree/main/skills/netresearch-branding"
+  },
+  {
+    "id": "netresearch-enterprise-readiness-skill-enterprise-readiness",
+    "name": "enterprise-readiness",
+    "description": "Assess and enhance software projects for enterprise-grade security, quality, and automation. Use when evaluating projects for production readiness, implementing supply chain security (SLSA, signing, SBOMs), hardening CI/CD pipelines, or establishing quality gates. Aligned with OpenSSF Scorecard, Best Practices Badge (all levels), SLSA, and S2C2F. By Netresearch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-07T12:49:54Z",
+    "repoUrl": "https://github.com/netresearch/enterprise-readiness-skill/tree/main/skills/enterprise-readiness"
+  },
+  {
+    "id": "bauplanlabs-bauplan-mcp-server-wap",
+    "name": "wap-ingestion",
+    "description": "Ingest data from S3 into bauplan using the Write-Audit-Publish pattern for safe data loading. Use when loading new data from S3, performing safe data ingestion, or when the user mentions WAP, data ingestion, importing parquet/csv/jsonl files, or needs to safely load data with quality checks.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-06T21:50:49Z",
+    "repoUrl": "https://github.com/BauplanLabs/bauplan-mcp-server/tree/main/skills/wap"
+  },
+  {
+    "id": "bauplanlabs-bauplan-mcp-server-new-pipeline",
+    "name": "creating-bauplan-pipelines",
+    "description": "Creates bauplan data pipeline projects with SQL and Python models. Use when starting a new pipeline, defining DAG transformations, writing models, or setting up bauplan project structure from scratch.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5,
+    "updatedAt": "2026-01-06T21:50:49Z",
+    "repoUrl": "https://github.com/BauplanLabs/bauplan-mcp-server/tree/main/skills/new-pipeline"
+  },
+  {
+    "id": "lawvable-awesome-legal-skills-xlsx-processing-en-anthropic",
+    "name": "xlsx",
+    "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 15,
+    "updatedAt": "2026-01-09T08:59:12Z",
+    "repoUrl": "https://github.com/lawvable/awesome-legal-skills/tree/main/skills/xlsx-processing-en-anthropic"
+  },
+  {
+    "id": "karanjot786-agent-skills-cli-deep-researcher",
+    "name": "deep-researcher",
+    "description": "Performs comprehensive, multi-layered research on any topic with structured analysis and synthesis of information from multiple sources. Use when the user needs thorough investigation, market research, technical deep-dives, due diligence, or comprehensive analysis on any subject.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-05T20:47:00Z",
+    "repoUrl": "https://github.com/Karanjot786/agent-skills-cli/tree/main/skills/deep-researcher"
+  },
+  {
+    "id": "ghutchis-chem-skill-skill",
+    "name": "chem-vis",
+    "description": "Generate 2D structure images and interactive 3D viewers from chemical names or SMILES. Supports PNG/SVG output for 2D and 3Dmol.js HTML viewers for 3D conformers.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2025-12-28T02:24:10Z",
+    "repoUrl": "https://github.com/ghutchis/chem-skill/tree/main/SKILL.md"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-production-debugging",
+    "name": "production-debugging",
+    "description": "Debug production issues in Kubernetes clusters. Use this skill when investigating 500 errors, missing functionality, silent failures, or service integration issues. Covers systematic log analysis, tracing requests across microservices, and common bug patterns.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/docs/taskflow-vault/skills/engineering/production-debugging/skill.md"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-context-optimization",
+    "name": "context-optimization",
+    "description": "Apply optimization techniques to extend effective context capacity. Use when context limits constrain agent performance, when optimizing for cost or latency, or when implementing long-running agent systems.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/.claude/skills/context-optimization"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-theme-factory",
+    "name": "theme-factory",
+    "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/docs/panaversity-ri-vault/skills/theme-factory"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-xlsx",
+    "name": "xlsx",
+    "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/docs/panaversity-ri-vault/skills/xlsx"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-context-degradation",
+    "name": "context-degradation",
+    "description": "Recognize, diagnose, and mitigate patterns of context degradation in agent systems. Use when context grows large, agent performance degrades unexpectedly, or debugging agent failures.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/.claude/skills/context-degradation"
+  },
+  {
+    "id": "mjunaidca-mjs-agent-skills-working-with-spreadsheets",
+    "name": "working-with-spreadsheets",
+    "description": "Creates and edits Excel spreadsheets with formulas, formatting, and financial modeling standards.\nUse when working with .xlsx files, financial models, data analysis, or formula-heavy spreadsheets.\nCovers formula recalculation, color coding standards, and common pitfalls.\n",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 16,
+    "updatedAt": "2026-01-09T07:33:49Z",
+    "repoUrl": "https://github.com/mjunaidca/mjs-agent-skills/tree/main/.claude/skills/working-with-spreadsheets"
+  },
+  {
+    "id": "bybren-llc-wtfb-projects-template-fountain-syntax",
+    "name": "fountain-syntax",
+    "description": "",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:14:02Z",
+    "repoUrl": "https://github.com/bybren-llc/wtfb-projects-template/tree/main/.claude/skills/fountain-syntax"
+  },
+  {
+    "id": "blueraai-bluera-knowledge-store-lifecycle",
+    "name": "store-lifecycle",
+    "description": "Best practices for creating, indexing, and managing Bluera Knowledge stores. Covers when to use clone vs crawl vs folder, naming conventions, indexing strategies, storage management, background job monitoring, and handling indexing failures.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T19:11:08Z",
+    "repoUrl": "https://github.com/blueraai/bluera-knowledge/tree/main/skills/store-lifecycle"
+  },
+  {
+    "id": "blueraai-bluera-knowledge-knowledge-search",
+    "name": "knowledge-search",
+    "description": "Teaches how to use Bluera Knowledge for accessing library sources and reference material. Explains two approaches - vector search via MCP/slash commands for discovery, or direct Grep/Read access to cloned repos for precision. Shows when to use each method and example workflows for querying library internals.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T19:11:08Z",
+    "repoUrl": "https://github.com/blueraai/bluera-knowledge/tree/main/skills/knowledge-search"
+  },
+  {
+    "id": "dwmkerr-claude-toolkit-research",
+    "name": "research",
+    "description": "Research technical solutions by searching the web, examining GitHub repos, and gathering evidence. Use when exploring implementation options or evaluating technologies.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T18:43:10Z",
+    "repoUrl": "https://github.com/dwmkerr/claude-toolkit/tree/main/plugins/toolkit/skills/research"
+  },
+  {
+    "id": "git-fg-thecattoolkit-manage-healing",
+    "name": "manage-healing",
+    "description": "Diagnostic patterns and repair protocols for self-correcting AI components. Passive knowledge base for the /heal command.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:37:00Z",
+    "repoUrl": "https://github.com/Git-Fg/thecattoolkit/tree/main/plugins/meta/skills/manage-healing"
+  },
+  {
+    "id": "mitchellkellerlg-teachaid-gtm-knowledge-write-newsletter",
+    "name": "write-teachaid-newsletter",
+    "description": "Create educator newsletters using Ogilvy copywriting principles, Cialdini persuasion, and story-driven structure with open loops. Mine sales transcripts for authentic language. Region-specific with self-improving examples.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:36:14Z",
+    "repoUrl": "https://github.com/MitchellkellerLG/teachaid-gtm-knowledge/tree/main/skills/write-newsletter"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-scienceworld-reset",
+    "name": "scienceworld-reset",
+    "description": "Start a ScienceWorld episode. Reads scenario, difficulty, and seed from scienceworld_config in character YAML. Returns the initial observation plus a session_id for subsequent steps.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/world-tools/scienceworld/scienceworld-reset"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-extract-struct",
+    "name": "extract-struct",
+    "description": "Extract structured metadata (title, authors, year) from paper text using LLM. Use to convert online search results metadata to JSON",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/tools/extract-struct/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-is-question",
+    "name": "is-question",
+    "description": "Check if text contains a question",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/tools_out/is-question/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-mc-wait",
+    "name": "mc-wait",
+    "description": "Synchronous wait for 1 second using time.sleep. Useful for timing delays or pacing actions",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/world-tools/minecraft/mc-wait/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-fetch-text",
+    "name": "fetch-text",
+    "description": "Fetch all text from URL or base64 PDF. Collection-aware (extracts first item if given Collection). Auto-detects format (PDF/HTML/MD/TXT) and extracts complete text content",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/tools/fetch-text/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-semantic-scholar",
+    "name": "semantic-scholar",
+    "description": "Search academic papers. Returns Collection of JSON Notes with fields text (full paper text via GROBID when PDF available, otherwise abstract), metadata.title, metadata.authors, metadata.year, metadata.citations, metadata.uri (alias: pdf_url), metadata.venue",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/tools/semantic-scholar/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-mc-map-visualize",
+    "name": "mc-map-visualize",
+    "description": "Generates zoomable HTML visualization of the spatial map showing walkability, hazards, resources, and observation confidence.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/world-tools/minecraft/mc-map-visualize/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-mc-craft",
+    "name": "mc-craft",
+    "description": "Perform crafting via Mineflayer recipe system. Returns success/failure",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/world-tools/minecraft/mc-craft/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-search-web",
+    "name": "search-web",
+    "description": "Search web using Google CSE. Returns Collection of JSON Notes with fields text, metadata.uri (alias: source_url), metadata.domain, format, char_count",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/tools/search-web/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-as-markdown",
+    "name": "as-markdown",
+    "description": "Extract markdown document structure and content from mixed/embedded text (NOT for converting plain text TO markdown)",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/tools_out/as-markdown/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-mc-attack",
+    "name": "mc-attack",
+    "description": "Left-click style interaction (entities or blocks). Returns success/failure",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/world-tools/minecraft/mc-attack/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-mc-map-update",
+    "name": "mc-map-update",
+    "description": "Updates persistent spatial map with observation data. Populates cell-based SpatialMap.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/world-tools/minecraft/mc-map-update/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-matches",
+    "name": "matches",
+    "description": "Check if text matches regex pattern or contains substring",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/tools_out/matches/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-mc-observe-blocks",
+    "name": "mc-observe-blocks",
+    "description": "Exhaustive enumeration of ALL visible non-air blocks within radius R. Visibility = within radius R AND line-of-sight from bot's eye position. Does NOT report items (use mc-observe-items for that).",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/world-tools/minecraft/mc-observe-blocks/Skill.md"
+  },
+  {
+    "id": "bdambrosio-cognitive_workbench-mc-place-until-supported",
+    "name": "mc-place-until-supported",
+    "description": "Create reliable footing by placing blocks until observed support becomes provably solid. Absorbs placement uncertainty and never exposes 'accepted but ineffective' outcomes",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 8,
+    "updatedAt": "2026-01-09T19:31:24Z",
+    "repoUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/world-tools/minecraft/mc-place-until-supported/Skill.md"
+  },
+  {
+    "id": "zhiruifeng-localagentcrew-research",
+    "name": "research",
+    "description": "Analyzes codebase, searches documentation, investigates dependencies and architecture patterns",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:32:51Z",
+    "repoUrl": "https://github.com/ZhiruiFeng/LocalAgentCrew/tree/main/.claude/skills/research"
+  },
+  {
+    "id": "zhiruifeng-localagentcrew-writing-assistant",
+    "name": "writing-assistant",
+    "description": "Helps with email composition, creative writing, content creation, and text improvement",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:32:51Z",
+    "repoUrl": "https://github.com/ZhiruiFeng/LocalAgentCrew/tree/main/.claude/skills/writing-assistant"
+  },
+  {
+    "id": "zhiruifeng-localagentcrew-market-researcher",
+    "name": "market-researcher",
+    "description": "Gathers and analyzes market data, industry trends, market sizing, and growth opportunities",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:32:51Z",
+    "repoUrl": "https://github.com/ZhiruiFeng/LocalAgentCrew/tree/main/.claude/skills/market-researcher"
+  },
+  {
+    "id": "zhiruifeng-localagentcrew-research-assistant",
+    "name": "research-assistant",
+    "description": "Conducts general research, summarizes information, compares options, provides insights",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:32:51Z",
+    "repoUrl": "https://github.com/ZhiruiFeng/LocalAgentCrew/tree/main/.claude/skills/research-assistant"
+  },
+  {
+    "id": "zhiruifeng-localagentcrew-investment-daily-report",
+    "name": "investment-daily-report",
+    "description": "Generates comprehensive daily investment reports with market overview, portfolio analysis, technical signals, and opportunities",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:32:51Z",
+    "repoUrl": "https://github.com/ZhiruiFeng/LocalAgentCrew/tree/main/.claude/skills/investment-daily-report"
+  },
+  {
+    "id": "matheus-rech-meta-agent-mobile-data-extraction",
+    "name": "data-extraction",
+    "description": "Extract and prepare study data for meta-analysis including effect size calculation, variance estimation, and handling missing data. Use when users need to convert reported statistics into analyzable format or calculate effect sizes from raw data.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:30:14Z",
+    "repoUrl": "https://github.com/matheus-rech/meta-agent-mobile/tree/main/agentskills/data-extraction"
+  },
+  {
+    "id": "matheus-rech-meta-agent-mobile-grade-assessment",
+    "name": "grade-assessment",
+    "description": "Apply the GRADE framework to assess certainty of evidence in systematic reviews. Use when users need to rate evidence quality, create Summary of Findings tables, or understand the factors that affect confidence in effect estimates.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:30:14Z",
+    "repoUrl": "https://github.com/matheus-rech/meta-agent-mobile/tree/main/agentskills/grade-assessment"
+  },
+  {
+    "id": "matheus-rech-meta-agent-mobile-r-code-generation",
+    "name": "r-code-generation",
+    "description": "Generate R code for meta-analysis using the metafor package, including data preparation, model fitting, visualization, and sensitivity analyses. Use when users need executable R code for their meta-analysis workflow.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:30:14Z",
+    "repoUrl": "https://github.com/matheus-rech/meta-agent-mobile/tree/main/agentskills/r-code-generation"
+  },
+  {
+    "id": "matheus-rech-meta-agent-mobile-ipd-meta-analysis",
+    "name": "ipd-meta-analysis",
+    "description": "Teach Individual Patient Data (IPD) meta-analysis methods for analyzing raw participant-level data from multiple studies. Use when users have access to original datasets, need to explore treatment-effect modifiers, or want to conduct time-to-event analyses.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:30:14Z",
+    "repoUrl": "https://github.com/matheus-rech/meta-agent-mobile/tree/main/agentskills/ipd-meta-analysis"
+  },
+  {
+    "id": "matheus-rech-meta-agent-mobile-bayesian-meta-analysis",
+    "name": "bayesian-meta-analysis",
+    "description": "Teach Bayesian approaches to meta-analysis including prior specification, MCMC methods, and interpretation of posterior distributions. Use when users want to incorporate prior knowledge, need probabilistic interpretations, or are working with sparse data.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 0,
+    "updatedAt": "2026-01-09T18:30:14Z",
+    "repoUrl": "https://github.com/matheus-rech/meta-agent-mobile/tree/main/agentskills/bayesian-meta-analysis"
+  },
+  {
+    "id": "hotovo-aider-desk-agent-creator",
+    "name": "agent-creator",
+    "description": "Create AiderDesk agent profiles via interactive Q&A.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1004,
+    "updatedAt": "2026-01-09T18:29:28Z",
+    "repoUrl": "https://github.com/hotovo/aider-desk/tree/main/.aider-desk/skills/agent-creator"
+  },
+  {
+    "id": "huggingface-skills-hugging-face-paper-publisher",
+    "name": "hugging-face-paper-publisher",
+    "description": "Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdown-based research articles.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 846,
+    "updatedAt": "2026-01-09T18:29:21Z",
+    "repoUrl": "https://github.com/huggingface/skills/tree/main/skills/hugging-face-paper-publisher"
+  },
+  {
+    "id": "ken-cavanagh-glean-fieldkit-glean-mcp",
+    "name": "glean-mcp",
+    "description": "Routes all Glean tool usage. Always start with chat for synthesis; add specialized tools in parallel as needed. Invoke for: meeting prep, day reviews, people lookup, email search, document discovery, activity tracking, account research, or any question about work context, colleagues, accounts, or internal knowledge.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T18:25:56Z",
+    "repoUrl": "https://github.com/ken-cavanagh-glean/fieldkit/tree/main/plugins/glean-mcp/skills/glean-mcp"
+  },
+  {
+    "id": "ken-cavanagh-glean-fieldkit-context-degradation",
+    "name": "context-degradation",
+    "description": "Recognize, diagnose, and mitigate patterns of context degradation in agent systems. Use when context grows large, agent performance degrades unexpectedly, or debugging agent failures.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T18:25:56Z",
+    "repoUrl": "https://github.com/ken-cavanagh-glean/fieldkit/tree/main/plugins/context-engineering/skills/context-engineering/context-degradation"
+  },
+  {
+    "id": "ken-cavanagh-glean-fieldkit-context-optimization",
+    "name": "context-optimization",
+    "description": "Apply optimization techniques to extend effective context capacity. Use when context limits constrain agent performance, when optimizing for cost or latency, or when implementing long-running agent systems.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 1,
+    "updatedAt": "2026-01-09T18:25:56Z",
+    "repoUrl": "https://github.com/ken-cavanagh-glean/fieldkit/tree/main/plugins/context-engineering/skills/context-engineering/context-optimization"
   }
 ]
