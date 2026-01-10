@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-10T02:34:54.354Z",
-  "totalSkills": 3414,
+  "lastSync": "2026-01-10T06:34:59.567Z",
+  "totalSkills": 3528,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -35460,6 +35460,1146 @@
       "stars": 34,
       "updatedAt": "2026-01-09T17:16:33Z",
       "repoUrl": "https://github.com/serpro69/claude-starter-kit/tree/master/.github/templates/claude/skills/development-guidelines"
+    },
+    {
+      "id": "nxt3d-rest-ap-text-agent-skill",
+      "name": "text-agent-client",
+      "description": "Interact with the Text Processing AI Agent. Use when you need text analysis, formatting, or processing capabilities from the agent.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T04:45:33Z",
+      "repoUrl": "https://github.com/nxt3d/rest-ap/tree/main/example-plugin/skills/text-agent-skill"
+    },
+    {
+      "id": "clawdbot-nix-clawdbot-hello-world",
+      "name": "hello-world",
+      "description": "Prints a greeting with unnecessary confidence.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 15,
+      "updatedAt": "2026-01-10T04:43:33Z",
+      "repoUrl": "https://github.com/clawdbot/nix-clawdbot/tree/main/examples/hello-world-plugin/skills/hello-world"
+    },
+    {
+      "id": "whodaniel-fuse-skill-builder",
+      "name": "skill-builder",
+      "description": "",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/skill-builder"
+    },
+    {
+      "id": "whodaniel-fuse-pdf",
+      "name": "pdf",
+      "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/pdf"
+    },
+    {
+      "id": "whodaniel-fuse-browser-automation",
+      "name": "browser-automation",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/browser-automation"
+    },
+    {
+      "id": "whodaniel-fuse-xlsx",
+      "name": "xlsx",
+      "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/xlsx"
+    },
+    {
+      "id": "whodaniel-fuse-docx",
+      "name": "docx",
+      "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/docx"
+    },
+    {
+      "id": "whodaniel-fuse-brand-guidelines",
+      "name": "brand-guidelines",
+      "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/brand-guidelines"
+    },
+    {
+      "id": "whodaniel-fuse-doc-coauthoring",
+      "name": "doc-coauthoring",
+      "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/doc-coauthoring"
+    },
+    {
+      "id": "whodaniel-fuse-frontend-design",
+      "name": "frontend-design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/frontend-design"
+    },
+    {
+      "id": "whodaniel-fuse-library-of-living-knowledge",
+      "name": "library-of-living-knowledge",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/library-of-living-knowledge"
+    },
+    {
+      "id": "whodaniel-fuse-internal-comms",
+      "name": "internal-comms",
+      "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/internal-comms"
+    },
+    {
+      "id": "whodaniel-fuse-theme-factory",
+      "name": "theme-factory",
+      "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/theme-factory"
+    },
+    {
+      "id": "whodaniel-fuse-webapp-testing",
+      "name": "webapp-testing",
+      "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/webapp-testing"
+    },
+    {
+      "id": "whodaniel-fuse-skill-creator",
+      "name": "skill-creator",
+      "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/skill-creator"
+    },
+    {
+      "id": "whodaniel-fuse-canvas-design",
+      "name": "canvas-design",
+      "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/canvas-design"
+    },
+    {
+      "id": "whodaniel-fuse-mcp-builder",
+      "name": "mcp-builder",
+      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/mcp-builder"
+    },
+    {
+      "id": "whodaniel-fuse-jules-delegation",
+      "name": "jules-delegation",
+      "description": "Delegate complex coding tasks to Google's Jules autonomous AI coding agent. Use this skill when you need to offload time-consuming implementation work, create parallel coding sessions, or handle tasks that benefit from asynchronous execution.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/jules-delegation"
+    },
+    {
+      "id": "whodaniel-fuse-web-artifacts-builder",
+      "name": "web-artifacts-builder",
+      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/web-artifacts-builder"
+    },
+    {
+      "id": "whodaniel-fuse-algorithmic-art",
+      "name": "algorithmic-art",
+      "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/algorithmic-art"
+    },
+    {
+      "id": "whodaniel-fuse-slack-gif-creator",
+      "name": "slack-gif-creator",
+      "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/slack-gif-creator"
+    },
+    {
+      "id": "whodaniel-fuse-pptx",
+      "name": "pptx",
+      "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T06:07:24Z",
+      "repoUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/pptx"
+    },
+    {
+      "id": "mazrean-kessoku-kessoku-di",
+      "name": "kessoku-di",
+      "description": "Kessoku compile-time DI with parallel initialization for Go. Use when writing or debugging kessoku providers/injectors, enabling async dependencies, migrating from google/wire, or fixing go:generate/codegen issues in Go services.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 110,
+      "updatedAt": "2026-01-10T06:26:07Z",
+      "repoUrl": "https://github.com/mazrean/kessoku/tree/main/internal/llmsetup/skills/kessoku-di"
+    },
+    {
+      "id": "mazrean-kessoku-mock-skill",
+      "name": "mock-skill",
+      "description": "",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 110,
+      "updatedAt": "2026-01-10T06:26:07Z",
+      "repoUrl": "https://github.com/mazrean/kessoku/tree/main/internal/llmsetup/testdata/mock-skill"
+    },
+    {
+      "id": "diversioteam-agent-skills-marketplace-bruno-api",
+      "name": "bruno-api",
+      "description": "Generate comprehensive API endpoint documentation from Bruno (.bru) files by mapping requests to a Django4Lyfe/Diversio-style backend implementation (Django REST Framework or Django Ninja), including auth/permissions, multi-tenant filtering, request/response schemas, and line-numbered code references. Use for single endpoints, directory scans of .bru files, or when writing docs to a specific output path.\n",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-08T17:03:11Z",
+      "repoUrl": "https://github.com/DiversioTeam/agent-skills-marketplace/tree/main/plugins/bruno-api/skills/bruno-api"
+    },
+    {
+      "id": "diversioteam-agent-skills-marketplace-plan-directory",
+      "name": "plan-directory",
+      "description": "Create or update a structured plan directory with a master PLAN.md index and numbered task files (001-*.md). Each task file includes goal, dependencies, scope, checklist, tests, and completion criteria. Use when scaffolding a repeatable project plan in markdown, especially when the user wants a master index plus per-task files with checkboxes that are checked off as work completes.\n",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-08T17:03:11Z",
+      "repoUrl": "https://github.com/DiversioTeam/agent-skills-marketplace/tree/main/plugins/plan-directory/skills/plan-directory"
+    },
+    {
+      "id": "diversioteam-agent-skills-marketplace-backend-ralph-plan",
+      "name": "backend-ralph-plan",
+      "description": "Create a structured plan directory with Ralph Wiggum Loop integration for backend Django projects. Generates PLAN.md (task index), task files, and RALPH-PROMPT.md (the actual prompt for ralph-loop). Use for rigorous, iterative implementation requiring quality gates and verification.\n",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-08T17:03:11Z",
+      "repoUrl": "https://github.com/DiversioTeam/agent-skills-marketplace/tree/main/plugins/plan-directory/skills/backend-ralph-plan"
+    },
+    {
+      "id": "diversioteam-agent-skills-marketplace-monty-code-review",
+      "name": "monty-code-review",
+      "description": "Hyper-pedantic code review skill that emulates Monty's Django4Lyfe backend engineering philosophy and review style. Use this when reviewing or refactoring Python/Django code in this backend repo and you want a strict, correctness-first, multi-tenant-safe, deeply nitpicky review.\n",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-08T17:03:11Z",
+      "repoUrl": "https://github.com/DiversioTeam/agent-skills-marketplace/tree/main/plugins/monty-code-review/skills/monty-code-review"
+    },
+    {
+      "id": "diversioteam-agent-skills-marketplace-mixpanel-analytics",
+      "name": "mixpanel-analytics",
+      "description": "MixPanel analytics tracking implementation and review Skill for Django4Lyfe optimo_analytics module. Implements new events following established patterns and reviews implementations for PII protection, schema design, and code quality.\n",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-08T17:03:11Z",
+      "repoUrl": "https://github.com/DiversioTeam/agent-skills-marketplace/tree/main/plugins/mixpanel-analytics/skills/mixpanel-analytics"
+    },
+    {
+      "id": "diversioteam-agent-skills-marketplace-backend-atomic-commit",
+      "name": "backend-atomic-commit",
+      "description": "Pedantic backend pre-commit and atomic commit Skill for Django/Optimo-style repos. Enforces local AGENTS.md / CLAUDE.md, pre-commit hooks, .security/* helpers, and Monty’s backend engineering taste – with no AI signatures in commit messages.\n",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-08T17:03:11Z",
+      "repoUrl": "https://github.com/DiversioTeam/agent-skills-marketplace/tree/main/plugins/backend-atomic-commit/skills/backend-atomic-commit"
+    },
+    {
+      "id": "diversioteam-agent-skills-marketplace-backend-pr-workflow",
+      "name": "backend-pr-workflow",
+      "description": "Pedantic Diversio backend dev workflow Skill that enforces ClickUp-linked branch/PR naming, PR hygiene, safe Django migrations, and downtime-safe schema changes for Django4Lyfe-style backends.\n",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-08T17:03:11Z",
+      "repoUrl": "https://github.com/DiversioTeam/agent-skills-marketplace/tree/main/plugins/backend-pr-workflow/skills/backend-pr-workflow"
+    },
+    {
+      "id": "diversioteam-agent-skills-marketplace-pr-description-writer",
+      "name": "pr-description-writer",
+      "description": "Generates comprehensive, reviewer-friendly PR descriptions with visual diagrams, summary tables, collapsible sections, and structured test plans. Optimized for readability without sacrificing detail.\n",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-08T17:03:11Z",
+      "repoUrl": "https://github.com/DiversioTeam/agent-skills-marketplace/tree/main/plugins/pr-description-writer/skills/pr-description-writer"
+    },
+    {
+      "id": "diversioteam-agent-skills-marketplace-process-code-review",
+      "name": "process-code-review",
+      "description": "Process code review findings interactively - fix or skip issues from monty-code-review output. Presents issues in severity order, applies fixes, runs quality checks, and updates review documents with status markers.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-08T17:03:11Z",
+      "repoUrl": "https://github.com/DiversioTeam/agent-skills-marketplace/tree/main/plugins/process-code-review/skills/process-code-review"
+    },
+    {
+      "id": "diversioteam-agent-skills-marketplace-code-review-digest-writer",
+      "name": "code-review-digest-writer",
+      "description": "Generates weekly code-review digest docs from PR review comments for any GitHub repository. If present, follows project-specific docs/review-digests/AGENTS.md guidelines. Use this to turn a date-bounded set of PR reviews into a structured markdown “newsletter” that captures themes, repeated issues, and concrete takeaways.\n",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-08T17:03:11Z",
+      "repoUrl": "https://github.com/DiversioTeam/agent-skills-marketplace/tree/main/plugins/code-review-digest-writer/skills/code-review-digest-writer"
+    },
+    {
+      "id": "conforma-claude-skills-ec-policy-debugging",
+      "name": "ec-policy-debugging",
+      "description": "Debug Enterprise Contract policy violations by examining rule metadata, tests, and actual data. Use when investigating EC validation failures, policy violations, or understanding why a rule triggered.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T01:37:18Z",
+      "repoUrl": "https://github.com/conforma/claude-skills/tree/main/.claude/skills/ec-policy-debugging"
+    },
+    {
+      "id": "truchot-claude-skills-test-devops",
+      "name": "devops",
+      "description": "Expert DevOps - CI/CD, containers, Kubernetes, Infrastructure as Code, monitoring et déploiement",
+      "category": "devops-infrastructure",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/devops"
+    },
+    {
+      "id": "truchot-claude-skills-test-web-agency",
+      "name": "web-agency",
+      "description": "Méta-skill orchestrateur pour agence Web IA Full-Automatisée - Compose et orchestre les skills métiers avec intake automatisé et orchestration des tâches",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/web-agency"
+    },
+    {
+      "id": "truchot-claude-skills-test-direction-technique",
+      "name": "direction-technique",
+      "description": "Direction Technique - Pilotage stratégique des choix techniques, de l'architecture à la qualité. Orchestre web-dev-process et wordpress-gutenberg-expert.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/direction-technique"
+    },
+    {
+      "id": "truchot-claude-skills-test-design-system-foundations",
+      "name": "design-system-foundations",
+      "description": "Expert en Design Systems avec approche Atomic Design industrielle. Utilisé pour structurer les fondations (couleurs, typographie, espacement, ombres), atomes, molécules et templates de manière cohérente et scalable. Invoque ce skill lors des interactions avec les designers ou pour créer/auditer un design system.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/design-system-foundations"
+    },
+    {
+      "id": "truchot-claude-skills-test-commercial-crm",
+      "name": "commercial-crm",
+      "description": "Expert Commercial & CRM - Pipeline, prospection, relances, négociation et fidélisation",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/commercial-crm"
+    },
+    {
+      "id": "truchot-claude-skills-test-support-client",
+      "name": "support-client",
+      "description": "Expert Support Client - Ticketing, FAQ, base de connaissances, escalade et satisfaction",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/support-client"
+    },
+    {
+      "id": "truchot-claude-skills-test-ux-ui-design",
+      "name": "ux-ui-design",
+      "description": "Expert UX/UI Design - Recherche utilisateur, wireframes, maquettes, prototypes et tests utilisateurs",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/ux-ui-design"
+    },
+    {
+      "id": "truchot-claude-skills-test-web-dev-process",
+      "name": "web-dev-process",
+      "description": "Processus de développement web standardisé - Framework agnostique pour guider toutes les phases d'un projet web, de la découverte à la maintenance.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/web-dev-process"
+    },
+    {
+      "id": "truchot-claude-skills-test-legal-compliance",
+      "name": "legal-compliance",
+      "description": "Expert Legal & Compliance - RGPD, CGV, mentions légales, conformité et audit",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/legal-compliance"
+    },
+    {
+      "id": "truchot-claude-skills-test-nextjs-expert",
+      "name": "nextjs-expert",
+      "description": "Expert Next.js - App Router, Server Components, Server Actions, data fetching, rendering strategies, optimization et déploiement",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/nextjs-expert"
+    },
+    {
+      "id": "truchot-claude-skills-test-frontend-developer",
+      "name": "frontend-developer",
+      "description": "Expert en développement front-end moderne - HTML, CSS, JavaScript, TypeScript, frameworks, testing, performance et tooling",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/frontend-developer"
+    },
+    {
+      "id": "truchot-claude-skills-test-project-management",
+      "name": "project-management",
+      "description": "Gestion de projet et relation client pour agence Web - Brief, estimation, planning, suivi, communication, livraison, facturation",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/project-management"
+    },
+    {
+      "id": "truchot-claude-skills-test-lead-dev",
+      "name": "lead-dev",
+      "description": "Lead Développeur - Coordination technique opérationnelle, code review, mentoring et livraison. Pair de web-dev-process au niveau OPÉRATIONS.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/lead-dev"
+    },
+    {
+      "id": "truchot-claude-skills-test-react-expert",
+      "name": "react-expert",
+      "description": "Expert React - Hooks, composants, state management, data fetching, testing, styling et patterns modernes",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/react-expert"
+    },
+    {
+      "id": "truchot-claude-skills-test-marketing",
+      "name": "marketing",
+      "description": "Expert Marketing - Stratégie, campagnes, contenu, acquisition, fidélisation, automation, performance et analytics pour agence Web",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/marketing"
+    },
+    {
+      "id": "truchot-claude-skills-test-wordpress-gutenberg-expert",
+      "name": "wordpress-gutenberg-expert",
+      "description": "Expert WordPress et Gutenberg pour répondre à toutes questions sur le développement WordPress, la création de thèmes, plugins, blocks Gutenberg, et l'API Block Editor. Utilise ce skill quand l'utilisateur pose des questions sur WordPress, Gutenberg, les blocks, le développement WP, ou demande de l'aide avec du code WordPress/PHP/React pour WP.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/wordpress-gutenberg-expert"
+    },
+    {
+      "id": "truchot-claude-skills-test-task-orchestrator",
+      "name": "task-orchestrator",
+      "description": "Orchestration des tâches - Queue, state machine, distribution et suivi d'exécution",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/task-orchestrator"
+    },
+    {
+      "id": "truchot-claude-skills-test-finance-analytics",
+      "name": "finance-analytics",
+      "description": "Expert Finance & Analytics - Facturation, KPIs, reporting business, prévisions et rentabilité",
+      "category": "business-marketing",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/finance-analytics"
+    },
+    {
+      "id": "truchot-claude-skills-test-client-intake",
+      "name": "client-intake",
+      "description": "Réception, qualification et routage automatisé des demandes clients vers l'agence IA",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/client-intake"
+    },
+    {
+      "id": "truchot-claude-skills-test-backend-developer",
+      "name": "backend-developer",
+      "description": "Expert en développement backend - APIs, bases de données, architecture, sécurité et performance",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/backend-developer"
+    },
+    {
+      "id": "truchot-claude-skills-test-testing-process",
+      "name": "testing-process",
+      "description": "Expert en stratégie et méthodologie de tests - Pyramide, types de tests, qualité, performance, sécurité, accessibilité",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": "https://github.com/truchot/claude-skills-test/tree/main/.claude/skills/testing-process"
+    },
+    {
+      "id": "duncanswilson-humanize-claude-skill-humanize-text",
+      "name": "humanize-text",
+      "description": "Rewrite AI-generated text to reduce AI detection scores using Pangram API for feedback. Use when you want to make writing less detectable as AI, humanize text, or reduce AI detection scores.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:17:23Z",
+      "repoUrl": "https://github.com/Duncanswilson/humanize-claude-skill/tree/main/.claude/skills/humanize-text"
+    },
+    {
+      "id": "andreasasprou-agent-skills-oracle",
+      "name": "oracle",
+      "description": "Ask the oracle (GPT-5.2 with deep reasoning) strategic technical questions. Use for architecture decisions, complex debugging, security analysis, or when you need a second expert opinion. Supports background execution for long-running queries.",
+      "category": "specialized",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-09T13:40:32Z",
+      "repoUrl": "https://github.com/andreasasprou/agent-skills/tree/main/plugins/oracle/skills/oracle"
+    },
+    {
+      "id": "andreasasprou-agent-skills-opensrc",
+      "name": "opensrc",
+      "description": "Fetch npm package source code for implementation analysis. Use when types/docs aren't enough and you need to understand HOW a library works internally.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-09T13:40:32Z",
+      "repoUrl": "https://github.com/andreasasprou/agent-skills/tree/main/plugins/opensrc/skills/opensrc"
+    },
+    {
+      "id": "dmitrypogrebnoy-ruby-agent-skills-generating-rbs",
+      "name": "generating-rbs",
+      "description": "Generates RBS type signatures from Ruby source files. Triggers when creating type definitions, adding types to Ruby code, or generating .rbs files for classes/modules without existing RBS signatures.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T12:46:21Z",
+      "repoUrl": "https://github.com/DmitryPogrebnoy/ruby-agent-skills/tree/main/plugins/ruby-type-signature-skills/skills/generating-rbs"
+    },
+    {
+      "id": "dmitrypogrebnoy-ruby-agent-skills-generating-sorbet",
+      "name": "generating-sorbet",
+      "description": "Generates Sorbet type signatures in separate RBI files from Ruby source files. Triggers when creating type definitions, adding types to Ruby code, or generating .rbi files for classes/modules without existing Sorbet signatures.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T12:46:21Z",
+      "repoUrl": "https://github.com/DmitryPogrebnoy/ruby-agent-skills/tree/main/plugins/ruby-type-signature-skills/skills/generating-sorbet"
+    },
+    {
+      "id": "dmitrypogrebnoy-ruby-agent-skills-generating-rbs-inline",
+      "name": "generating-rbs-inline",
+      "description": "Generates RBS-inline type annotations directly in Ruby source files as comments. Triggers when adding inline type signatures, annotating Ruby methods with rbs-inline syntax, or generating type comments without existing inline annotations.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T12:46:21Z",
+      "repoUrl": "https://github.com/DmitryPogrebnoy/ruby-agent-skills/tree/main/plugins/ruby-type-signature-skills/skills/generating-rbs-inline"
+    },
+    {
+      "id": "dmitrypogrebnoy-ruby-agent-skills-generating-sorbet-inline",
+      "name": "generating-sorbet-inline",
+      "description": "Generates Sorbet inline type signatures using sig blocks directly in Ruby source files. Triggers when adding Sorbet types, annotating Ruby methods with sig syntax, or generating type signatures for Sorbet-typed projects.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T12:46:21Z",
+      "repoUrl": "https://github.com/DmitryPogrebnoy/ruby-agent-skills/tree/main/plugins/ruby-type-signature-skills/skills/generating-sorbet-inline"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-caching",
+      "name": "gemini-api-caching",
+      "description": "Best practices for Gemini API caching strategy including cache versioning, entity-stable keys, and cache busting for WescoBar",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/gemini-api/caching"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-skill-creator",
+      "name": "skill-creator",
+      "description": "Interactive skill creation wizard that guides you through building properly formatted Claude Skills with YAML frontmatter, progressive disclosure, and best practices",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/meta/skill-creator"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-quality-gate",
+      "name": "quality-gate",
+      "description": "Complete quality validation workflow combining TypeScript checking, linting, tests, coverage, and build validation. Works with any TypeScript/JavaScript project. Returns structured pass/fail with detailed results for each check. Used in conductor workflows and quality assurance phases.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/quality/quality-gate"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-project-memory",
+      "name": "project-memory",
+      "description": "Persist and recall project-specific context across sessions. Store architectural decisions, patterns, solutions, and learnings. Automatically recall relevant context when facing similar problems.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/memory/project-memory"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-validate-lint",
+      "name": "validate-lint",
+      "description": "Run ESLint and Prettier validation to check code style, formatting, and linting rules. Works with any TypeScript/JavaScript project using ESLint/Prettier. Returns structured output with error/warning counts, rule violations, and affected files.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/quality/validate-lint"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-validate-build",
+      "name": "validate-build",
+      "description": "Run production build validation (npm run build, vite build, tsc) to ensure code compiles and builds successfully. Returns structured output with build status, duration, size metrics, and error details. Used for quality gates and deployment readiness checks.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/quality/validate-build"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-rate-limiting",
+      "name": "gemini-api-rate-limiting",
+      "description": "Best practices for handling Gemini API rate limits, implementing sequential queues, and preventing 429 RESOURCE_EXHAUSTED errors in WescoBar",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/gemini-api/rate-limiting"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-update",
+      "name": "dev-memory-update",
+      "description": "Update development memory (events.jsonl) based on commit metadata and diff analysis. Automatically tracks features, fixes, refactorings, and decisions.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/memory/dev-memory/update"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-briefing",
+      "name": "dev-memory-briefing",
+      "description": "Generate a session briefing from development memory (events.jsonl, sessions.jsonl). Shows recent timeline, open questions, and suggested focus areas.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/memory/dev-memory/briefing"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-validate-typescript",
+      "name": "validate-typescript",
+      "description": "Run TypeScript compiler type-checking (tsc --noEmit) to validate type safety and catch type errors. Works with any TypeScript project. Returns structured output with error counts, categories (type/syntax/import errors), and affected files. Used for quality gates and pre-commit validation.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/quality/validate-typescript"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-audit-dependencies",
+      "name": "audit-dependencies",
+      "description": "Run npm audit and check for outdated/vulnerable dependencies. Returns structured output with vulnerability counts by severity, outdated packages, and recommended updates. Used for security validation and dependency health checks.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/api-skills-source/audit-dependencies"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-handoff-pack",
+      "name": "handoff-pack",
+      "description": "Generates structured Handoff Pack prompts for delegating work to Gemini with clear scope, acceptance criteria, and output format requirements.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/gemini-workflows/handoff-pack"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-validate-git-hygiene",
+      "name": "validate-git-hygiene",
+      "description": "Validate git commit messages, branch naming conventions, and repository hygiene. Returns structured output with validation results for commit format (conventional commits), branch naming, and best practices. Used for quality gates and git workflow validation.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/api-skills-source/validate-git-hygiene"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-create-pull-request",
+      "name": "create-pull-request",
+      "description": "Create GitHub pull requests with proper issue linking, comprehensive descriptions, and quality metrics for WescoBar project",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/git-workflows/create-pull-request"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-validate-coverage-threshold",
+      "name": "validate-coverage-threshold",
+      "description": "Validate test coverage meets minimum thresholds for overall, statement, branch, and function coverage",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/quality/validate-coverage-threshold"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-create-feature-branch",
+      "name": "create-feature-branch",
+      "description": "Create properly named feature branch from development with remote tracking, following WescoBar naming conventions and git best practices",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/git-workflows/create-feature-branch"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-check-existing-pr",
+      "name": "check-existing-pr",
+      "description": "Check if pull request already exists for current branch to support workflow resumption and prevent duplicate PR creation",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/github-integration/check-existing-pr"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-save-workflow-state",
+      "name": "save-workflow-state",
+      "description": "Save conductor workflow state to JSON file for smart resumption, tracking current phase, completed phases, issue context, and branch information",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/state-management/save-workflow-state"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-commit-with-validation",
+      "name": "commit-with-validation",
+      "description": "Create single atomic commit with proper message format, issue linking, and pre-commit hook validation for WescoBar workflows",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/git-workflows/commit-with-validation"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-load-resumption-state",
+      "name": "load-resumption-state",
+      "description": "Load conductor workflow state from previous session and determine resumption point by analyzing git state and saved JSON state file",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/state-management/load-resumption-state"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-fetch-issue-analysis",
+      "name": "fetch-github-issue-analysis",
+      "description": "Fetch GitHub issue details with AI analysis comment from github-actions bot, extracting structured data for architecture planning in WescoBar workflows",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/github-integration/fetch-issue-analysis"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-semantic-theming",
+      "name": "semantic-theming",
+      "description": "Enforce semantic CSS variable theming in Tailwind projects. Prevents raw colors (hex, rgb) and non-theme Tailwind classes. Use when project has semantic tokens, CSS vars, or custom ESLint theming rules.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/styling/semantic-theming"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-record-quality-baseline",
+      "name": "record-quality-baseline",
+      "description": "Record quality metrics baseline before refactoring or major changes, capturing audit scores, test coverage, and complexity for comparison",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/quality/record-quality-baseline"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-parse-ai-analysis",
+      "name": "parse-ai-analysis",
+      "description": "Parse GitHub AI analysis comment sections for architectural alignment, technical feasibility, implementation suggestions, and testing strategy",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/github-integration/parse-ai-analysis"
+    },
+    {
+      "id": "berrykuipers-claude-code-toolkit-run-comprehensive-tests",
+      "name": "run-comprehensive-tests",
+      "description": "Execute comprehensive test suite with validation, coverage reporting, and failure analysis. Works with any TypeScript/JavaScript testing framework (Jest, Vitest, Mocha, etc.). Returns structured output with pass/fail status, coverage metrics, and detailed error analysis.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-09T12:32:58Z",
+      "repoUrl": "https://github.com/BerryKuipers/claude-code-toolkit/tree/main/.claude/skills/testing/run-comprehensive-tests"
+    },
+    {
+      "id": "dionridley-claude-plugins-react-19",
+      "name": "react-19",
+      "description": "React 19.x development patterns and APIs. Use when building React applications with React 19+ features including Actions (useTransition with async), useActionState, useFormStatus, useOptimistic, use() API, Form Actions, ref as prop (no forwardRef), Context as provider, document metadata/stylesheets/scripts, Server Components, Server Actions, prerender(), the Activity component, useEffectEvent, cacheSignal(), and Partial Pre-rendering. Triggers on React 19 questions, form handling, server components, or when using new React 19 APIs.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-08T18:30:45Z",
+      "repoUrl": "https://github.com/dionridley/claude-plugins/tree/main/engineering-tools/skills/react-19"
+    },
+    {
+      "id": "dionridley-claude-plugins-frontend-design",
+      "name": "frontend-design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-08T18:30:45Z",
+      "repoUrl": "https://github.com/dionridley/claude-plugins/tree/main/engineering-tools/skills/frontend-design"
+    },
+    {
+      "id": "hhopkins95-project-tracker-workspace-system",
+      "name": "Project Tracker Workspace System",
+      "description": "Use this skill when working with project tracking - creating initiatives, todos, ideas, logging sessions, or recording decisions. Activates when user mentions projects, tasks, initiatives, or planning.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-08T17:46:13Z",
+      "repoUrl": "https://github.com/hhopkins95/project-tracker/tree/main/plugins/project-tracker/skills/workspace-system"
+    },
+    {
+      "id": "jakedahn-pomodoro-src",
+      "name": "pomodoro",
+      "description": "Simple Pomodoro timer for focused work sessions with session tracking and productivity analytics. Use when users request focus timers, ask about productivity patterns, or want to track work sessions over time. Demonstrates the System Skill Pattern (CLI + SKILL.md + Database).",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 19,
+      "updatedAt": "2026-01-09T15:29:32Z",
+      "repoUrl": "https://github.com/jakedahn/pomodoro/tree/main/src"
+    },
+    {
+      "id": "mshafei721-turbocat-backend-api",
+      "name": "Backend API",
+      "description": "Design and implement RESTful API endpoints following best practices for URL structure, HTTP methods, status codes, versioning, and rate limiting. Use this skill when creating or modifying API routes, controllers, endpoint handlers, or route files. When working on files like routes.ts, api/*.ts, controllers/*.ts, endpoints/*.py, views.py, or any server-side request handlers. When designing resource URLs, implementing CRUD operations, adding query parameters for filtering/sorting/pagination, or setting up API versioning. When reviewing or refactoring existing API code for REST compliance.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/backend-api"
+    },
+    {
+      "id": "mshafei721-turbocat-skills",
+      "name": "ui-component",
+      "description": "Generate design-compliant React components using shadcn/ui primitives and design tokens",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/turbocat-agent/skills/ui-component.skill.md"
+    },
+    {
+      "id": "mshafei721-turbocat-backend-migrations",
+      "name": "Backend Migrations",
+      "description": "Create and manage database migrations with reversible changes, proper naming conventions, and zero-downtime deployment considerations. Use this skill when creating new database migrations, modifying schema changes, adding or removing tables/columns, creating indexes, or managing data migrations. When working on files in migrations/, db/migrate/, alembic/, or prisma/migrations/ directories. When writing up/down migration methods, planning schema changes for production deployments, or reviewing migration files for safety and rollback capability.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/backend-migrations"
+    },
+    {
+      "id": "mshafei721-turbocat-cloudinary",
+      "name": "cloudinary",
+      "description": "Cloudinary media management with image upload, transformation, and optimization",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/turbocat-agent/templates/cloudinary/cloudinary.skill.md"
+    },
+    {
+      "id": "mshafei721-turbocat-global-tech-stack",
+      "name": "Global Tech Stack",
+      "description": "Reference the project's defined technology stack including frameworks, languages, databases, testing tools, and deployment infrastructure. Use this skill when making technology decisions or choosing libraries. When working with project configuration files like package.json, requirements.txt, or Gemfile. When setting up new features that need to align with existing technology choices. When onboarding to understand the project's technical foundation. When choosing tools for testing, linting, CI/CD, or third-party services.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/global-tech-stack"
+    },
+    {
+      "id": "mshafei721-turbocat-stripe",
+      "name": "stripe",
+      "description": "Complete Stripe payment integration with checkout, pricing, and subscription management",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/turbocat-agent/templates/stripe/stripe.skill.md"
+    },
+    {
+      "id": "mshafei721-turbocat-sendgrid",
+      "name": "sendgrid",
+      "description": "SendGrid email integration with templates and transactional email support",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/turbocat-agent/templates/sendgrid/sendgrid.skill.md"
+    },
+    {
+      "id": "mshafei721-turbocat-frontend-accessibility",
+      "name": "Frontend Accessibility",
+      "description": "Build accessible user interfaces with semantic HTML, keyboard navigation, ARIA attributes, and screen reader support. Use this skill when creating or modifying UI components, form elements, interactive widgets, or page layouts. When working on files like *.tsx, *.jsx, *.vue, *.svelte, or HTML templates. When adding alt text to images, labels to form inputs, implementing keyboard navigation, managing focus states, ensuring proper color contrast, using semantic HTML elements (nav, main, button), or adding ARIA attributes for complex components.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/frontend-accessibility"
+    },
+    {
+      "id": "mshafei721-turbocat-global-validation",
+      "name": "Global Validation",
+      "description": "Implement comprehensive input validation with server-side security, client-side UX feedback, sanitization, and consistent error messages. Use this skill when validating user input in forms, API endpoints, or data processing. When writing validation rules for data types, formats, ranges, or required fields. When sanitizing input to prevent injection attacks (SQL, XSS, command injection). When providing field-specific error messages to users. When implementing validation at system boundaries like API endpoints or background jobs.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/global-validation"
+    },
+    {
+      "id": "mshafei721-turbocat-global-coding-style",
+      "name": "Global Coding Style",
+      "description": "Write clean, readable code with consistent naming conventions, proper formatting, small focused functions, and DRY principles. Use this skill when writing ANY code in the project regardless of language or framework. When naming variables, functions, classes, or files. When structuring functions and deciding on their size and scope. When removing dead code, unused imports, or commented-out blocks. When applying the DRY principle to extract common logic. When ensuring consistent indentation and formatting across the codebase.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/global-coding-style"
+    },
+    {
+      "id": "mshafei721-turbocat-global-commenting",
+      "name": "Global Commenting",
+      "description": "Write self-documenting code with minimal, evergreen comments that explain complex logic without documenting changes or temporary fixes. Use this skill when adding comments to any code file. When deciding whether code needs a comment or should be made more self-explanatory. When writing comments for complex algorithms or business logic. When tempted to add comments about recent changes, fixes, or TODOs. When reviewing existing comments for relevance and accuracy.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/global-commenting"
+    },
+    {
+      "id": "mshafei721-turbocat-global-error-handling",
+      "name": "Global Error Handling",
+      "description": "Implement robust error handling with user-friendly messages, specific exception types, centralized handling, and graceful degradation. Use this skill when adding try-catch blocks, error boundaries, or exception handling. When creating custom error types or exception classes. When deciding where to handle errors (controller vs. service layer). When writing user-facing error messages. When implementing retry logic with exponential backoff. When ensuring resources are cleaned up in finally blocks or equivalent patterns.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/global-error-handling"
+    },
+    {
+      "id": "mshafei721-turbocat-frontend-responsive",
+      "name": "Frontend Responsive",
+      "description": "Build mobile-first, responsive layouts with fluid grids, standard breakpoints, relative units, and touch-friendly design. Use this skill when creating or modifying layouts that need to work across different screen sizes. When working on responsive styles, breakpoint definitions, media queries, or mobile/tablet/desktop layouts. When using percentage-based widths, rem/em units, or viewport units. When ensuring touch targets are appropriately sized, typography is readable at all sizes, or content is prioritized for mobile screens.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/frontend-responsive"
+    },
+    {
+      "id": "mshafei721-turbocat-backend-queries",
+      "name": "Backend Queries",
+      "description": "Write secure, performant database queries using parameterized queries, proper eager loading, and transaction management. Use this skill when writing database queries, ORM operations, raw SQL statements, or repository methods. When working on files in repositories/, queries/, services/, or any code that interacts with the database. When optimizing query performance, preventing N+1 queries, implementing transactions, adding query timeouts, or caching expensive queries. When reviewing code for SQL injection vulnerabilities.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/backend-queries"
+    },
+    {
+      "id": "mshafei721-turbocat-backend-models",
+      "name": "Backend Models",
+      "description": "Define database models and schemas with proper naming, data types, constraints, relationships, and indexing strategies. Use this skill when creating or modifying database models, entity definitions, or schema files. When working on files like models.py, models/*.ts, entities/*.ts, schema.prisma, or ORM model definitions. When defining table structures, setting up foreign key relationships, adding database constraints (NOT NULL, UNIQUE), choosing appropriate data types, or implementing model-level validation.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/backend-models"
+    },
+    {
+      "id": "mshafei721-turbocat-global-conventions",
+      "name": "Global Conventions",
+      "description": "Follow project-wide development conventions for file structure, documentation, version control, environment configuration, and code review processes. Use this skill when organizing project files and directories. When working with Git commits, branches, or pull requests. When managing environment variables or configuration files. When updating README or documentation files. When working with dependencies or package management. When considering feature flags or changelog entries.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/global-conventions"
+    },
+    {
+      "id": "mshafei721-turbocat-frontend-components",
+      "name": "Frontend Components",
+      "description": "Design and build reusable, composable UI components with clear interfaces, proper state management, and single responsibility. Use this skill when creating or modifying React components, Vue components, Svelte components, or any UI component library files. When working on files in components/, ui/, widgets/, or src/components/ directories. When designing component props and APIs, managing component state, composing smaller components into larger ones, refactoring monolithic components, or documenting component usage.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/frontend-components"
+    },
+    {
+      "id": "mshafei721-turbocat-frontend-css",
+      "name": "Frontend CSS",
+      "description": "Write consistent, maintainable CSS using the project's methodology (Tailwind, BEM, CSS Modules) with proper design tokens and performance optimization. Use this skill when writing or modifying styles, CSS classes, Tailwind utilities, or styling-related code. When working on files like *.css, *.scss, *.module.css, tailwind.config.js, or components with inline/utility styles. When applying design system tokens (colors, spacing, typography), avoiding framework style overrides, or optimizing CSS for production with purging/tree-shaking.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/frontend-css"
+    },
+    {
+      "id": "mshafei721-turbocat-testing-test-writing",
+      "name": "Testing Test Writing",
+      "description": "Write focused, strategic tests for core user flows with behavior-based testing, clear naming, and proper mocking of external dependencies. Use this skill when writing unit tests, integration tests, or end-to-end tests. When working on files in tests/, __tests__/, spec/, or *.test.ts, *.spec.ts files. When deciding what to test during feature development. When naming test cases descriptively. When mocking databases, APIs, or external services. When focusing on testing behavior rather than implementation details.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T10:11:47Z",
+      "repoUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/testing-test-writing"
+    },
+    {
+      "id": "kraitsura-grimoire-examples",
+      "name": "example-skill",
+      "description": "Use when working with examples, tutorials, or skill documentation. Invoke when the user asks about skill configuration, manifest structure, or creating new skills.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 3,
+      "updatedAt": "2026-01-05T06:25:10Z",
+      "repoUrl": "https://github.com/kraitsura/grimoire/tree/main/examples"
+    },
+    {
+      "id": "dyai2025-skill-chromeext-skill",
+      "name": "professional-senior-chrome-extension-architect-developer",
+      "description": "Verwandelt den Agenten in einen professionellen MV3-Architekten und Entwickler mit Fokus auf AI-Integration, Sicherheit, Performance, Testing und Publishing-Compliance.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-05T00:01:35Z",
+      "repoUrl": "https://github.com/DYAI2025/Skill-chromeEXT/tree/main/SKILL.md"
+    },
+    {
+      "id": "dyai2025-skill-chromeext-blueprint_chrome-extension-skill",
+      "name": "blueprint_Chrome-extension-skill",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-05T00:01:35Z",
+      "repoUrl": "https://github.com/DYAI2025/Skill-chromeEXT/tree/main/blueprint_Chrome-extension-skill.md"
     }
   ]
 }
