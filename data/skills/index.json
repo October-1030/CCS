@@ -29614,20 +29614,6 @@
       "repoUrl": "https://github.com/Git-Fg/thecattoolkit/tree/main/plugins/meta/skills/manage-hooks"
     },
     {
-      "id": "git-fg-thecattoolkit-templates",
-      "name": {
-        "SKILL_NAME": null
-      },
-      "description": {
-        "SKILL_DESCRIPTION": null
-      },
-      "category": "tools-productivity",
-      "tags": [],
-      "stars": 0,
-      "updatedAt": "2026-01-09T18:37:00Z",
-      "repoUrl": "https://github.com/Git-Fg/thecattoolkit/tree/main/plugins/meta/skills/manage-skills/assets/templates/standard-skill.md"
-    },
-    {
       "id": "git-fg-thecattoolkit-manage-styles",
       "name": "manage-styles",
       "description": "MUST CONSULT when creating or auditing toolkit styles to ensure compliance with communication protocols, truth-first alignment, and solo-developer focus.",
