@@ -127,3 +127,4 @@ MIT
 
 - Inspired by [skillsmp.com](https://skillsmp.com)
 - Built with [anthropics/skills](https://github.com/anthropics/skills)
+
