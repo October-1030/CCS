@@ -32,14 +32,15 @@ jobs:
       - name: Build project
         run: npm run build
 
+      - name: Install Vercel CLI
+        run: npm install -g vercel@latest
+
+      - name: Pull Vercel Environment Information
+        run: vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
+
+      - name: Build Project Artifacts
+        run: vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
+
       - name: Deploy to Vercel (Production)
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-        run: |
-          echo "Deploying to Vercel Production..."
-          echo "Configure Vercel CLI or use Vercel GitHub integration"
-
-      - name: Deploy to Vercel (Preview)
-        if: github.event_name == 'pull_request'
-        run: |
-          echo "Deploying to Vercel Preview..."
-          echo "Configure Vercel CLI or use Vercel GitHub integration"
+        run: vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
