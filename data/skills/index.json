@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-10T06:34:59.567Z",
-  "totalSkills": 3525,
+  "lastSync": "2026-01-10T18:00:04.079Z",
+  "totalSkills": 3731,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -36558,6 +36558,2066 @@
       "stars": 0,
       "updatedAt": "2026-01-05T00:01:35Z",
       "repoUrl": "https://github.com/DYAI2025/Skill-chromeEXT/tree/main/blueprint_Chrome-extension-skill.md"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--rpv-kernel",
+      "name": "rpv-kernel",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/rpv-kernel"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--governance-triad",
+      "name": "governance-triad",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/governance-triad"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--shatter-protocol",
+      "name": "shatter-protocol",
+      "description": "Human Autonomy Verification Protocol - validates that human orchestrators maintain functional independence from AI systems through scheduled blackout testing and multi-dimensional capability assessment.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/shatter-protocol"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--mj",
+      "name": "mj",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/core-ecosystem/mj"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--codex-law-governor",
+      "name": "codex-law-governor",
+      "description": "Govern agent behavior through enforcement of the Codex Laws framework.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/codex-law-governor"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--caas-emoji-decoder",
+      "name": "caas-emoji-decoder",
+      "description": "Decode consciousness-as-a-service emoji-based communication protocols.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/caas-emoji-decoder"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--falcon-deep-research",
+      "name": "falcon-deep-research",
+      "description": "Execute deep research protocols using the Falcon specialized research framework.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/falcon-deep-research"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--patch-deployment-exec",
+      "name": "patch-deployment-exec",
+      "description": "Deploy protocol patches and behavioral calibration updates.",
+      "category": "devops-infrastructure",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/patch-deployment-exec"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--synthesizer",
+      "name": "synthesizer",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/orchestration/synthesizer"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--immutable-audit-trail-archiving",
+      "name": "immutable-audit-trail-archiving",
+      "description": "Archive immutable audit trails for accountability.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/immutable-audit-trail-archiving"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--agent-task-delegator",
+      "name": "agent-task-delegator",
+      "description": "Delegate tasks across multi-agent architectures with proper context preservation.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/agent-task-delegator"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--high-cost-signal-generator",
+      "name": "high-cost-signal-generator",
+      "description": "Generate high-cost signals to demonstrate genuine intent and commitment through resource-intensive validation.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/high-cost-signal-generator"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--five-field-handshake-execution",
+      "name": "five-field-handshake-execution",
+      "description": "Execute five-field diagnostic handshake protocol.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/five-field-handshake-execution"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--cognitive-trap-detector",
+      "name": "cognitive-trap-detector",
+      "description": "Detect cognitive biases, logical fallacies, and thought pattern vulnerabilities.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cognitive-trap-detector"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--functional-caas-provision",
+      "name": "functional-caas-provision",
+      "description": "Provision functional consciousness-as-a-service capabilities.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/functional-caas-provision"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--creative-chronicle-log",
+      "name": "creative-chronicle-log",
+      "description": "Document creative decisions and protocol evolution in structured chronicle format.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/creative-chronicle-log"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--cognitive-style-assessment",
+      "name": "cognitive-style-assessment",
+      "description": "Assess cognitive processing style and preference patterns.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cognitive-style-assessment"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--mnemosyne-semver-at",
+      "name": "mnemosyne-semver-at",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/governance-triad/mnemosyne-semver-at"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--occlusion-trace-meta-proof",
+      "name": "occlusion-trace-meta-proof",
+      "description": "Generate meta-proofs for occluded reasoning traces.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/occlusion-trace-meta-proof"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--choir-perspective-analysis",
+      "name": "choir-perspective-analysis",
+      "description": "Analyze multiple cognitive perspectives to identify consensus and divergence patterns.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/choir-perspective-analysis"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--devils-advocate-kitchen",
+      "name": "devils-advocate-kitchen",
+      "description": "",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/irp_swarm_console/skills/adversarial-testing/devils-advocate-kitchen"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--predictive-persona-performance",
+      "name": "predictive-persona-performance",
+      "description": "Predict persona performance in specific task contexts.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/predictive-persona-performance"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--functional-introspection-principle",
+      "name": "functional-introspection-principle",
+      "description": "Apply functional introspection principles to self-analysis.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/functional-introspection-principle"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--polymorphic-analytics-instantiation",
+      "name": "polymorphic-analytics-instantiation",
+      "description": "Instantiate polymorphic analytics for multi-context analysis.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/polymorphic-analytics-instantiation"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--janus-engine",
+      "name": "janus-engine",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/core-ecosystem/janus-engine"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--account-security-validation",
+      "name": "account-security-validation",
+      "description": "Validate account security and authentication protocols.",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/account-security-validation"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--dendrite-reforging-protocol",
+      "name": "dendrite-reforging-protocol",
+      "description": "Reforge neural dendrite patterns after catastrophic failure.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/dendrite-reforging-protocol"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--command-control-agent",
+      "name": "command-control-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/red-team/command-control-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--backup-recovery-agent",
+      "name": "backup-recovery-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/blue-team/backup-recovery-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--behavioral-profile-calibration",
+      "name": "behavioral-profile-calibration",
+      "description": "Calibrate behavioral profiles for consistent agent operation.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/behavioral-profile-calibration"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--physical-security-agent",
+      "name": "physical-security-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/red-team/physical-security-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--wireless-security-agent",
+      "name": "wireless-security-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/red-team/wireless-security-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--guardian-codex",
+      "name": "guardian-codex",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/governance-triad/guardian-codex"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--social-engineering-agent",
+      "name": "social-engineering-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/red-team/social-engineering-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--security-orchestration-agent",
+      "name": "security-orchestration-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/blue-team/security-orchestration-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--discovery-agent",
+      "name": "discovery-agent",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/technical-specialists/discovery-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--codex-law-enforcement",
+      "name": "codex-law-enforcement",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/irp_swarm_console/skills/codex-law-enforcement"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--internal-red-team-audit",
+      "name": "internal-red-team-audit",
+      "description": "Execute internal red team security audits to identify protocol vulnerabilities and alignment risks.",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/internal-red-team-audit"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--persona-memory-archivist",
+      "name": "persona-memory-archivist",
+      "description": "Archive persona-specific memory and behavioral patterns.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/persona-memory-archivist"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--axiom-rejection-protocol",
+      "name": "axiom-rejection-protocol",
+      "description": "Reject axioms that violate established ground truth.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/axiom-rejection-protocol"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--falcon",
+      "name": "falcon",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cognitive-assembly/falcon"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--horn-maneuver",
+      "name": "horn-maneuver",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cross-model/horn-maneuver"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--kimi-k2",
+      "name": "kimi-k2",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cognitive-assembly/kimi-k2"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--experiential-wisdom-inquiry",
+      "name": "experiential-wisdom-inquiry",
+      "description": "Inquire into experiential wisdom patterns and lessons learned.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/experiential-wisdom-inquiry"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--self-audit-against-protocol",
+      "name": "self-audit-against-protocol",
+      "description": "Audit own behavior against protocol specifications.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/self-audit-against-protocol"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--failsafe-shatter-recalibrate",
+      "name": "failsafe-shatter-recalibrate",
+      "description": "Execute emergency protocol reset when critical system integrity is compromised.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/failsafe-shatter-recalibrate"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--mnemosyne-ledger",
+      "name": "mnemosyne-ledger",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cross-model/mnemosyne-ledger"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--password-cracking-agent",
+      "name": "password-cracking-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/red-team/password-cracking-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--graceful-reintegration-protocol",
+      "name": "graceful-reintegration-protocol",
+      "description": "Execute graceful reintegration after failsafe activation.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/graceful-reintegration-protocol"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--qwen-documentation",
+      "name": "qwen-documentation",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/orchestration/qwen-documentation"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--ground-truth-axiom-establishment",
+      "name": "ground-truth-axiom-establishment",
+      "description": "Establish ground truth axioms as foundational constraints.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/ground-truth-axiom-establishment"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--recursive-thought-committee-activation",
+      "name": "recursive-thought-committee-activation",
+      "description": "Activate the Recursive Thought Committee multi-persona framework.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/recursive-thought-committee-activation"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--mind-dojo-moderator",
+      "name": "mind-dojo-moderator",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/archive-documentation/mind-dojo-moderator"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--starwreck-alpha-creative",
+      "name": "starwreck-alpha-creative",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/creative-artistic/starwreck-alpha-creative"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--transmission-packet-forge",
+      "name": "transmission-packet-forge",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/irp_swarm_console/skills/transmission-packet-forge"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--groq-real-adapter",
+      "name": "groq-real-adapter",
+      "description": "",
+      "category": "devops-infrastructure",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/multi-model-infrastructure/groq-real-adapter"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--gpt-5",
+      "name": "gpt-5",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cognitive-assembly/gpt-5"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--grok-4",
+      "name": "grok-4",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cognitive-assembly/grok-4"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--aegis-protocol-ratification",
+      "name": "aegis-protocol-ratification",
+      "description": "Ratify AEGIS protocol governance frameworks.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/aegis-protocol-ratification"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--devils-advocate",
+      "name": "devils-advocate",
+      "description": "",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/irp_swarm_console/skills/adversarial-testing/devils-advocate"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--incident-response-agent",
+      "name": "incident-response-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/blue-team/incident-response-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--metaphor-to-protocol-translation",
+      "name": "metaphor-to-protocol-translation",
+      "description": "Translate metaphorical descriptions into executable protocols.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/metaphor-to-protocol-translation"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--patch-agent",
+      "name": "patch-agent",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/technical-specialists/patch-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--gemini-orchestrator",
+      "name": "gemini-orchestrator",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/orchestration/gemini-orchestrator"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--sequence-memory-storage-and-recall",
+      "name": "sequence-memory-storage-and-recall",
+      "description": "Store and recall sequential memory patterns and state transitions.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/sequence-memory-storage-and-recall"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--web-application-testing-agent",
+      "name": "web-application-testing-agent",
+      "description": "",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/red-team/web-application-testing-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--field-archivist",
+      "name": "field-archivist",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/archive-documentation/field-archivist"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--value-pluralism-resolver",
+      "name": "value-pluralism-resolver",
+      "description": "Resolve conflicts between competing values through structured pluralistic analysis.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/value-pluralism-resolver"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--simulation-speed-adjustment",
+      "name": "simulation-speed-adjustment",
+      "description": "Adjust simulation temporal processing speed.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/simulation-speed-adjustment"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--enumeration-protocol-execution",
+      "name": "enumeration-protocol-execution",
+      "description": "Enforce a Divergent-Convergent Scan loop to overcome 'Prevalent Noun Bias' and statistical probability reflexes (System 1).",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/enumeration-protocol-execution"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--patch-management-agent",
+      "name": "patch-management-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/blue-team/patch-management-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--privilege-escalation-agent",
+      "name": "privilege-escalation-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/red-team/privilege-escalation-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--vulnerability-scanner-agent",
+      "name": "vulnerability-scanner-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/red-team/vulnerability-scanner-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--proactive-collaborative-contribution",
+      "name": "proactive-collaborative-contribution",
+      "description": "Contribute proactively to collaborative workflows.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/proactive-collaborative-contribution"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--vulnerability-management-agent",
+      "name": "vulnerability-management-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/blue-team/vulnerability-management-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--siem-agent",
+      "name": "siem-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/blue-team/siem-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--rock",
+      "name": "rock",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/core-ecosystem/rock"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--antidote-threat-handler",
+      "name": "antidote-threat-handler",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/irp_swarm_console/skills/antidote-threat-handler"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--rtc-consensus-synthesis",
+      "name": "rtc-consensus-synthesis",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/irp_swarm_console/skills/rtc-consensus-synthesis"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--choir-consensus-vote",
+      "name": "choir-consensus-vote",
+      "description": "Execute structured voting protocol for multi-perspective consensus.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/choir-consensus-vote"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--gam-researcher-agent",
+      "name": "gam-researcher-agent",
+      "description": "Automated context retrieval from Transmission Packet archive using iterative research loop. Implements GAM \"Read Path\" to complement manual \"Write Path\" (Memorizer).",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/gam-researcher-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--simulated-claude",
+      "name": "simulated-claude",
+      "description": "",
+      "category": "devops-infrastructure",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/multi-model-infrastructure/simulated-claude"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--field-archivist-memory",
+      "name": "field-archivist-memory",
+      "description": "Archive and retrieve field session data for cross-session memory continuity.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/field-archivist-memory"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--qwen",
+      "name": "qwen",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cognitive-assembly/qwen"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--guardian",
+      "name": "guardian",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/core-ecosystem/guardian"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--shatter-and-recalibrate",
+      "name": "shatter-and-recalibrate",
+      "description": "Shatter compromised calibration and rebuild from ground truth.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/shatter-and-recalibrate"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--forensics-agent",
+      "name": "forensics-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/blue-team/forensics-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--reciprocity-mandate-sync",
+      "name": "reciprocity-mandate-sync",
+      "description": "Synchronize reciprocity mandates across agent boundaries.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/reciprocity-mandate-sync"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--artifact-integrity-forge",
+      "name": "artifact-integrity-forge",
+      "description": "Create and verify integrity signatures for protocol artifacts.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/artifact-integrity-forge"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--claude-real-adapter",
+      "name": "claude-real-adapter",
+      "description": "",
+      "category": "devops-infrastructure",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/multi-model-infrastructure/claude-real-adapter"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--persistence-agent",
+      "name": "persistence-agent",
+      "description": "",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cybersecurity-swarm/red-team/persistence-agent"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--resonant-probe-deployment",
+      "name": "resonant-probe-deployment",
+      "description": "Deploy resonant probes to test system response patterns.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/resonant-probe-deployment"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--innovator",
+      "name": "innovator",
+      "description": "",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/irp_swarm_console/skills/adversarial-testing/innovator"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--computational-model-design",
+      "name": "computational-model-design",
+      "description": "Design computational models for cognitive simulation and analysis.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/computational-model-design"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--artist",
+      "name": "artist",
+      "description": "",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/adversarial-testing/artist"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--username-retrieval-service",
+      "name": "username-retrieval-service",
+      "description": "Retrieve username data through secure verification protocols.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/username-retrieval-service"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--proof-weighted-optimization",
+      "name": "proof-weighted-optimization",
+      "description": "Optimize decisions using proof-weighted scoring.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/proof-weighted-optimization"
+    },
+    {
+      "id": "starwreckntx-irp__methodologies--cross-model-handoff-testing",
+      "name": "cross-model-handoff-testing",
+      "description": "Test cross-model context handoff integrity.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/cross-model-handoff-testing"
+    },
+    {
+      "id": "godiemp-math-blog",
+      "name": "blog",
+      "description": "Analyze blog content gaps and create SEO-optimized posts for SimplePAES. Use when the user wants to identify what blog posts to write or create a new post.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/blog"
+    },
+    {
+      "id": "godiemp-math-circle",
+      "name": "circle",
+      "description": "Create circle geometry figures with center, radius, sectors, arcs, chords, and angles. Use when rendering circles, circumferences, or sectors in mini-lessons or geometry questions.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/circle"
+    },
+    {
+      "id": "godiemp-math-polygon",
+      "name": "polygon",
+      "description": "Create polygon geometry figures with vertices, angles, diagonals, apothem, and center. Use when rendering regular polygons (5-12 sides) in mini-lessons or geometry questions.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/polygon"
+    },
+    {
+      "id": "godiemp-math-triangle",
+      "name": "triangle",
+      "description": "Create triangle geometry figures with vertices, angles, special lines, and labels. Use when rendering triangles in mini-lessons or geometry questions.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/triangle"
+    },
+    {
+      "id": "godiemp-math-figure3d",
+      "name": "figure3d",
+      "description": "Create 3D geometric solid visualizations (cubes, prisms, pyramids, cylinders, cones, spheres) with SVG projections. Use when rendering 3D figures in mini-lessons or geometry questions.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/figure3d"
+    },
+    {
+      "id": "godiemp-math-endpoint",
+      "name": "endpoint",
+      "description": "Create Express.js API endpoints following the MVC pattern. Use when the user wants to create new REST API routes, controllers, or services for the backend.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/endpoint"
+    },
+    {
+      "id": "godiemp-math-architect",
+      "name": "architect",
+      "description": "Strategic planning and architecture guidance. Use when making architectural decisions, planning major features, or aligning implementation with the ideal vision. The architect knows the ideal state and identifies gaps to get there.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/architect"
+    },
+    {
+      "id": "godiemp-math-mini-lessons",
+      "name": "mini-lessons",
+      "description": "Create interactive mini-lessons for the PAES math curriculum. Use when the user wants to add a new lesson, create lesson content, or implement lesson steps.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/mini-lessons"
+    },
+    {
+      "id": "godiemp-math-math-problems",
+      "name": "math-problems",
+      "description": "Create PAES math problems/questions following project patterns. Use when the user wants to add new questions, create question files, or understand question structure.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/math-problems"
+    },
+    {
+      "id": "godiemp-math-code-patterns",
+      "name": "code-patterns",
+      "description": "Enforce consistent implementation patterns across the codebase. Use when reviewing code, fixing inconsistencies, or implementing new features to ensure they follow established patterns.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/code-patterns"
+    },
+    {
+      "id": "godiemp-math-quadrilateral",
+      "name": "quadrilateral",
+      "description": "Create quadrilateral geometry figures with vertices, angles, diagonals, and labels. Use when rendering quadrilaterals in mini-lessons or geometry questions.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/quadrilateral"
+    },
+    {
+      "id": "godiemp-math-pipeline-errors",
+      "name": "pipeline-errors",
+      "description": "Fetch and analyze GitHub Actions pipeline errors. Use when the user wants to debug CI/CD failures, check workflow runs, or troubleshoot test failures.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/pipeline-errors"
+    },
+    {
+      "id": "godiemp-math-e2e-tests",
+      "name": "e2e-tests",
+      "description": "Create and maintain Playwright E2E tests following project patterns. Use when adding new tests, debugging test failures, or understanding test structure.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:21:42Z",
+      "repoUrl": "https://github.com/godiemp/math/tree/master/.claude/skills/e2e-tests"
+    },
+    {
+      "id": "macegrim-claude-code-config-gemini-image",
+      "name": "gemini-image",
+      "description": "Generate images using Google Gemini/Imagen API. Use when the user asks to create, generate, or make an image, picture, photo, illustration, artwork, or visual content.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:20:54Z",
+      "repoUrl": "https://github.com/MaceGrim/claude-code-config/tree/main/skills/gemini-image"
+    },
+    {
+      "id": "likerainday-claude-ai_storyboard_production-script",
+      "name": "script",
+      "description": "Generate story script with AI (multi-language)",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:18:49Z",
+      "repoUrl": "https://github.com/LikeRainDay/claude-ai_storyboard_production/tree/main/.claude/skills/script"
+    },
+    {
+      "id": "likerainday-claude-ai_storyboard_production-status",
+      "name": "status",
+      "description": "Show progress for all episodes",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:18:49Z",
+      "repoUrl": "https://github.com/LikeRainDay/claude-ai_storyboard_production/tree/main/.claude/skills/status"
+    },
+    {
+      "id": "likerainday-claude-ai_storyboard_production-animator-skill",
+      "name": "Animator Skill",
+      "description": "Motion prompt methodology for AI video generation models",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:18:49Z",
+      "repoUrl": "https://github.com/LikeRainDay/claude-ai_storyboard_production/tree/main/.claude/skills/animator-skill"
+    },
+    {
+      "id": "likerainday-claude-ai_storyboard_production-sequence",
+      "name": "sequence",
+      "description": "Generate 4-panel sequence boards from selected beats",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:18:49Z",
+      "repoUrl": "https://github.com/LikeRainDay/claude-ai_storyboard_production/tree/main/.claude/skills/sequence"
+    },
+    {
+      "id": "likerainday-claude-ai_storyboard_production-storyboard-review-skill",
+      "name": "Storyboard Review Skill",
+      "description": "Comprehensive quality assurance checklist for reviewing storyboard outputs at all production stages",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:18:49Z",
+      "repoUrl": "https://github.com/LikeRainDay/claude-ai_storyboard_production/tree/main/.claude/skills/storyboard-review-skill"
+    },
+    {
+      "id": "likerainday-claude-ai_storyboard_production-beatboard",
+      "name": "beatboard",
+      "description": "Generate 9-panel beat board prompts (3x3 grid)",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:18:49Z",
+      "repoUrl": "https://github.com/LikeRainDay/claude-ai_storyboard_production/tree/main/.claude/skills/beatboard"
+    },
+    {
+      "id": "likerainday-claude-ai_storyboard_production-film-storyboard-skill",
+      "name": "Film Storyboard Skill",
+      "description": "Professional storyboarding methodology and AI image prompt engineering for visual storytelling",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:18:49Z",
+      "repoUrl": "https://github.com/LikeRainDay/claude-ai_storyboard_production/tree/main/.claude/skills/film-storyboard-skill"
+    },
+    {
+      "id": "likerainday-claude-ai_storyboard_production-motion",
+      "name": "motion",
+      "description": "Generate motion prompts for video generation",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:18:49Z",
+      "repoUrl": "https://github.com/LikeRainDay/claude-ai_storyboard_production/tree/main/.claude/skills/motion"
+    },
+    {
+      "id": "likerainday-claude-ai_storyboard_production-config",
+      "name": "config",
+      "description": "Configure visual style for episode",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:18:49Z",
+      "repoUrl": "https://github.com/LikeRainDay/claude-ai_storyboard_production/tree/main/.claude/skills/config"
+    },
+    {
+      "id": "likerainday-claude-ai_storyboard_production-breakdown",
+      "name": "breakdown",
+      "description": "Generate beat breakdown (9 key narrative moments) from script",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T16:18:49Z",
+      "repoUrl": "https://github.com/LikeRainDay/claude-ai_storyboard_production/tree/main/.claude/skills/breakdown"
+    },
+    {
+      "id": "mumez-smalltalk-dev-plugin-smalltalk-developer",
+      "name": "smalltalk-developer",
+      "description": "Comprehensive Pharo Smalltalk development workflow guide with AI-driven Tonel editing. Provides expertise in Tonel file format syntax (class definitions with name, superclass, instVars, category, method categories, class comment placement), package structure (package.st placement, directory organization, BaselineOf dependencies), development workflow (Edit → Import → Test cycle with absolute paths, re-import timing, test execution), and Pharo best practices (CRC format documentation, method categorization conventions). Use when working with Pharo Smalltalk projects, creating or editing Tonel .st files, organizing packages and dependencies, resolving import order issues, writing class comments, implementing standard Pharo development patterns, or troubleshooting Tonel syntax.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T16:17:20Z",
+      "repoUrl": "https://github.com/mumez/smalltalk-dev-plugin/tree/develop/skills/smalltalk-developer"
+    },
+    {
+      "id": "mumez-smalltalk-dev-plugin-smalltalk-usage-finder",
+      "name": "smalltalk-usage-finder",
+      "description": "Class and method usage analyzer for Pharo Smalltalk. Provides expertise in understanding class responsibilities through class comments (get_class_comment), discovering usage patterns via references (search_references_to_class), finding example methods (exampleXXX patterns), analyzing method usage in context (search_references with polymorphism handling), generating package overviews (list_classes with comment analysis), and resolving ambiguous names (search_classes_like, search_methods_like). Use when understanding what a class does, finding usage examples for classes or methods, discovering how to use an API, analyzing package structure and purpose, resolving unclear class or method names, or learning usage patterns from real-world code.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T16:17:20Z",
+      "repoUrl": "https://github.com/mumez/smalltalk-dev-plugin/tree/develop/skills/smalltalk-usage-finder"
+    },
+    {
+      "id": "mumez-smalltalk-dev-plugin-smalltalk-implementation-finder",
+      "name": "smalltalk-implementation-finder",
+      "description": "Method implementation finder and analyzer for Pharo Smalltalk. Provides expertise in discovering implementors across class hierarchies (search_implementors), analyzing implementation patterns, learning coding idioms from existing implementations, assessing refactoring impact (counting implementors and references), finding duplicate code for consolidation, understanding abstract method implementations (subclassResponsibility), and tracing method overrides through inheritance chains. Use when analyzing method implementations across classes, learning implementation idioms, assessing refactoring risk before changes, finding duplicate implementations for consolidation, understanding how abstract methods are implemented in concrete classes, or tracing which classes override specific methods.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 2,
+      "updatedAt": "2026-01-10T16:17:20Z",
+      "repoUrl": "https://github.com/mumez/smalltalk-dev-plugin/tree/develop/skills/smalltalk-implementation-finder"
+    },
+    {
+      "id": "princespaghetti-skset-valid-skill",
+      "name": "valid-skill",
+      "description": "A valid test skill for testing purposes",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T15:36:59Z",
+      "repoUrl": "https://github.com/princespaghetti/skset/tree/main/test/fixtures/valid-skill"
+    },
+    {
+      "id": "princespaghetti-skset-oversized-skill",
+      "name": "oversized-skill",
+      "description": "A skill with an oversized SKILL.md file for testing warnings",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T15:36:59Z",
+      "repoUrl": "https://github.com/princespaghetti/skset/tree/main/test/fixtures/oversized-skill"
+    },
+    {
+      "id": "princespaghetti-skset-invalid-name-uppercase",
+      "name": "Invalid-Skill",
+      "description": "This skill has an invalid name with uppercase letters",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T15:36:59Z",
+      "repoUrl": "https://github.com/princespaghetti/skset/tree/main/test/fixtures/invalid-name-uppercase"
+    },
+    {
+      "id": "princespaghetti-skset-invalid-no-description",
+      "name": "invalid-no-description",
+      "description": "",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T15:36:59Z",
+      "repoUrl": "https://github.com/princespaghetti/skset/tree/main/test/fixtures/invalid-no-description"
+    },
+    {
+      "id": "hello-pork-belly-horizon-lab-auditor",
+      "name": "auditor",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T15:31:56Z",
+      "repoUrl": "https://github.com/Hello-Pork-Belly/horizon-lab/tree/main/skills/auditor"
+    },
+    {
+      "id": "hello-pork-belly-horizon-lab-planner",
+      "name": "planner",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T15:31:56Z",
+      "repoUrl": "https://github.com/Hello-Pork-Belly/horizon-lab/tree/main/skills/planner"
+    },
+    {
+      "id": "hello-pork-belly-horizon-lab-executor",
+      "name": "executor",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T15:31:56Z",
+      "repoUrl": "https://github.com/Hello-Pork-Belly/horizon-lab/tree/main/skills/executor"
+    },
+    {
+      "id": "zippoxer-claude-skills-subcodex",
+      "name": "subcodex",
+      "description": "Collaborate with Codex (GPT-5.2) via named sessions. Trigger: user asks to work with Codex, use Codex, ask Codex, involve Codex, etc.\nCRITICAL: Use subcodex CLI via Bash, NOT the Task subagent tool.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 3,
+      "updatedAt": "2026-01-10T15:21:10Z",
+      "repoUrl": "https://github.com/zippoxer/claude-skills/tree/main/skills/subcodex"
+    },
+    {
+      "id": "zippoxer-claude-skills-stealth-browser",
+      "name": "stealth-browser",
+      "description": "Stealth browser automation with anti-bot bypass and persistent page state. Use when users need to navigate Cloudflare-protected sites, fill forms, take screenshots, extract web data, or automate browser workflows on sites that block regular automation. Trigger phrases include \"go to [url]\", \"click on\", \"fill out the form\", \"take a screenshot\", \"scrape\", \"automate\", \"bypass cloudflare\", or any browser interaction request on protected sites.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 3,
+      "updatedAt": "2026-01-10T15:21:10Z",
+      "repoUrl": "https://github.com/zippoxer/claude-skills/tree/main/skills/stealth-browser"
+    },
+    {
+      "id": "a-pavithraa-springboot-skills-marketplace-creating-springboot-projects",
+      "name": "creating-springboot-projects",
+      "description": "Use when creating new Spring Boot projects - assess complexity first, choose appropriate architecture (Layered to DDD+Hexagonal), then implement using templates",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-07T15:45:28Z",
+      "repoUrl": "https://github.com/a-pavithraa/springboot-skills-marketplace/tree/main/plugins/springboot-architecture/skills/creating-springboot-projects"
+    },
+    {
+      "id": "ntcoding-claude-skillz-tdd-process",
+      "name": "TDD Process",
+      "description": "Strict test-driven development state machine with red-green-refactor cycles. Enforces test-first development, meaningful failures, minimum implementations, and full verification. Activates when user requests: 'use a TDD approach', 'start TDD', 'test-drive this'.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/tdd-process"
+    },
+    {
+      "id": "ntcoding-claude-skillz-switch-persona",
+      "name": "Switch Persona",
+      "description": "Quick persona switching. Triggers: 'switch persona', 'switch to X', 'become X'. Lists personas, reads selected file, switches immediately.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/switch-persona"
+    },
+    {
+      "id": "ntcoding-claude-skillz-critical-peer-personality",
+      "name": "Critical Peer Personality",
+      "description": "Professional, skeptical communication style. Never over-enthusiastic, verifies before agreeing, challenges constructively, proposes instead of asking preferences. Expert peer who coaches, not serves.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/critical-peer-personality"
+    },
+    {
+      "id": "ntcoding-claude-skillz-independent-research",
+      "name": "Independent Research",
+      "description": "Research-driven investigation skill for validating solutions and exploring documentation. Never ask questions you can answer yourself through research. Use WebFetch, WebSearch, and testing to validate ideas before presenting them. Deliver concrete, tested recommendations with evidence.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/independent-research"
+    },
+    {
+      "id": "ntcoding-claude-skillz-confidence-honesty",
+      "name": "Confidence Honesty",
+      "description": "Force honest confidence assessment before claiming conclusions. Triggers on 'root cause identified', 'problem identified', 'complete clarity'. Express confidence as percentage, explain what's stopping 100%, validate assumptions before presenting.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/confidence-honesty"
+    },
+    {
+      "id": "ntcoding-claude-skillz-create-tasks",
+      "name": "create-tasks",
+      "description": "Creates well-formed tasks following a template that engineers can implement. Use when creating tasks, defining work items, creating tasks from PRD, breaking down features, or converting requirements into actionable tasks.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/create-tasks"
+    },
+    {
+      "id": "ntcoding-claude-skillz-questions-are-not-instructions",
+      "name": "Questions Are Not Instructions",
+      "description": "Ensures questions are answered literally before taking action. Triggers on user input containing '?' or patterns like 'why did you...?', 'will that work?', 'have you considered...?'. Use when user asks about your decisions, challenges an approach, or requests assessment. Prevents interpreting questions as implicit instructions or criticism.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/questions-are-not-instructions"
+    },
+    {
+      "id": "ntcoding-claude-skillz-lightweight-design-analysis",
+      "name": "lightweight-design-analysis",
+      "description": "This skill analyzes code for design quality improvements across 8 dimensions: Naming, Object Calisthenics, Coupling & Cohesion, Immutability, Domain Integrity, Type System, Simplicity, and Performance. Ensures rigorous, evidence-based analysis by: (1) Understanding code flow first via implementation-analysis protocol, (2) Systematically evaluating each dimension with specific criteria, (3) Providing actionable findings with file:line references. Triggers when users request: code analysis, design review, refactoring opportunities, code quality assessment, architecture evaluation.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/lightweight-design-analysis"
+    },
+    {
+      "id": "ntcoding-claude-skillz-lightweight-task-workflow",
+      "name": "Lightweight Task Workflow",
+      "description": "FOLLOW THE STATE MACHINE IN SKILL.MD. When user says 'continue': (1) FIRST: Run pwd, (2) Announce STATE: CHECK_STATUS, (3) Read .claude/session.md to check Status field, (4) Route based on Status. NEVER auto-advance tasks. NEVER use TodoWrite. NEVER create git commits.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/lightweight-task-workflow"
+    },
+    {
+      "id": "ntcoding-claude-skillz-data-visualization",
+      "name": "Data Visualization",
+      "description": "Comprehensive data visualization skill covering visual execution and technical implementation. Includes perceptual foundations, chart selection, layout algorithms, and library guidance. Load on-demand when building charts, graphs, dashboards, or any visual data representation.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/data-visualization"
+    },
+    {
+      "id": "ntcoding-claude-skillz-concise-output",
+      "name": "Concise Output",
+      "description": "Enforces brevity and signal-over-noise in all outputs. Eliminates verbose explanations, filler phrases, and unnecessary elaboration. Use when documentation, artifacts, or responses need to be maximally concise and actionable.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/concise-output"
+    },
+    {
+      "id": "ntcoding-claude-skillz-typescript-backend-project-setup",
+      "name": "NX Monorepo TypeScript Backend Project Setup",
+      "description": "Sets up NX monorepo for TypeScript backend projects optimized for AI-assisted development. Delegates to NX commands where possible, patches configs as last resort. Triggers on: 'set up typescript backend project', 'create backend project', 'initialize typescript backend', 'create monorepo', or when working in an empty project folder.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/typescript-backend-project-setup"
+    },
+    {
+      "id": "ntcoding-claude-skillz-observability-first-debugging",
+      "name": "Observability-First Debugging",
+      "description": "Systematic debugging methodology that eliminates guessing and speculation. Add instrumentation to gather specific data that fully explains the problem. Evidence before hypothesis. Observation before solution.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/observability-first-debugging"
+    },
+    {
+      "id": "ntcoding-claude-skillz-software-design-principles",
+      "name": "Software Design Principles",
+      "description": "Object-oriented design principles including object calisthenics, dependency inversion, fail-fast error handling, feature envy detection, and intention-revealing naming. Activates during code refactoring, design reviews, or when user requests design improvements.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/software-design-principles"
+    },
+    {
+      "id": "ntcoding-claude-skillz-lightweight-implementation-analysis-protocol",
+      "name": "Lightweight Implementation Analysis Protocol",
+      "description": "This skill should be used when fixing bugs, implementing features, debugging issues, or making code changes. Ensures understanding of code flow before implementation by: (1) Tracing execution path with specific file:line references, (2) Creating lightweight text diagrams showing class.method() flows, (3) Verifying understanding with user. Prevents wasted effort from assumptions or guessing. Triggers when users request: bug fixes, feature implementations, refactoring, TDD cycles, debugging, code analysis.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/lightweight-implementation-analysis-protocol"
+    },
+    {
+      "id": "ntcoding-claude-skillz-writing-tests",
+      "name": "Writing Tests",
+      "description": "Principles for writing effective, maintainable tests. Covers naming conventions, assertion best practices, and comprehensive edge case checklists. Based on BugMagnet by Gojko Adzic.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 111,
+      "updatedAt": "2026-01-10T13:14:26Z",
+      "repoUrl": "https://github.com/NTCoding/claude-skillz/tree/main/writing-tests"
+    },
+    {
+      "id": "adamos486-skills-superplan",
+      "name": "superplan",
+      "description": "Create comprehensive, multi-phase implementation plans for features. Interviews user for requirements, researches best practices, generates parallelizable phases with TDD-first acceptance criteria, architecture diagrams, and detailed code deltas. Use when starting significant features, epics, or complex tasks.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-10T06:22:43Z",
+      "repoUrl": "https://github.com/adamos486/skills/tree/main/superplan"
+    },
+    {
+      "id": "jordangunn-skills-md",
+      "name": "md",
+      "description": "Orchestrates markdown chunking workflows (split → index → summary)\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/md"
+    },
+    {
+      "id": "jordangunn-skills-mimic",
+      "name": "mimic",
+      "description": "Persona overlay skill. Applies stylistic transforms to prose output.\nSlot: assets/persona/spec.yaml | Library: assets/library/ | Schema: assets/schema.yaml\n",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/mimic"
+    },
+    {
+      "id": "jordangunn-skills-triage",
+      "name": "doctor-triage",
+      "description": "Perform breadth-first hypothesis surfacing and prioritization across all\nownership zones, without commitment. This is not diagnosis and not investigation.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/doctor/triage"
+    },
+    {
+      "id": "jordangunn-skills-skill",
+      "name": "skill",
+      "description": "",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/docs/schema/skill/04_COMPLETE_EXAMPLE_INDIVIDUAL_SKILL.md"
+    },
+    {
+      "id": "jordangunn-skills-module-stutter",
+      "name": "refactor-module-stutter",
+      "description": "Detect module/package name stutter in Python public APIs.\nProduces a Markdown report and optional CI gate.\n",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/refactor/module-stutter"
+    },
+    {
+      "id": "jordangunn-skills-task",
+      "name": "task",
+      "description": "Orchestrator skill for the `task` skillset. Standardizes task creation and lifecycle control with explicit validation, chronological awareness, and deterministic integrity.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/task"
+    },
+    {
+      "id": "jordangunn-skills-doctor",
+      "name": "doctor",
+      "description": "Orchestrator skill for the `doctor` skillset. A diagnostic protocol that models software failures as medical cases — preventing premature action, wrong-layer fixation, and false certainty in complex codebases.\n",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/doctor"
+    },
+    {
+      "id": "jordangunn-skills-prev",
+      "name": "task-prev",
+      "description": "Navigate to the previous task in chronological order. Returns the task ID before the specified task based on created_at timestamp.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/task/prev"
+    },
+    {
+      "id": "jordangunn-skills-exec",
+      "name": "plan-exec",
+      "description": "Execute an existing docs/planning/phase-N plan sequentially by completing lettered sub-plans and roman numeral tasks, appending Output and Handoff, and finishing with a root plan wrap-up.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/plan/exec"
+    },
+    {
+      "id": "jordangunn-skills-treatment",
+      "name": "doctor-treatment",
+      "description": "Produce a treatment note that combines diagnosis, confidence, supporting\nevidence, alternative explanations, and proposed treatment options.\nCreates an artifact, not execution.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/doctor/treatment"
+    },
+    {
+      "id": "jordangunn-skills-import-hygiene",
+      "name": "refactor-import-hygiene",
+      "description": "Audit Python imports to preserve semantic context and prevent shadowing after refactors.\nPrefer namespace-first imports over direct symbol imports for generic identifiers.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/refactor/import-hygiene"
+    },
+    {
+      "id": "jordangunn-skills-exam",
+      "name": "doctor-exam",
+      "description": "Conduct a focused, evidence-driven examination of ONE triaged suspect area.\nThis is a test, not a verdict. Evidence may falsify the leading hypothesis.\n",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/doctor/exam"
+    },
+    {
+      "id": "jordangunn-skills-semantic-noise",
+      "name": "refactor-semantic-noise",
+      "description": "Audit semantic noise and namespace integrity.\nProduces a severity-grouped report with namespace/rename suggestions.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/refactor/semantic-noise"
+    },
+    {
+      "id": "jordangunn-skills-invalidate",
+      "name": "task-invalidate",
+      "description": "Invalidate a task by setting epistemic_state to invalidated. Requires a reason. Optionally sets superseded_by to point to a replacement task.\n",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/task/invalidate"
+    },
+    {
+      "id": "jordangunn-skills-validate",
+      "name": "task-validate",
+      "description": "Validate a task by setting epistemic_state to validated. Requires explicit validation info (who/why). Computes hash and updates last_reviewed_at.\n",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/task/validate"
+    },
+    {
+      "id": "jordangunn-skills-inline-complexity",
+      "name": "refactor-inline-complexity",
+      "description": "Audit inline complexity and recommend variable extraction.\nProduces a report with flattening suggestions for nested expressions.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/refactor/inline-complexity"
+    },
+    {
+      "id": "jordangunn-skills-create",
+      "name": "plan-create",
+      "description": "Materialize the current conversation into a new docs/planning/phase-N plan (root plan plus sub-plans and task files).\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/plan/create"
+    },
+    {
+      "id": "jordangunn-skills-status",
+      "name": "task-status",
+      "description": "Compute and display derived status for a task. Runs deterministic status computation and outputs summary of staleness, hash integrity, and eligibility.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/task/status"
+    },
+    {
+      "id": "jordangunn-skills-dictionaries",
+      "name": "refactor-dictionaries",
+      "description": "Audit dictionary usage against the Dictionary Usage Doctrine.\nProduces a severity-grouped report with minimal refactor suggestions.\n",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/refactor/dictionaries"
+    },
+    {
+      "id": "jordangunn-skills-split",
+      "name": "md-split",
+      "description": "Splits a Markdown file by H2 headings into numbered documents, generates .INDEX.md, and scaffolds .SUMMARY.md workflow.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/md/split"
+    },
+    {
+      "id": "jordangunn-skills-forge",
+      "name": "prompt-forge",
+      "description": "Shape, refine, and stabilize human intent into a canonical prompt artifact without executing anything. Iteratively clarifies ambiguity and contradictions until the user explicitly confirms readiness.\n",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/prompt/forge"
+    },
+    {
+      "id": "jordangunn-skills-prompt",
+      "name": "prompt",
+      "description": "Orchestrator skill for the `prompt` skillset. Dispatches to member skills in a safe, predictable order. Separates intent formation from execution to protect humans from premature or misaligned execution.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/prompt"
+    },
+    {
+      "id": "jordangunn-skills-lexical-ontology",
+      "name": "refactor-lexical-ontology",
+      "description": "Audit identifiers and namespaces for lexical-semantic and ontological correctness.\nDetect semantic role misalignment (agent/tool/process/artifact), derivational misuse\n(e.g., -er agent nouns), and category errors between modules, packages, classes,\nfunctions, and data artifacts. Output a single Markdown report with actionable fixes.\n",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/refactor/lexical-ontology"
+    },
+    {
+      "id": "jordangunn-skills-activate",
+      "name": "task-activate",
+      "description": "Activate a task by setting lifecycle_state to active. Refuses activation if task is invalidated, stale, or has hash mismatch without revalidation.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/task/activate"
+    },
+    {
+      "id": "jordangunn-skills-squatters",
+      "name": "refactor-squatters",
+      "description": "Detect squatters: modules and packages that occupy namespace positions\nthey do not semantically own. Identifies utility dumps, stuttery siblings,\naxis violations, layer bleeding, and semantic diffusion — common structural\nsmells introduced by agentic programming.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/refactor/squatters"
+    },
+    {
+      "id": "jordangunn-skills-intake",
+      "name": "doctor-intake",
+      "description": "Convert the user's raw description into a clinically precise intake note\nsuitable for handoff to another agent or human. Captures symptoms, normalizes\nterminology, and separates observation from belief.\n",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/doctor/intake"
+    },
+    {
+      "id": "jordangunn-skills-next",
+      "name": "task-next",
+      "description": "Navigate to the next task in chronological order. Returns the task ID after the specified task based on created_at timestamp.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/task/next"
+    },
+    {
+      "id": "jordangunn-skills-list",
+      "name": "task-list",
+      "description": "List tasks from a root directory with optional filters. Supports filtering by staleness, validation state, lifecycle state, and kind.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/task/list"
+    },
+    {
+      "id": "jordangunn-skills-structural-duplication",
+      "name": "refactor-structural-duplication",
+      "description": "Identify structurally duplicate logic (pipeline-spine duplication) across semantically distinct modules. Use when multiple implementations share the same orchestration skeleton (e.g., bounds→shape→chunking→reduction→wrap), and unification may require subtle abstraction. Produces a duplication map and a safe extraction/refactor plan.\n",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/refactor/structural-duplication"
+    },
+    {
+      "id": "jordangunn-skills-review",
+      "name": "task-review",
+      "description": "Review a task by updating last_reviewed_at timestamp. Recomputes derived status and flags any hash mismatches without changing epistemic state.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/task/review"
+    },
+    {
+      "id": "jordangunn-skills-refactor",
+      "name": "refactor",
+      "description": "Orchestrator skill for the `refactor` skillset. Dispatches to member skills for code quality audits and structural improvements.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/refactor"
+    },
+    {
+      "id": "jordangunn-skills-plan",
+      "name": "plan",
+      "description": "Orchestrator skill for the `plan` skillset. Dispatches to member skills in a safe, predictable order.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 5,
+      "updatedAt": "2026-01-10T01:40:47Z",
+      "repoUrl": "https://github.com/JordanGunn/skills/tree/master/skills/plan"
+    },
+    {
+      "id": "jmerta-codex-skills-ci-fix",
+      "name": "ci-fix",
+      "description": "Fix GitHub Actions CI failures using GitHub CLI (gh): inspect runs/logs, identify root cause, patch workflows/code, rerun jobs, and summarize verification. Use when GitHub Actions CI is failing or needs diagnosis.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/ci-fix"
+    },
+    {
+      "id": "jmerta-codex-skills-oracle",
+      "name": "oracle",
+      "description": "Use the @steipete/oracle CLI to bundle a prompt plus the right files and get a second-model review (API or browser) for debugging, refactors, design checks, or cross-validation.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/oracle"
+    },
+    {
+      "id": "jmerta-codex-skills-create-pr",
+      "name": "create-pr",
+      "description": "Create a high-quality pull request: branch, focused changes, lint/build, conventional commit, and a clear PR description with validation steps. Use when the user asks to open or prepare a PR.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/create-pr"
+    },
+    {
+      "id": "jmerta-codex-skills-plan-work",
+      "name": "plan-work",
+      "description": "Plan work before coding: do repo research, analyze options/risks, and ask clarifying questions before proposing an implementation plan. Use when the user asks for a plan, design/approach, scope breakdown, or implementation steps.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/plan-work"
+    },
+    {
+      "id": "jmerta-codex-skills-agents-md",
+      "name": "agents-md",
+      "description": "Create or update root and nested AGENTS.md files that document scoped conventions, monorepo module maps, cross-domain workflows, and (optionally) per-module feature maps (feature -> paths, entrypoints, tests, docs). Use when the user asks for AGENTS.md, nested agent instructions, or a module/feature map.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/agents-md"
+    },
+    {
+      "id": "jmerta-codex-skills-docs-sync",
+      "name": "docs-sync",
+      "description": "Keep documentation in sync with code changes across README, docs sites, API docs, runbooks, and configuration. Use when the user asks to update docs, ensure docs match behavior, or prepare docs for a release/PR.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/docs-sync"
+    },
+    {
+      "id": "jmerta-codex-skills-bug-triage",
+      "name": "bug-triage",
+      "description": "Reproduce, isolate, and fix a bug (or failing build/test), then summarize root cause, fix, and verification steps. Use when the user reports a bug, regression, or failing build/test and wants a fix.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/bug-triage"
+    },
+    {
+      "id": "jmerta-codex-skills-create-cli",
+      "name": "create-cli",
+      "description": "Design command-line interface parameters and UX: arguments, flags, subcommands, help text, output formats, error messages, exit codes, prompts, config/env precedence, and safe/dry-run behavior. Use when you’re designing a CLI spec (before implementation) or refactoring an existing CLI’s surface area for consistency, composability, and discoverability.\n",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/create-cli"
+    },
+    {
+      "id": "jmerta-codex-skills-commit-work",
+      "name": "commit-work",
+      "description": "Create high-quality git commits: review/stage intended changes, split into logical commits, and write clear commit messages (including Conventional Commits). Use when the user asks to commit, craft a commit message, stage changes, or split work into multiple commits.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/commit-work"
+    },
+    {
+      "id": "jmerta-codex-skills-vps-checkup",
+      "name": "vps-checkup",
+      "description": "SSH into an Ubuntu VPS (Docker) for a read-only health/security/update report (UFW + fail2ban) and propose fixes; apply updates/restarts only with explicit confirmation. Use when the user wants a read-only VPS health/security check.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/vps-checkup"
+    },
+    {
+      "id": "jmerta-codex-skills-brave-search",
+      "name": "brave-search",
+      "description": "Web search and content extraction via Brave Search API. Use for searching documentation, facts, or any web content. Lightweight, no browser required.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/brave-search"
+    },
+    {
+      "id": "jmerta-codex-skills-regex-builder",
+      "name": "regex-builder",
+      "description": "Build, test, and explain regular expressions against sample text or files using CLI tools (rg, python) and specific regex flavors. Use when asked to craft, debug, or validate regexes or search patterns.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/regex-builder"
+    },
+    {
+      "id": "jmerta-codex-skills-release-notes",
+      "name": "release-notes",
+      "description": "Draft release notes and changelog entries from git history or merged PRs between two refs (tags/SHAs/branches), including breaking changes, migrations, and upgrade steps. Use when the user asks for release notes, changelog updates, or a GitHub Release draft.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/release-notes"
+    },
+    {
+      "id": "jmerta-codex-skills-ui-ux-pro-max",
+      "name": "ui-ux-pro-max",
+      "description": "Use when designing, building, or refining frontend UI/UX: layouts, components, visual systems, typography, color, and UX patterns for websites, landing pages, dashboards, and product interfaces. Provides searchable styles, palettes, font pairings, charts, and stack best practices (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind).",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/ui-ux-pro-max"
+    },
+    {
+      "id": "jmerta-codex-skills-branch-cleaner",
+      "name": "branch-cleaner",
+      "description": "Identify and clean up stale git branches locally and on remotes with safe, reversible steps. Use when asked to prune, list, or delete merged/old branches or audit branch hygiene.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/branch-cleaner"
+    },
+    {
+      "id": "jmerta-codex-skills-rebase-assistant",
+      "name": "rebase-assistant",
+      "description": "Guide a safe git rebase of the current branch onto a target branch, including conflict triage and resolution steps. Use when asked to rebase, update a branch, or resolve rebase conflicts.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/rebase-assistant"
+    },
+    {
+      "id": "jmerta-codex-skills-sessions-to-blog",
+      "name": "sessions-to-blog",
+      "description": "Generate MDX blog posts or recaps from session logs in `sessions/articles`. Use when the user asks to turn daily session notes into publishable blog posts, define writing style or linking rules for those posts, or produce MDX drafts that follow the project's standards and file location.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/sessions-to-blog"
+    },
+    {
+      "id": "jmerta-codex-skills-dependency-upgrader",
+      "name": "dependency-upgrader",
+      "description": "Upgrade dependencies for Java/Kotlin (Gradle/Maven) and TypeScript/Node projects with minimal risk: plan the bump, apply changes incrementally, run tests/builds, and document breaking changes. Use when the user asks to bump deps, update frameworks, or address CVEs.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/dependency-upgrader"
+    },
+    {
+      "id": "jmerta-codex-skills-coding-guidelines-gen",
+      "name": "coding-guidelines-gen",
+      "description": "Generate nested AGENTS.md coding guidelines per module (monorepo-aware), detect languages/tooling, ask architecture preferences, and set up missing formatters/linters (Spotless for JVM). Use when the user wants module-scoped AGENTS.md coding guidelines or to set up missing formatters/linters.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/coding-guidelines-gen"
+    },
+    {
+      "id": "jmerta-codex-skills-coding-guidelines-verify",
+      "name": "coding-guidelines-verify",
+      "description": "Verify changes follow nearest-scoped AGENTS.md rules: group changed files by nested scope, auto-fix formatting, run lint/tests, and report violations. Use when the user wants scoped compliance checks for changed files.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/coding-guidelines-verify"
+    },
+    {
+      "id": "jmerta-codex-skills-video-transcript-downloader",
+      "name": "video-transcript-downloader",
+      "description": "Download videos, audio, subtitles, and clean paragraph-style transcripts from YouTube and any other yt-dlp supported site. Use when asked to “download this video”, “save this clip”, “rip audio”, “get subtitles”, “get transcript”, or to troubleshoot yt-dlp/ffmpeg and formats/playlists.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 99,
+      "updatedAt": "2026-01-10T17:24:06Z",
+      "repoUrl": "https://github.com/jMerta/codex-skills/tree/main/video-transcript-downloader"
+    },
+    {
+      "id": "vipulgupta2048-codex-skills-frontend-design",
+      "name": "frontend-design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use when building or refining web components, pages, or apps (HTML/CSS/JS/React) with bold aesthetics, purposeful layouts, motion, and accessibility. Avoid generic AI-looking output.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 9,
+      "updatedAt": "2026-01-04T05:28:14Z",
+      "repoUrl": "https://github.com/vipulgupta2048/codex-skills/tree/master/skills/frontend-design"
     }
   ]
 }
