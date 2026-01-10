@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "lastSync": "2026-01-10T06:34:59.567Z",
-  "totalSkills": 3528,
+  "totalSkills": 3525,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -22716,20 +22716,6 @@
       "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-queues"
     },
     {
-      "id": "jezweb-claude-skills-skill-skeleton",
-      "name": [
-        {
-          "TODO": "lowercase-hyphen-case-name"
-        }
-      ],
-      "description": "[TODO: Action verb + what you build with technology. 250-350 chars total. Example: \"Build type-safe APIs with Hono - fast routing for Cloudflare Workers. Includes middleware, validation (Zod), and RPC with full type inference.\"]\n\nUse when: [TODO: 3-5 specific scenarios], or troubleshooting [TODO: 2-3 distinctive errors].\n\n[GUIDELINES: Active voice (NOT \"This skill provides...\"). Two-paragraph format. Cap features at 5 max. Preserve USPs. No meta-commentary. Max 1024 chars. See planning/claude-code-skill-standards.md]\n",
-      "category": "frontend-development",
-      "tags": [],
-      "stars": 131,
-      "updatedAt": "2026-01-09T13:32:54Z",
-      "repoUrl": "https://github.com/jezweb/claude-skills/tree/main/templates/skill-skeleton"
-    },
-    {
       "id": "jezweb-claude-skills-elevenlabs-agents",
       "name": "elevenlabs-agents",
       "description": "Build conversational AI voice agents with ElevenLabs Platform. Configure agents, tools, RAG knowledge bases, multi-voice, and Scribe STT across React, React Native, or Swift. Prevents 27 documented errors.\n\nUse when: building voice agents, AI phone systems, or troubleshooting @11labs deprecated, webhook errors, CSP violations.\n",
@@ -29842,20 +29828,6 @@
       "stars": 0,
       "updatedAt": "2026-01-09T18:34:34Z",
       "repoUrl": "https://github.com/Wogi-Git/wogi-flow/tree/main/.claude/skills/nestjs/skill.md"
-    },
-    {
-      "id": "wogi-git-wogi-flow-_template",
-      "name": {
-        "[object Object]": null
-      },
-      "description": {
-        "[object Object]": null
-      },
-      "category": "tools-productivity",
-      "tags": [],
-      "stars": 0,
-      "updatedAt": "2026-01-09T18:34:34Z",
-      "repoUrl": "https://github.com/Wogi-Git/wogi-flow/tree/main/.claude/skills/_template/skill.md"
     },
     {
       "id": "wogi-git-wogi-flow-python",

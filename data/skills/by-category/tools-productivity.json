@@ -6828,20 +6828,6 @@
     "repoUrl": "https://github.com/MitchellkellerLG/teachaid-gtm-knowledge/tree/main/skills/repurpose-newsletter"
   },
   {
-    "id": "wogi-git-wogi-flow-_template",
-    "name": {
-      "[object Object]": null
-    },
-    "description": {
-      "[object Object]": null
-    },
-    "category": "tools-productivity",
-    "tags": [],
-    "stars": 0,
-    "updatedAt": "2026-01-09T18:34:34Z",
-    "repoUrl": "https://github.com/Wogi-Git/wogi-flow/tree/main/.claude/skills/_template/skill.md"
-  },
-  {
     "id": "wogi-git-wogi-flow-python",
     "name": "python",
     "description": "",
