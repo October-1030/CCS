@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-10T00:23:25.081Z",
-  "totalSkills": 3350,
+  "lastSync": "2026-01-10T02:34:54.354Z",
+  "totalSkills": 3414,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -34820,6 +34820,646 @@
       "stars": 0,
       "updatedAt": "2026-01-09T00:59:23Z",
       "repoUrl": "https://github.com/lhohan/agent-chisels/tree/main/plugins/agent-tools/skills/evaluating-skills"
+    },
+    {
+      "id": "skyline-23-conductor-kit-conductor",
+      "name": "conductor",
+      "description": "Enforce an orchestrator workflow (search->plan->execute->verify->cleanup) for Claude Code and Codex CLI; use when users ask for ultrawork/ulw mode or strict orchestration.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T01:53:43Z",
+      "repoUrl": "https://github.com/Skyline-23/conductor-kit/tree/main/skills/conductor"
+    },
+    {
+      "id": "jskim-90-figma_integrated-figma-to-html",
+      "name": "figma-to-html",
+      "description": "Figma 디자인을 정적 HTML/CSS로 변환합니다. Figma 링크나 node-id가 제공되면 MCP를 통해 디자인 정보를 가져와 정확한 코드를 생성합니다. Use when converting Figma designs to HTML/CSS, or when user mentions Figma links, design conversion, or static HTML implementation.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T02:04:21Z",
+      "repoUrl": "https://github.com/JSKIM-90/FIGMA_INTEGRATED/tree/main/.claude/skills/figma-to-html"
+    },
+    {
+      "id": "jskim-90-figma_integrated-create-dashboard",
+      "name": "create-dashboard",
+      "description": "RNBT 아키텍처 패턴에 맞는 완전한 대시보드 페이지를 생성합니다. Master/Page 레이어, 여러 컴포넌트, Mock 서버, datasetList.json을 포함한 전체 구조를 생성합니다. Use when creating dashboard pages, implementing Master/Page architecture, or setting up complete page structures with multiple components.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T02:04:21Z",
+      "repoUrl": "https://github.com/JSKIM-90/FIGMA_INTEGRATED/tree/main/.claude/skills/create-dashboard"
+    },
+    {
+      "id": "jskim-90-figma_integrated-create-component",
+      "name": "create-component",
+      "description": "정적 HTML/CSS를 RNBT 동적 컴포넌트로 변환합니다. Figma Conversion에서 생성된 정적 파일을 RNBT_architecture 패턴에 맞게 동적 컴포넌트로 변환합니다. Use when converting static HTML to dynamic components, creating RNBT components, or implementing components with data binding and event handling.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T02:04:21Z",
+      "repoUrl": "https://github.com/JSKIM-90/FIGMA_INTEGRATED/tree/main/.claude/skills/create-component"
+    },
+    {
+      "id": "jskim-90-figma_integrated-create-standalone-component",
+      "name": "create-standalone-component",
+      "description": "API나 Figma 없이 독립 컴포넌트를 새로 제작합니다. Components/ 폴더에 재사용 가능한 컴포넌트를 만들 때 사용합니다. Use when creating reusable components from scratch, building UI components without Figma designs, or developing components independently of API definitions.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T02:04:21Z",
+      "repoUrl": "https://github.com/JSKIM-90/FIGMA_INTEGRATED/tree/main/.claude/skills/create-standalone-component"
+    },
+    {
+      "id": "jskim-90-figma_integrated-create-3d-self-contained-component",
+      "name": "create-3d-self-contained-component",
+      "description": "3D 환경에서 사용하는 자기완결 컴포넌트를 생성합니다. 페이지에 의존하지 않고 스스로 데이터를 fetch하며, Shadow DOM 팝업을 사용합니다. Use when creating 3D asset components, self-contained components with datasetInfo, or components with Shadow DOM popups.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-10T02:04:21Z",
+      "repoUrl": "https://github.com/JSKIM-90/FIGMA_INTEGRATED/tree/main/.claude/skills/create-3d-self-contained-component"
+    },
+    {
+      "id": "getsentry-abacus-ui-design",
+      "name": "ui-design",
+      "description": "",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 23,
+      "updatedAt": "2026-01-10T02:22:01Z",
+      "repoUrl": "https://github.com/getsentry/abacus/tree/main/.claude/skills/ui-design"
+    },
+    {
+      "id": "getsentry-abacus-write-tip",
+      "name": "write-tip",
+      "description": "Create or improve AI productivity tips and guides for the Abacus dashboard. Use when writing new tips, editing existing tips, or reviewing tip content for quality. Ensures tips follow the established format with scenarios, prompts, and proper structure.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 23,
+      "updatedAt": "2026-01-10T02:22:01Z",
+      "repoUrl": "https://github.com/getsentry/abacus/tree/main/.claude/skills/write-tip"
+    },
+    {
+      "id": "getsentry-abacus-db-migrate",
+      "name": "db-migrate",
+      "description": "Create database migrations using Drizzle Kit. Use when adding/modifying tables, columns, or indexes. Ensures schema.ts and migrations stay in sync.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 23,
+      "updatedAt": "2026-01-10T02:22:01Z",
+      "repoUrl": "https://github.com/getsentry/abacus/tree/main/.claude/skills/db-migrate"
+    },
+    {
+      "id": "getsentry-abacus-write-docs",
+      "name": "write-docs",
+      "description": "Create or update documentation pages for the Abacus docs site. Use when adding new documentation, updating existing pages, or ensuring docs stay in sync with code changes. Ensures pages follow Starlight patterns and build correctly.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 23,
+      "updatedAt": "2026-01-10T02:22:01Z",
+      "repoUrl": "https://github.com/getsentry/abacus/tree/main/.claude/skills/write-docs"
+    },
+    {
+      "id": "kepano-obsidian-skills-json-canvas",
+      "name": "json-canvas",
+      "description": "Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when working with .canvas files, creating visual canvases, mind maps, flowcharts, or when the user mentions Canvas files in Obsidian.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 3803,
+      "updatedAt": "2026-01-10T02:25:11Z",
+      "repoUrl": "https://github.com/kepano/obsidian-skills/tree/main/skills/json-canvas"
+    },
+    {
+      "id": "kepano-obsidian-skills-obsidian-bases",
+      "name": "obsidian-bases",
+      "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 3803,
+      "updatedAt": "2026-01-10T02:25:11Z",
+      "repoUrl": "https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-bases"
+    },
+    {
+      "id": "kepano-obsidian-skills-obsidian-markdown",
+      "name": "obsidian-markdown",
+      "description": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 3803,
+      "updatedAt": "2026-01-10T02:25:11Z",
+      "repoUrl": "https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-markdown"
+    },
+    {
+      "id": "yibeichan-claude-skills-scientific-writer",
+      "name": "scientific-writing",
+      "description": "Write rigorous scientific manuscripts, research papers, grant proposals, and literature reviews. Use when drafting or revising any part of a scientific document including abstracts, introductions, methods, results, and discussions. Applies IMRAD structure, citation styles (APA/AMA/Vancouver/IEEE), reporting guidelines (CONSORT/STROBE/PRISMA), and publication standards. Triggers on requests to write research papers, journal articles, scientific reports, academic manuscripts, grant applications, or improve scientific prose.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T16:08:32Z",
+      "repoUrl": "https://github.com/yibeichan/claude-skills/tree/main/skills/scientific-writer"
+    },
+    {
+      "id": "yibeichan-claude-skills-bidsapp-nidm-standards",
+      "name": "bidsapp-nidm-standards",
+      "description": "Standards and tools for creating, maintaining, and refactoring NIDM-integrated BIDSapps that run through BABS. Use when working with sensein BIDSapp repositories (freesurfer_bidsapp, mriqc-nidm_bidsapp, ants_bidsapp) or creating new BIDSapps. Helps with repository structure consistency, NIDM integration patterns, CLI argument standardization, BIDS-compliant output structures, and BABS configuration.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-09T16:08:32Z",
+      "repoUrl": "https://github.com/yibeichan/claude-skills/tree/main/skills/bidsapp-nidm-standards"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-working-on-ancplua-plugins",
+      "name": "working-on-ancplua-plugins",
+      "description": "Primary instruction manual for working within the ancplua-claude-plugins monorepo. Use when creating, modifying, or debugging plugins in this repository.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/skills/working-on-ancplua-plugins"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-otel-expert",
+      "name": "otel-expert",
+      "description": "Use this when working with OpenTelemetry, telemetry, observability, traces, spans, metrics, logs, OTLP, semantic conventions, or instrumentation. Triggers on questions like \"what attributes should I use\", \"how do I configure the collector\", \"what's the semconv for X\".",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/plugins/otelwiki/skills/otel-expert"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-code-review",
+      "name": "code-review",
+      "description": "Perform comprehensive code reviews covering security, style, performance, and best practices. Use when reviewing code changes before commit or merge, auditing existing code, or checking for vulnerabilities.",
+      "category": "specialized",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/plugins/code-review/skills/code-review"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-autonomous-ci",
+      "name": "autonomous-ci",
+      "description": "Ensures Claude verifies both local tests AND remote CI before claiming completion. Use BEFORE any completion claims, commits, or pull requests. Mandatory verification with evidence.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/plugins/autonomous-ci/skills/autonomous-ci"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-competitive-review",
+      "name": "competitive-review",
+      "description": "Dispatch two competing reviewers (arch-reviewer and impl-reviewer) before deep analysis.\nCompetition produces more thorough results. Use before creating code, modifying architecture,\nmaking technical decisions, or answering codebase questions.\n",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/plugins/metacognitive-guard/skills/competitive-review"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-example-skill",
+      "name": "example-skill",
+      "description": "Brief description of what this skill does. Use when [specific trigger situations].",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/tooling/templates/plugin-template/skills/example-skill"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-metacognitive-guard",
+      "name": "Metacognitive Guard",
+      "description": "Monitors Claude's responses for struggle signals and suggests escalation to deep-thinking agents when complexity exceeds comfortable reasoning capacity.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/plugins/metacognitive-guard/skills/metacognitive-guard"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-epistemic-checkpoint",
+      "name": "epistemic-checkpoint",
+      "description": "Force verification before answering questions involving versions, dates, status, or \"current\"\nstate. Prevents hallucinations at the REASONING level by checking assertions.yaml and WebSearch\nbefore forming beliefs. Triggers on software versions, release status, dates, and package versions.\n",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/plugins/metacognitive-guard/skills/epistemic-checkpoint"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-workflow-orchestration",
+      "name": "workflow-orchestration",
+      "description": "Coordinates multi-step CI/CD pipelines by chaining autonomous-ci, code-review, smart-commit, and jules-integration plugins. Use when executing validation-to-PR workflows or recovering from CI failures.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/agents/workflow-orchestrator/skills/workflow-orchestration"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-dotnet-architecture-lint",
+      "name": "lint-dotnet",
+      "description": "Run .NET architecture linter to check for MSBuild/CPM violations",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/plugins/dotnet-architecture-lint/skills/dotnet-architecture-lint"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-verification-before-completion",
+      "name": "verification-before-completion",
+      "description": "Force verification before claiming success or completion. Prevents false \"it works\" claims.\nTriggers when about to say \"done\", \"complete\", \"works\", \"fixed\", or \"the implementation is ready\".\nRequires actually running builds/tests and showing output before claiming success.\n",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/plugins/metacognitive-guard/skills/verification-before-completion"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-completion-integrity",
+      "name": "completion-integrity",
+      "description": "Prevents shortcuts and cheating when completing tasks. Blocks commits with warning suppressions, commented tests, or deleted assertions.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/plugins/completion-integrity/skills/completion-integrity"
+    },
+    {
+      "id": "ancplua-ancplua-claude-plugins-ancplua-docs",
+      "name": "ancplua-docs",
+      "description": "Search and answer questions about the ANcpLua ecosystem documentation. Use when users ask about ANcpLua.NET.Sdk features, ANcpLua.Analyzers rules, ANcpLua.Roslyn.Utilities APIs, or any configuration/usage questions about these packages.",
+      "category": "backend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": "https://github.com/ANcpLua/ancplua-claude-plugins/tree/main/plugins/ancplua-docs-librarian/skills/ancplua-docs"
+    },
+    {
+      "id": "tnez-dot-agents-skill-tester",
+      "name": "skill-tester",
+      "description": "Test and validate agent skills against the Agent Skills Specification v1.0. Use before deploying skills to ensure spec compliance and catch structural issues.",
+      "category": "testing-quality",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/skills/meta/skill-tester"
+    },
+    {
+      "id": "tnez-dot-agents-templates",
+      "name": "SKILL-NAME-HERE",
+      "description": "Brief explanation of what this skill does and when Claude should use it",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/skills/meta/skill-creator/templates/basic-skill.md"
+    },
+    {
+      "id": "tnez-dot-agents-skill-browser",
+      "name": "skill-browser",
+      "description": "Discover, browse, and compare agent skills from repositories. Shows new skills, updates, and helps users find relevant skills. Use when exploring available skills or checking for updates.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/skills/meta/skill-browser"
+    },
+    {
+      "id": "tnez-dot-agents-skill-creator",
+      "name": "skill-creator",
+      "description": "Create and scaffold new agent skills with proper structure, validation, and spec compliance. Use when building new skills from scratch.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/skills/meta/skill-creator"
+    },
+    {
+      "id": "tnez-dot-agents-simple-task",
+      "name": "simple-task",
+      "description": "Format and validate JSON data structures. Use when you need to pretty-print JSON, validate syntax, or convert between compact and formatted JSON.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/skills/examples/simple-task"
+    },
+    {
+      "id": "tnez-dot-agents-skill-installer",
+      "name": "skill-installer",
+      "description": "Install agent skills from GitHub repositories into local environment. Pure agentic installation - no scripts required. Use when adding new skills or updating existing ones.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/skills/meta/skill-installer"
+    },
+    {
+      "id": "tnez-dot-agents-list",
+      "name": "channels/list",
+      "description": "List all available channels. Use when discovering what channels exist or checking channel metadata.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/internal/skills/channels/list"
+    },
+    {
+      "id": "tnez-dot-agents-read",
+      "name": "channels/read",
+      "description": "Read messages from a channel. Use this to check for new messages, review issue history, or catch up on session logs.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/internal/skills/channels/read"
+    },
+    {
+      "id": "tnez-dot-agents-reply",
+      "name": "channels/reply",
+      "description": "Reply to a specific message in a channel. Use this to respond to issues, answer questions, or continue threaded conversations.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/internal/skills/channels/reply"
+    },
+    {
+      "id": "tnez-dot-agents-publish",
+      "name": "channels/publish",
+      "description": "Publish a message to a channel or DM. Use this to post updates, session summaries, issues, or direct messages to personas.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/internal/skills/channels/publish"
+    },
+    {
+      "id": "tnez-dot-agents-find-local-events",
+      "name": "find-local-events",
+      "description": "Search for local events, activities, and happenings in a specified location and timeframe. Use when the user asks about events, concerts, festivals, meetups, or things to do in a specific area.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/skills/examples/find-local-events"
+    },
+    {
+      "id": "tnez-dot-agents-install-skill",
+      "name": "install-skill",
+      "description": "Install agent skills from various sources including local paths, GitHub URLs, or the dot-agents repository. Use when adding new skills to a project or user environment.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/skills/meta/install-skill"
+    },
+    {
+      "id": "tnez-dot-agents-skill-evaluator",
+      "name": "skill-evaluator",
+      "description": "Evaluate agent skill quality using rubric-based assessment. Use when assessing skill effectiveness, identifying improvement opportunities, or ensuring quality standards.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/skills/meta/skill-evaluator"
+    },
+    {
+      "id": "tnez-dot-agents-get-weather",
+      "name": "get-weather",
+      "description": "Fetch and display current weather information for a specified location using wttr.in. Use when the user asks for weather conditions, forecasts, or temperature information.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 1,
+      "updatedAt": "2026-01-09T03:35:28Z",
+      "repoUrl": "https://github.com/tnez/dot-agents/tree/main/skills/examples/get-weather"
+    },
+    {
+      "id": "jwiegley-claude-prompts-nixos",
+      "name": "nixos",
+      "description": "Resolve NixOS issues using research and sequential thinking",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/nixos"
+    },
+    {
+      "id": "jwiegley-claude-prompts-caveman",
+      "name": "caveman",
+      "description": "Compress and simplify prompts to preserve meaning while reducing use of context",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/caveman"
+    },
+    {
+      "id": "jwiegley-claude-prompts-persian",
+      "name": "persian",
+      "description": "Translate English language text into high quality, accurate Persian (Farsi) text",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/persian"
+    },
+    {
+      "id": "jwiegley-claude-prompts-node-red",
+      "name": "node-red",
+      "description": "Edit, analyze, and create Node-RED flows by working with flows.json files, understanding node types, and applying Node-RED best practices. Use when the user mentions Node-RED, flows.json, flow development, or needs to modify Node-RED configurations.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/node-red"
+    },
+    {
+      "id": "jwiegley-claude-prompts-mcp-builder",
+      "name": "mcp-builder",
+      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/mcp-builder"
+    },
+    {
+      "id": "jwiegley-claude-prompts-pdf",
+      "name": "pdf",
+      "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/document-skills/pdf"
+    },
+    {
+      "id": "jwiegley-claude-prompts-canvas-design",
+      "name": "canvas-design",
+      "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/canvas-design"
+    },
+    {
+      "id": "jwiegley-claude-prompts-webapp-testing",
+      "name": "webapp-testing",
+      "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/webapp-testing"
+    },
+    {
+      "id": "jwiegley-claude-prompts-docx",
+      "name": "docx",
+      "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/document-skills/docx"
+    },
+    {
+      "id": "jwiegley-claude-prompts-xlsx",
+      "name": "xlsx",
+      "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/document-skills/xlsx"
+    },
+    {
+      "id": "jwiegley-claude-prompts-skill-creator",
+      "name": "skill-creator",
+      "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/skill-creator"
+    },
+    {
+      "id": "jwiegley-claude-prompts-internal-comms",
+      "name": "internal-comms",
+      "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/internal-comms"
+    },
+    {
+      "id": "jwiegley-claude-prompts-pptx",
+      "name": "pptx",
+      "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 4,
+      "updatedAt": "2026-01-05T22:50:07Z",
+      "repoUrl": "https://github.com/jwiegley/claude-prompts/tree/main/skills/document-skills/pptx"
+    },
+    {
+      "id": "jefflester-claude-skills-supercharged-api-security",
+      "name": "api-security",
+      "description": "API security best practices and common vulnerability prevention. Enforces security checks for authentication, input validation, SQL injection, XSS, and OWASP Top 10 vulnerabilities. Use when building or modifying APIs.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 31,
+      "updatedAt": "2026-01-06T09:34:28Z",
+      "repoUrl": "https://github.com/jefflester/claude-skills-supercharged/tree/main/.claude/skills/api-security"
+    },
+    {
+      "id": "jefflester-claude-skills-supercharged-git-workflow",
+      "name": "git-workflow",
+      "description": "Git workflow best practices including commit messages, branching strategies, pull requests, and collaboration patterns. Use when working with Git version control.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 31,
+      "updatedAt": "2026-01-06T09:34:28Z",
+      "repoUrl": "https://github.com/jefflester/claude-skills-supercharged/tree/main/.claude/skills/git-workflow"
+    },
+    {
+      "id": "jefflester-claude-skills-supercharged-skill-developer",
+      "name": "skill-developer",
+      "description": "Create and manage Claude Code skills following Anthropic best practices. Use when creating new skills, modifying skill-rules.json, understanding trigger patterns, working with hooks, debugging skill activation, or implementing progressive disclosure. Covers skill structure, YAML frontmatter, keyword triggers, hook mechanisms (UserPromptSubmit), session tracking, and the 500-line rule.",
+      "category": "ai-data-science",
+      "tags": [],
+      "stars": 31,
+      "updatedAt": "2026-01-06T09:34:28Z",
+      "repoUrl": "https://github.com/jefflester/claude-skills-supercharged/tree/main/.claude/skills/skill-developer"
+    },
+    {
+      "id": "jefflester-claude-skills-supercharged-python-best-practices",
+      "name": "python-best-practices",
+      "description": "Python development best practices including PEP 8 style guidelines, type hints, docstring conventions, and common patterns. Use when writing or modifying Python code.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 31,
+      "updatedAt": "2026-01-06T09:34:28Z",
+      "repoUrl": "https://github.com/jefflester/claude-skills-supercharged/tree/main/.claude/skills/python-best-practices"
+    },
+    {
+      "id": "serpro69-claude-starter-kit-testing-process",
+      "name": "testing-process",
+      "description": "Guidelines describing how to test the code. Use whenever writing new or updating existing code, for example after implementing a new feature or fixing a bug.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 34,
+      "updatedAt": "2026-01-09T17:16:33Z",
+      "repoUrl": "https://github.com/serpro69/claude-starter-kit/tree/master/.github/templates/claude/skills/testing-process"
+    },
+    {
+      "id": "serpro69-claude-starter-kit-analysis-process",
+      "name": "analysis-process",
+      "description": "Turn the idea for a feature into a fully-formed PRD/design/specification and implementation-plan. Use when you have a spec or requirements that needs implementation. Use in pre-implementation (idea-to-design) stages to make sure you understand the spec/requirements and ensure you have a correct implementation plan before writing actual code.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 34,
+      "updatedAt": "2026-01-09T17:16:33Z",
+      "repoUrl": "https://github.com/serpro69/claude-starter-kit/tree/master/.github/templates/claude/skills/analysis-process"
+    },
+    {
+      "id": "serpro69-claude-starter-kit-documentation-process",
+      "name": "documentation-process",
+      "description": "After implementing a new feature or fixing a bug, make sure to document the changes. Use after finishing the implementation phase for a feature or a bug-fix",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 34,
+      "updatedAt": "2026-01-09T17:16:33Z",
+      "repoUrl": "https://github.com/serpro69/claude-starter-kit/tree/master/.github/templates/claude/skills/documentation-process"
+    },
+    {
+      "id": "serpro69-claude-starter-kit-implementation-process",
+      "name": "implementation-process",
+      "description": "Implement a feature using the written implementation plan. Use when you have a fully-formed written implementation plan to execute in a separate session with review checkpoints",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 34,
+      "updatedAt": "2026-01-09T17:16:33Z",
+      "repoUrl": "https://github.com/serpro69/claude-starter-kit/tree/master/.github/templates/claude/skills/implementation-process"
+    },
+    {
+      "id": "serpro69-claude-starter-kit-development-guidelines",
+      "name": "development-guidelines",
+      "description": "Use this task to ensure you follow development best practices during development and implementation.",
+      "category": "frontend-development",
+      "tags": [],
+      "stars": 34,
+      "updatedAt": "2026-01-09T17:16:33Z",
+      "repoUrl": "https://github.com/serpro69/claude-starter-kit/tree/master/.github/templates/claude/skills/development-guidelines"
     }
   ]
 }
