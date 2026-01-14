@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-01-13T17:28:37.362Z",
-  "totalSkills": 4067,
+  "lastSync": "2026-01-14T07:42:24.806Z",
+  "totalSkills": 4068,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -42084,6 +42084,16 @@
       "stars": 15,
       "updatedAt": "2026-01-13T16:32:24Z",
       "repoUrl": "https://github.com/majiayu000/claude-skill-registry/tree/main/skills/devops/pyhealth"
+    },
+    {
+      "id": "smartozzehir-pr-patrol-pr-patrol",
+      "name": "pr-patrol",
+      "description": "This skill should be used when the user asks to \"handle bot comments\", \"fix PR review feedback\", \"address CodeRabbit/Greptile/Copilot issues\", \"respond to review bot suggestions\", \"process automated review comments\", or runs \"/pr-patrol\". Patrols the PR for bot comments (CodeRabbit, Greptile, Codex, Copilot, Sentry) with state tracking and batch processing through a 7-gate workflow.",
+      "category": "tools-productivity",
+      "tags": [],
+      "stars": 0,
+      "updatedAt": "2026-01-13T13:47:40Z",
+      "repoUrl": "https://github.com/SmartOzzehir/pr-patrol/tree/main/skills/pr-patrol"
     }
   ]
 }
