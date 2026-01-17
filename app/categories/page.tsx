@@ -2,6 +2,9 @@ import { CategoryCard } from "@/components/categories/category-card";
 import { CATEGORIES } from "@/lib/utils/categories";
 import { loadStats } from "@/lib/data/skills-db";
 
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
+
 export default async function CategoriesPage() {
   const stats = await loadStats();
   const categoryCounts = stats?.byCategory || {};
