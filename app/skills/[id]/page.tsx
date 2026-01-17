@@ -8,9 +8,6 @@ import { InstallButton } from "@/components/skills/install-button";
 import { loadSkillById, loadSkillsIndex } from "@/lib/data/skills-db";
 import { getCategoryColor } from "@/lib/utils/categories";
 
-export const dynamic = 'force-dynamic';
-export const revalidate = 0;
-
 interface SkillPageProps {
   params: Promise<{ id: string }>;
 }
