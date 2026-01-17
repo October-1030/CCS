@@ -1,9 +1,9 @@
 {
-  "totalSkills": 10020,
+  "totalSkills": 10018,
   "byCategory": {
     "ai-data-science": 1115,
-    "frontend-development": 2592,
-    "tools-productivity": 1872,
+    "frontend-development": 2591,
+    "tools-productivity": 1871,
     "business-marketing": 285,
     "testing-quality": 555,
     "backend-development": 1748,
@@ -212,5 +212,17 @@
       "count": 20
     }
   ],
-  "lastUpdated": "2026-01-17T06:43:57.267Z"
+  "recentlyUpdated": [
+    "junayedahmedd-gemini-cli-skill",
+    "moido1092-algo-sensei",
+    "maryanohit549-wiggle-claude-skill",
+    "bayramannakov-claude-reflect",
+    "ait88-claude-workflow-toolkit",
+    "santiago-afonso-codex-sandbox-preflight",
+    "blacktop-ipsw-skill",
+    "jjmartres-reachy-mini-sdk-skill",
+    "texmeijin-video-to-gif-skill",
+    "finelagusaz-proofread-ja"
+  ],
+  "lastSyncTime": "2026-01-17T08:11:48.123Z"
 }
