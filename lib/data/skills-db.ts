@@ -68,10 +68,18 @@ export async function loadSkillsByCategory(category: string): Promise<SkillIndex
     const content = await fs.readFile(categoryPath, "utf-8");
     const data = JSON.parse(content);
     // Handle both array format and object format { skills: [...] }
+    let skills: SkillIndex[];
     if (Array.isArray(data)) {
-      return data;
+      skills = data;
+    } else {
+      skills = data.skills || [];
     }
-    return data.skills || [];
+    // Add category field if missing
+    return skills.map(skill => ({
+      ...skill,
+      category: skill.category || category,
+      repoUrl: skill.repoUrl || '',
+    }));
   } catch (error) {
     return [];
   }
