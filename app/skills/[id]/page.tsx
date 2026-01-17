@@ -5,20 +5,14 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import { InstallButton } from "@/components/skills/install-button";
-import { loadSkillById, loadSkillsIndex } from "@/lib/data/skills-db";
+import { loadSkillById } from "@/lib/data/skills-db";
 import { getCategoryColor } from "@/lib/utils/categories";
+
+// Use dynamic rendering for 10k+ skills pages
+export const dynamic = 'force-dynamic';
 
 interface SkillPageProps {
   params: Promise<{ id: string }>;
-}
-
-// Generate static params for all skills at build time
-export async function generateStaticParams() {
-  const indexData = await loadSkillsIndex();
-
-  return indexData.skills.map((skill) => ({
-    id: skill.id,
-  }));
 }
 
 export default async function SkillPage({ params }: SkillPageProps) {
