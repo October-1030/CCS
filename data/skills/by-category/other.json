@@ -1,85 +1,90 @@
-[
-  {
-    "id": "finelagusaz-proofread-ja",
-    "name": "proofread-ja",
-    "description": "日本語テキストの誤字脱字チェック、表記揺れの検出と修正。小説、技術文書、ブログ記事などで使用。ユーザーが「誤字脱字をチェック」「表記の揺れを確認」「校正して」などと依頼した時、または文書の品質向上が必要な時に使用。",
-    "category": "other",
-    "tags": [
-      "claude-code-skill",
-      "claude-skills"
-    ],
-    "stars": 1,
-    "updatedAt": "2026-01-03T09:12:17Z",
-    "repoUrl": "https://github.com/finelagusaz/proofread-ja"
-  },
-  {
-    "id": "byeseechairten-payloadcms-skill",
-    "name": "payloadcms-skill",
-    "description": "Claude skill for PayloadCMS docs",
-    "category": "other",
-    "tags": [
-      "claude-skills",
-      "claude",
-      "skill",
-      "payloadcms",
-      "docs"
-    ],
-    "stars": 3,
-    "updatedAt": "2026-01-11T12:07:59Z",
-    "repoUrl": "https://github.com/ByeSeeChairTen/payloadcms-skill"
-  },
-  {
-    "id": "rickygao-specrate",
-    "name": "specrate",
-    "description": "Skill to manage specs and changes. Use this when working with specrate-managed documents.",
-    "category": "other",
-    "tags": [
-      "agent-skills",
-      "github-copilot",
-      "spec",
-      "spec-driven-development",
-      "skill",
-      "manage",
-      "specs",
-      "changes",
-      "this"
-    ],
-    "stars": 2,
-    "updatedAt": "2026-01-13T09:13:13Z",
-    "repoUrl": "https://github.com/rickygao/specrate"
-  },
-  {
-    "id": "tsubasaogawa-semantic-commit-helper",
-    "name": "semantic-commit-helper",
-    "description": "Use this skill when the user wants to commit changes to git. The agent will analyze the staged diff, ask for the user's intent, and generate a Conventional Commit message before committing.",
-    "category": "other",
-    "tags": [
-      "agent-skills",
-      "user",
-      "commit",
-      "this",
-      "skill",
-      "when"
-    ],
-    "stars": 0,
-    "updatedAt": "2026-01-11T13:29:53Z",
-    "repoUrl": "https://github.com/tsubasaogawa/semantic-commit-helper"
-  },
-  {
-    "id": "tubone24-midi-agent-skill",
-    "name": "midi-generation",
-    "description": "Generate MIDI files with GM instruments and music theory. Use when creating music, composing melodies, or generating MIDI files.",
-    "category": "other",
-    "tags": [
-      "agent-skills",
-      "midi",
-      "files",
-      "music",
-      "generate",
-      "with"
-    ],
-    "stars": 1,
-    "updatedAt": "2025-12-21T02:08:07Z",
-    "repoUrl": "https://github.com/tubone24/midi-agent-skill"
-  }
-]
+{
+  "category": "other",
+  "totalSkills": 5,
+  "lastUpdated": "2026-01-17T08:11:46.812Z",
+  "skills": [
+    {
+      "id": "finelagusaz-proofread-ja",
+      "name": "proofread-ja",
+      "description": "日本語テキストの誤字脱字チェック、表記揺れの検出と修正。小説、技術文書、ブログ記事などで使用。ユーザーが「誤字脱字をチェック」「表記の揺れを確認」「校正して」などと依頼した時、または文書の品質向上が必要な時に使用。",
+      "category": "other",
+      "tags": [
+        "claude-code-skill",
+        "claude-skills"
+      ],
+      "stars": 1,
+      "updatedAt": "2026-01-03T09:12:17Z",
+      "repoUrl": "https://github.com/finelagusaz/proofread-ja"
+    },
+    {
+      "id": "byeseechairten-payloadcms-skill",
+      "name": "payloadcms-skill",
+      "description": "Claude skill for PayloadCMS docs",
+      "category": "other",
+      "tags": [
+        "claude-skills",
+        "claude",
+        "skill",
+        "payloadcms",
+        "docs"
+      ],
+      "stars": 3,
+      "updatedAt": "2026-01-11T12:07:59Z",
+      "repoUrl": "https://github.com/ByeSeeChairTen/payloadcms-skill"
+    },
+    {
+      "id": "rickygao-specrate",
+      "name": "specrate",
+      "description": "Skill to manage specs and changes. Use this when working with specrate-managed documents.",
+      "category": "other",
+      "tags": [
+        "agent-skills",
+        "github-copilot",
+        "spec",
+        "spec-driven-development",
+        "skill",
+        "manage",
+        "specs",
+        "changes",
+        "this"
+      ],
+      "stars": 2,
+      "updatedAt": "2026-01-13T09:13:13Z",
+      "repoUrl": "https://github.com/rickygao/specrate"
+    },
+    {
+      "id": "tsubasaogawa-semantic-commit-helper",
+      "name": "semantic-commit-helper",
+      "description": "Use this skill when the user wants to commit changes to git. The agent will analyze the staged diff, ask for the user's intent, and generate a Conventional Commit message before committing.",
+      "category": "other",
+      "tags": [
+        "agent-skills",
+        "user",
+        "commit",
+        "this",
+        "skill",
+        "when"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-11T13:29:53Z",
+      "repoUrl": "https://github.com/tsubasaogawa/semantic-commit-helper"
+    },
+    {
+      "id": "tubone24-midi-agent-skill",
+      "name": "midi-generation",
+      "description": "Generate MIDI files with GM instruments and music theory. Use when creating music, composing melodies, or generating MIDI files.",
+      "category": "other",
+      "tags": [
+        "agent-skills",
+        "midi",
+        "files",
+        "music",
+        "generate",
+        "with"
+      ],
+      "stars": 1,
+      "updatedAt": "2025-12-21T02:08:07Z",
+      "repoUrl": "https://github.com/tubone24/midi-agent-skill"
+    }
+  ]
+}

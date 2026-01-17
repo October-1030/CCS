@@ -1,2687 +1,3257 @@
 {
   "category": "business-marketing",
   "totalSkills": 285,
-  "lastUpdated": "2026-01-17T06:43:57.267Z",
+  "lastUpdated": "2026-01-17T08:11:46.783Z",
   "skills": [
     {
       "id": "anthropics-skills-docx",
       "name": "docx",
       "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
-      "stars": 35374,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T06:00:29Z"
+      "stars": 35374,
+      "updatedAt": "2026-01-08T06:00:29Z",
+      "repoUrl": ""
     },
     {
       "id": "anthropics-skills-pptx",
       "name": "pptx",
       "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
-      "stars": 35374,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T06:00:29Z"
+      "stars": 35374,
+      "updatedAt": "2026-01-08T06:00:29Z",
+      "repoUrl": ""
     },
     {
       "id": "alirezarezvani-claude-skills-content-creator",
       "name": "content-creator",
       "description": "Create SEO-optimized marketing content with consistent brand voice. Includes brand voice analyzer, SEO optimizer, content frameworks, and social media templates. Use when writing blog posts, creating social media content, analyzing brand voice, optimizing SEO, planning content calendars, or when user mentions content creation, brand voice, SEO optimization, social media marketing, or content strategy.",
-      "stars": 521,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T12:36:14Z"
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": ""
     },
     {
       "id": "alirezarezvani-claude-skills-app-store-optimization",
       "name": "app-store-optimization",
       "description": "Complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance on Apple App Store and Google Play Store",
-      "stars": 521,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T12:36:14Z"
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": ""
     },
     {
       "id": "alirezarezvani-claude-skills-agile-product-owner",
       "name": "agile-product-owner",
       "description": "Agile product ownership toolkit for Senior Product Owner including INVEST-compliant user story generation, sprint planning, backlog management, and velocity tracking. Use for story writing, sprint planning, stakeholder communication, and agile ceremonies.",
-      "stars": 521,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T12:36:14Z"
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": ""
     },
     {
       "id": "composiohq-awesome-claude-skills-changelog-generator",
       "name": "changelog-generator",
       "description": "Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns hours of manual changelog writing into minutes of automated generation.",
-      "stars": 16338,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T18:51:42Z"
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": ""
     },
     {
       "id": "composiohq-awesome-claude-skills-invoice-organizer",
       "name": "invoice-organizer",
       "description": "Automatically organizes invoices and receipts for tax preparation by reading messy files, extracting key information, renaming them consistently, and sorting them into logical folders. Turns hours of manual bookkeeping into minutes of automated organization.",
-      "stars": 16338,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T18:51:42Z"
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": ""
     },
     {
       "id": "composiohq-awesome-claude-skills-meeting-insights-analyzer",
       "name": "meeting-insights-analyzer",
       "description": "Analyzes meeting transcripts and recordings to uncover behavioral patterns, communication insights, and actionable feedback. Identifies when you avoid conflict, use filler words, dominate conversations, or miss opportunities to listen. Perfect for professionals seeking to improve their communication and leadership skills.",
-      "stars": 16338,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T18:51:42Z"
+      "stars": 16338,
+      "updatedAt": "2026-01-08T18:51:42Z",
+      "repoUrl": ""
     },
     {
       "id": "jeffallan-claude-skills-salesforce-developer",
       "name": "salesforce-developer",
       "description": "Use when developing Salesforce applications, Apex code, Lightning Web Components, SOQL queries, triggers, integrations, or CRM customizations. Invoke for governor limits, bulk processing, platform events, Salesforce DX.",
-      "stars": 24,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T09:49:44Z"
+      "stars": 24,
+      "updatedAt": "2026-01-08T09:49:44Z",
+      "repoUrl": ""
     },
     {
       "id": "jeffallan-claude-skills-wordpress-pro",
       "name": "wordpress-pro",
       "description": "Use when developing WordPress themes, plugins, customizing Gutenberg blocks, implementing WooCommerce features, or optimizing WordPress performance and security.",
-      "stars": 24,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T09:49:44Z"
+      "stars": 24,
+      "updatedAt": "2026-01-08T09:49:44Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-approval-workflow-generator",
       "name": "approval-workflow-generator",
       "description": "Generate approval workflow generator operations. Auto-activating skill for Business Automation.\nTriggers on: approval workflow generator, approval workflow generator\nPart of the Business Automation skill category. Use when working with approval workflow generator functionality. Trigger with phrases like \"approval workflow generator\", \"approval generator\", \"approval\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-batch-file-processor",
       "name": "batch-file-processor",
       "description": "Process batch file processor operations. Auto-activating skill for Business Automation.\nTriggers on: batch file processor, batch file processor\nPart of the Business Automation skill category. Use when working with batch file processor functionality. Trigger with phrases like \"batch file processor\", \"batch processor\", \"batch\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-calendar-event-creator",
       "name": "calendar-event-creator",
       "description": "Create calendar event creator operations. Auto-activating skill for Business Automation.\nTriggers on: calendar event creator, calendar event creator\nPart of the Business Automation skill category. Use when working with calendar event creator functionality. Trigger with phrases like \"calendar event creator\", \"calendar creator\", \"calendar\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-csv-processor",
       "name": "csv-processor",
       "description": "Process csv processor operations. Auto-activating skill for Business Automation.\nTriggers on: csv processor, csv processor\nPart of the Business Automation skill category. Use when working with csv processor functionality. Trigger with phrases like \"csv processor\", \"csv processor\", \"csv\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-discord-bot-generator",
       "name": "discord-bot-generator",
       "description": "Generate discord bot generator operations. Auto-activating skill for Business Automation.\nTriggers on: discord bot generator, discord bot generator\nPart of the Business Automation skill category. Use when working with discord bot generator functionality. Trigger with phrases like \"discord bot generator\", \"discord generator\", \"discord\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-document-merger",
       "name": "document-merger",
       "description": "Manage document merger operations. Auto-activating skill for Business Automation.\nTriggers on: document merger, document merger\nPart of the Business Automation skill category. Use when working with document merger functionality. Trigger with phrases like \"document merger\", \"document merger\", \"document\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-email-parser",
       "name": "email-parser",
       "description": "Configure and manage - Parse email parser operations. Auto-activating skill for Business Automation.\nTriggers on: email parser, email parser\nPart of the Business Automation skill category. Use when working with email parser functionality. Trigger with phrases like \"email parser\", \"email parser\", \"email\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-email-template-generator",
       "name": "email-template-generator",
       "description": "Generate email template generator operations. Auto-activating skill for Business Automation.\nTriggers on: email template generator, email template generator\nPart of the Business Automation skill category. Use when working with email template generator functionality. Trigger with phrases like \"email template generator\", \"email generator\", \"email\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-excel-formula-generator",
       "name": "excel-formula-generator",
       "description": "Generate excel formula generator operations. Auto-activating skill for Business Automation.\nTriggers on: excel formula generator, excel formula generator\nPart of the Business Automation skill category. Use when working with excel formula generator functionality. Trigger with phrases like \"excel formula generator\", \"excel generator\", \"excel\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-excel-macro-creator",
       "name": "excel-macro-creator",
       "description": "Create excel macro creator operations. Auto-activating skill for Business Automation.\nTriggers on: excel macro creator, excel macro creator\nPart of the Business Automation skill category. Use when working with excel macro creator functionality. Trigger with phrases like \"excel macro creator\", \"excel creator\", \"excel\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-form-builder-helper",
       "name": "form-builder-helper",
       "description": "Build form builder helper operations. Auto-activating skill for Business Automation.\nTriggers on: form builder helper, form builder helper\nPart of the Business Automation skill category. Use when working with form builder helper functionality. Trigger with phrases like \"form builder helper\", \"form helper\", \"form\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-google-sheets-automation",
       "name": "google-sheets-automation",
       "description": "Manage google sheets automation operations. Auto-activating skill for Business Automation.\nTriggers on: google sheets automation, google sheets automation\nPart of the Business Automation skill category. Use when working with google sheets automation functionality. Trigger with phrases like \"google sheets automation\", \"google automation\", \"google\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-invoice-generator",
       "name": "invoice-generator",
       "description": "Generate invoice generator operations. Auto-activating skill for Business Automation.\nTriggers on: invoice generator, invoice generator\nPart of the Business Automation skill category. Use when working with invoice generator functionality. Trigger with phrases like \"invoice generator\", \"invoice generator\", \"invoice\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-make-scenario-creator",
       "name": "make-scenario-creator",
       "description": "Create make scenario creator operations. Auto-activating skill for Business Automation.\nTriggers on: make scenario creator, make scenario creator\nPart of the Business Automation skill category. Use when working with make scenario creator functionality. Trigger with phrases like \"make scenario creator\", \"make creator\", \"make\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-meeting-scheduler-helper",
       "name": "meeting-scheduler-helper",
       "description": "Configure with meeting scheduler helper operations. Auto-activating skill for Business Automation.\nTriggers on: meeting scheduler helper, meeting scheduler helper\nPart of the Business Automation skill category. Use when working with meeting scheduler helper functionality. Trigger with phrases like \"meeting scheduler helper\", \"meeting helper\", \"meeting\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-n8n-workflow-generator",
       "name": "n8n-workflow-generator",
       "description": "Generate n8n workflow generator operations. Auto-activating skill for Business Automation.\nTriggers on: n8n workflow generator, n8n workflow generator\nPart of the Business Automation skill category. Use when working with n8n workflow generator functionality. Trigger with phrases like \"n8n workflow generator\", \"n8n generator\", \"n8n\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-notification-dispatcher",
       "name": "notification-dispatcher",
       "description": "Manage notification dispatcher operations. Auto-activating skill for Business Automation.\nTriggers on: notification dispatcher, notification dispatcher\nPart of the Business Automation skill category. Use when working with notification dispatcher functionality. Trigger with phrases like \"notification dispatcher\", \"notification dispatcher\", \"notification\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-pdf-generator",
       "name": "pdf-generator",
       "description": "Generate pdf generator operations. Auto-activating skill for Business Automation.\nTriggers on: pdf generator, pdf generator\nPart of the Business Automation skill category. Use when working with pdf generator functionality. Trigger with phrases like \"pdf generator\", \"pdf generator\", \"pdf\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-pdf-parser",
       "name": "pdf-parser",
       "description": "Configure and manage - Parse pdf parser operations. Auto-activating skill for Business Automation.\nTriggers on: pdf parser, pdf parser\nPart of the Business Automation skill category. Use when working with pdf parser functionality. Trigger with phrases like \"pdf parser\", \"pdf parser\", \"pdf\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-reminder-system-creator",
       "name": "reminder-system-creator",
       "description": "Create reminder system creator operations. Auto-activating skill for Business Automation.\nTriggers on: reminder system creator, reminder system creator\nPart of the Business Automation skill category. Use when working with reminder system creator functionality. Trigger with phrases like \"reminder system creator\", \"reminder creator\", \"reminder\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-report-generator",
       "name": "report-generator",
       "description": "Generate report generator operations. Auto-activating skill for Business Automation.\nTriggers on: report generator, report generator\nPart of the Business Automation skill category. Use when working with report generator functionality. Trigger with phrases like \"report generator\", \"report generator\", \"report\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-slack-bot-creator",
       "name": "slack-bot-creator",
       "description": "Create slack bot creator operations. Auto-activating skill for Business Automation.\nTriggers on: slack bot creator, slack bot creator\nPart of the Business Automation skill category. Use when working with slack bot creator functionality. Trigger with phrases like \"slack bot creator\", \"slack creator\", \"slack\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-survey-creator",
       "name": "survey-creator",
       "description": "Create survey creator operations. Auto-activating skill for Business Automation.\nTriggers on: survey creator, survey creator\nPart of the Business Automation skill category. Use when working with survey creator functionality. Trigger with phrases like \"survey creator\", \"survey creator\", \"survey\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-teams-webhook-sender",
       "name": "teams-webhook-sender",
       "description": "Manage teams webhook sender operations. Auto-activating skill for Business Automation.\nTriggers on: teams webhook sender, teams webhook sender\nPart of the Business Automation skill category. Use when working with teams webhook sender functionality. Trigger with phrases like \"teams webhook sender\", \"teams sender\", \"teams\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-zapier-integration-helper",
       "name": "zapier-integration-helper",
       "description": "Assist with zapier integration helper operations. Auto-activating skill for Business Automation.\nTriggers on: zapier integration helper, zapier integration helper\nPart of the Business Automation skill category. Use when working with APIs or building integrations. Trigger with phrases like \"zapier integration helper\", \"zapier helper\", \"zapier\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-acceptance-criteria-creator",
       "name": "acceptance-criteria-creator",
       "description": "Create acceptance criteria creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: acceptance criteria creator, acceptance criteria creator\nPart of the Enterprise Workflows skill category. Use when working with acceptance criteria creator functionality. Trigger with phrases like \"acceptance criteria creator\", \"acceptance creator\", \"acceptance\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-asana-task-creator",
       "name": "asana-task-creator",
       "description": "Create asana task creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: asana task creator, asana task creator\nPart of the Enterprise Workflows skill category. Use when working with asana task creator functionality. Trigger with phrases like \"asana task creator\", \"asana creator\", \"asana\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-audit-trail-helper",
       "name": "audit-trail-helper",
       "description": "Audit Trail Helper - Auto-activating skill for Enterprise Workflows.\nTriggers on: audit trail helper, audit trail helper\nPart of the Enterprise Workflows skill category. Use when analyzing or auditing audit trail helper. Trigger with phrases like \"audit trail helper\", \"audit helper\", \"audit\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-backlog-grooming-assistant",
       "name": "backlog-grooming-assistant",
       "description": "Execute backlog grooming assistant operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: backlog grooming assistant, backlog grooming assistant\nPart of the Enterprise Workflows skill category. Use when working with backlog grooming assistant functionality. Trigger with phrases like \"backlog grooming assistant\", \"backlog assistant\", \"backlog\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-change-request-generator",
       "name": "change-request-generator",
       "description": "Generate change request generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: change request generator, change request generator\nPart of the Enterprise Workflows skill category. Use when working with change request generator functionality. Trigger with phrases like \"change request generator\", \"change generator\", \"change\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-confluence-page-generator",
       "name": "confluence-page-generator",
       "description": "Generate confluence page generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: confluence page generator, confluence page generator\nPart of the Enterprise Workflows skill category. Use when working with confluence page generator functionality. Trigger with phrases like \"confluence page generator\", \"confluence generator\", \"confluence\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-definition-of-done-generator",
       "name": "definition-of-done-generator",
       "description": "Generate definition of done generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: definition of done generator, definition of done generator\nPart of the Enterprise Workflows skill category. Use when working with definition of done generator functionality. Trigger with phrases like \"definition of done generator\", \"definition generator\", \"definition\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-executive-summary-creator",
       "name": "executive-summary-creator",
       "description": "Create executive summary creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: executive summary creator, executive summary creator\nPart of the Enterprise Workflows skill category. Use when working with executive summary creator functionality. Trigger with phrases like \"executive summary creator\", \"executive creator\", \"executive\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-github-issue-creator",
       "name": "github-issue-creator",
       "description": "Create github issue creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: github issue creator, github issue creator\nPart of the Enterprise Workflows skill category. Use when working with github issue creator functionality. Trigger with phrases like \"github issue creator\", \"github creator\", \"github\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-github-project-setup",
       "name": "github-project-setup",
       "description": "Configure github project setup operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: github project setup, github project setup\nPart of the Enterprise Workflows skill category. Use when working with github project setup functionality. Trigger with phrases like \"github project setup\", \"github setup\", \"github\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-gitlab-epic-creator",
       "name": "gitlab-epic-creator",
       "description": "Create gitlab epic creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: gitlab epic creator, gitlab epic creator\nPart of the Enterprise Workflows skill category. Use when working with gitlab epic creator functionality. Trigger with phrases like \"gitlab epic creator\", \"gitlab creator\", \"gitlab\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-governance-checklist-generator",
       "name": "governance-checklist-generator",
       "description": "Generate governance checklist generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: governance checklist generator, governance checklist generator\nPart of the Enterprise Workflows skill category. Use when working with governance checklist generator functionality. Trigger with phrases like \"governance checklist generator\", \"governance generator\", \"governance\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-impact-analysis-helper",
       "name": "impact-analysis-helper",
       "description": "Configure with impact analysis helper operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: impact analysis helper, impact analysis helper\nPart of the Enterprise Workflows skill category. Use when working with impact analysis helper functionality. Trigger with phrases like \"impact analysis helper\", \"impact helper\", \"impact\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-jira-ticket-generator",
       "name": "jira-ticket-generator",
       "description": "Generate jira ticket generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: jira ticket generator, jira ticket generator\nPart of the Enterprise Workflows skill category. Use when working with jira ticket generator functionality. Trigger with phrases like \"jira ticket generator\", \"jira generator\", \"jira\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-jira-workflow-creator",
       "name": "jira-workflow-creator",
       "description": "Create jira workflow creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: jira workflow creator, jira workflow creator\nPart of the Enterprise Workflows skill category. Use when working with jira workflow creator functionality. Trigger with phrases like \"jira workflow creator\", \"jira creator\", \"jira\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-kpi-dashboard-template",
       "name": "kpi-dashboard-template",
       "description": "Manage kpi dashboard template operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: kpi dashboard template, kpi dashboard template\nPart of the Enterprise Workflows skill category. Use when working with kpi dashboard template functionality. Trigger with phrases like \"kpi dashboard template\", \"kpi template\", \"kpi\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-linear-issue-generator",
       "name": "linear-issue-generator",
       "description": "Generate linear issue generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: linear issue generator, linear issue generator\nPart of the Enterprise Workflows skill category. Use when working with linear issue generator functionality. Trigger with phrases like \"linear issue generator\", \"linear generator\", \"linear\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-okr-tracker-creator",
       "name": "okr-tracker-creator",
       "description": "Create okr tracker creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: okr tracker creator, okr tracker creator\nPart of the Enterprise Workflows skill category. Use when working with okr tracker creator functionality. Trigger with phrases like \"okr tracker creator\", \"okr creator\", \"okr\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-risk-assessment-creator",
       "name": "risk-assessment-creator",
       "description": "Create risk assessment creator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: risk assessment creator, risk assessment creator\nPart of the Enterprise Workflows skill category. Use when working with risk assessment creator functionality. Trigger with phrases like \"risk assessment creator\", \"risk creator\", \"risk\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-roadmap-generator",
       "name": "roadmap-generator",
       "description": "Generate roadmap generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: roadmap generator, roadmap generator\nPart of the Enterprise Workflows skill category. Use when working with roadmap generator functionality. Trigger with phrases like \"roadmap generator\", \"roadmap generator\", \"roadmap\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-sla-monitor-setup",
       "name": "sla-monitor-setup",
       "description": "Configure sla monitor setup operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: sla monitor setup, sla monitor setup\nPart of the Enterprise Workflows skill category. Use when monitoring systems or services. Trigger with phrases like \"sla monitor setup\", \"sla setup\", \"sla\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-sprint-planning-helper",
       "name": "sprint-planning-helper",
       "description": "Configure with sprint planning helper operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: sprint planning helper, sprint planning helper\nPart of the Enterprise Workflows skill category. Use when working with sprint planning helper functionality. Trigger with phrases like \"sprint planning helper\", \"sprint helper\", \"sprint\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-stakeholder-communication-template",
       "name": "stakeholder-communication-template",
       "description": "Manage stakeholder communication template operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: stakeholder communication template, stakeholder communication template\nPart of the Enterprise Workflows skill category. Use when working with stakeholder communication template functionality. Trigger with phrases like \"stakeholder communication template\", \"stakeholder template\", \"stakeholder\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-status-report-generator",
       "name": "status-report-generator",
       "description": "Generate status report generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: status report generator, status report generator\nPart of the Enterprise Workflows skill category. Use when working with status report generator functionality. Trigger with phrases like \"status report generator\", \"status generator\", \"status\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-user-story-generator",
       "name": "user-story-generator",
       "description": "Generate user story generator operations. Auto-activating skill for Enterprise Workflows.\nTriggers on: user story generator, user story generator\nPart of the Enterprise Workflows skill category. Use when working with user story generator functionality. Trigger with phrases like \"user story generator\", \"user generator\", \"user\".\n",
-      "stars": 920,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-pci-compliance",
       "name": "pci-compliance",
       "description": "Implement PCI DSS compliance requirements for secure handling of payment card data and payment systems. Use when securing payment processing, achieving PCI compliance, or implementing payment card security measures.",
-      "stars": 24701,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-paypal-integration",
       "name": "paypal-integration",
       "description": "Integrate PayPal payment processing with support for express checkout, subscriptions, and refund management. Use when implementing PayPal payments, processing online transactions, or building e-commerce checkout flows.",
-      "stars": 24701,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-billing-automation",
       "name": "billing-automation",
       "description": "Build automated billing systems for recurring payments, invoicing, subscription lifecycle, and dunning management. Use when implementing subscription billing, automating invoicing, or managing recurring payment systems.",
-      "stars": 24701,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-stripe-integration",
       "name": "stripe-integration",
       "description": "Implement Stripe payment processing for robust, PCI-compliant payment flows including checkout, subscriptions, and webhooks. Use when integrating Stripe payments, building subscription systems, or implementing secure checkout flows.",
-      "stars": 24701,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "davepoon-buildwithclaude-lead-research-assistant",
       "name": "lead-research-assistant",
       "description": "Identifies high-quality leads for your product or service by analyzing your business, searching for target companies, and providing actionable contact strategies. Perfect for sales, business development, and marketing professionals.",
-      "stars": 2150,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-09T04:41:20Z"
+      "stars": 2150,
+      "updatedAt": "2026-01-09T04:41:20Z",
+      "repoUrl": ""
     },
     {
       "id": "czlonkowski-n8n-skills-n8n-code-python",
       "name": "n8n-code-python",
       "description": "Write Python code in n8n Code nodes. Use when writing Python in n8n, using _input/_json/_node syntax, working with standard library, or need to understand Python limitations in n8n Code nodes.",
-      "stars": 1373,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-09T06:02:50Z"
+      "stars": 1373,
+      "updatedAt": "2026-01-09T06:02:50Z",
+      "repoUrl": ""
     },
     {
       "id": "czlonkowski-n8n-skills-n8n-code-javascript",
       "name": "n8n-code-javascript",
       "description": "Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making HTTP requests with $helpers, working with dates using DateTime, troubleshooting Code node errors, or choosing between Code node modes.",
-      "stars": 1373,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-09T06:02:50Z"
+      "stars": 1373,
+      "updatedAt": "2026-01-09T06:02:50Z",
+      "repoUrl": ""
     },
     {
       "id": "leeovery-claude-laravel-laravel-enums",
       "name": "laravel-enums",
       "description": "Backed enums with labels and business logic. Use when working with enums, status values, fixed sets of options, or when user mentions enums, backed enums, enum cases, status enums.",
-      "stars": 6,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-09T17:18:02Z"
+      "stars": 6,
+      "updatedAt": "2026-01-09T17:18:02Z",
+      "repoUrl": ""
     },
     {
       "id": "oalders-talk-about-us-talk-about-us",
       "name": "talk-about-us",
       "description": "Use when auditing or reviewing website copy, SEO titles/descriptions, marketing content, or public messaging - applies Anil Dash's shareability framework to ensure others can authentically talk about your work without you present",
-      "stars": 0,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-09T18:32:05Z"
+      "stars": 0,
+      "updatedAt": "2026-01-09T18:32:05Z",
+      "repoUrl": ""
     },
     {
       "id": "truchot-claude-skills-test-finance-analytics",
       "name": "finance-analytics",
       "description": "Expert Finance & Analytics - Facturation, KPIs, reporting business, prévisions et rentabilité",
-      "stars": 0,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-09T21:19:01Z"
+      "stars": 0,
+      "updatedAt": "2026-01-09T21:19:01Z",
+      "repoUrl": ""
     },
     {
       "id": "miles990-claude-domain-skills-marketing",
       "name": "marketing",
       "description": "數位行銷策略、內容行銷與成效分析",
-      "stars": 0,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-13T16:42:04Z"
+      "stars": 0,
+      "updatedAt": "2026-01-13T16:42:04Z",
+      "repoUrl": ""
     },
     {
       "id": "miles990-claude-domain-skills-project-management",
       "name": "project-management",
       "description": "專案管理：敏捷開發、Scrum、甘特圖、風險管理、團隊協作",
-      "stars": 0,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-13T16:42:04Z"
+      "stars": 0,
+      "updatedAt": "2026-01-13T16:42:04Z",
+      "repoUrl": ""
     },
     {
       "id": "miles990-claude-domain-skills-strategy",
       "name": "business-strategy",
       "description": "商業策略：藍海策略、差異化、競爭優勢、價值創新、商業模式設計",
-      "stars": 0,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-13T16:42:04Z"
+      "stars": 0,
+      "updatedAt": "2026-01-13T16:42:04Z",
+      "repoUrl": ""
     },
     {
       "id": "miles990-claude-domain-skills-sales",
       "name": "sales",
       "description": "銷售技巧：B2B/B2C 銷售、客戶開發、電商營運、成交策略",
-      "stars": 0,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-13T16:42:04Z"
+      "stars": 0,
+      "updatedAt": "2026-01-13T16:42:04Z",
+      "repoUrl": ""
     },
     {
       "id": "miles990-claude-domain-skills-product-management",
       "name": "product-management",
       "description": "產品管理：PRD撰寫、用戶故事、OKR設定、路線圖規劃",
-      "stars": 0,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-13T16:42:04Z"
+      "stars": 0,
+      "updatedAt": "2026-01-13T16:42:04Z",
+      "repoUrl": ""
     },
     {
       "id": "majiayu000-claude-skill-registry-art",
       "name": "Art",
       "description": "Visual content generation with Excalidraw hand-drawn aesthetic. USE WHEN user wants diagrams, visualizations, comics, or editorial illustrations.",
-      "stars": 15,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-13T16:32:24Z"
+      "stars": 15,
+      "updatedAt": "2026-01-13T16:32:24Z",
+      "repoUrl": ""
     },
     {
       "id": "dkyazzentwatwa-chatgpt-skills-budget-analyzer",
       "name": "budget-analyzer",
       "description": "Analyze personal or business expenses from CSV/Excel. Categorize spending, identify trends, compare periods, and get savings recommendations.",
-      "stars": 4,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-12T17:13:08Z"
+      "stars": 4,
+      "updatedAt": "2026-01-12T17:13:08Z",
+      "repoUrl": ""
     },
     {
       "id": "dkyazzentwatwa-chatgpt-skills-territory-mapper",
       "name": "territory-mapper",
       "description": "Use when asked to visualize sales territories, coverage areas, service regions, or geographic boundaries on interactive maps.",
-      "stars": 4,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-12T17:13:08Z"
+      "stars": 4,
+      "updatedAt": "2026-01-12T17:13:08Z",
+      "repoUrl": ""
     },
     {
       "id": "dkyazzentwatwa-chatgpt-skills-blog-post-optimizer",
       "name": "blog-post-optimizer",
       "description": "Analyze blog posts for SEO, readability, headline quality, and content structure. Generate meta tags and optimization recommendations with scoring.",
-      "stars": 4,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-12T17:13:08Z"
+      "stars": 4,
+      "updatedAt": "2026-01-12T17:13:08Z",
+      "repoUrl": ""
     },
     {
       "id": "eyadsibai-ltk-market-sizing-analysis",
       "name": "market-sizing-analysis",
       "description": "This skill should be used when the user asks to \"calculate TAM\", \"determine SAM\", \"estimate SOM\", \"size the market\", \"calculate market opportunity\", \"what's the total addressable market\", or requests market sizing analysis for a startup or business opportunity.",
-      "stars": 0,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-15T19:50:07Z"
+      "stars": 0,
+      "updatedAt": "2026-01-15T19:50:07Z",
+      "repoUrl": ""
     },
     {
       "id": "nimblebraininc-skills-blog-editor",
       "name": "blog-editor",
       "description": "Brutal content editor that tears apart drafts for substance, readability, and voice alignment. Use when reviewing blog posts, articles, or marketing copy. Triggers include \"review this draft\", \"edit my post\", \"check this article\", \"is this ready to publish\", or \"tear apart my writing\".",
-      "stars": 1,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-16T10:08:44Z"
+      "stars": 1,
+      "updatedAt": "2026-01-16T10:08:44Z",
+      "repoUrl": ""
     },
     {
       "id": "nimblebraininc-skills-seo-optimizer",
       "name": "seo-optimizer",
       "description": "Analyzes and optimizes content for search engine visibility. Use when reviewing blog posts for SEO, optimizing landing pages, checking meta descriptions, analyzing keyword usage, or improving content discoverability. Triggers include \"optimize for SEO\", \"check SEO\", \"improve search ranking\", or \"keyword analysis\".",
-      "stars": 1,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-16T10:08:44Z"
+      "stars": 1,
+      "updatedAt": "2026-01-16T10:08:44Z",
+      "repoUrl": ""
     },
     {
       "id": "markng-claude-plugins-real-revenue-calculator",
       "name": "real-revenue-calculator",
       "description": "Calculate Real Revenue for Profit First allocations. Determines if a business should use Real Revenue (vs Total Revenue) and calculates it.",
-      "stars": 0,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-16T10:32:49Z"
+      "stars": 0,
+      "updatedAt": "2026-01-16T10:32:49Z",
+      "repoUrl": ""
     },
     {
       "id": "3commas-io-commas-claude-saga-orchestration",
       "name": "saga-orchestration",
       "description": "Implement saga patterns for distributed transactions and cross-aggregate workflows. Use when coordinating multi-step business processes, handling compensating transactions, or managing long-running workflows.",
-      "stars": 0,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-14T09:38:08Z"
+      "stars": 0,
+      "updatedAt": "2026-01-14T09:38:08Z",
+      "repoUrl": ""
     },
     {
       "id": "parachutes87-rathunas-skills-ba-user-story-creator",
       "name": "BA-User-Story-Creator",
       "description": "Expert business analyst skill for creating well-structured user stories following BSA Team best practices. Creates comprehensive JIRA-ready stories with proper format, acceptance criteria, business impact analysis, and change management considerations.",
-      "stars": 0,
+      "category": "business-marketing",
       "tags": [],
-      "updatedAt": "2026-01-14T22:53:22Z"
+      "stars": 0,
+      "updatedAt": "2026-01-14T22:53:22Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-gdpr",
       "name": "Compliance Gdpr",
       "description": "Complete guide to compliance gdpr",
-      "stars": 533,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 533,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-ccpa",
       "name": "Compliance Ccpa",
       "description": "Complete guide to compliance ccpa",
-      "stars": 599,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 599,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-hipaa",
       "name": "Compliance Hipaa",
       "description": "Complete guide to compliance hipaa",
-      "stars": 277,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 277,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-soc2",
       "name": "Compliance Soc2",
       "description": "Complete guide to compliance soc2",
-      "stars": 229,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 229,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-iso27001",
       "name": "Compliance Iso27001",
       "description": "Complete guide to compliance iso27001",
-      "stars": 518,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 518,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-pci-dss",
       "name": "Compliance Pci Dss",
       "description": "Complete guide to compliance pci dss",
-      "stars": 249,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 249,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-fedramp",
       "name": "Compliance Fedramp",
       "description": "Complete guide to compliance fedramp",
-      "stars": 280,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 280,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-nist",
       "name": "Compliance Nist",
       "description": "Complete guide to compliance nist",
-      "stars": 385,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 385,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-cis-benchmarks",
       "name": "Compliance Cis Benchmarks",
       "description": "Complete guide to compliance cis benchmarks",
-      "stars": 467,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 467,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-csa-star",
       "name": "Compliance Csa Star",
       "description": "Complete guide to compliance csa star",
-      "stars": 518,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 518,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-hitrust",
       "name": "Compliance Hitrust",
       "description": "Complete guide to compliance hitrust",
-      "stars": 106,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 106,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-fisma",
       "name": "Compliance Fisma",
       "description": "Complete guide to compliance fisma",
-      "stars": 248,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 248,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-glba",
       "name": "Compliance Glba",
       "description": "Complete guide to compliance glba",
-      "stars": 174,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 174,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-ferpa",
       "name": "Compliance Ferpa",
       "description": "Complete guide to compliance ferpa",
-      "stars": 560,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 560,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-coppa",
       "name": "Compliance Coppa",
       "description": "Complete guide to compliance coppa",
-      "stars": 519,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 519,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-lgpd",
       "name": "Compliance Lgpd",
       "description": "Complete guide to compliance lgpd",
-      "stars": 347,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 347,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-pdpa",
       "name": "Compliance Pdpa",
       "description": "Complete guide to compliance pdpa",
-      "stars": 358,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 358,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-pipl",
       "name": "Compliance Pipl",
       "description": "Complete guide to compliance pipl",
-      "stars": 142,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 142,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-appi",
       "name": "Compliance Appi",
       "description": "Complete guide to compliance appi",
-      "stars": 135,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 135,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "compliance-privacy-shield",
       "name": "Compliance Privacy Shield",
       "description": "Complete guide to compliance privacy shield",
-      "stars": 172,
+      "category": "business-marketing",
       "tags": [
         "compliance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 172,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-data-classification",
       "name": "Governance Data Classification",
       "description": "Complete guide to governance data classification",
-      "stars": 104,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 104,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-data-retention",
       "name": "Governance Data Retention",
       "description": "Complete guide to governance data retention",
-      "stars": 549,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 549,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-data-deletion",
       "name": "Governance Data Deletion",
       "description": "Complete guide to governance data deletion",
-      "stars": 555,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 555,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-consent-management",
       "name": "Governance Consent Management",
       "description": "Complete guide to governance consent management",
-      "stars": 502,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 502,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-cookie-consent",
       "name": "Governance Cookie Consent",
       "description": "Complete guide to governance cookie consent",
-      "stars": 405,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 405,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-privacy-policy",
       "name": "Governance Privacy Policy",
       "description": "Complete guide to governance privacy policy",
-      "stars": 206,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 206,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-terms-of-service",
       "name": "Governance Terms Of Service",
       "description": "Complete guide to governance terms of service",
-      "stars": 217,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 217,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-data-processing-agreement",
       "name": "Governance Data Processing Agreement",
       "description": "Complete guide to governance data processing agreement",
-      "stars": 347,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 347,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-subprocessor-list",
       "name": "Governance Subprocessor List",
       "description": "Complete guide to governance subprocessor list",
-      "stars": 323,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 323,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-dpia",
       "name": "Governance Dpia",
       "description": "Complete guide to governance dpia",
-      "stars": 308,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 308,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-pia",
       "name": "Governance Pia",
       "description": "Complete guide to governance pia",
-      "stars": 377,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 377,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-ropa",
       "name": "Governance Ropa",
       "description": "Complete guide to governance ropa",
-      "stars": 127,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 127,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-breach-notification",
       "name": "Governance Breach Notification",
       "description": "Complete guide to governance breach notification",
-      "stars": 371,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 371,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-subject-access-request",
       "name": "Governance Subject Access Request",
       "description": "Complete guide to governance subject access request",
-      "stars": 346,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 346,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-right-to-erasure",
       "name": "Governance Right To Erasure",
       "description": "Complete guide to governance right to erasure",
-      "stars": 478,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 478,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-data-portability",
       "name": "Governance Data Portability",
       "description": "Complete guide to governance data portability",
-      "stars": 262,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 262,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-audit-logging",
       "name": "Governance Audit Logging",
       "description": "Complete guide to governance audit logging",
-      "stars": 563,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 563,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-access-reviews",
       "name": "Governance Access Reviews",
       "description": "Complete guide to governance access reviews",
-      "stars": 393,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 393,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-segregation-of-duties",
       "name": "Governance Segregation Of Duties",
       "description": "Complete guide to governance segregation of duties",
-      "stars": 384,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 384,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "governance-least-privilege",
       "name": "Governance Least Privilege",
       "description": "Complete guide to governance least privilege",
-      "stars": 306,
+      "category": "business-marketing",
       "tags": [
         "governance"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 306,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-google-analytics",
       "name": "Analytics Google Analytics",
       "description": "Complete guide to analytics google analytics",
-      "stars": 330,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 330,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-mixpanel",
       "name": "Analytics Mixpanel",
       "description": "Complete guide to analytics mixpanel",
-      "stars": 371,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 371,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-amplitude",
       "name": "Analytics Amplitude",
       "description": "Complete guide to analytics amplitude",
-      "stars": 218,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 218,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-segment",
       "name": "Analytics Segment",
       "description": "Complete guide to analytics segment",
-      "stars": 294,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 294,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-rudderstack",
       "name": "Analytics Rudderstack",
       "description": "Complete guide to analytics rudderstack",
-      "stars": 174,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 174,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-posthog",
       "name": "Analytics Posthog",
       "description": "Complete guide to analytics posthog",
-      "stars": 375,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 375,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-plausible",
       "name": "Analytics Plausible",
       "description": "Complete guide to analytics plausible",
-      "stars": 154,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 154,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-umami",
       "name": "Analytics Umami",
       "description": "Complete guide to analytics umami",
-      "stars": 539,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 539,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-fathom",
       "name": "Analytics Fathom",
       "description": "Complete guide to analytics fathom",
-      "stars": 194,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 194,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-simple-analytics",
       "name": "Analytics Simple Analytics",
       "description": "Complete guide to analytics simple analytics",
-      "stars": 313,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 313,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-matomo",
       "name": "Analytics Matomo",
       "description": "Complete guide to analytics matomo",
-      "stars": 502,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 502,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-piwik",
       "name": "Analytics Piwik",
       "description": "Complete guide to analytics piwik",
-      "stars": 153,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 153,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-heap",
       "name": "Analytics Heap",
       "description": "Complete guide to analytics heap",
-      "stars": 577,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 577,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-fullstory",
       "name": "Analytics Fullstory",
       "description": "Complete guide to analytics fullstory",
-      "stars": 481,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 481,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-logrocket",
       "name": "Analytics Logrocket",
       "description": "Complete guide to analytics logrocket",
-      "stars": 223,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 223,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-hotjar",
       "name": "Analytics Hotjar",
       "description": "Complete guide to analytics hotjar",
-      "stars": 433,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 433,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-mouseflow",
       "name": "Analytics Mouseflow",
       "description": "Complete guide to analytics mouseflow",
-      "stars": 458,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 458,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-lucky-orange",
       "name": "Analytics Lucky Orange",
       "description": "Complete guide to analytics lucky orange",
-      "stars": 562,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 562,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-crazy-egg",
       "name": "Analytics Crazy Egg",
       "description": "Complete guide to analytics crazy egg",
-      "stars": 586,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 586,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "analytics-clarity",
       "name": "Analytics Clarity",
       "description": "Complete guide to analytics clarity",
-      "stars": 493,
+      "category": "business-marketing",
       "tags": [
         "analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 493,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-pendo",
       "name": "Product Analytics Pendo",
       "description": "Complete guide to product analytics pendo",
-      "stars": 597,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 597,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-walkme",
       "name": "Product Analytics Walkme",
       "description": "Complete guide to product analytics walkme",
-      "stars": 440,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 440,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-whatfix",
       "name": "Product Analytics Whatfix",
       "description": "Complete guide to product analytics whatfix",
-      "stars": 558,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 558,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-userpilot",
       "name": "Product Analytics Userpilot",
       "description": "Complete guide to product analytics userpilot",
-      "stars": 564,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 564,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-appcues",
       "name": "Product Analytics Appcues",
       "description": "Complete guide to product analytics appcues",
-      "stars": 205,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 205,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-chameleon",
       "name": "Product Analytics Chameleon",
       "description": "Complete guide to product analytics chameleon",
-      "stars": 373,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 373,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-intercom-tours",
       "name": "Product Analytics Intercom Tours",
       "description": "Complete guide to product analytics intercom tours",
-      "stars": 529,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 529,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-userflow",
       "name": "Product Analytics Userflow",
       "description": "Complete guide to product analytics userflow",
-      "stars": 594,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 594,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-product-fruits",
       "name": "Product Analytics Product Fruits",
       "description": "Complete guide to product analytics product fruits",
-      "stars": 210,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 210,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-userguiding",
       "name": "Product Analytics Userguiding",
       "description": "Complete guide to product analytics userguiding",
-      "stars": 368,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 368,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-stonly",
       "name": "Product Analytics Stonly",
       "description": "Complete guide to product analytics stonly",
-      "stars": 315,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 315,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-helpscout",
       "name": "Product Analytics Helpscout",
       "description": "Complete guide to product analytics helpscout",
-      "stars": 102,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 102,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-crisp",
       "name": "Product Analytics Crisp",
       "description": "Complete guide to product analytics crisp",
-      "stars": 356,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 356,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-drift",
       "name": "Product Analytics Drift",
       "description": "Complete guide to product analytics drift",
-      "stars": 328,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 328,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-intercom",
       "name": "Product Analytics Intercom",
       "description": "Complete guide to product analytics intercom",
-      "stars": 107,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 107,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-zendesk",
       "name": "Product Analytics Zendesk",
       "description": "Complete guide to product analytics zendesk",
-      "stars": 358,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 358,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-freshdesk",
       "name": "Product Analytics Freshdesk",
       "description": "Complete guide to product analytics freshdesk",
-      "stars": 264,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 264,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-hubspot",
       "name": "Product Analytics Hubspot",
       "description": "Complete guide to product analytics hubspot",
-      "stars": 548,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 548,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-salesforce",
       "name": "Product Analytics Salesforce",
       "description": "Complete guide to product analytics salesforce",
-      "stars": 588,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 588,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "product-analytics-pipedrive",
       "name": "Product Analytics Pipedrive",
       "description": "Complete guide to product analytics pipedrive",
-      "stars": 217,
+      "category": "business-marketing",
       "tags": [
         "product-analytics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 217,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-google-ads",
       "name": "Marketing Google Ads",
       "description": "Complete guide to marketing google ads",
-      "stars": 175,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 175,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-facebook-ads",
       "name": "Marketing Facebook Ads",
       "description": "Complete guide to marketing facebook ads",
-      "stars": 318,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 318,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-linkedin-ads",
       "name": "Marketing Linkedin Ads",
       "description": "Complete guide to marketing linkedin ads",
-      "stars": 165,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 165,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-twitter-ads",
       "name": "Marketing Twitter Ads",
       "description": "Complete guide to marketing twitter ads",
-      "stars": 488,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 488,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-tiktok-ads",
       "name": "Marketing Tiktok Ads",
       "description": "Complete guide to marketing tiktok ads",
-      "stars": 215,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 215,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-pinterest-ads",
       "name": "Marketing Pinterest Ads",
       "description": "Complete guide to marketing pinterest ads",
-      "stars": 348,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 348,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-reddit-ads",
       "name": "Marketing Reddit Ads",
       "description": "Complete guide to marketing reddit ads",
-      "stars": 574,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 574,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-programmatic",
       "name": "Marketing Programmatic",
       "description": "Complete guide to marketing programmatic",
-      "stars": 589,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 589,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-dsp",
       "name": "Marketing Dsp",
       "description": "Complete guide to marketing dsp",
-      "stars": 280,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 280,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-dmp",
       "name": "Marketing Dmp",
       "description": "Complete guide to marketing dmp",
-      "stars": 477,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 477,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-cdp",
       "name": "Marketing Cdp",
       "description": "Complete guide to marketing cdp",
-      "stars": 236,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 236,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-crm-marketing",
       "name": "Marketing Crm Marketing",
       "description": "Complete guide to marketing crm marketing",
-      "stars": 122,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 122,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-email-marketing",
       "name": "Marketing Email Marketing",
       "description": "Complete guide to marketing email marketing",
-      "stars": 261,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 261,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-sms-marketing",
       "name": "Marketing Sms Marketing",
       "description": "Complete guide to marketing sms marketing",
-      "stars": 500,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 500,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-push-marketing",
       "name": "Marketing Push Marketing",
       "description": "Complete guide to marketing push marketing",
-      "stars": 333,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 333,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-in-app-marketing",
       "name": "Marketing In App Marketing",
       "description": "Complete guide to marketing in app marketing",
-      "stars": 145,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 145,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-web-push-marketing",
       "name": "Marketing Web Push Marketing",
       "description": "Complete guide to marketing web push marketing",
-      "stars": 188,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 188,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-retargeting",
       "name": "Marketing Retargeting",
       "description": "Complete guide to marketing retargeting",
-      "stars": 444,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 444,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-lookalike",
       "name": "Marketing Lookalike",
       "description": "Complete guide to marketing lookalike",
-      "stars": 589,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 589,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "marketing-attribution",
       "name": "Marketing Attribution",
       "description": "Complete guide to marketing attribution",
-      "stars": 112,
+      "category": "business-marketing",
       "tags": [
         "marketing"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 112,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-google-search-console",
       "name": "Seo Tools Google Search Console",
       "description": "Complete guide to seo tools google search console",
-      "stars": 573,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 573,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-bing-webmaster",
       "name": "Seo Tools Bing Webmaster",
       "description": "Complete guide to seo tools bing webmaster",
-      "stars": 577,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 577,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-ahrefs",
       "name": "Seo Tools Ahrefs",
       "description": "Complete guide to seo tools ahrefs",
-      "stars": 341,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 341,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-semrush",
       "name": "Seo Tools Semrush",
       "description": "Complete guide to seo tools semrush",
-      "stars": 305,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 305,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-moz",
       "name": "Seo Tools Moz",
       "description": "Complete guide to seo tools moz",
-      "stars": 397,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 397,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-majestic",
       "name": "Seo Tools Majestic",
       "description": "Complete guide to seo tools majestic",
-      "stars": 207,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 207,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-screaming-frog",
       "name": "Seo Tools Screaming Frog",
       "description": "Complete guide to seo tools screaming frog",
-      "stars": 477,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 477,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-sitebulb",
       "name": "Seo Tools Sitebulb",
       "description": "Complete guide to seo tools sitebulb",
-      "stars": 477,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 477,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-deepcrawl",
       "name": "Seo Tools Deepcrawl",
       "description": "Complete guide to seo tools deepcrawl",
-      "stars": 478,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 478,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-botify",
       "name": "Seo Tools Botify",
       "description": "Complete guide to seo tools botify",
-      "stars": 275,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 275,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-oncrawl",
       "name": "Seo Tools Oncrawl",
       "description": "Complete guide to seo tools oncrawl",
-      "stars": 451,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 451,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-seomonitor",
       "name": "Seo Tools Seomonitor",
       "description": "Complete guide to seo tools seomonitor",
-      "stars": 534,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 534,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-accuranker",
       "name": "Seo Tools Accuranker",
       "description": "Complete guide to seo tools accuranker",
-      "stars": 290,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 290,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-serpstat",
       "name": "Seo Tools Serpstat",
       "description": "Complete guide to seo tools serpstat",
-      "stars": 424,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 424,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-ubersuggest",
       "name": "Seo Tools Ubersuggest",
       "description": "Complete guide to seo tools ubersuggest",
-      "stars": 503,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 503,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-answerthepublic",
       "name": "Seo Tools Answerthepublic",
       "description": "Complete guide to seo tools answerthepublic",
-      "stars": 533,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 533,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-keyword-planner",
       "name": "Seo Tools Keyword Planner",
       "description": "Complete guide to seo tools keyword planner",
-      "stars": 581,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 581,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-google-trends",
       "name": "Seo Tools Google Trends",
       "description": "Complete guide to seo tools google trends",
-      "stars": 157,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 157,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-similar-web",
       "name": "Seo Tools Similar Web",
       "description": "Complete guide to seo tools similar web",
-      "stars": 194,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 194,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "seo-tools-spyfu",
       "name": "Seo Tools Spyfu",
       "description": "Complete guide to seo tools spyfu",
-      "stars": 205,
+      "category": "business-marketing",
       "tags": [
         "seo-tools"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 205,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "career-resume-tips",
       "name": "Career Resume Tips",
       "description": "Complete guide to career resume tips",
-      "stars": 389,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 389,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-portfolio-tips",
       "name": "Career Portfolio Tips",
       "description": "Complete guide to career portfolio tips",
-      "stars": 551,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 551,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-linkedin-optimization",
       "name": "Career Linkedin Optimization",
       "description": "Complete guide to career linkedin optimization",
-      "stars": 283,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 283,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-github-profile",
       "name": "Career Github Profile",
       "description": "Complete guide to career github profile",
-      "stars": 234,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 234,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-personal-branding",
       "name": "Career Personal Branding",
       "description": "Complete guide to career personal branding",
-      "stars": 476,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 476,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-networking-career",
       "name": "Career Networking Career",
       "description": "Complete guide to career networking career",
-      "stars": 145,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 145,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-mentorship",
       "name": "Career Mentorship",
       "description": "Complete guide to career mentorship",
-      "stars": 238,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 238,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-career-growth",
       "name": "Career Career Growth",
       "description": "Complete guide to career career growth",
-      "stars": 486,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 486,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-salary-negotiation",
       "name": "Career Salary Negotiation",
       "description": "Complete guide to career salary negotiation",
-      "stars": 519,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 519,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-job-search",
       "name": "Career Job Search",
       "description": "Complete guide to career job search",
-      "stars": 457,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 457,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-remote-work",
       "name": "Career Remote Work",
       "description": "Complete guide to career remote work",
-      "stars": 509,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 509,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-freelancing",
       "name": "Career Freelancing",
       "description": "Complete guide to career freelancing",
-      "stars": 195,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 195,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-consulting",
       "name": "Career Consulting",
       "description": "Complete guide to career consulting",
-      "stars": 462,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 462,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-entrepreneurship",
       "name": "Career Entrepreneurship",
       "description": "Complete guide to career entrepreneurship",
-      "stars": 221,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 221,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-side-projects",
       "name": "Career Side Projects",
       "description": "Complete guide to career side projects",
-      "stars": 361,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 361,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-open-source-contribution",
       "name": "Career Open Source Contribution",
       "description": "Complete guide to career open source contribution",
-      "stars": 114,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 114,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-conference-speaking",
       "name": "Career Conference Speaking",
       "description": "Complete guide to career conference speaking",
-      "stars": 529,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 529,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-technical-writing",
       "name": "Career Technical Writing",
       "description": "Complete guide to career technical writing",
-      "stars": 275,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 275,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-blogging",
       "name": "Career Blogging",
       "description": "Complete guide to career blogging",
-      "stars": 251,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 251,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "career-content-creation",
       "name": "Career Content Creation",
       "description": "Complete guide to career content creation",
-      "stars": 133,
+      "category": "business-marketing",
       "tags": [
         "career"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 133,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-communication-skills",
       "name": "Soft Skills Communication Skills",
       "description": "Complete guide to soft skills communication skills",
-      "stars": 293,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 293,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-presentation-skills",
       "name": "Soft Skills Presentation Skills",
       "description": "Complete guide to soft skills presentation skills",
-      "stars": 558,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 558,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-writing-skills",
       "name": "Soft Skills Writing Skills",
       "description": "Complete guide to soft skills writing skills",
-      "stars": 305,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 305,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-listening-skills",
       "name": "Soft Skills Listening Skills",
       "description": "Complete guide to soft skills listening skills",
-      "stars": 420,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 420,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-feedback-giving",
       "name": "Soft Skills Feedback Giving",
       "description": "Complete guide to soft skills feedback giving",
-      "stars": 351,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 351,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-feedback-receiving",
       "name": "Soft Skills Feedback Receiving",
       "description": "Complete guide to soft skills feedback receiving",
-      "stars": 141,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 141,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-conflict-resolution",
       "name": "Soft Skills Conflict Resolution",
       "description": "Complete guide to soft skills conflict resolution",
-      "stars": 322,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 322,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-negotiation-skills",
       "name": "Soft Skills Negotiation Skills",
       "description": "Complete guide to soft skills negotiation skills",
-      "stars": 405,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 405,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-leadership-skills",
       "name": "Soft Skills Leadership Skills",
       "description": "Complete guide to soft skills leadership skills",
-      "stars": 552,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 552,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-management-skills",
       "name": "Soft Skills Management Skills",
       "description": "Complete guide to soft skills management skills",
-      "stars": 112,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 112,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-delegation",
       "name": "Soft Skills Delegation",
       "description": "Complete guide to soft skills delegation",
-      "stars": 363,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 363,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-prioritization",
       "name": "Soft Skills Prioritization",
       "description": "Complete guide to soft skills prioritization",
-      "stars": 552,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 552,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-time-management",
       "name": "Soft Skills Time Management",
       "description": "Complete guide to soft skills time management",
-      "stars": 249,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 249,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-stress-management",
       "name": "Soft Skills Stress Management",
       "description": "Complete guide to soft skills stress management",
-      "stars": 133,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 133,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-work-life-balance",
       "name": "Soft Skills Work Life Balance",
       "description": "Complete guide to soft skills work life balance",
-      "stars": 119,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 119,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-emotional-intelligence",
       "name": "Soft Skills Emotional Intelligence",
       "description": "Complete guide to soft skills emotional intelligence",
-      "stars": 157,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 157,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-empathy",
       "name": "Soft Skills Empathy",
       "description": "Complete guide to soft skills empathy",
-      "stars": 129,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 129,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-collaboration",
       "name": "Soft Skills Collaboration",
       "description": "Complete guide to soft skills collaboration",
-      "stars": 256,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 256,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-team-building",
       "name": "Soft Skills Team Building",
       "description": "Complete guide to soft skills team building",
-      "stars": 438,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 438,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "soft-skills-decision-making",
       "name": "Soft Skills Decision Making",
       "description": "Complete guide to soft skills decision making",
-      "stars": 282,
+      "category": "business-marketing",
       "tags": [
         "soft-skills"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 282,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-developer-advocacy",
       "name": "Devrel Developer Advocacy",
       "description": "Complete guide to devrel developer advocacy",
-      "stars": 125,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 125,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-developer-experience",
       "name": "Devrel Developer Experience",
       "description": "Complete guide to devrel developer experience",
-      "stars": 366,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 366,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-developer-marketing",
       "name": "Devrel Developer Marketing",
       "description": "Complete guide to devrel developer marketing",
-      "stars": 297,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 297,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-developer-community",
       "name": "Devrel Developer Community",
       "description": "Complete guide to devrel developer community",
-      "stars": 397,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 397,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-developer-education",
       "name": "Devrel Developer Education",
       "description": "Complete guide to devrel developer education",
-      "stars": 378,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 378,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-documentation-writing",
       "name": "Devrel Documentation Writing",
       "description": "Complete guide to devrel documentation writing",
-      "stars": 214,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 214,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-tutorial-creation",
       "name": "Devrel Tutorial Creation",
       "description": "Complete guide to devrel tutorial creation",
-      "stars": 248,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 248,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-video-tutorials",
       "name": "Devrel Video Tutorials",
       "description": "Complete guide to devrel video tutorials",
-      "stars": 506,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 506,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-live-streaming",
       "name": "Devrel Live Streaming",
       "description": "Complete guide to devrel live streaming",
-      "stars": 212,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 212,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-podcast-hosting",
       "name": "Devrel Podcast Hosting",
       "description": "Complete guide to devrel podcast hosting",
-      "stars": 156,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 156,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-conference-organizing",
       "name": "Devrel Conference Organizing",
       "description": "Complete guide to devrel conference organizing",
-      "stars": 489,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 489,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-meetup-organizing",
       "name": "Devrel Meetup Organizing",
       "description": "Complete guide to devrel meetup organizing",
-      "stars": 461,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 461,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-hackathon-organizing",
       "name": "Devrel Hackathon Organizing",
       "description": "Complete guide to devrel hackathon organizing",
-      "stars": 566,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 566,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-open-source-maintainer",
       "name": "Devrel Open Source Maintainer",
       "description": "Complete guide to devrel open source maintainer",
-      "stars": 491,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 491,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-community-management",
       "name": "Devrel Community Management",
       "description": "Complete guide to devrel community management",
-      "stars": 327,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 327,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-social-media-devrel",
       "name": "Devrel Social Media Devrel",
       "description": "Complete guide to devrel social media devrel",
-      "stars": 507,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 507,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-newsletter-writing",
       "name": "Devrel Newsletter Writing",
       "description": "Complete guide to devrel newsletter writing",
-      "stars": 380,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 380,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-case-studies",
       "name": "Devrel Case Studies",
       "description": "Complete guide to devrel case studies",
-      "stars": 440,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 440,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-customer-success",
       "name": "Devrel Customer Success",
       "description": "Complete guide to devrel customer success",
-      "stars": 185,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 185,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "devrel-partner-relations",
       "name": "Devrel Partner Relations",
       "description": "Complete guide to devrel partner relations",
-      "stars": 324,
+      "category": "business-marketing",
       "tags": [
         "devrel"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 324,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-idea-validation",
       "name": "Startup Idea Validation",
       "description": "Complete guide to startup idea validation",
-      "stars": 592,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 592,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-mvp-development",
       "name": "Startup Mvp Development",
       "description": "Complete guide to startup mvp development",
-      "stars": 443,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 443,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-product-market-fit",
       "name": "Startup Product Market Fit",
       "description": "Complete guide to startup product market fit",
-      "stars": 485,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 485,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-customer-discovery",
       "name": "Startup Customer Discovery",
       "description": "Complete guide to startup customer discovery",
-      "stars": 284,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 284,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-lean-startup",
       "name": "Startup Lean Startup",
       "description": "Complete guide to startup lean startup",
-      "stars": 264,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 264,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-business-model-canvas",
       "name": "Startup Business Model Canvas",
       "description": "Complete guide to startup business model canvas",
-      "stars": 122,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 122,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-pitch-deck",
       "name": "Startup Pitch Deck",
       "description": "Complete guide to startup pitch deck",
-      "stars": 193,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 193,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-fundraising",
       "name": "Startup Fundraising",
       "description": "Complete guide to startup fundraising",
-      "stars": 376,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 376,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-investor-relations",
       "name": "Startup Investor Relations",
       "description": "Complete guide to startup investor relations",
-      "stars": 249,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 249,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-term-sheet",
       "name": "Startup Term Sheet",
       "description": "Complete guide to startup term sheet",
-      "stars": 339,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 339,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-equity-dilution",
       "name": "Startup Equity Dilution",
       "description": "Complete guide to startup equity dilution",
-      "stars": 364,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 364,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-cap-table",
       "name": "Startup Cap Table",
       "description": "Complete guide to startup cap table",
-      "stars": 180,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 180,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-vesting",
       "name": "Startup Vesting",
       "description": "Complete guide to startup vesting",
-      "stars": 404,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 404,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-stock-options",
       "name": "Startup Stock Options",
       "description": "Complete guide to startup stock options",
-      "stars": 301,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 301,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-startup-legal",
       "name": "Startup Startup Legal",
       "description": "Complete guide to startup startup legal",
-      "stars": 313,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 313,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-incorporation",
       "name": "Startup Incorporation",
       "description": "Complete guide to startup incorporation",
-      "stars": 317,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 317,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-startup-accounting",
       "name": "Startup Startup Accounting",
       "description": "Complete guide to startup startup accounting",
-      "stars": 196,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 196,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-startup-metrics",
       "name": "Startup Startup Metrics",
       "description": "Complete guide to startup startup metrics",
-      "stars": 373,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 373,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-growth-hacking",
       "name": "Startup Growth Hacking",
       "description": "Complete guide to startup growth hacking",
-      "stars": 590,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 590,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     },
     {
       "id": "startup-go-to-market",
       "name": "Startup Go To Market",
       "description": "Complete guide to startup go to market",
-      "stars": 428,
+      "category": "business-marketing",
       "tags": [
         "startup"
       ],
-      "updatedAt": "2026-01-17T06:43:57.267Z"
+      "stars": 428,
+      "updatedAt": "2026-01-17T06:43:57.267Z",
+      "repoUrl": ""
     }
   ]
 }

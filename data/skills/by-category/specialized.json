@@ -1,3909 +1,4733 @@
 {
   "category": "specialized",
   "totalSkills": 412,
-  "lastUpdated": "2026-01-17T06:43:57.267Z",
+  "lastUpdated": "2026-01-17T08:11:46.817Z",
   "skills": [
     {
       "id": "alirezarezvani-claude-skills-ms365-tenant-manager",
       "name": "ms365-tenant-manager",
       "description": "Comprehensive Microsoft 365 tenant administration skill for setup, configuration, user management, security policies, and organizational structure optimization for Global Administrators",
-      "stars": 521,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T12:36:14Z"
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": ""
     },
     {
       "id": "alirezarezvani-claude-skills-tech-stack-evaluator",
       "name": "tech-stack-evaluator",
       "description": "Comprehensive technology stack evaluation and comparison tool with TCO analysis, security assessment, and intelligent recommendations for engineering teams",
-      "stars": 521,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T12:36:14Z"
+      "stars": 521,
+      "updatedAt": "2026-01-08T12:36:14Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-api-key-manager",
       "name": "api-key-manager",
       "description": "Manage api key manager operations. Auto-activating skill for Security Fundamentals.\nTriggers on: api key manager, api key manager\nPart of the Security Fundamentals skill category. Use when working with APIs or building integrations. Trigger with phrases like \"api key manager\", \"api manager\", \"api\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-code-injection-detector",
       "name": "code-injection-detector",
       "description": "Detect code injection detector operations. Auto-activating skill for Security Fundamentals.\nTriggers on: code injection detector, code injection detector\nPart of the Security Fundamentals skill category. Use when working with code injection detector functionality. Trigger with phrases like \"code injection detector\", \"code detector\", \"code\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-content-security-policy-generator",
       "name": "content-security-policy-generator",
       "description": "Generate content security policy generator operations. Auto-activating skill for Security Fundamentals.\nTriggers on: content security policy generator, content security policy generator\nPart of the Security Fundamentals skill category. Use when working with content security policy generator functionality. Trigger with phrases like \"content security policy generator\", \"content generator\", \"content\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-cookie-security-analyzer",
       "name": "cookie-security-analyzer",
       "description": "Analyze cookie security analyzer operations. Auto-activating skill for Security Fundamentals.\nTriggers on: cookie security analyzer, cookie security analyzer\nPart of the Security Fundamentals skill category. Use when analyzing or auditing cookie security analyzer. Trigger with phrases like \"cookie security analyzer\", \"cookie analyzer\", \"analyze cookie security r\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-cors-policy-validator",
       "name": "cors-policy-validator",
       "description": "Validate cors policy validator operations. Auto-activating skill for Security Fundamentals.\nTriggers on: cors policy validator, cors policy validator\nPart of the Security Fundamentals skill category. Use when working with cors policy validator functionality. Trigger with phrases like \"cors policy validator\", \"cors validator\", \"cors\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-csrf-protection-validator",
       "name": "csrf-protection-validator",
       "description": "Validate csrf protection validator operations. Auto-activating skill for Security Fundamentals.\nTriggers on: csrf protection validator, csrf protection validator\nPart of the Security Fundamentals skill category. Use when working with csrf protection validator functionality. Trigger with phrases like \"csrf protection validator\", \"csrf validator\", \"csrf\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-dependency-vulnerability-checker",
       "name": "dependency-vulnerability-checker",
       "description": "Validate dependency vulnerability checker operations. Auto-activating skill for Security Fundamentals.\nTriggers on: dependency vulnerability checker, dependency vulnerability checker\nPart of the Security Fundamentals skill category. Use when working with dependency vulnerability checker functionality. Trigger with phrases like \"dependency vulnerability checker\", \"dependency checker\", \"dependency\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-env-secret-detector",
       "name": "env-secret-detector",
       "description": "Detect env secret detector operations. Auto-activating skill for Security Fundamentals.\nTriggers on: env secret detector, env secret detector\nPart of the Security Fundamentals skill category. Use when working with env secret detector functionality. Trigger with phrases like \"env secret detector\", \"env detector\", \"env\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-hardcoded-credential-finder",
       "name": "hardcoded-credential-finder",
       "description": "Manage hardcoded credential finder operations. Auto-activating skill for Security Fundamentals.\nTriggers on: hardcoded credential finder, hardcoded credential finder\nPart of the Security Fundamentals skill category. Use when working with hardcoded credential finder functionality. Trigger with phrases like \"hardcoded credential finder\", \"hardcoded finder\", \"hardcoded\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-http-header-security-audit",
       "name": "http-header-security-audit",
       "description": "Execute http header security audit operations. Auto-activating skill for Security Fundamentals.\nTriggers on: http header security audit, http header security audit\nPart of the Security Fundamentals skill category. Use when analyzing or auditing http header security audit. Trigger with phrases like \"http header security audit\", \"http audit\", \"http\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-https-certificate-checker",
       "name": "https-certificate-checker",
       "description": "Validate https certificate checker operations. Auto-activating skill for Security Fundamentals.\nTriggers on: https certificate checker, https certificate checker\nPart of the Security Fundamentals skill category. Use when working with https certificate checker functionality. Trigger with phrases like \"https certificate checker\", \"https checker\", \"https\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-input-validation-checker",
       "name": "input-validation-checker",
       "description": "Validate input validation checker operations. Auto-activating skill for Security Fundamentals.\nTriggers on: input validation checker, input validation checker\nPart of the Security Fundamentals skill category. Use when working with input validation checker functionality. Trigger with phrases like \"input validation checker\", \"input checker\", \"input\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-insecure-deserialization-checker",
       "name": "insecure-deserialization-checker",
       "description": "Validate insecure deserialization checker operations. Auto-activating skill for Security Fundamentals.\nTriggers on: insecure deserialization checker, insecure deserialization checker\nPart of the Security Fundamentals skill category. Use when working with insecure deserialization checker functionality. Trigger with phrases like \"insecure deserialization checker\", \"insecure checker\", \"insecure\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-jwt-token-validator",
       "name": "jwt-token-validator",
       "description": "Validate jwt token validator operations. Auto-activating skill for Security Fundamentals.\nTriggers on: jwt token validator, jwt token validator\nPart of the Security Fundamentals skill category. Use when working with jwt token validator functionality. Trigger with phrases like \"jwt token validator\", \"jwt validator\", \"jwt\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-license-compliance-scanner",
       "name": "license-compliance-scanner",
       "description": "Scan license compliance scanner operations. Auto-activating skill for Security Fundamentals.\nTriggers on: license compliance scanner, license compliance scanner\nPart of the Security Fundamentals skill category. Use when working with license compliance scanner functionality. Trigger with phrases like \"license compliance scanner\", \"license scanner\", \"license\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-oauth2-flow-helper",
       "name": "oauth2-flow-helper",
       "description": "Configure with oauth2 flow helper operations. Auto-activating skill for Security Fundamentals.\nTriggers on: oauth2 flow helper, oauth2 flow helper\nPart of the Security Fundamentals skill category. Use when working with oauth2 flow helper functionality. Trigger with phrases like \"oauth2 flow helper\", \"oauth2 helper\", \"oauth2\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-password-hash-generator",
       "name": "password-hash-generator",
       "description": "Generate password hash generator operations. Auto-activating skill for Security Fundamentals.\nTriggers on: password hash generator, password hash generator\nPart of the Security Fundamentals skill category. Use when working with password hash generator functionality. Trigger with phrases like \"password hash generator\", \"password generator\", \"password\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-password-strength-analyzer",
       "name": "password-strength-analyzer",
       "description": "Analyze password strength analyzer operations. Auto-activating skill for Security Fundamentals.\nTriggers on: password strength analyzer, password strength analyzer\nPart of the Security Fundamentals skill category. Use when analyzing or auditing password strength analyzer. Trigger with phrases like \"password strength analyzer\", \"password analyzer\", \"analyze password strength r\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-path-traversal-finder",
       "name": "path-traversal-finder",
       "description": "Manage path traversal finder operations. Auto-activating skill for Security Fundamentals.\nTriggers on: path traversal finder, path traversal finder\nPart of the Security Fundamentals skill category. Use when working with path traversal finder functionality. Trigger with phrases like \"path traversal finder\", \"path finder\", \"path\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-rate-limiter-config",
       "name": "rate-limiter-config",
       "description": "Configure rate limiter config operations. Auto-activating skill for Security Fundamentals.\nTriggers on: rate limiter config, rate limiter config\nPart of the Security Fundamentals skill category. Use when configuring systems or services. Trigger with phrases like \"rate limiter config\", \"rate config\", \"rate\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-secret-scanner",
       "name": "secret-scanner",
       "description": "Scan secret scanner operations. Auto-activating skill for Security Fundamentals.\nTriggers on: secret scanner, secret scanner\nPart of the Security Fundamentals skill category. Use when working with secret scanner functionality. Trigger with phrases like \"secret scanner\", \"secret scanner\", \"secret\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-security-headers-generator",
       "name": "security-headers-generator",
       "description": "Generate security headers generator operations. Auto-activating skill for Security Fundamentals.\nTriggers on: security headers generator, security headers generator\nPart of the Security Fundamentals skill category. Use when working with security headers generator functionality. Trigger with phrases like \"security headers generator\", \"security generator\", \"security\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-session-security-checker",
       "name": "session-security-checker",
       "description": "Validate session security checker operations. Auto-activating skill for Security Fundamentals.\nTriggers on: session security checker, session security checker\nPart of the Security Fundamentals skill category. Use when working with session security checker functionality. Trigger with phrases like \"session security checker\", \"session checker\", \"session\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-sql-injection-detector",
       "name": "sql-injection-detector",
       "description": "Detect sql injection detector operations. Auto-activating skill for Security Fundamentals.\nTriggers on: sql injection detector, sql injection detector\nPart of the Security Fundamentals skill category. Use when working with sql injection detector functionality. Trigger with phrases like \"sql injection detector\", \"sql detector\", \"sql\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-xss-vulnerability-scanner",
       "name": "xss-vulnerability-scanner",
       "description": "Scan xss vulnerability scanner operations. Auto-activating skill for Security Fundamentals.\nTriggers on: xss vulnerability scanner, xss vulnerability scanner\nPart of the Security Fundamentals skill category. Use when working with xss vulnerability scanner functionality. Trigger with phrases like \"xss vulnerability scanner\", \"xss scanner\", \"xss\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-attack-surface-analyzer",
       "name": "attack-surface-analyzer",
       "description": "Analyze attack surface analyzer operations. Auto-activating skill for Security Advanced.\nTriggers on: attack surface analyzer, attack surface analyzer\nPart of the Security Advanced skill category. Use when analyzing or auditing attack surface analyzer. Trigger with phrases like \"attack surface analyzer\", \"attack analyzer\", \"analyze attack surface r\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-certificate-lifecycle-manager",
       "name": "certificate-lifecycle-manager",
       "description": "Manage certificate lifecycle manager operations. Auto-activating skill for Security Advanced.\nTriggers on: certificate lifecycle manager, certificate lifecycle manager\nPart of the Security Advanced skill category. Use when working with certificate lifecycle manager functionality. Trigger with phrases like \"certificate lifecycle manager\", \"certificate manager\", \"certificate\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-cloud-security-posture",
       "name": "cloud-security-posture",
       "description": "Manage cloud security posture operations. Auto-activating skill for Security Advanced.\nTriggers on: cloud security posture, cloud security posture\nPart of the Security Advanced skill category. Use when working with cloud security posture functionality. Trigger with phrases like \"cloud security posture\", \"cloud posture\", \"cloud\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-container-security-auditor",
       "name": "container-security-auditor",
       "description": "Audit container security auditor operations. Auto-activating skill for Security Advanced.\nTriggers on: container security auditor, container security auditor\nPart of the Security Advanced skill category. Use when analyzing or auditing container security auditor. Trigger with phrases like \"container security auditor\", \"container auditor\", \"container\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-encryption-at-rest-checker",
       "name": "encryption-at-rest-checker",
       "description": "Validate encryption at rest checker operations. Auto-activating skill for Security Advanced.\nTriggers on: encryption at rest checker, encryption at rest checker\nPart of the Security Advanced skill category. Use when working with encryption at rest checker functionality. Trigger with phrases like \"encryption at rest checker\", \"encryption checker\", \"encryption\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-forensics-data-collector",
       "name": "forensics-data-collector",
       "description": "Process forensics data collector operations. Auto-activating skill for Security Advanced.\nTriggers on: forensics data collector, forensics data collector\nPart of the Security Advanced skill category. Use when working with forensics data collector functionality. Trigger with phrases like \"forensics data collector\", \"forensics collector\", \"forensics\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-gdpr-compliance-scanner",
       "name": "gdpr-compliance-scanner",
       "description": "Scan gdpr compliance scanner operations. Auto-activating skill for Security Advanced.\nTriggers on: gdpr compliance scanner, gdpr compliance scanner\nPart of the Security Advanced skill category. Use when working with gdpr compliance scanner functionality. Trigger with phrases like \"gdpr compliance scanner\", \"gdpr scanner\", \"gdpr\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-hipaa-audit-helper",
       "name": "hipaa-audit-helper",
       "description": "Assist with hipaa audit helper operations. Auto-activating skill for Security Advanced.\nTriggers on: hipaa audit helper, hipaa audit helper\nPart of the Security Advanced skill category. Use when analyzing or auditing hipaa audit helper. Trigger with phrases like \"hipaa audit helper\", \"hipaa helper\", \"hipaa\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-iam-policy-reviewer",
       "name": "iam-policy-reviewer",
       "description": "Execute iam policy reviewer operations. Auto-activating skill for Security Advanced.\nTriggers on: iam policy reviewer, iam policy reviewer\nPart of the Security Advanced skill category. Use when working with iam policy reviewer functionality. Trigger with phrases like \"iam policy reviewer\", \"iam reviewer\", \"iam\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-incident-response-planner",
       "name": "incident-response-planner",
       "description": "Configure incident response planner operations. Auto-activating skill for Security Advanced.\nTriggers on: incident response planner, incident response planner\nPart of the Security Advanced skill category. Use when working with incident response planner functionality. Trigger with phrases like \"incident response planner\", \"incident planner\", \"incident\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-iso27001-gap-analyzer",
       "name": "iso27001-gap-analyzer",
       "description": "Analyze iso27001 gap analyzer operations. Auto-activating skill for Security Advanced.\nTriggers on: iso27001 gap analyzer, iso27001 gap analyzer\nPart of the Security Advanced skill category. Use when analyzing or auditing iso27001 gap analyzer. Trigger with phrases like \"iso27001 gap analyzer\", \"iso27001 analyzer\", \"analyze iso27001 gap r\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-key-rotation-manager",
       "name": "key-rotation-manager",
       "description": "Manage key rotation manager operations. Auto-activating skill for Security Advanced.\nTriggers on: key rotation manager, key rotation manager\nPart of the Security Advanced skill category. Use when working with key rotation manager functionality. Trigger with phrases like \"key rotation manager\", \"key manager\", \"key\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-kubernetes-rbac-analyzer",
       "name": "kubernetes-rbac-analyzer",
       "description": "Analyze kubernetes rbac analyzer operations. Auto-activating skill for Security Advanced.\nTriggers on: kubernetes rbac analyzer, kubernetes rbac analyzer\nPart of the Security Advanced skill category. Use when analyzing or auditing kubernetes rbac analyzer. Trigger with phrases like \"kubernetes rbac analyzer\", \"kubernetes analyzer\", \"analyze kubernetes rbac r\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-log-analysis-security",
       "name": "log-analysis-security",
       "description": "Execute log analysis security operations. Auto-activating skill for Security Advanced.\nTriggers on: log analysis security, log analysis security\nPart of the Security Advanced skill category. Use when working with log analysis security functionality. Trigger with phrases like \"log analysis security\", \"log security\", \"log\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-network-security-scanner",
       "name": "network-security-scanner",
       "description": "Scan network security scanner operations. Auto-activating skill for Security Advanced.\nTriggers on: network security scanner, network security scanner\nPart of the Security Advanced skill category. Use when working with network security scanner functionality. Trigger with phrases like \"network security scanner\", \"network scanner\", \"network\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-pci-dss-validator",
       "name": "pci-dss-validator",
       "description": "Validate pci dss validator operations. Auto-activating skill for Security Advanced.\nTriggers on: pci dss validator, pci dss validator\nPart of the Security Advanced skill category. Use when working with pci dss validator functionality. Trigger with phrases like \"pci dss validator\", \"pci validator\", \"pci\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-penetration-test-planner",
       "name": "penetration-test-planner",
       "description": "Plan penetration test planner operations. Auto-activating skill for Security Advanced.\nTriggers on: penetration test planner, penetration test planner\nPart of the Security Advanced skill category. Use when writing or running tests. Trigger with phrases like \"penetration test planner\", \"penetration planner\", \"penetration\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-security-benchmark-runner",
       "name": "security-benchmark-runner",
       "description": "Manage security benchmark runner operations. Auto-activating skill for Security Advanced.\nTriggers on: security benchmark runner, security benchmark runner\nPart of the Security Advanced skill category. Use when working with security benchmark runner functionality. Trigger with phrases like \"security benchmark runner\", \"security runner\", \"security\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-security-policy-generator",
       "name": "security-policy-generator",
       "description": "Generate security policy generator operations. Auto-activating skill for Security Advanced.\nTriggers on: security policy generator, security policy generator\nPart of the Security Advanced skill category. Use when working with security policy generator functionality. Trigger with phrases like \"security policy generator\", \"security generator\", \"security\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-siem-rule-generator",
       "name": "siem-rule-generator",
       "description": "Generate siem rule generator operations. Auto-activating skill for Security Advanced.\nTriggers on: siem rule generator, siem rule generator\nPart of the Security Advanced skill category. Use when working with siem rule generator functionality. Trigger with phrases like \"siem rule generator\", \"siem generator\", \"siem\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-soc2-compliance-checker",
       "name": "soc2-compliance-checker",
       "description": "Validate soc2 compliance checker operations. Auto-activating skill for Security Advanced.\nTriggers on: soc2 compliance checker, soc2 compliance checker\nPart of the Security Advanced skill category. Use when working with soc2 compliance checker functionality. Trigger with phrases like \"soc2 compliance checker\", \"soc2 checker\", \"soc2\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-threat-model-creator",
       "name": "threat-model-creator",
       "description": "Create threat model creator operations. Auto-activating skill for Security Advanced.\nTriggers on: threat model creator, threat model creator\nPart of the Security Advanced skill category. Use when working with threat model creator functionality. Trigger with phrases like \"threat model creator\", \"threat creator\", \"threat\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-vulnerability-report-generator",
       "name": "vulnerability-report-generator",
       "description": "Generate vulnerability report generator operations. Auto-activating skill for Security Advanced.\nTriggers on: vulnerability report generator, vulnerability report generator\nPart of the Security Advanced skill category. Use when working with vulnerability report generator functionality. Trigger with phrases like \"vulnerability report generator\", \"vulnerability generator\", \"vulnerability\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-waf-rule-creator",
       "name": "waf-rule-creator",
       "description": "Create waf rule creator operations. Auto-activating skill for Security Advanced.\nTriggers on: waf rule creator, waf rule creator\nPart of the Security Advanced skill category. Use when working with waf rule creator functionality. Trigger with phrases like \"waf rule creator\", \"waf creator\", \"waf\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "jeremylongshore-claude-code-plugins-plus-skills-zero-trust-config-helper",
       "name": "zero-trust-config-helper",
       "description": "Configure with zero trust config helper operations. Auto-activating skill for Security Advanced.\nTriggers on: zero trust config helper, zero trust config helper\nPart of the Security Advanced skill category. Use when configuring systems or services. Trigger with phrases like \"zero trust config helper\", \"zero helper\", \"zero\".\n",
-      "stars": 920,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:10:22Z"
+      "stars": 920,
+      "updatedAt": "2026-01-08T21:10:22Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-web3-testing",
       "name": "web3-testing",
       "description": "Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forking. Use when testing Solidity contracts, setting up blockchain test suites, or validating DeFi protocols.",
-      "stars": 24701,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-nft-standards",
       "name": "nft-standards",
       "description": "Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementing digital asset systems.",
-      "stars": 24701,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-solidity-security",
       "name": "solidity-security",
       "description": "Master smart contract security best practices to prevent common vulnerabilities and implement secure Solidity patterns. Use when writing smart contracts, auditing existing contracts, or implementing security measures for blockchain applications.",
-      "stars": 24701,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-sast-configuration",
       "name": "sast-configuration",
       "description": "Configure Static Application Security Testing (SAST) tools for automated vulnerability detection in application code. Use when setting up security scanning, implementing DevSecOps practices, or automating code vulnerability detection.",
-      "stars": 24701,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-defi-protocol-templates",
       "name": "defi-protocol-templates",
       "description": "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols.",
-      "stars": 24701,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-stride-analysis-patterns",
       "name": "stride-analysis-patterns",
       "description": "Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, conducting threat modeling sessions, or creating security documentation.",
-      "stars": 24701,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-attack-tree-construction",
       "name": "attack-tree-construction",
       "description": "Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders.",
-      "stars": 24701,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-threat-mitigation-mapping",
       "name": "threat-mitigation-mapping",
       "description": "Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness.",
-      "stars": 24701,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "wshobson-agents-k8s-security-policies",
       "name": "k8s-security-policies",
       "description": "Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolicy, and RBAC for production-grade security. Use when securing Kubernetes clusters, implementing network isolation, or enforcing pod security standards.",
-      "stars": 24701,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T21:19:10Z"
+      "stars": 24701,
+      "updatedAt": "2026-01-08T21:19:10Z",
+      "repoUrl": ""
     },
     {
       "id": "alirezarezvani-claude-code-tresor-code-reviewer",
       "name": "code-reviewer",
       "description": "Automatic code quality and best practices analysis. Use proactively when files are modified, saved, or committed. Analyzes code style, patterns, potential bugs, and security basics. Triggers on file changes, git diff, code edits, quality mentions.",
-      "stars": 420,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T15:29:24Z"
+      "stars": 420,
+      "updatedAt": "2026-01-09T15:29:24Z",
+      "repoUrl": ""
     },
     {
       "id": "breaking-brake-cc-wf-studio-code-review",
       "name": "code-review",
       "description": "Analyze PR diffs and generate review comments from code quality, security, and performance perspectives. Use for code reviews, quality checks, and security analysis.",
-      "stars": 2326,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T16:10:47Z"
+      "stars": 2326,
+      "updatedAt": "2026-01-09T16:10:47Z",
+      "repoUrl": ""
     },
     {
       "id": "catlog22-claude-code-workflow-code-reviewer",
       "name": "code-reviewer",
       "description": "Comprehensive code review skill for identifying security vulnerabilities and best practices violations. Triggers on \"code review\", \"review code\", \"security audit\", \"代码审查\".",
-      "stars": 893,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T15:12:57Z"
+      "stars": 893,
+      "updatedAt": "2026-01-09T15:12:57Z",
+      "repoUrl": ""
     },
     {
       "id": "bgauryy-octocode-mcp-octocode-pr-review",
       "name": "octocode-pr-review",
       "description": "Reviews pull requests for bugs, security vulnerabilities, architecture problems, performance issues, and code quality. Use when reviewing PRs, analyzing diffs, checking code changes, or performing code review.",
-      "stars": 665,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T14:29:58Z"
+      "stars": 665,
+      "updatedAt": "2026-01-09T14:29:58Z",
+      "repoUrl": ""
     },
     {
       "id": "brownfinesecurity-iothackbot-iotnet",
       "name": "iotnet",
       "description": "IoT network traffic analyzer for detecting IoT protocols and identifying security vulnerabilities in network communications. Use when you need to analyze network traffic, identify IoT protocols, or assess network security of IoT devices.",
-      "stars": 479,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T15:41:35Z"
+      "stars": 479,
+      "updatedAt": "2026-01-09T15:41:35Z",
+      "repoUrl": ""
     },
     {
       "id": "alirezarezvani-claude-code-skill-factory-tech-stack-evaluator",
       "name": "tech-stack-evaluator",
       "description": "Comprehensive technology stack evaluation and comparison tool with TCO analysis, security assessment, and intelligent recommendations for engineering teams",
-      "stars": 306,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T15:29:32Z"
+      "stars": 306,
+      "updatedAt": "2026-01-09T15:29:32Z",
+      "repoUrl": ""
     },
     {
       "id": "alirezarezvani-claude-code-skill-factory-ms365-tenant-manager",
       "name": "ms365-tenant-manager",
       "description": "Comprehensive Microsoft 365 tenant administration skill for setup, configuration, user management, security policies, and organizational structure optimization for Global Administrators",
-      "stars": 306,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T15:29:32Z"
+      "stars": 306,
+      "updatedAt": "2026-01-09T15:29:32Z",
+      "repoUrl": ""
     },
     {
       "id": "disler-claude-code-damage-control-damage-control",
       "name": "Damage Control",
       "description": "Install, configure, and manage the Claude Code Damage Control security hooks system. Use when user mentions damage control, security hooks, protected paths, blocked commands, install security, or modify protection settings.",
-      "stars": 244,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T16:42:41Z"
+      "stars": 244,
+      "updatedAt": "2026-01-09T16:42:41Z",
+      "repoUrl": ""
     },
     {
       "id": "dnyoussef-context-cascade-holistic-evaluation",
       "name": "holistic-evaluation",
       "description": "Deliver a 360° evaluation of a codebase or feature, blending architecture, correctness, performance, security, and UX signals.",
-      "stars": 9,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T17:16:02Z"
+      "stars": 9,
+      "updatedAt": "2026-01-09T17:16:02Z",
+      "repoUrl": ""
     },
     {
       "id": "dnyoussef-context-cascade-reverse-engineering-deep",
       "name": "reverse-engineering-deep",
       "description": "Advanced reverse engineering with dynamic tracing, memory inspection, and symbolic execution for complex binaries.",
-      "stars": 9,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T17:16:02Z"
+      "stars": 9,
+      "updatedAt": "2026-01-09T17:16:02Z",
+      "repoUrl": ""
     },
     {
       "id": "jrc1883-popkit-claude-pop-assessment-security",
       "name": "pop-assessment-security",
       "description": "Validates PopKit security posture using concrete vulnerability patterns, automated secret scanning, and OWASP-aligned checklists",
-      "stars": 0,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T16:54:34Z"
+      "stars": 0,
+      "updatedAt": "2026-01-09T16:54:34Z",
+      "repoUrl": ""
     },
     {
       "id": "aiskillstore-marketplace-find-bugs",
       "name": "find-bugs",
       "description": "Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.",
-      "stars": 32,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T16:24:32Z"
+      "stars": 32,
+      "updatedAt": "2026-01-09T16:24:32Z",
+      "repoUrl": ""
     },
     {
       "id": "yonatangross-skillforge-claude-plugin-auth-patterns",
       "name": "auth-patterns",
       "description": "Authentication and authorization patterns. Use when implementing login flows, JWT tokens, session management, password security, OAuth 2.1, Passkeys/WebAuthn, or role-based access control.",
-      "stars": 16,
+      "category": "specialized",
       "tags": [
         "security",
         "authentication",
         "oauth",
         "passkeys",
-        2026
+        "2026"
       ],
-      "updatedAt": "2026-01-09T17:04:39Z"
+      "stars": 16,
+      "updatedAt": "2026-01-09T17:04:39Z",
+      "repoUrl": ""
     },
     {
       "id": "yonatangross-skillforge-claude-plugin-owasp-top-10",
       "name": "owasp-top-10",
       "description": "OWASP Top 10 security vulnerabilities and mitigations. Use when conducting security audits, implementing security controls, or reviewing code for common vulnerabilities.",
-      "stars": 16,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T17:04:39Z"
+      "stars": 16,
+      "updatedAt": "2026-01-09T17:04:39Z",
+      "repoUrl": ""
     },
     {
       "id": "yonatangross-skillforge-claude-plugin-security-scanning",
       "name": "security-scanning",
       "description": "Automated security scanning for dependencies and code. Use when running npm audit, pip-audit, Semgrep, secret detection, or integrating security checks into CI/CD.",
-      "stars": 16,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T17:04:39Z"
+      "stars": 16,
+      "updatedAt": "2026-01-09T17:04:39Z",
+      "repoUrl": ""
     },
     {
       "id": "nickcrew-claude-cortex-owasp-top-10",
       "name": "owasp-top-10",
       "description": "OWASP Top 10 security vulnerabilities with detection and remediation patterns. Use when conducting security audits, implementing secure coding practices, or reviewing code for common security vulnerabilities.",
-      "stars": 5,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-08T15:26:50Z"
+      "stars": 5,
+      "updatedAt": "2026-01-08T15:26:50Z",
+      "repoUrl": ""
     },
     {
       "id": "rjmurillo-ai-agents-analyze",
       "name": "analyze",
       "description": "Invoke IMMEDIATELY via python script when user requests codebase analysis, architecture review, security assessment, or quality evaluation. Do NOT explore first - the script orchestrates exploration.",
-      "stars": 4,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T18:00:00Z"
+      "stars": 4,
+      "updatedAt": "2026-01-09T18:00:00Z",
+      "repoUrl": ""
     },
     {
       "id": "rjmurillo-ai-agents-adr-review",
       "name": "adr-review",
       "description": "Multi-agent debate orchestration for Architecture Decision Records. Automatically triggers on ADR create/edit/delete. Coordinates architect, critic, independent-thinker, security, analyst, and high-level-advisor agents in structured debate rounds until consensus.",
-      "stars": 4,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T18:00:00Z"
+      "stars": 4,
+      "updatedAt": "2026-01-09T18:00:00Z",
+      "repoUrl": ""
     },
     {
       "id": "tenzir-claude-plugins-understanding-ocsf",
       "name": "understanding-ocsf",
       "description": "Understand the OCSF schema. Use when working with OCSF, looking up classes or objects, normalizing security events, or asking about the schema.",
-      "stars": 2,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T17:35:49Z"
+      "stars": 2,
+      "updatedAt": "2026-01-09T17:35:49Z",
+      "repoUrl": ""
     },
     {
       "id": "git-fg-thecattoolkit-manage-hooks",
       "name": "manage-hooks",
       "description": "Event-driven automation hooks for Claude Code. Security-hardened templates for PreToolUse, PostToolUse, SessionStart, and other hook events.",
-      "stars": 0,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T18:37:00Z"
+      "stars": 0,
+      "updatedAt": "2026-01-09T18:37:00Z",
+      "repoUrl": ""
     },
     {
       "id": "zhiruifeng-localagentcrew-security",
       "name": "security",
       "description": "Reviews code for security vulnerabilities, identifies security issues, suggests improvements",
-      "stars": 0,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T18:32:51Z"
+      "stars": 0,
+      "updatedAt": "2026-01-09T18:32:51Z",
+      "repoUrl": ""
     },
     {
       "id": "ancplua-ancplua-claude-plugins-code-review",
       "name": "code-review",
       "description": "Perform comprehensive code reviews covering security, style, performance, and best practices. Use when reviewing code changes before commit or merge, auditing existing code, or checking for vulnerabilities.",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T06:38:35Z"
+      "stars": 1,
+      "updatedAt": "2026-01-09T06:38:35Z",
+      "repoUrl": ""
     },
     {
       "id": "andreasasprou-agent-skills-oracle",
       "name": "oracle",
       "description": "Ask the oracle (GPT-5.2 with deep reasoning) strategic technical questions. Use for architecture decisions, complex debugging, security analysis, or when you need a second expert opinion. Supports background execution for long-running queries.",
-      "stars": 2,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-09T13:40:32Z"
+      "stars": 2,
+      "updatedAt": "2026-01-09T13:40:32Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--account-security-validation",
       "name": "account-security-validation",
       "description": "Validate account security and authentication protocols.",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--command-control-agent",
       "name": "command-control-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--backup-recovery-agent",
       "name": "backup-recovery-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--physical-security-agent",
       "name": "physical-security-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--wireless-security-agent",
       "name": "wireless-security-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--social-engineering-agent",
       "name": "social-engineering-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--security-orchestration-agent",
       "name": "security-orchestration-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--internal-red-team-audit",
       "name": "internal-red-team-audit",
       "description": "Execute internal red team security audits to identify protocol vulnerabilities and alignment risks.",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--password-cracking-agent",
       "name": "password-cracking-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--incident-response-agent",
       "name": "incident-response-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--patch-management-agent",
       "name": "patch-management-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--privilege-escalation-agent",
       "name": "privilege-escalation-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--vulnerability-scanner-agent",
       "name": "vulnerability-scanner-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--vulnerability-management-agent",
       "name": "vulnerability-management-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--siem-agent",
       "name": "siem-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--forensics-agent",
       "name": "forensics-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "starwreckntx-irp__methodologies--persistence-agent",
       "name": "persistence-agent",
       "description": "",
-      "stars": 1,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T16:22:27Z"
+      "stars": 1,
+      "updatedAt": "2026-01-10T16:22:27Z",
+      "repoUrl": ""
     },
     {
       "id": "tahir-yamin-dev-engineering-playbook-code-reviewer",
       "name": "code-reviewer",
       "description": "Automatic code quality and best practices analysis. Use proactively when files are modified, saved, or committed. Analyzes code style, patterns, potential bugs, and security basics. Triggers on file changes, git diff, code edits, quality mentions.",
-      "stars": 3,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-13T06:04:47Z"
+      "stars": 3,
+      "updatedAt": "2026-01-13T06:04:47Z",
+      "repoUrl": ""
     },
     {
       "id": "tahir-yamin-dev-engineering-playbook-stride-analysis-patterns",
       "name": "stride-analysis-patterns",
       "description": "Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, conducting threat modeling sessions, or creating security documentation.",
-      "stars": 3,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-13T06:04:47Z"
+      "stars": 3,
+      "updatedAt": "2026-01-13T06:04:47Z",
+      "repoUrl": ""
     },
     {
       "id": "tahir-yamin-dev-engineering-playbook-threat-mitigation-mapping",
       "name": "threat-mitigation-mapping",
       "description": "Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness.",
-      "stars": 3,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-13T06:04:47Z"
+      "stars": 3,
+      "updatedAt": "2026-01-13T06:04:47Z",
+      "repoUrl": ""
     },
     {
       "id": "tahir-yamin-dev-engineering-playbook-k8s-security-policies",
       "name": "k8s-security-policies",
       "description": "Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolicy, and RBAC for production-grade security. Use when securing Kubernetes clusters, implementing network isolation, or enforcing pod security standards.",
-      "stars": 3,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-13T06:04:47Z"
+      "stars": 3,
+      "updatedAt": "2026-01-13T06:04:47Z",
+      "repoUrl": ""
     },
     {
       "id": "chaorenex1-coding-workflow-tech-stack-evaluator",
       "name": "tech-stack-evaluator",
       "description": "Comprehensive technology stack evaluation and comparison tool with TCO analysis, security assessment, and intelligent recommendations for engineering teams",
-      "stars": 0,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-12T16:04:16Z"
+      "stars": 0,
+      "updatedAt": "2026-01-12T16:04:16Z",
+      "repoUrl": ""
     },
     {
       "id": "dkyazzentwatwa-chatgpt-skills-hash-calculator",
       "name": "hash-calculator",
       "description": "Calculate cryptographic hashes (MD5, SHA1, SHA256, SHA512) for text and files. Compare hashes, verify integrity, and batch process directories.",
-      "stars": 4,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-12T17:13:08Z"
+      "stars": 4,
+      "updatedAt": "2026-01-12T17:13:08Z",
+      "repoUrl": ""
     },
     {
       "id": "jmagly-ai-writing-guide-pr-reviewer",
       "name": "pr-reviewer",
       "description": "Review GitHub pull requests for code quality, security, and best practices. Use for automated PR feedback and approval workflows.",
-      "stars": 67,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-16T01:09:24Z"
+      "stars": 67,
+      "updatedAt": "2026-01-16T01:09:24Z",
+      "repoUrl": ""
     },
     {
       "id": "robotti-io-copilot-security-instructions-secure-fix-validation",
       "name": "secure-fix-validation",
       "description": "Standard validation checklist to prove a security fix works and doesn’t regress behavior.",
-      "stars": 32,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-14T20:25:15Z"
+      "stars": 32,
+      "updatedAt": "2026-01-14T20:25:15Z",
+      "repoUrl": ""
     },
     {
       "id": "3commas-io-commas-claude-mtls-configuration",
       "name": "mtls-configuration",
       "description": "Configure mutual TLS (mTLS) for zero-trust service-to-service communication. Use when implementing zero-trust networking, certificate management, or securing internal service communication.",
-      "stars": 0,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-14T09:38:08Z"
+      "stars": 0,
+      "updatedAt": "2026-01-14T09:38:08Z",
+      "repoUrl": ""
     },
     {
       "id": "3commas-io-commas-claude-threat-mitigation-mapping",
       "name": "threat-mitigation-mapping",
       "description": "Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness.",
-      "stars": 0,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-14T09:38:08Z"
+      "stars": 0,
+      "updatedAt": "2026-01-14T09:38:08Z",
+      "repoUrl": ""
     },
     {
       "id": "mamba-mental-agent-skill-manager-code-reviewer",
       "name": "code-reviewer",
       "description": "Automatic code quality and best practices analysis. Use proactively when files are modified, saved, or committed. Analyzes code style, patterns, potential bugs, and security basics. Triggers on file changes, git diff, code edits, quality mentions.",
-      "stars": 0,
+      "category": "specialized",
       "tags": [],
-      "updatedAt": "2026-01-10T13:53:22Z"
+      "stars": 0,
+      "updatedAt": "2026-01-10T13:53:22Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unity-basics",
       "name": "Game Engine Unity Basics",
       "description": "Complete guide to game engine unity basics",
-      "stars": 187,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 187,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unity-scripting",
       "name": "Game Engine Unity Scripting",
       "description": "Complete guide to game engine unity scripting",
-      "stars": 164,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 164,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unity-physics",
       "name": "Game Engine Unity Physics",
       "description": "Complete guide to game engine unity physics",
-      "stars": 584,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 584,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unity-ui",
       "name": "Game Engine Unity Ui",
       "description": "Complete guide to game engine unity ui",
-      "stars": 561,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 561,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unity-animation",
       "name": "Game Engine Unity Animation",
       "description": "Complete guide to game engine unity animation",
-      "stars": 575,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 575,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unity-audio",
       "name": "Game Engine Unity Audio",
       "description": "Complete guide to game engine unity audio",
-      "stars": 362,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 362,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unity-networking",
       "name": "Game Engine Unity Networking",
       "description": "Complete guide to game engine unity networking",
-      "stars": 498,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 498,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unity-ar",
       "name": "Game Engine Unity Ar",
       "description": "Complete guide to game engine unity ar",
-      "stars": 535,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 535,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unity-vr",
       "name": "Game Engine Unity Vr",
       "description": "Complete guide to game engine unity vr",
-      "stars": 219,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 219,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unity-mobile",
       "name": "Game Engine Unity Mobile",
       "description": "Complete guide to game engine unity mobile",
-      "stars": 447,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 447,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unreal-basics",
       "name": "Game Engine Unreal Basics",
       "description": "Complete guide to game engine unreal basics",
-      "stars": 168,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 168,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unreal-blueprints",
       "name": "Game Engine Unreal Blueprints",
       "description": "Complete guide to game engine unreal blueprints",
-      "stars": 247,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 247,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unreal-cpp",
       "name": "Game Engine Unreal Cpp",
       "description": "Complete guide to game engine unreal cpp",
-      "stars": 284,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 284,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unreal-materials",
       "name": "Game Engine Unreal Materials",
       "description": "Complete guide to game engine unreal materials",
-      "stars": 490,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 490,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-unreal-animation",
       "name": "Game Engine Unreal Animation",
       "description": "Complete guide to game engine unreal animation",
-      "stars": 220,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 220,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-godot-basics",
       "name": "Game Engine Godot Basics",
       "description": "Complete guide to game engine godot basics",
-      "stars": 326,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 326,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-godot-gdscript",
       "name": "Game Engine Godot Gdscript",
       "description": "Complete guide to game engine godot gdscript",
-      "stars": 104,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 104,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-godot-csharp",
       "name": "Game Engine Godot Csharp",
       "description": "Complete guide to game engine godot csharp",
-      "stars": 152,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 152,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-godot-physics",
       "name": "Game Engine Godot Physics",
       "description": "Complete guide to game engine godot physics",
-      "stars": 463,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 463,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-engine-godot-ui",
       "name": "Game Engine Godot Ui",
       "description": "Complete guide to game engine godot ui",
-      "stars": 366,
+      "category": "specialized",
       "tags": [
         "game-engine"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 366,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-loop",
       "name": "Game Dev Game Loop",
       "description": "Complete guide to game dev game loop",
-      "stars": 386,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 386,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-state",
       "name": "Game Dev Game State",
       "description": "Complete guide to game dev game state",
-      "stars": 326,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 326,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-input",
       "name": "Game Dev Game Input",
       "description": "Complete guide to game dev game input",
-      "stars": 228,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 228,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-physics",
       "name": "Game Dev Game Physics",
       "description": "Complete guide to game dev game physics",
-      "stars": 467,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 467,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-collision",
       "name": "Game Dev Game Collision",
       "description": "Complete guide to game dev game collision",
-      "stars": 383,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 383,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-ai",
       "name": "Game Dev Game Ai",
       "description": "Complete guide to game dev game ai",
-      "stars": 311,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 311,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-pathfinding",
       "name": "Game Dev Game Pathfinding",
       "description": "Complete guide to game dev game pathfinding",
-      "stars": 272,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 272,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-audio",
       "name": "Game Dev Game Audio",
       "description": "Complete guide to game dev game audio",
-      "stars": 165,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 165,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-ui",
       "name": "Game Dev Game Ui",
       "description": "Complete guide to game dev game ui",
-      "stars": 367,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 367,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-networking",
       "name": "Game Dev Game Networking",
       "description": "Complete guide to game dev game networking",
-      "stars": 555,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 555,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-save",
       "name": "Game Dev Game Save",
       "description": "Complete guide to game dev game save",
-      "stars": 433,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 433,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-achievements",
       "name": "Game Dev Game Achievements",
       "description": "Complete guide to game dev game achievements",
-      "stars": 291,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 291,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-leaderboards",
       "name": "Game Dev Game Leaderboards",
       "description": "Complete guide to game dev game leaderboards",
-      "stars": 117,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 117,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-analytics",
       "name": "Game Dev Game Analytics",
       "description": "Complete guide to game dev game analytics",
-      "stars": 536,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 536,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-monetization",
       "name": "Game Dev Game Monetization",
       "description": "Complete guide to game dev game monetization",
-      "stars": 169,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 169,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-ads",
       "name": "Game Dev Game Ads",
       "description": "Complete guide to game dev game ads",
-      "stars": 188,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 188,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-iap",
       "name": "Game Dev Game Iap",
       "description": "Complete guide to game dev game iap",
-      "stars": 108,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 108,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-localization",
       "name": "Game Dev Game Localization",
       "description": "Complete guide to game dev game localization",
-      "stars": 494,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 494,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-testing",
       "name": "Game Dev Game Testing",
       "description": "Complete guide to game dev game testing",
-      "stars": 300,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 300,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "game-dev-game-optimization",
       "name": "Game Dev Game Optimization",
       "description": "Complete guide to game dev game optimization",
-      "stars": 157,
+      "category": "specialized",
       "tags": [
         "game-dev"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 157,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-webgl",
       "name": "Graphics Webgl",
       "description": "Complete guide to graphics webgl",
-      "stars": 372,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 372,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-webgpu",
       "name": "Graphics Webgpu",
       "description": "Complete guide to graphics webgpu",
-      "stars": 153,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 153,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-three-js-adv",
       "name": "Graphics Three Js Adv",
       "description": "Complete guide to graphics three js adv",
-      "stars": 224,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 224,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-babylon-js",
       "name": "Graphics Babylon Js",
       "description": "Complete guide to graphics babylon js",
-      "stars": 166,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 166,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-pixi-js",
       "name": "Graphics Pixi Js",
       "description": "Complete guide to graphics pixi js",
-      "stars": 197,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 197,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-phaser",
       "name": "Graphics Phaser",
       "description": "Complete guide to graphics phaser",
-      "stars": 224,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 224,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-matter-js",
       "name": "Graphics Matter Js",
       "description": "Complete guide to graphics matter js",
-      "stars": 409,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 409,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-cannon-js",
       "name": "Graphics Cannon Js",
       "description": "Complete guide to graphics cannon js",
-      "stars": 101,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 101,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-ammo-js",
       "name": "Graphics Ammo Js",
       "description": "Complete guide to graphics ammo js",
-      "stars": 151,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 151,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-rapier",
       "name": "Graphics Rapier",
       "description": "Complete guide to graphics rapier",
-      "stars": 526,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 526,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-oimo-js",
       "name": "Graphics Oimo Js",
       "description": "Complete guide to graphics oimo js",
-      "stars": 346,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 346,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-planck-js",
       "name": "Graphics Planck Js",
       "description": "Complete guide to graphics planck js",
-      "stars": 520,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 520,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-p2-js",
       "name": "Graphics P2 Js",
       "description": "Complete guide to graphics p2 js",
-      "stars": 232,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 232,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-box2d-js",
       "name": "Graphics Box2d Js",
       "description": "Complete guide to graphics box2d js",
-      "stars": 343,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 343,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-shader-basics",
       "name": "Graphics Shader Basics",
       "description": "Complete guide to graphics shader basics",
-      "stars": 217,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 217,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-glsl",
       "name": "Graphics Glsl",
       "description": "Complete guide to graphics glsl",
-      "stars": 164,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 164,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-vertex-shader",
       "name": "Graphics Vertex Shader",
       "description": "Complete guide to graphics vertex shader",
-      "stars": 169,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 169,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-fragment-shader",
       "name": "Graphics Fragment Shader",
       "description": "Complete guide to graphics fragment shader",
-      "stars": 499,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 499,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-compute-shader",
       "name": "Graphics Compute Shader",
       "description": "Complete guide to graphics compute shader",
-      "stars": 466,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 466,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "graphics-ray-tracing",
       "name": "Graphics Ray Tracing",
       "description": "Complete guide to graphics ray tracing",
-      "stars": 167,
+      "category": "specialized",
       "tags": [
         "graphics"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 167,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-ethereum-basics",
       "name": "Blockchain Ethereum Basics",
       "description": "Complete guide to blockchain ethereum basics",
-      "stars": 117,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 117,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-solidity",
       "name": "Blockchain Solidity",
       "description": "Complete guide to blockchain solidity",
-      "stars": 505,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 505,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-hardhat",
       "name": "Blockchain Hardhat",
       "description": "Complete guide to blockchain hardhat",
-      "stars": 337,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 337,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-foundry",
       "name": "Blockchain Foundry",
       "description": "Complete guide to blockchain foundry",
-      "stars": 566,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 566,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-truffle",
       "name": "Blockchain Truffle",
       "description": "Complete guide to blockchain truffle",
-      "stars": 491,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 491,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-remix",
       "name": "Blockchain Remix",
       "description": "Complete guide to blockchain remix",
-      "stars": 365,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 365,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-web3-js",
       "name": "Blockchain Web3 Js",
       "description": "Complete guide to blockchain web3 js",
-      "stars": 483,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 483,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-ethers-js",
       "name": "Blockchain Ethers Js",
       "description": "Complete guide to blockchain ethers js",
-      "stars": 473,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 473,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-viem",
       "name": "Blockchain Viem",
       "description": "Complete guide to blockchain viem",
-      "stars": 377,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 377,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-wagmi",
       "name": "Blockchain Wagmi",
       "description": "Complete guide to blockchain wagmi",
-      "stars": 171,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 171,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-rainbow-kit",
       "name": "Blockchain Rainbow Kit",
       "description": "Complete guide to blockchain rainbow kit",
-      "stars": 207,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 207,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-connect-kit",
       "name": "Blockchain Connect Kit",
       "description": "Complete guide to blockchain connect kit",
-      "stars": 268,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 268,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-wallet-connect",
       "name": "Blockchain Wallet Connect",
       "description": "Complete guide to blockchain wallet connect",
-      "stars": 538,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 538,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-metamask",
       "name": "Blockchain Metamask",
       "description": "Complete guide to blockchain metamask",
-      "stars": 308,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 308,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-openzeppelin",
       "name": "Blockchain Openzeppelin",
       "description": "Complete guide to blockchain openzeppelin",
-      "stars": 377,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 377,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-erc20",
       "name": "Blockchain Erc20",
       "description": "Complete guide to blockchain erc20",
-      "stars": 463,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 463,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-erc721",
       "name": "Blockchain Erc721",
       "description": "Complete guide to blockchain erc721",
-      "stars": 319,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 319,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-erc1155",
       "name": "Blockchain Erc1155",
       "description": "Complete guide to blockchain erc1155",
-      "stars": 510,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 510,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-uniswap",
       "name": "Blockchain Uniswap",
       "description": "Complete guide to blockchain uniswap",
-      "stars": 145,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 145,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "blockchain-aave",
       "name": "Blockchain Aave",
       "description": "Complete guide to blockchain aave",
-      "stars": 186,
+      "category": "specialized",
       "tags": [
         "blockchain"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 186,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-contract-security",
       "name": "Smart Contracts Contract Security",
       "description": "Complete guide to smart contracts contract security",
-      "stars": 187,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 187,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-reentrancy",
       "name": "Smart Contracts Reentrancy",
       "description": "Complete guide to smart contracts reentrancy",
-      "stars": 174,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 174,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-overflow",
       "name": "Smart Contracts Overflow",
       "description": "Complete guide to smart contracts overflow",
-      "stars": 594,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 594,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-access-control-sc",
       "name": "Smart Contracts Access Control Sc",
       "description": "Complete guide to smart contracts access control sc",
-      "stars": 262,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 262,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-upgradeability",
       "name": "Smart Contracts Upgradeability",
       "description": "Complete guide to smart contracts upgradeability",
-      "stars": 535,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 535,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-proxy-pattern",
       "name": "Smart Contracts Proxy Pattern",
       "description": "Complete guide to smart contracts proxy pattern",
-      "stars": 145,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 145,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-diamond-pattern",
       "name": "Smart Contracts Diamond Pattern",
       "description": "Complete guide to smart contracts diamond pattern",
-      "stars": 250,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 250,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-gas-optimization",
       "name": "Smart Contracts Gas Optimization",
       "description": "Complete guide to smart contracts gas optimization",
-      "stars": 170,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 170,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-storage-layout",
       "name": "Smart Contracts Storage Layout",
       "description": "Complete guide to smart contracts storage layout",
-      "stars": 392,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 392,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-events-logs",
       "name": "Smart Contracts Events Logs",
       "description": "Complete guide to smart contracts events logs",
-      "stars": 241,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 241,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-oracles",
       "name": "Smart Contracts Oracles",
       "description": "Complete guide to smart contracts oracles",
-      "stars": 386,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 386,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-chainlink",
       "name": "Smart Contracts Chainlink",
       "description": "Complete guide to smart contracts chainlink",
-      "stars": 514,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 514,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-the-graph",
       "name": "Smart Contracts The Graph",
       "description": "Complete guide to smart contracts the graph",
-      "stars": 216,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 216,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-subgraph",
       "name": "Smart Contracts Subgraph",
       "description": "Complete guide to smart contracts subgraph",
-      "stars": 251,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 251,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-indexing",
       "name": "Smart Contracts Indexing",
       "description": "Complete guide to smart contracts indexing",
-      "stars": 312,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 312,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-ipfs",
       "name": "Smart Contracts Ipfs",
       "description": "Complete guide to smart contracts ipfs",
-      "stars": 449,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 449,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-arweave",
       "name": "Smart Contracts Arweave",
       "description": "Complete guide to smart contracts arweave",
-      "stars": 310,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 310,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-filecoin",
       "name": "Smart Contracts Filecoin",
       "description": "Complete guide to smart contracts filecoin",
-      "stars": 538,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 538,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-pinata",
       "name": "Smart Contracts Pinata",
       "description": "Complete guide to smart contracts pinata",
-      "stars": 277,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 277,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "smart-contracts-nft-storage",
       "name": "Smart Contracts Nft Storage",
       "description": "Complete guide to smart contracts nft storage",
-      "stars": 391,
+      "category": "specialized",
       "tags": [
         "smart-contracts"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 391,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-liquidity-pools",
       "name": "Defi Liquidity Pools",
       "description": "Complete guide to defi liquidity pools",
-      "stars": 576,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 576,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-amm",
       "name": "Defi Amm",
       "description": "Complete guide to defi amm",
-      "stars": 496,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 496,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-yield-farming",
       "name": "Defi Yield Farming",
       "description": "Complete guide to defi yield farming",
-      "stars": 297,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 297,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-staking",
       "name": "Defi Staking",
       "description": "Complete guide to defi staking",
-      "stars": 371,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 371,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-lending",
       "name": "Defi Lending",
       "description": "Complete guide to defi lending",
-      "stars": 186,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 186,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-borrowing",
       "name": "Defi Borrowing",
       "description": "Complete guide to defi borrowing",
-      "stars": 184,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 184,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-flash-loans",
       "name": "Defi Flash Loans",
       "description": "Complete guide to defi flash loans",
-      "stars": 576,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 576,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-arbitrage",
       "name": "Defi Arbitrage",
       "description": "Complete guide to defi arbitrage",
-      "stars": 553,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 553,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-mev",
       "name": "Defi Mev",
       "description": "Complete guide to defi mev",
-      "stars": 241,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 241,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-liquidations",
       "name": "Defi Liquidations",
       "description": "Complete guide to defi liquidations",
-      "stars": 474,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 474,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-governance",
       "name": "Defi Governance",
       "description": "Complete guide to defi governance",
-      "stars": 242,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 242,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-dao",
       "name": "Defi Dao",
       "description": "Complete guide to defi dao",
-      "stars": 434,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 434,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-tokenomics",
       "name": "Defi Tokenomics",
       "description": "Complete guide to defi tokenomics",
-      "stars": 321,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 321,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-vesting",
       "name": "Defi Vesting",
       "description": "Complete guide to defi vesting",
-      "stars": 294,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 294,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-airdrops",
       "name": "Defi Airdrops",
       "description": "Complete guide to defi airdrops",
-      "stars": 159,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 159,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-bridges",
       "name": "Defi Bridges",
       "description": "Complete guide to defi bridges",
-      "stars": 456,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 456,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-cross-chain",
       "name": "Defi Cross Chain",
       "description": "Complete guide to defi cross chain",
-      "stars": 222,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 222,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-layer2",
       "name": "Defi Layer2",
       "description": "Complete guide to defi layer2",
-      "stars": 581,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 581,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-rollups",
       "name": "Defi Rollups",
       "description": "Complete guide to defi rollups",
-      "stars": 101,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 101,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "defi-zk-proofs",
       "name": "Defi Zk Proofs",
       "description": "Complete guide to defi zk proofs",
-      "stars": 154,
+      "category": "specialized",
       "tags": [
         "defi"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 154,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-mqtt-adv",
       "name": "Iot Mqtt Adv",
       "description": "Complete guide to iot mqtt adv",
-      "stars": 235,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 235,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-coap",
       "name": "Iot Coap",
       "description": "Complete guide to iot coap",
-      "stars": 156,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 156,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-lwm2m",
       "name": "Iot Lwm2m",
       "description": "Complete guide to iot lwm2m",
-      "stars": 142,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 142,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-matter",
       "name": "Iot Matter",
       "description": "Complete guide to iot matter",
-      "stars": 193,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 193,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-thread",
       "name": "Iot Thread",
       "description": "Complete guide to iot thread",
-      "stars": 542,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 542,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-zigbee",
       "name": "Iot Zigbee",
       "description": "Complete guide to iot zigbee",
-      "stars": 168,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 168,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-zwave",
       "name": "Iot Zwave",
       "description": "Complete guide to iot zwave",
-      "stars": 491,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 491,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-ble",
       "name": "Iot Ble",
       "description": "Complete guide to iot ble",
-      "stars": 117,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 117,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-lora",
       "name": "Iot Lora",
       "description": "Complete guide to iot lora",
-      "stars": 271,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 271,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-nb-iot",
       "name": "Iot Nb Iot",
       "description": "Complete guide to iot nb iot",
-      "stars": 132,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 132,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-sigfox",
       "name": "Iot Sigfox",
       "description": "Complete guide to iot sigfox",
-      "stars": 437,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 437,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-cellular-iot",
       "name": "Iot Cellular Iot",
       "description": "Complete guide to iot cellular iot",
-      "stars": 165,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 165,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-aws-iot",
       "name": "Iot Aws Iot",
       "description": "Complete guide to iot aws iot",
-      "stars": 224,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 224,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-azure-iot-adv",
       "name": "Iot Azure Iot Adv",
       "description": "Complete guide to iot azure iot adv",
-      "stars": 308,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 308,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-gcp-iot-adv",
       "name": "Iot Gcp Iot Adv",
       "description": "Complete guide to iot gcp iot adv",
-      "stars": 544,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 544,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-thingsboard",
       "name": "Iot Thingsboard",
       "description": "Complete guide to iot thingsboard",
-      "stars": 119,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 119,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-home-assistant",
       "name": "Iot Home Assistant",
       "description": "Complete guide to iot home assistant",
-      "stars": 584,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 584,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-tasmota",
       "name": "Iot Tasmota",
       "description": "Complete guide to iot tasmota",
-      "stars": 129,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 129,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-esphome",
       "name": "Iot Esphome",
       "description": "Complete guide to iot esphome",
-      "stars": 508,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 508,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "iot-node-red",
       "name": "Iot Node Red",
       "description": "Complete guide to iot node red",
-      "stars": 571,
+      "category": "specialized",
       "tags": [
         "iot"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 571,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-arduino",
       "name": "Embedded Arduino",
       "description": "Complete guide to embedded arduino",
-      "stars": 348,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 348,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-esp32",
       "name": "Embedded Esp32",
       "description": "Complete guide to embedded esp32",
-      "stars": 165,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 165,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-esp8266",
       "name": "Embedded Esp8266",
       "description": "Complete guide to embedded esp8266",
-      "stars": 499,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 499,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-raspberry-pi",
       "name": "Embedded Raspberry Pi",
       "description": "Complete guide to embedded raspberry pi",
-      "stars": 274,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 274,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-stm32",
       "name": "Embedded Stm32",
       "description": "Complete guide to embedded stm32",
-      "stars": 393,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 393,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-nrf52",
       "name": "Embedded Nrf52",
       "description": "Complete guide to embedded nrf52",
-      "stars": 124,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 124,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-teensy",
       "name": "Embedded Teensy",
       "description": "Complete guide to embedded teensy",
-      "stars": 476,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 476,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-pico",
       "name": "Embedded Pico",
       "description": "Complete guide to embedded pico",
-      "stars": 439,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 439,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-platformio",
       "name": "Embedded Platformio",
       "description": "Complete guide to embedded platformio",
-      "stars": 489,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 489,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-micropython",
       "name": "Embedded Micropython",
       "description": "Complete guide to embedded micropython",
-      "stars": 514,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 514,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-circuitpython",
       "name": "Embedded Circuitpython",
       "description": "Complete guide to embedded circuitpython",
-      "stars": 290,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 290,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-zephyr",
       "name": "Embedded Zephyr",
       "description": "Complete guide to embedded zephyr",
-      "stars": 347,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 347,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-freertos",
       "name": "Embedded Freertos",
       "description": "Complete guide to embedded freertos",
-      "stars": 489,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 489,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-mbed",
       "name": "Embedded Mbed",
       "description": "Complete guide to embedded mbed",
-      "stars": 235,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 235,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-arm-cortex",
       "name": "Embedded Arm Cortex",
       "description": "Complete guide to embedded arm cortex",
-      "stars": 218,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 218,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-risc-v",
       "name": "Embedded Risc V",
       "description": "Complete guide to embedded risc v",
-      "stars": 400,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 400,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-i2c",
       "name": "Embedded I2c",
       "description": "Complete guide to embedded i2c",
-      "stars": 477,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 477,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-spi",
       "name": "Embedded Spi",
       "description": "Complete guide to embedded spi",
-      "stars": 340,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 340,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-uart",
       "name": "Embedded Uart",
       "description": "Complete guide to embedded uart",
-      "stars": 565,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 565,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "embedded-gpio",
       "name": "Embedded Gpio",
       "description": "Complete guide to embedded gpio",
-      "stars": 380,
+      "category": "specialized",
       "tags": [
         "embedded"
       ],
-      "updatedAt": "2026-01-17T06:20:53.027Z"
+      "stars": 380,
+      "updatedAt": "2026-01-17T06:20:53.027Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-qiskit",
       "name": "Quantum Qiskit",
       "description": "Complete guide to quantum qiskit",
-      "stars": 467,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 467,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-cirq",
       "name": "Quantum Cirq",
       "description": "Complete guide to quantum cirq",
-      "stars": 225,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 225,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-pennylane",
       "name": "Quantum Pennylane",
       "description": "Complete guide to quantum pennylane",
-      "stars": 198,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 198,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-q-sharp",
       "name": "Quantum Q Sharp",
       "description": "Complete guide to quantum q sharp",
-      "stars": 562,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 562,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-braket",
       "name": "Quantum Braket",
       "description": "Complete guide to quantum braket",
-      "stars": 322,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 322,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-quantum-gates",
       "name": "Quantum Quantum Gates",
       "description": "Complete guide to quantum quantum gates",
-      "stars": 558,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 558,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-quantum-circuits",
       "name": "Quantum Quantum Circuits",
       "description": "Complete guide to quantum quantum circuits",
-      "stars": 167,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 167,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-quantum-algorithms",
       "name": "Quantum Quantum Algorithms",
       "description": "Complete guide to quantum quantum algorithms",
-      "stars": 416,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 416,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-grover",
       "name": "Quantum Grover",
       "description": "Complete guide to quantum grover",
-      "stars": 354,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 354,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-shor",
       "name": "Quantum Shor",
       "description": "Complete guide to quantum shor",
-      "stars": 592,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 592,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-vqe",
       "name": "Quantum Vqe",
       "description": "Complete guide to quantum vqe",
-      "stars": 313,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 313,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-qaoa",
       "name": "Quantum Qaoa",
       "description": "Complete guide to quantum qaoa",
-      "stars": 434,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 434,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-quantum-ml",
       "name": "Quantum Quantum Ml",
       "description": "Complete guide to quantum quantum ml",
-      "stars": 529,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 529,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-quantum-annealing",
       "name": "Quantum Quantum Annealing",
       "description": "Complete guide to quantum quantum annealing",
-      "stars": 197,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 197,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-quantum-simulation",
       "name": "Quantum Quantum Simulation",
       "description": "Complete guide to quantum quantum simulation",
-      "stars": 439,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 439,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-quantum-cryptography",
       "name": "Quantum Quantum Cryptography",
       "description": "Complete guide to quantum quantum cryptography",
-      "stars": 165,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 165,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-quantum-communication",
       "name": "Quantum Quantum Communication",
       "description": "Complete guide to quantum quantum communication",
-      "stars": 556,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 556,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-quantum-networking",
       "name": "Quantum Quantum Networking",
       "description": "Complete guide to quantum quantum networking",
-      "stars": 258,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 258,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-quantum-error-correction",
       "name": "Quantum Quantum Error Correction",
       "description": "Complete guide to quantum quantum error correction",
-      "stars": 214,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 214,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "quantum-quantum-supremacy",
       "name": "Quantum Quantum Supremacy",
       "description": "Complete guide to quantum quantum supremacy",
-      "stars": 410,
+      "category": "specialized",
       "tags": [
         "quantum"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 410,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-ros",
       "name": "Robotics Ros",
       "description": "Complete guide to robotics ros",
-      "stars": 367,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 367,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-ros2",
       "name": "Robotics Ros2",
       "description": "Complete guide to robotics ros2",
-      "stars": 280,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 280,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-gazebo",
       "name": "Robotics Gazebo",
       "description": "Complete guide to robotics gazebo",
-      "stars": 199,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 199,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-rviz",
       "name": "Robotics Rviz",
       "description": "Complete guide to robotics rviz",
-      "stars": 153,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 153,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-moveit",
       "name": "Robotics Moveit",
       "description": "Complete guide to robotics moveit",
-      "stars": 404,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 404,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-nav2",
       "name": "Robotics Nav2",
       "description": "Complete guide to robotics nav2",
-      "stars": 145,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 145,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-slam",
       "name": "Robotics Slam",
       "description": "Complete guide to robotics slam",
-      "stars": 580,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 580,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-lidar",
       "name": "Robotics Lidar",
       "description": "Complete guide to robotics lidar",
-      "stars": 513,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 513,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-imu",
       "name": "Robotics Imu",
       "description": "Complete guide to robotics imu",
-      "stars": 385,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 385,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-odometry",
       "name": "Robotics Odometry",
       "description": "Complete guide to robotics odometry",
-      "stars": 155,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 155,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-path-planning",
       "name": "Robotics Path Planning",
       "description": "Complete guide to robotics path planning",
-      "stars": 524,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 524,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-motion-control",
       "name": "Robotics Motion Control",
       "description": "Complete guide to robotics motion control",
-      "stars": 195,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 195,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-inverse-kinematics",
       "name": "Robotics Inverse Kinematics",
       "description": "Complete guide to robotics inverse kinematics",
-      "stars": 501,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 501,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-forward-kinematics",
       "name": "Robotics Forward Kinematics",
       "description": "Complete guide to robotics forward kinematics",
-      "stars": 347,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 347,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-pid-control",
       "name": "Robotics Pid Control",
       "description": "Complete guide to robotics pid control",
-      "stars": 561,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 561,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-sensor-fusion",
       "name": "Robotics Sensor Fusion",
       "description": "Complete guide to robotics sensor fusion",
-      "stars": 168,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 168,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-computer-vision-robotics",
       "name": "Robotics Computer Vision Robotics",
       "description": "Complete guide to robotics computer vision robotics",
-      "stars": 152,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 152,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-object-detection-robotics",
       "name": "Robotics Object Detection Robotics",
       "description": "Complete guide to robotics object detection robotics",
-      "stars": 279,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 279,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-reinforcement-learning-robotics",
       "name": "Robotics Reinforcement Learning Robotics",
       "description": "Complete guide to robotics reinforcement learning robotics",
-      "stars": 464,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 464,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "robotics-simulation-robotics",
       "name": "Robotics Simulation Robotics",
       "description": "Complete guide to robotics simulation robotics",
-      "stars": 368,
+      "category": "specialized",
       "tags": [
         "robotics"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 368,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-arcore",
       "name": "Ar Vr Arcore",
       "description": "Complete guide to ar vr arcore",
-      "stars": 148,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 148,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-arkit-adv",
       "name": "Ar Vr Arkit Adv",
       "description": "Complete guide to ar vr arkit adv",
-      "stars": 443,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 443,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-vuforia",
       "name": "Ar Vr Vuforia",
       "description": "Complete guide to ar vr vuforia",
-      "stars": 231,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 231,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-8thwall",
       "name": "Ar Vr 8thwall",
       "description": "Complete guide to ar vr 8thwall",
-      "stars": 355,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 355,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-spark-ar",
       "name": "Ar Vr Spark Ar",
       "description": "Complete guide to ar vr spark ar",
-      "stars": 179,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 179,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-lens-studio",
       "name": "Ar Vr Lens Studio",
       "description": "Complete guide to ar vr lens studio",
-      "stars": 579,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 579,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-a-frame",
       "name": "Ar Vr A Frame",
       "description": "Complete guide to ar vr a frame",
-      "stars": 587,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 587,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-three-xr",
       "name": "Ar Vr Three Xr",
       "description": "Complete guide to ar vr three xr",
-      "stars": 215,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 215,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-babylon-xr",
       "name": "Ar Vr Babylon Xr",
       "description": "Complete guide to ar vr babylon xr",
-      "stars": 164,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 164,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-webxr",
       "name": "Ar Vr Webxr",
       "description": "Complete guide to ar vr webxr",
-      "stars": 590,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 590,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-openxr",
       "name": "Ar Vr Openxr",
       "description": "Complete guide to ar vr openxr",
-      "stars": 231,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 231,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-oculus-sdk",
       "name": "Ar Vr Oculus Sdk",
       "description": "Complete guide to ar vr oculus sdk",
-      "stars": 165,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 165,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-steamvr",
       "name": "Ar Vr Steamvr",
       "description": "Complete guide to ar vr steamvr",
-      "stars": 166,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 166,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-openvr",
       "name": "Ar Vr Openvr",
       "description": "Complete guide to ar vr openvr",
-      "stars": 496,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 496,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-vive-sdk",
       "name": "Ar Vr Vive Sdk",
       "description": "Complete guide to ar vr vive sdk",
-      "stars": 591,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 591,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-quest-sdk",
       "name": "Ar Vr Quest Sdk",
       "description": "Complete guide to ar vr quest sdk",
-      "stars": 109,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 109,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-hololens-sdk",
       "name": "Ar Vr Hololens Sdk",
       "description": "Complete guide to ar vr hololens sdk",
-      "stars": 169,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 169,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-magic-leap",
       "name": "Ar Vr Magic Leap",
       "description": "Complete guide to ar vr magic leap",
-      "stars": 200,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 200,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-nreal",
       "name": "Ar Vr Nreal",
       "description": "Complete guide to ar vr nreal",
-      "stars": 331,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 331,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "ar-vr-spatial-computing",
       "name": "Ar Vr Spatial Computing",
       "description": "Complete guide to ar vr spatial computing",
-      "stars": 510,
+      "category": "specialized",
       "tags": [
         "ar-vr"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 510,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-plaid",
       "name": "Fintech Plaid",
       "description": "Complete guide to fintech plaid",
-      "stars": 283,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 283,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-stripe-connect-fintech",
       "name": "Fintech Stripe Connect Fintech",
       "description": "Complete guide to fintech stripe connect fintech",
-      "stars": 459,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 459,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-yodlee",
       "name": "Fintech Yodlee",
       "description": "Complete guide to fintech yodlee",
-      "stars": 177,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 177,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-mx",
       "name": "Fintech Mx",
       "description": "Complete guide to fintech mx",
-      "stars": 140,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 140,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-fiserv",
       "name": "Fintech Fiserv",
       "description": "Complete guide to fintech fiserv",
-      "stars": 132,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 132,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-marqeta",
       "name": "Fintech Marqeta",
       "description": "Complete guide to fintech marqeta",
-      "stars": 436,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 436,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-galileo",
       "name": "Fintech Galileo",
       "description": "Complete guide to fintech galileo",
-      "stars": 457,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 457,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-synapse",
       "name": "Fintech Synapse",
       "description": "Complete guide to fintech synapse",
-      "stars": 295,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 295,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-unit",
       "name": "Fintech Unit",
       "description": "Complete guide to fintech unit",
-      "stars": 218,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 218,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-lithic",
       "name": "Fintech Lithic",
       "description": "Complete guide to fintech lithic",
-      "stars": 332,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 332,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-moov",
       "name": "Fintech Moov",
       "description": "Complete guide to fintech moov",
-      "stars": 195,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 195,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-column",
       "name": "Fintech Column",
       "description": "Complete guide to fintech column",
-      "stars": 592,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 592,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-treasury-prime",
       "name": "Fintech Treasury Prime",
       "description": "Complete guide to fintech treasury prime",
-      "stars": 240,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 240,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-increase",
       "name": "Fintech Increase",
       "description": "Complete guide to fintech increase",
-      "stars": 384,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 384,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-modern-treasury",
       "name": "Fintech Modern Treasury",
       "description": "Complete guide to fintech modern treasury",
-      "stars": 396,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 396,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-currencycloud",
       "name": "Fintech Currencycloud",
       "description": "Complete guide to fintech currencycloud",
-      "stars": 224,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 224,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-wise-api",
       "name": "Fintech Wise Api",
       "description": "Complete guide to fintech wise api",
-      "stars": 136,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 136,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-remitly-api",
       "name": "Fintech Remitly Api",
       "description": "Complete guide to fintech remitly api",
-      "stars": 329,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 329,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-worldremit",
       "name": "Fintech Worldremit",
       "description": "Complete guide to fintech worldremit",
-      "stars": 445,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 445,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "fintech-payoneer-api",
       "name": "Fintech Payoneer Api",
       "description": "Complete guide to fintech payoneer api",
-      "stars": 269,
+      "category": "specialized",
       "tags": [
         "fintech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 269,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-hl7",
       "name": "Healthtech Hl7",
       "description": "Complete guide to healthtech hl7",
-      "stars": 502,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 502,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-fhir",
       "name": "Healthtech Fhir",
       "description": "Complete guide to healthtech fhir",
-      "stars": 475,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 475,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-dicom",
       "name": "Healthtech Dicom",
       "description": "Complete guide to healthtech dicom",
-      "stars": 327,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 327,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-snomed",
       "name": "Healthtech Snomed",
       "description": "Complete guide to healthtech snomed",
-      "stars": 476,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 476,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-icd10",
       "name": "Healthtech Icd10",
       "description": "Complete guide to healthtech icd10",
-      "stars": 455,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 455,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-loinc",
       "name": "Healthtech Loinc",
       "description": "Complete guide to healthtech loinc",
-      "stars": 461,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 461,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-rxnorm",
       "name": "Healthtech Rxnorm",
       "description": "Complete guide to healthtech rxnorm",
-      "stars": 187,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 187,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-ndc",
       "name": "Healthtech Ndc",
       "description": "Complete guide to healthtech ndc",
-      "stars": 131,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 131,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-hipaa-compliance",
       "name": "Healthtech Hipaa Compliance",
       "description": "Complete guide to healthtech hipaa compliance",
-      "stars": 244,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 244,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-hitrust-compliance",
       "name": "Healthtech Hitrust Compliance",
       "description": "Complete guide to healthtech hitrust compliance",
-      "stars": 446,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 446,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-epic-api",
       "name": "Healthtech Epic Api",
       "description": "Complete guide to healthtech epic api",
-      "stars": 121,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 121,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-cerner-api",
       "name": "Healthtech Cerner Api",
       "description": "Complete guide to healthtech cerner api",
-      "stars": 513,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 513,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-athena-api",
       "name": "Healthtech Athena Api",
       "description": "Complete guide to healthtech athena api",
-      "stars": 174,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 174,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-allscripts-api",
       "name": "Healthtech Allscripts Api",
       "description": "Complete guide to healthtech allscripts api",
-      "stars": 388,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 388,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-eclinicalworks",
       "name": "Healthtech Eclinicalworks",
       "description": "Complete guide to healthtech eclinicalworks",
-      "stars": 448,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 448,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-drchrono",
       "name": "Healthtech Drchrono",
       "description": "Complete guide to healthtech drchrono",
-      "stars": 208,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 208,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-healthgorilla",
       "name": "Healthtech Healthgorilla",
       "description": "Complete guide to healthtech healthgorilla",
-      "stars": 155,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 155,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-redox",
       "name": "Healthtech Redox",
       "description": "Complete guide to healthtech redox",
-      "stars": 585,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 585,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-particle-health",
       "name": "Healthtech Particle Health",
       "description": "Complete guide to healthtech particle health",
-      "stars": 497,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 497,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "healthtech-1uphealth",
       "name": "Healthtech 1uphealth",
       "description": "Complete guide to healthtech 1uphealth",
-      "stars": 304,
+      "category": "specialized",
       "tags": [
         "healthtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 304,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-scorm",
       "name": "Edtech Scorm",
       "description": "Complete guide to edtech scorm",
-      "stars": 331,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 331,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-xapi",
       "name": "Edtech Xapi",
       "description": "Complete guide to edtech xapi",
-      "stars": 521,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 521,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-lti",
       "name": "Edtech Lti",
       "description": "Complete guide to edtech lti",
-      "stars": 282,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 282,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-qti",
       "name": "Edtech Qti",
       "description": "Complete guide to edtech qti",
-      "stars": 452,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 452,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-ims-global",
       "name": "Edtech Ims Global",
       "description": "Complete guide to edtech ims global",
-      "stars": 372,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 372,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-canvas-api",
       "name": "Edtech Canvas Api",
       "description": "Complete guide to edtech canvas api",
-      "stars": 143,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 143,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-blackboard-api",
       "name": "Edtech Blackboard Api",
       "description": "Complete guide to edtech blackboard api",
-      "stars": 553,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 553,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-moodle-api",
       "name": "Edtech Moodle Api",
       "description": "Complete guide to edtech moodle api",
-      "stars": 141,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 141,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-schoology-api",
       "name": "Edtech Schoology Api",
       "description": "Complete guide to edtech schoology api",
-      "stars": 198,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 198,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-d2l-api",
       "name": "Edtech D2l Api",
       "description": "Complete guide to edtech d2l api",
-      "stars": 214,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 214,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-google-classroom",
       "name": "Edtech Google Classroom",
       "description": "Complete guide to edtech google classroom",
-      "stars": 593,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 593,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-microsoft-teams-edu",
       "name": "Edtech Microsoft Teams Edu",
       "description": "Complete guide to edtech microsoft teams edu",
-      "stars": 464,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 464,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-zoom-edu",
       "name": "Edtech Zoom Edu",
       "description": "Complete guide to edtech zoom edu",
-      "stars": 326,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 326,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-kahoot-api",
       "name": "Edtech Kahoot Api",
       "description": "Complete guide to edtech kahoot api",
-      "stars": 335,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 335,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-quizlet-api",
       "name": "Edtech Quizlet Api",
       "description": "Complete guide to edtech quizlet api",
-      "stars": 569,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 569,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-coursera-api",
       "name": "Edtech Coursera Api",
       "description": "Complete guide to edtech coursera api",
-      "stars": 429,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 429,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-udemy-api",
       "name": "Edtech Udemy Api",
       "description": "Complete guide to edtech udemy api",
-      "stars": 284,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 284,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-skillshare-api",
       "name": "Edtech Skillshare Api",
       "description": "Complete guide to edtech skillshare api",
-      "stars": 213,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 213,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-pluralsight-api",
       "name": "Edtech Pluralsight Api",
       "description": "Complete guide to edtech pluralsight api",
-      "stars": 352,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 352,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "edtech-linkedin-learning",
       "name": "Edtech Linkedin Learning",
       "description": "Complete guide to edtech linkedin learning",
-      "stars": 451,
+      "category": "specialized",
       "tags": [
         "edtech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 451,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-zillow-api",
       "name": "Proptech Zillow Api",
       "description": "Complete guide to proptech zillow api",
-      "stars": 330,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 330,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-redfin-api",
       "name": "Proptech Redfin Api",
       "description": "Complete guide to proptech redfin api",
-      "stars": 561,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 561,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-realtor-api",
       "name": "Proptech Realtor Api",
       "description": "Complete guide to proptech realtor api",
-      "stars": 311,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 311,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-trulia-api",
       "name": "Proptech Trulia Api",
       "description": "Complete guide to proptech trulia api",
-      "stars": 411,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 411,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-apartments-api",
       "name": "Proptech Apartments Api",
       "description": "Complete guide to proptech apartments api",
-      "stars": 423,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 423,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-costar-api",
       "name": "Proptech Costar Api",
       "description": "Complete guide to proptech costar api",
-      "stars": 402,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 402,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-yardi-api",
       "name": "Proptech Yardi Api",
       "description": "Complete guide to proptech yardi api",
-      "stars": 380,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 380,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-appfolio-api",
       "name": "Proptech Appfolio Api",
       "description": "Complete guide to proptech appfolio api",
-      "stars": 391,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 391,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-buildium-api",
       "name": "Proptech Buildium Api",
       "description": "Complete guide to proptech buildium api",
-      "stars": 499,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 499,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-rent-manager",
       "name": "Proptech Rent Manager",
       "description": "Complete guide to proptech rent manager",
-      "stars": 527,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 527,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-propertyware",
       "name": "Proptech Propertyware",
       "description": "Complete guide to proptech propertyware",
-      "stars": 225,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 225,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-rentec-direct",
       "name": "Proptech Rentec Direct",
       "description": "Complete guide to proptech rentec direct",
-      "stars": 340,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 340,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-tenantcloud",
       "name": "Proptech Tenantcloud",
       "description": "Complete guide to proptech tenantcloud",
-      "stars": 369,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 369,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-avail",
       "name": "Proptech Avail",
       "description": "Complete guide to proptech avail",
-      "stars": 508,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 508,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-innago",
       "name": "Proptech Innago",
       "description": "Complete guide to proptech innago",
-      "stars": 311,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 311,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-doorloop",
       "name": "Proptech Doorloop",
       "description": "Complete guide to proptech doorloop",
-      "stars": 491,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 491,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-stessa",
       "name": "Proptech Stessa",
       "description": "Complete guide to proptech stessa",
-      "stars": 525,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 525,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-roofstock",
       "name": "Proptech Roofstock",
       "description": "Complete guide to proptech roofstock",
-      "stars": 124,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 124,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-fundrise",
       "name": "Proptech Fundrise",
       "description": "Complete guide to proptech fundrise",
-      "stars": 118,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 118,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     },
     {
       "id": "proptech-cadre",
       "name": "Proptech Cadre",
       "description": "Complete guide to proptech cadre",
-      "stars": 221,
+      "category": "specialized",
       "tags": [
         "proptech"
       ],
-      "updatedAt": "2026-01-17T06:34:14.372Z"
+      "stars": 221,
+      "updatedAt": "2026-01-17T06:34:14.372Z",
+      "repoUrl": ""
     }
   ]
 }
