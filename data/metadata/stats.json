@@ -1,238 +1,216 @@
 {
-  "totalSkills": 3000,
+  "totalSkills": 10020,
   "byCategory": {
-    "ai-data-science": 554,
-    "frontend-development": 925,
-    "tools-productivity": 728,
-    "business-marketing": 69,
-    "testing-quality": 212,
-    "backend-development": 266,
-    "specialized": 82,
-    "devops-infrastructure": 164
+    "ai-data-science": 1115,
+    "frontend-development": 2592,
+    "tools-productivity": 1872,
+    "business-marketing": 285,
+    "testing-quality": 555,
+    "backend-development": 1748,
+    "specialized": 412,
+    "devops-infrastructure": 1441
   },
   "topTags": [
     {
-      "tag": "2026",
-      "count": 18
+      "tag": "redis",
+      "count": 23
     },
     {
-      "tag": "claude-skills",
-      "count": 14
+      "tag": "observability",
+      "count": 23
     },
     {
-      "tag": "testing",
-      "count": 12
+      "tag": "productivity",
+      "count": 22
     },
     {
-      "tag": "Multimodal",
-      "count": 12
+      "tag": "tracing",
+      "count": 22
     },
     {
-      "tag": "2025",
-      "count": 11
+      "tag": "serverless",
+      "count": 22
     },
     {
-      "tag": "claude-code",
-      "count": 11
+      "tag": "bun",
+      "count": 21
     },
     {
-      "tag": "Production",
-      "count": 11
+      "tag": "oauth",
+      "count": 21
     },
     {
-      "tag": "RAG",
-      "count": 8
+      "tag": "msw",
+      "count": 21
     },
     {
-      "tag": "HuggingFace",
-      "count": 8
+      "tag": "design-system",
+      "count": 21
     },
     {
-      "tag": "Optimization",
-      "count": 8
+      "tag": "design-tokens",
+      "count": 21
     },
     {
-      "tag": "claude",
-      "count": 7
+      "tag": "compression",
+      "count": 21
     },
     {
-      "tag": "QLoRA",
-      "count": 7
+      "tag": "edge",
+      "count": 21
     },
     {
-      "tag": "Quantization",
-      "count": 7
+      "tag": "deno",
+      "count": 21
     },
     {
-      "tag": "validation",
-      "count": 7
+      "tag": "websocket",
+      "count": 21
     },
     {
-      "tag": "quality",
-      "count": 7
+      "tag": "markdown",
+      "count": 21
     },
     {
-      "tag": "fastapi",
-      "count": 7
+      "tag": "blockchain",
+      "count": 21
     },
     {
-      "tag": "PyTorch",
-      "count": 6
+      "tag": "smart-contracts",
+      "count": 21
     },
     {
-      "tag": "Agents",
-      "count": 6
+      "tag": "defi",
+      "count": 21
     },
     {
-      "tag": "Fine-Tuning",
-      "count": 6
+      "tag": "api-design",
+      "count": 21
     },
     {
-      "tag": "Emerging Techniques",
-      "count": 6
+      "tag": "terraform",
+      "count": 21
     },
     {
-      "tag": "Distributed Training",
-      "count": 6
+      "tag": "metrics",
+      "count": 21
     },
     {
-      "tag": "python",
-      "count": 5
+      "tag": "logging",
+      "count": 21
     },
     {
-      "tag": "llm",
-      "count": 5
+      "tag": "typescript-adv",
+      "count": 20
     },
     {
-      "tag": "automation",
-      "count": 5
+      "tag": "python-adv",
+      "count": 20
     },
     {
-      "tag": "LoRA",
-      "count": 5
+      "tag": "rust-lang",
+      "count": 20
     },
     {
-      "tag": "Post-Training",
-      "count": 5
+      "tag": "go-lang",
+      "count": 20
     },
     {
-      "tag": "DeepSpeed",
-      "count": 5
+      "tag": "java-adv",
+      "count": 20
     },
     {
-      "tag": "Fast Inference",
-      "count": 5
+      "tag": "csharp-adv",
+      "count": 20
     },
     {
-      "tag": "github",
-      "count": 5
+      "tag": "kotlin",
+      "count": 20
     },
     {
-      "tag": "ai",
-      "count": 4
+      "tag": "swift",
+      "count": 20
     },
     {
-      "tag": "claude-ai",
-      "count": 4
+      "tag": "scala",
+      "count": 20
     },
     {
-      "tag": "Inference Serving",
-      "count": 4
+      "tag": "elixir",
+      "count": 20
     },
     {
-      "tag": "Model Architecture",
-      "count": 4
+      "tag": "aws-compute",
+      "count": 20
     },
     {
-      "tag": "Prompt Engineering",
-      "count": 4
+      "tag": "ml-frameworks",
+      "count": 20
     },
     {
-      "tag": "NVIDIA",
-      "count": 4
+      "tag": "ml-ops",
+      "count": 20
     },
     {
-      "tag": "GRPO",
-      "count": 4
+      "tag": "llm-ops",
+      "count": 20
     },
     {
-      "tag": "DPO",
-      "count": 4
+      "tag": "vector-db",
+      "count": 20
     },
     {
-      "tag": "Evaluation",
-      "count": 4
+      "tag": "react-native-adv",
+      "count": 20
     },
     {
-      "tag": "Memory Optimization",
-      "count": 4
+      "tag": "flutter-adv",
+      "count": 20
     },
     {
-      "tag": "Model Compression",
-      "count": 4
+      "tag": "web-apis",
+      "count": 20
     },
     {
-      "tag": "forensics",
-      "count": 4
+      "tag": "browser-apis",
+      "count": 20
     },
     {
-      "tag": "osint",
-      "count": 4
+      "tag": "pwa",
+      "count": 20
     },
     {
-      "tag": "git",
-      "count": 4
+      "tag": "web-security",
+      "count": 20
     },
     {
-      "tag": "security",
-      "count": 4
+      "tag": "api-security",
+      "count": 20
     },
     {
-      "tag": "documentation",
-      "count": 4
+      "tag": "graphql-tools",
+      "count": 20
     },
     {
-      "tag": "playwright",
-      "count": 4
+      "tag": "realtime",
+      "count": 20
     },
     {
-      "tag": "blocking",
-      "count": 4
+      "tag": "search",
+      "count": 20
     },
     {
-      "tag": "architecture",
-      "count": 4
+      "tag": "queues",
+      "count": 20
     },
     {
-      "tag": "api",
-      "count": 4
+      "tag": "file-storage",
+      "count": 20
     },
     {
-      "tag": "codex",
-      "count": 3
+      "tag": "email",
+      "count": 20
     }
   ],
-  "recentlyUpdated": [
-    "kilo-org-kilocode-translation",
-    "google-gemini-gemini-cli-pr-creator",
-    "bdambrosio-cognitive_workbench-relate",
-    "bdambrosio-cognitive_workbench-split",
-    "bdambrosio-cognitive_workbench-text-find",
-    "bdambrosio-cognitive_workbench-load",
-    "bdambrosio-cognitive_workbench-scienceworld-reset",
-    "bdambrosio-cognitive_workbench-as-json",
-    "bdambrosio-cognitive_workbench-scienceworld-act",
-    "bdambrosio-cognitive_workbench-extract-struct",
-    "bdambrosio-cognitive_workbench-is-question",
-    "bdambrosio-cognitive_workbench-summarize",
-    "bdambrosio-cognitive_workbench-mc-close",
-    "bdambrosio-cognitive_workbench-filter-structured",
-    "bdambrosio-cognitive_workbench-mc-pickup",
-    "bdambrosio-cognitive_workbench-extract-entities",
-    "bdambrosio-cognitive_workbench-mc-wait",
-    "bdambrosio-cognitive_workbench-flatten",
-    "bdambrosio-cognitive_workbench-test-json-sql-join",
-    "bdambrosio-cognitive_workbench-test-json-sql-sort"
-  ],
-  "lastSyncTime": "2026-01-09T20:38:31.999Z"
+  "lastUpdated": "2026-01-17T06:43:57.267Z"
 }

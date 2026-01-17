@@ -3,6 +3,9 @@ import { createSearchEngine } from "@/lib/search/index";
 import { SearchBar } from "@/components/search/search-bar";
 import { SkillGrid } from "@/components/skills/skill-grid";
 
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
+
 interface SearchPageProps {
   searchParams: Promise<{ q?: string; sort?: string }>;
 }
