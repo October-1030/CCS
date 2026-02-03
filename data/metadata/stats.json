@@ -1,18 +1,70 @@
 {
-  "totalSkills": 10018,
+  "totalSkills": 10931,
   "byCategory": {
-    "ai-data-science": 1115,
-    "frontend-development": 2591,
-    "tools-productivity": 1871,
-    "business-marketing": 285,
-    "testing-quality": 555,
-    "backend-development": 1748,
-    "specialized": 412,
-    "devops-infrastructure": 1441
+    "ai-data-science": 1304,
+    "frontend-development": 2960,
+    "tools-productivity": 2003,
+    "business-marketing": 289,
+    "testing-quality": 565,
+    "backend-development": 1857,
+    "specialized": 416,
+    "devops-infrastructure": 1537
   },
   "topTags": [
     {
+      "tag": "claude-code",
+      "count": 59
+    },
+    {
+      "tag": "ai",
+      "count": 50
+    },
+    {
+      "tag": "claude",
+      "count": 42
+    },
+    {
+      "tag": "productivity",
+      "count": 30
+    },
+    {
+      "tag": "llm",
+      "count": 29
+    },
+    {
+      "tag": "blockchain",
+      "count": 27
+    },
+    {
+      "tag": "claude-skills",
+      "count": 26
+    },
+    {
+      "tag": "ai-agents",
+      "count": 25
+    },
+    {
+      "tag": "mcp",
+      "count": 25
+    },
+    {
+      "tag": "angular",
+      "count": 25
+    },
+    {
+      "tag": "analytics",
+      "count": 25
+    },
+    {
+      "tag": "bun",
+      "count": 24
+    },
+    {
       "tag": "redis",
+      "count": 24
+    },
+    {
+      "tag": "serverless",
       "count": 23
     },
     {
@@ -20,7 +72,19 @@
       "count": 23
     },
     {
-      "tag": "productivity",
+      "tag": "npm",
+      "count": 23
+    },
+    {
+      "tag": "data-analysis",
+      "count": 23
+    },
+    {
+      "tag": "low-code",
+      "count": 23
+    },
+    {
+      "tag": "python",
       "count": 22
     },
     {
@@ -28,12 +92,64 @@
       "count": 22
     },
     {
-      "tag": "serverless",
+      "tag": "design-system",
       "count": 22
     },
     {
-      "tag": "bun",
-      "count": 21
+      "tag": "edge",
+      "count": 22
+    },
+    {
+      "tag": "deno",
+      "count": 22
+    },
+    {
+      "tag": "markdown",
+      "count": 22
+    },
+    {
+      "tag": "smart-contracts",
+      "count": 22
+    },
+    {
+      "tag": "defi",
+      "count": 22
+    },
+    {
+      "tag": "kotlin",
+      "count": 22
+    },
+    {
+      "tag": "cms",
+      "count": 22
+    },
+    {
+      "tag": "github-actions",
+      "count": 22
+    },
+    {
+      "tag": "bundler",
+      "count": 22
+    },
+    {
+      "tag": "monorepo",
+      "count": 22
+    },
+    {
+      "tag": "package-manager",
+      "count": 22
+    },
+    {
+      "tag": "huggingface",
+      "count": 22
+    },
+    {
+      "tag": "fintech",
+      "count": 22
+    },
+    {
+      "tag": "javascript",
+      "count": 22
     },
     {
       "tag": "oauth",
@@ -41,10 +157,6 @@
     },
     {
       "tag": "msw",
-      "count": 21
-    },
-    {
-      "tag": "design-system",
       "count": 21
     },
     {
@@ -56,31 +168,7 @@
       "count": 21
     },
     {
-      "tag": "edge",
-      "count": 21
-    },
-    {
-      "tag": "deno",
-      "count": 21
-    },
-    {
       "tag": "websocket",
-      "count": 21
-    },
-    {
-      "tag": "markdown",
-      "count": 21
-    },
-    {
-      "tag": "blockchain",
-      "count": 21
-    },
-    {
-      "tag": "smart-contracts",
-      "count": 21
-    },
-    {
-      "tag": "defi",
       "count": 21
     },
     {
@@ -100,129 +188,51 @@
       "count": 21
     },
     {
-      "tag": "typescript-adv",
-      "count": 20
-    },
-    {
-      "tag": "python-adv",
-      "count": 20
-    },
-    {
-      "tag": "rust-lang",
-      "count": 20
-    },
-    {
-      "tag": "go-lang",
-      "count": 20
-    },
-    {
-      "tag": "java-adv",
-      "count": 20
-    },
-    {
-      "tag": "csharp-adv",
-      "count": 20
-    },
-    {
-      "tag": "kotlin",
-      "count": 20
-    },
-    {
-      "tag": "swift",
-      "count": 20
-    },
-    {
-      "tag": "scala",
-      "count": 20
-    },
-    {
-      "tag": "elixir",
-      "count": 20
-    },
-    {
-      "tag": "aws-compute",
-      "count": 20
-    },
-    {
-      "tag": "ml-frameworks",
-      "count": 20
-    },
-    {
-      "tag": "ml-ops",
-      "count": 20
-    },
-    {
       "tag": "llm-ops",
-      "count": 20
-    },
-    {
-      "tag": "vector-db",
-      "count": 20
-    },
-    {
-      "tag": "react-native-adv",
-      "count": 20
-    },
-    {
-      "tag": "flutter-adv",
-      "count": 20
-    },
-    {
-      "tag": "web-apis",
-      "count": 20
-    },
-    {
-      "tag": "browser-apis",
-      "count": 20
+      "count": 21
     },
     {
       "tag": "pwa",
-      "count": 20
-    },
-    {
-      "tag": "web-security",
-      "count": 20
-    },
-    {
-      "tag": "api-security",
-      "count": 20
-    },
-    {
-      "tag": "graphql-tools",
-      "count": 20
-    },
-    {
-      "tag": "realtime",
-      "count": 20
+      "count": 21
     },
     {
       "tag": "search",
-      "count": 20
+      "count": 21
     },
     {
-      "tag": "queues",
-      "count": 20
+      "tag": "e-commerce",
+      "count": 21
     },
     {
-      "tag": "file-storage",
-      "count": 20
+      "tag": "ember",
+      "count": 21
     },
     {
-      "tag": "email",
-      "count": 20
+      "tag": "django",
+      "count": 21
     }
   ],
   "recentlyUpdated": [
-    "junayedahmedd-gemini-cli-skill",
-    "moido1092-algo-sensei",
-    "maryanohit549-wiggle-claude-skill",
-    "bayramannakov-claude-reflect",
-    "ait88-claude-workflow-toolkit",
-    "santiago-afonso-codex-sandbox-preflight",
-    "blacktop-ipsw-skill",
-    "jjmartres-reachy-mini-sdk-skill",
-    "texmeijin-video-to-gif-skill",
-    "finelagusaz-proofread-ja"
+    "moltbot-moltbot",
+    "affaan-m-everything-claude-code",
+    "thebeardedbearsas-claude-craft",
+    "itou-daiki-easy-stat-edu",
+    "tobi-qmd",
+    "dyad-sh-dyad",
+    "moltbot-skills",
+    "vm0-ai-vm0",
+    "pydantic-monty",
+    "eitatech-gatomia-vscode",
+    "zeyxx-cynic",
+    "taoidle-plan-cascade",
+    "clickhouse-clickhouse",
+    "nguyenthang2292-sovereign-iq",
+    "mystenlabs-sui",
+    "windmill-labs-windmill",
+    "onmax-nuxt-skills",
+    "lightdash-lightdash",
+    "waynesutton-convexskills",
+    "wpbiggs-unloveable"
   ],
-  "lastSyncTime": "2026-01-17T08:11:48.123Z"
+  "lastSyncTime": "2026-01-30T08:06:57.580Z"
 }

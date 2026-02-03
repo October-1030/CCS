@@ -9,8 +9,10 @@ const SEARCH_QUERIES = [
   'filename:SKILL.md',
   'path:.claude/skills filename:SKILL.md',
   'path:skills filename:SKILL.md',
+  'path:.claude filename:SKILL.md',
+  'path:claude filename:SKILL.md',
 
-  // Topic searches
+  // Topic searches - Claude ecosystem
   'topic:claude-skills',
   'topic:agent-skills',
   'topic:claude-code',
@@ -18,12 +20,41 @@ const SEARCH_QUERIES = [
   'topic:claude',
   'topic:claude-agent',
   'topic:mcp-server',
+  'topic:claude-ai',
+  'topic:claude-plugin',
+  'topic:ai-agent',
+  'topic:llm-agent',
+  'topic:ai-assistant',
+
+  // Topic searches - Codex CLI ecosystem
+  'topic:codex-cli',
+  'topic:openai-codex',
+  'topic:codex-skills',
+
+  // Topic searches - Cursor ecosystem
+  'topic:cursor-rules',
+  'topic:cursor-ai',
+  'topic:cursorrules',
+
+  // Topic searches - Cline ecosystem
+  'topic:cline',
+  'topic:cline-ai',
+  'topic:cline-rules',
+
+  // Topic searches - General AI tools
+  'topic:ai-coding',
+  'topic:ai-coding-assistant',
+  'topic:llm-tools',
+  'topic:prompt-engineering',
 
   // README content searches
   '"Claude Code" skill in:readme',
   '"agent skill" filename:SKILL.md',
   'claude skill in:readme',
   'anthropic skill in:readme',
+  '"codex cli" skill in:readme',
+  '"cursor rules" in:readme',
+  '"cline rules" in:readme',
 
   // Organization searches
   'org:anthropics',
@@ -32,6 +63,19 @@ const SEARCH_QUERIES = [
   'SKILL.md claude in:readme',
   'SKILL.md agent in:readme',
   '.claude skills in:path',
+  'SKILL.md codex in:readme',
+  'SKILL.md llm in:readme',
+  'SKILL.md ai-agent in:readme',
+
+  // Recently active skill repos
+  'filename:SKILL.md pushed:>2025-01-01',
+  'filename:SKILL.md stars:>5',
+  'filename:SKILL.md forks:>1',
+
+  // Specific tool integrations
+  '"mcp server" filename:SKILL.md',
+  '"tool use" filename:SKILL.md',
+  '"allowed-tools" filename:SKILL.md',
 ];
 
 export interface SearchProgress {
