@@ -18880,5 +18880,528 @@
     "stars": 8741,
     "updatedAt": "2026-02-04T01:56:33Z",
     "repoUrl": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "id": "ollama-ollama",
+    "name": "ollama",
+    "description": "Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "category": "ai-data-science",
+    "tags": [
+      "deepseek",
+      "gemma",
+      "gemma3",
+      "glm",
+      "go",
+      "golang",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm"
+    ],
+    "stars": 161596,
+    "updatedAt": "2026-02-04T03:00:52Z",
+    "repoUrl": "https://github.com/ollama/ollama"
+  },
+  {
+    "id": "rasbt-llms-from-scratch",
+    "name": "LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "gpt",
+      "language-model",
+      "large-language-models"
+    ],
+    "stars": 84483,
+    "updatedAt": "2026-02-04T02:55:55Z",
+    "repoUrl": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  {
+    "id": "firecrawl-firecrawl",
+    "name": "firecrawl",
+    "description": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search",
+      "crawler",
+      "data-extraction",
+      "html-to-markdown",
+      "llm",
+      "markdown"
+    ],
+    "stars": 79470,
+    "updatedAt": "2026-02-04T02:47:02Z",
+    "repoUrl": "https://github.com/firecrawl/firecrawl"
+  },
+  {
+    "id": "mlabonne-llm-course",
+    "name": "llm-course",
+    "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "category": "ai-data-science",
+    "tags": [
+      "course",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "roadmap"
+    ],
+    "stars": 74507,
+    "updatedAt": "2026-02-04T02:55:36Z",
+    "repoUrl": "https://github.com/mlabonne/llm-course"
+  },
+  {
+    "id": "vllm-project-vllm",
+    "name": "vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "category": "ai-data-science",
+    "tags": [
+      "amd",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "deepseek-v3",
+      "gpt",
+      "gpt-oss",
+      "inference",
+      "kimi",
+      "llama"
+    ],
+    "stars": 69398,
+    "updatedAt": "2026-02-04T03:01:18Z",
+    "repoUrl": "https://github.com/vllm-project/vllm"
+  },
+  {
+    "id": "openhands-openhands",
+    "name": "OpenHands",
+    "description": "🙌 OpenHands: AI-Driven Development",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude-ai",
+      "cli",
+      "developer-tools",
+      "gpt",
+      "llm",
+      "openai"
+    ],
+    "stars": 67455,
+    "updatedAt": "2026-02-04T03:01:05Z",
+    "repoUrl": "https://github.com/OpenHands/OpenHands"
+  },
+  {
+    "id": "hiyouga-llamafactory",
+    "name": "LlamaFactory",
+    "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "ai",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gpt",
+      "instruction-tuning",
+      "large-language-models",
+      "llama",
+      "llama3"
+    ],
+    "stars": 66840,
+    "updatedAt": "2026-02-04T03:01:14Z",
+    "repoUrl": "https://github.com/hiyouga/LlamaFactory"
+  },
+  {
+    "id": "foundationagents-metagpt",
+    "name": "MetaGPT",
+    "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "gpt",
+      "llm",
+      "metagpt",
+      "multi-agent"
+    ],
+    "stars": 63842,
+    "updatedAt": "2026-02-04T02:55:44Z",
+    "repoUrl": "https://github.com/FoundationAgents/MetaGPT"
+  },
+  {
+    "id": "unslothai-unsloth",
+    "name": "unsloth",
+    "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "deepseek",
+      "deepseek-r1",
+      "fine-tuning",
+      "gemma",
+      "gemma3",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm"
+    ],
+    "stars": 51551,
+    "updatedAt": "2026-02-04T02:56:57Z",
+    "repoUrl": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "id": "mudler-localai",
+    "name": "LocalAI",
+    "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "api",
+      "audio-generation",
+      "decentralized",
+      "distributed",
+      "gemma",
+      "image-generation",
+      "libp2p",
+      "llama",
+      "llm"
+    ],
+    "stars": 42571,
+    "updatedAt": "2026-02-04T02:45:57Z",
+    "repoUrl": "https://github.com/mudler/LocalAI"
+  },
+  {
+    "id": "ray-project-ray",
+    "name": "ray",
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "category": "ai-data-science",
+    "tags": [
+      "data-science",
+      "deep-learning",
+      "deployment",
+      "distributed",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "llm-serving"
+    ],
+    "stars": 41127,
+    "updatedAt": "2026-02-04T02:48:50Z",
+    "repoUrl": "https://github.com/ray-project/ray"
+  },
+  {
+    "id": "janhq-jan",
+    "name": "jan",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+    "category": "ai-data-science",
+    "tags": [
+      "chatgpt",
+      "gpt",
+      "llamacpp",
+      "llm",
+      "localai",
+      "open-source",
+      "self-hosted",
+      "tauri"
+    ],
+    "stars": 40304,
+    "updatedAt": "2026-02-04T01:45:21Z",
+    "repoUrl": "https://github.com/janhq/jan"
+  },
+  {
+    "id": "nirdiamant-prompt-engineering",
+    "name": "Prompt_Engineering",
+    "description": "This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essential resource for mastering the art of effectively communicating with and leveraging large language models in AI applications.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "genai",
+      "llm",
+      "llms",
+      "opeani",
+      "prompt-engineering",
+      "python",
+      "tutorials"
+    ],
+    "stars": 7048,
+    "updatedAt": "2026-02-04T02:28:52Z",
+    "repoUrl": "https://github.com/NirDiamant/Prompt_Engineering"
+  },
+  {
+    "id": "swyxio-ai-notes",
+    "name": "ai-notes",
+    "description": "notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "gpt",
+      "gpt-3",
+      "multimodal",
+      "openai",
+      "prompt-engineering",
+      "stable-diffusion"
+    ],
+    "stars": 6152,
+    "updatedAt": "2026-02-02T14:12:40Z",
+    "repoUrl": "https://github.com/swyxio/ai-notes"
+  },
+  {
+    "id": "ai4finance-foundation-finrobot",
+    "name": "FinRobot",
+    "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 ",
+    "category": "ai-data-science",
+    "tags": [
+      "aiagent",
+      "chatgpt",
+      "finance",
+      "fingpt",
+      "large-language-models",
+      "multimodal-deep-learning",
+      "prompt-engineering",
+      "robo-advisor"
+    ],
+    "stars": 6036,
+    "updatedAt": "2026-02-04T02:02:16Z",
+    "repoUrl": "https://github.com/AI4Finance-Foundation/FinRobot"
+  },
+  {
+    "id": "aimhubio-aim",
+    "name": "aim",
+    "description": "Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "data-science",
+      "data-visualization",
+      "experiment-tracking",
+      "machine-learning",
+      "metadata",
+      "metadata-tracking",
+      "ml",
+      "mlflow",
+      "mlops"
+    ],
+    "stars": 5981,
+    "updatedAt": "2026-02-03T17:02:18Z",
+    "repoUrl": "https://github.com/aimhubio/aim"
+  },
+  {
+    "id": "reorproject-reor",
+    "name": "reor",
+    "description": "Private & local AI personal knowledge management app for high entropy people.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "lancedb",
+      "llama",
+      "llamacpp",
+      "local-first",
+      "markdown",
+      "note-taking",
+      "ollama",
+      "pkm",
+      "rag"
+    ],
+    "stars": 8492,
+    "updatedAt": "2026-02-03T23:38:31Z",
+    "repoUrl": "https://github.com/reorproject/reor"
+  },
+  {
+    "id": "zilliztech-deep-searcher",
+    "name": "deep-searcher",
+    "description": "Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "agentic-rag",
+      "claude",
+      "deep-research",
+      "deepseek",
+      "deepseek-r1",
+      "grok",
+      "grok3",
+      "llama4",
+      "llm"
+    ],
+    "stars": 7557,
+    "updatedAt": "2026-02-03T22:45:59Z",
+    "repoUrl": "https://github.com/zilliztech/deep-searcher"
+  },
+  {
+    "id": "vespa-engine-vespa",
+    "name": "vespa",
+    "description": "AI + Data, online. https://vespa.ai",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "big-data",
+      "java",
+      "machine-learning",
+      "rag",
+      "search",
+      "search-engine",
+      "server",
+      "serving-recommendation",
+      "tensor"
+    ],
+    "stars": 6760,
+    "updatedAt": "2026-02-03T23:47:24Z",
+    "repoUrl": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "id": "postgresml-postgresml",
+    "name": "postgresml",
+    "description": "Postgres with GPUs for ML/AI apps.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "ann",
+      "approximate-nearest-neighbor-search",
+      "artificial-intelligence",
+      "classification",
+      "clustering",
+      "embeddings",
+      "forecasting",
+      "knn",
+      "llm"
+    ],
+    "stars": 6683,
+    "updatedAt": "2026-02-02T18:43:43Z",
+    "repoUrl": "https://github.com/postgresml/postgresml"
+  },
+  {
+    "id": "redisearch-redisearch",
+    "name": "RediSearch",
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.",
+    "category": "ai-data-science",
+    "tags": [
+      "fulltext",
+      "geospatial",
+      "gis",
+      "inverted-index",
+      "redis",
+      "redis-module",
+      "search",
+      "search-engine",
+      "vector-database"
+    ],
+    "stars": 6075,
+    "updatedAt": "2026-02-03T21:31:07Z",
+    "repoUrl": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "id": "firebase-genkit",
+    "name": "genkit",
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "category": "ai-data-science",
+    "tags": [
+      "agents",
+      "ai",
+      "embedders",
+      "genkit",
+      "llm",
+      "multimodal",
+      "rag",
+      "vector-database"
+    ],
+    "stars": 5452,
+    "updatedAt": "2026-02-04T02:13:26Z",
+    "repoUrl": "https://github.com/firebase/genkit"
+  },
+  {
+    "id": "volcengine-minecontext",
+    "name": "MineContext",
+    "description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "context-engineering",
+      "electron",
+      "embedding-models",
+      "javascript",
+      "memory",
+      "proactive-ai",
+      "python",
+      "python3",
+      "rag"
+    ],
+    "stars": 4881,
+    "updatedAt": "2026-02-04T00:42:24Z",
+    "repoUrl": "https://github.com/volcengine/MineContext"
+  },
+  {
+    "id": "infiniflow-infinity",
+    "name": "infinity",
+    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-native",
+      "approximate-nearest-neighbor-search",
+      "bm25",
+      "cpp20",
+      "cpp20-modules",
+      "embedding",
+      "full-text-search",
+      "hnsw",
+      "hybrid-search",
+      "information-retrival"
+    ],
+    "stars": 4372,
+    "updatedAt": "2026-02-03T15:49:17Z",
+    "repoUrl": "https://github.com/infiniflow/infinity"
+  },
+  {
+    "id": "crate-crate",
+    "name": "crate",
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.",
+    "category": "ai-data-science",
+    "tags": [
+      "analytics",
+      "big-data",
+      "cratedb",
+      "database",
+      "dbms",
+      "distributed",
+      "distributed-database",
+      "distributed-sql-database",
+      "elasticsearch",
+      "industrial-iot"
+    ],
+    "stars": 4364,
+    "updatedAt": "2026-02-04T00:06:21Z",
+    "repoUrl": "https://github.com/crate/crate"
+  },
+  {
+    "id": "helixdb-helix-db",
+    "name": "helix-db",
+    "description": "HelixDB is an open-source graph-vector database built from scratch in Rust.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "cli",
+      "database",
+      "databases",
+      "graph-database",
+      "helix",
+      "helixdb",
+      "rag",
+      "rust",
+      "rust-crate"
+    ],
+    "stars": 3736,
+    "updatedAt": "2026-02-03T22:09:37Z",
+    "repoUrl": "https://github.com/HelixDB/helix-db"
   }
 ]

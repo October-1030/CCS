@@ -15,41 +15,42 @@ config({ path: resolve(process.cwd(), ".env.local") });
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 const DATA_DIR = path.join(process.cwd(), "data", "skills");
 
-// Hot repos to add (batch 10) - AI tools and browser automation
+// Hot repos to add (batch 11) - Top LLM projects
 const HOT_REPOS = [
-  // Browser automation for AI
-  "browser-use/browser-use",
-  "farion1231/cc-switch",
-  "plandex-ai/plandex",
-  "nanobrowser/nanobrowser",
-  "bytebot-ai/bytebot",
-  "yusufkaraaslan/Skill_Seekers",
-  "steel-dev/steel-browser",
-  "pydantic/logfire",
-  "judge0/judge0",
-  "sirmalloc/ccstatusline",
-  // AI tools
-  "nguyenphutrong/quotio",
-  "glitternetwork/pinme",
-  "oxylabs/oxylabs-ai-studio-py",
-  "dw-dengwei/daily-arXiv-ai-enhanced",
-  "kayba-ai/agentic-context-engine",
-  "lackeyjb/playwright-skill",
-  "zhouxiaoka/autoclip",
-  "davialabs/davia",
-  "ai-for-developers/awesome-ai-coding-tools",
-  "trustgraph-ai/trustgraph",
-  // More AI tools
-  "browserable/browserable",
-  "StreetLamb/tribe",
-  "leoning60/browsernode",
-  "bfly123/claude_code_bridge",
-  "qdhenry/Claude-Command-Suite",
-  "neuml/txtai",
-  "topoteretes/cognee",
-  "langchain4j/langchain4j",
-  "oramasearch/orama",
-  "lancedb/lancedb",
+  // Very high star LLM projects
+  "ollama/ollama",
+  "huggingface/transformers",
+  "rasbt/LLMs-from-scratch",
+  "firecrawl/firecrawl",
+  "mlabonne/llm-course",
+  "vllm-project/vllm",
+  "OpenHands/OpenHands",
+  "hiyouga/LlamaFactory",
+  "FoundationAgents/MetaGPT",
+  "unslothai/unsloth",
+  // More LLM tools
+  "sansan0/TrendRadar",
+  "upstash/context7",
+  "mudler/LocalAI",
+  "ray-project/ray",
+  "janhq/jan",
+  // Additional tools from earlier searches
+  "NirDiamant/Prompt_Engineering",
+  "swyxio/ai-notes",
+  "AI4Finance-Foundation/FinRobot",
+  "aimhubio/aim",
+  "reorproject/reor",
+  // More from vector-database search
+  "zilliztech/deep-searcher",
+  "vespa-engine/vespa",
+  "postgresml/postgresml",
+  "RediSearch/RediSearch",
+  "firebase/genkit",
+  "zilliztech/claude-context",
+  "volcengine/MineContext",
+  "infiniflow/infinity",
+  "crate/crate",
+  "HelixDB/helix-db",
 ];
 
 // Category inference
