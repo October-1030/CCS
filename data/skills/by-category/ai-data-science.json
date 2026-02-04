@@ -17233,5 +17233,603 @@
     "stars": 945,
     "updatedAt": "2026-01-28T07:01:54Z",
     "repoUrl": "https://github.com/ferrislucas/promptr"
+  },
+  {
+    "id": "kodustech-kodus-ai",
+    "name": "kodus-ai",
+    "description": "AI code reviews — just like your senior dev would do.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-code-review",
+      "ai-coding-tools",
+      "code-review",
+      "coding-assistant",
+      "generative-ai",
+      "hacktoberfest"
+    ],
+    "stars": 892,
+    "updatedAt": "2026-02-03T22:52:54Z",
+    "repoUrl": "https://github.com/kodustech/kodus-ai"
+  },
+  {
+    "id": "f-prompts-chat",
+    "name": "prompts.chat",
+    "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "awesome-list",
+      "chatgpt",
+      "chatgpt-prompts",
+      "claude",
+      "gemini",
+      "gpt",
+      "gpt-4",
+      "llm"
+    ],
+    "stars": 144464,
+    "updatedAt": "2026-02-04T02:35:02Z",
+    "repoUrl": "https://github.com/f/prompts.chat"
+  },
+  {
+    "id": "dair-ai-prompt-engineering-guide",
+    "name": "Prompt-Engineering-Guide",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "agents",
+      "ai-agents",
+      "chatgpt",
+      "deep-learning",
+      "generative-ai",
+      "language-model",
+      "llms",
+      "openai",
+      "prompt-engineering"
+    ],
+    "stars": 69917,
+    "updatedAt": "2026-02-04T02:54:59Z",
+    "repoUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide"
+  },
+  {
+    "id": "asgeirtj-system-prompts-leaks",
+    "name": "system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "anthropic",
+      "chatbots",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "generative-ai",
+      "google-deepmind",
+      "large-language-models",
+      "llm"
+    ],
+    "stars": 29935,
+    "updatedAt": "2026-02-04T02:55:05Z",
+    "repoUrl": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "id": "langfuse-langfuse",
+    "name": "langfuse",
+    "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+    "category": "ai-data-science",
+    "tags": [
+      "analytics",
+      "autogen",
+      "evaluation",
+      "langchain",
+      "large-language-models",
+      "llama-index",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops"
+    ],
+    "stars": 21468,
+    "updatedAt": "2026-02-04T02:51:25Z",
+    "repoUrl": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "id": "linshenkx-prompt-optimizer",
+    "name": "prompt-optimizer",
+    "description": "一款提示词优化器，助力于编写高质量的提示词",
+    "category": "ai-data-science",
+    "tags": [
+      "llm",
+      "prompt",
+      "prompt-engineering",
+      "prompt-optimization",
+      "prompt-toolkit",
+      "prompt-tuning"
+    ],
+    "stars": 19129,
+    "updatedAt": "2026-02-04T02:41:31Z",
+    "repoUrl": "https://github.com/linshenkx/prompt-optimizer"
+  },
+  {
+    "id": "ai4finance-foundation-fingpt",
+    "name": "FinGPT",
+    "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.",
+    "category": "ai-data-science",
+    "tags": [
+      "chatgpt",
+      "finance",
+      "fingpt",
+      "fintech",
+      "large-language-models",
+      "machine-learning",
+      "nlp",
+      "prompt-engineering",
+      "pytorch",
+      "reinforcement-learning"
+    ],
+    "stars": 18533,
+    "updatedAt": "2026-02-03T18:16:50Z",
+    "repoUrl": "https://github.com/AI4Finance-Foundation/FinGPT"
+  },
+  {
+    "id": "humanlayer-12-factor-agents",
+    "name": "12-factor-agents",
+    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+    "category": "ai-data-science",
+    "tags": [
+      "12-factor",
+      "12-factor-agents",
+      "agents",
+      "ai",
+      "context-window",
+      "framework",
+      "llms",
+      "memory",
+      "orchestration",
+      "prompt-engineering"
+    ],
+    "stars": 18047,
+    "updatedAt": "2026-02-04T02:46:10Z",
+    "repoUrl": "https://github.com/humanlayer/12-factor-agents"
+  },
+  {
+    "id": "comet-ml-opik",
+    "name": "opik",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+    "category": "ai-data-science",
+    "tags": [
+      "evaluation",
+      "hacktoberfest",
+      "hacktoberfest2025",
+      "langchain",
+      "llama-index",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "open-source"
+    ],
+    "stars": 17631,
+    "updatedAt": "2026-02-04T02:40:23Z",
+    "repoUrl": "https://github.com/comet-ml/opik"
+  },
+  {
+    "id": "dottxt-ai-outlines",
+    "name": "outlines",
+    "description": "Structured Outputs",
+    "category": "ai-data-science",
+    "tags": [
+      "cfg",
+      "generative-ai",
+      "json",
+      "llms",
+      "prompt-engineering",
+      "regex",
+      "structured-generation",
+      "symbolic-ai"
+    ],
+    "stars": 13367,
+    "updatedAt": "2026-02-03T23:43:03Z",
+    "repoUrl": "https://github.com/dottxt-ai/outlines"
+  },
+  {
+    "id": "elder-plinius-cl4r1t4s",
+    "name": "CL4R1T4S",
+    "description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐",
+    "category": "ai-data-science",
+    "tags": [
+      "agents",
+      "ai",
+      "chatgpt",
+      "gemini",
+      "google",
+      "grok",
+      "hacking",
+      "leak",
+      "leaked",
+      "openai"
+    ],
+    "stars": 12676,
+    "updatedAt": "2026-02-04T02:03:14Z",
+    "repoUrl": "https://github.com/elder-plinius/CL4R1T4S"
+  },
+  {
+    "id": "langgptai-langgpt",
+    "name": "LangGPT",
+    "description": "LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-prompt design 10,000+ ⭐ | Battle-tested by thousands of users worldwide  Created by 云中江树",
+    "category": "ai-data-science",
+    "tags": [
+      "chatgpt",
+      "claude",
+      "deeplearning",
+      "doubao",
+      "framework",
+      "gemini",
+      "gpt-4",
+      "gpt3-prompts",
+      "langgpt",
+      "meta-prompting"
+    ],
+    "stars": 11566,
+    "updatedAt": "2026-02-03T17:22:03Z",
+    "repoUrl": "https://github.com/langgptai/LangGPT"
+  },
+  {
+    "id": "embraceagi-awesome-chatgpt-zh",
+    "name": "awesome-chatgpt-zh",
+    "description": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
+    "category": "ai-data-science",
+    "tags": [
+      "agi",
+      "ai",
+      "awesome",
+      "awesome-list",
+      "chat-gpt",
+      "chatglm",
+      "chatgpt",
+      "chatgpt3",
+      "chatgpt35-turbo",
+      "claude"
+    ],
+    "stars": 11476,
+    "updatedAt": "2026-02-03T07:46:58Z",
+    "repoUrl": "https://github.com/EmbraceAGI/awesome-chatgpt-zh"
+  },
+  {
+    "id": "microsoft-promptflow",
+    "name": "promptflow",
+    "description": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "ai-application-development",
+      "ai-applications",
+      "chatgpt",
+      "gpt",
+      "llm",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "stars": 11014,
+    "updatedAt": "2026-02-03T14:49:21Z",
+    "repoUrl": "https://github.com/microsoft/promptflow"
+  },
+  {
+    "id": "louisshark-chatgpt-system-prompt",
+    "name": "chatgpt_system_prompt",
+    "description": "A collection of GPT system prompts and various prompt injection/leaking knowledge.",
+    "category": "ai-data-science",
+    "tags": [
+      "gpt",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "stars": 10317,
+    "updatedAt": "2026-02-03T23:31:41Z",
+    "repoUrl": "https://github.com/LouisShark/chatgpt_system_prompt"
+  },
+  {
+    "id": "promptfoo-promptfoo",
+    "name": "promptfoo",
+    "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+    "category": "ai-data-science",
+    "tags": [
+      "ci",
+      "ci-cd",
+      "cicd",
+      "evaluation",
+      "evaluation-framework",
+      "llm",
+      "llm-eval",
+      "llm-evaluation",
+      "llm-evaluation-framework",
+      "llmops"
+    ],
+    "stars": 10268,
+    "updatedAt": "2026-02-04T02:19:48Z",
+    "repoUrl": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "id": "arize-ai-phoenix",
+    "name": "phoenix",
+    "description": "AI Observability & Evaluation",
+    "category": "ai-data-science",
+    "tags": [
+      "agents",
+      "ai-monitoring",
+      "ai-observability",
+      "aiengineering",
+      "anthropic",
+      "datasets",
+      "evals",
+      "langchain",
+      "llamaindex",
+      "llm-eval"
+    ],
+    "stars": 8447,
+    "updatedAt": "2026-02-03T22:30:42Z",
+    "repoUrl": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "id": "rockbenben-chatgpt-shortcut",
+    "name": "ChatGPT-Shortcut",
+    "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "chatgpt",
+      "chatgpt-prompts",
+      "gpt",
+      "llm",
+      "openai",
+      "productivity",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "stars": 7417,
+    "updatedAt": "2026-02-04T02:12:01Z",
+    "repoUrl": "https://github.com/rockbenben/ChatGPT-Shortcut"
+  },
+  {
+    "id": "ai-boost-awesome-prompts",
+    "name": "awesome-prompts",
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+    "category": "ai-data-science",
+    "tags": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "gpt4",
+      "gpts",
+      "gptstore",
+      "papers",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "stars": 7238,
+    "updatedAt": "2026-02-04T01:07:41Z",
+    "repoUrl": "https://github.com/ai-boost/awesome-prompts"
+  },
+  {
+    "id": "mufeedvh-code2prompt",
+    "name": "code2prompt",
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "cli",
+      "command-line",
+      "command-line-tool",
+      "gpt",
+      "llm",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "stars": 7102,
+    "updatedAt": "2026-02-03T23:22:19Z",
+    "repoUrl": "https://github.com/mufeedvh/code2prompt"
+  },
+  {
+    "id": "neomjs-neo",
+    "name": "neo",
+    "description": "The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-agents",
+      "application-engine",
+      "architecture",
+      "autonomous-agents",
+      "desktop-like",
+      "esm",
+      "frontend",
+      "generative-ai",
+      "javascript",
+      "mcp-servers"
+    ],
+    "stars": 3132,
+    "updatedAt": "2026-02-03T13:54:07Z",
+    "repoUrl": "https://github.com/neomjs/neo"
+  },
+  {
+    "id": "semanser-codel",
+    "name": "codel",
+    "description": "✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "ai",
+      "autonomous-agents",
+      "bot",
+      "devin",
+      "llama2",
+      "llms",
+      "ollama",
+      "openai"
+    ],
+    "stars": 2437,
+    "updatedAt": "2026-01-31T18:20:18Z",
+    "repoUrl": "https://github.com/semanser/codel"
+  },
+  {
+    "id": "melih-unsal-demogpt",
+    "name": "DemoGPT",
+    "description": "🤖 Everything you need to create an LLM Agent—tools, prompts, frameworks, and models—all in one place.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autogpt",
+      "autonomous-agents",
+      "chatgpt",
+      "chatgpt-api",
+      "deepseek",
+      "demo"
+    ],
+    "stars": 1887,
+    "updatedAt": "2026-02-03T07:44:54Z",
+    "repoUrl": "https://github.com/melih-unsal/DemoGPT"
+  },
+  {
+    "id": "humansignal-adala",
+    "name": "Adala",
+    "description": "Adala: Autonomous DAta (Labeling) Agent framework",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "agent-based-framework",
+      "agent-oriented-programming",
+      "autonomous-agents",
+      "gpt-4"
+    ],
+    "stars": 1356,
+    "updatedAt": "2026-02-04T00:17:07Z",
+    "repoUrl": "https://github.com/HumanSignal/Adala"
+  },
+  {
+    "id": "smythos-sre",
+    "name": "sre",
+    "description": "The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across local, cloud, and edge environments.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent-framework",
+      "agents",
+      "agi",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "autogpt",
+      "autonomous-agents",
+      "chatgpt",
+      "langchain"
+    ],
+    "stars": 1222,
+    "updatedAt": "2026-02-03T18:41:13Z",
+    "repoUrl": "https://github.com/SmythOS/sre"
+  },
+  {
+    "id": "kwaikeg-kwaiagents",
+    "name": "KwaiAgents",
+    "description": "A generalized information-seeking agent system with Large Language Models (LLMs).",
+    "category": "ai-data-science",
+    "tags": [
+      "agi",
+      "autogpt",
+      "autonomous-agents",
+      "chatgpt",
+      "gpt",
+      "large-language-models",
+      "localllm"
+    ],
+    "stars": 1195,
+    "updatedAt": "2026-01-30T01:30:54Z",
+    "repoUrl": "https://github.com/KwaiKEG/KwaiAgents"
+  },
+  {
+    "id": "tmgthb-autonomous-agents",
+    "name": "Autonomous-Agents",
+    "description": "Autonomous Agents (LLMs) research papers. Updated Daily.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagent",
+      "aiagents",
+      "autonomous-agents",
+      "cognitive-agents"
+    ],
+    "stars": 1142,
+    "updatedAt": "2026-02-04T01:57:37Z",
+    "repoUrl": "https://github.com/tmgthb/Autonomous-Agents"
+  },
+  {
+    "id": "microsoft-tora",
+    "name": "ToRA",
+    "description": "ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools [ICLR'24].",
+    "category": "ai-data-science",
+    "tags": [
+      "autonomous-agents",
+      "language-model",
+      "llm",
+      "mathematical-reasoning",
+      "tool-learning"
+    ],
+    "stars": 1113,
+    "updatedAt": "2026-02-02T12:11:20Z",
+    "repoUrl": "https://github.com/microsoft/ToRA"
+  },
+  {
+    "id": "vxcontrol-pentagi",
+    "name": "pentagi",
+    "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-agents",
+      "ai-security-tool",
+      "anthropic",
+      "autonomous-agents",
+      "golang",
+      "gpt",
+      "graphql",
+      "multi-agent-system",
+      "offensive-security",
+      "open-source"
+    ],
+    "stars": 1013,
+    "updatedAt": "2026-02-03T17:32:51Z",
+    "repoUrl": "https://github.com/vxcontrol/pentagi"
+  },
+  {
+    "id": "transformeroptimus-supercoder",
+    "name": "SuperCoder",
+    "description": "Open Source Autonomous Software Development System",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-developer",
+      "autonomous-agents",
+      "claude-3",
+      "go",
+      "golab",
+      "golang",
+      "gpt-4",
+      "nextjs"
+    ],
+    "stars": 967,
+    "updatedAt": "2026-02-02T14:01:49Z",
+    "repoUrl": "https://github.com/TransformerOptimus/SuperCoder"
   }
 ]

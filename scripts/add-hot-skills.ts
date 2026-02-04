@@ -15,41 +15,41 @@ config({ path: resolve(process.cwd(), ".env.local") });
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 const DATA_DIR = path.join(process.cwd(), "data", "skills");
 
-// Hot repos to add (batch 7) - Autonomous agents and coding assistants
+// Hot repos to add (batch 8) - Prompt engineering and LLM tools
 const HOT_REPOS = [
-  // Autonomous agents - very high stars
-  "Significant-Gravitas/AutoGPT",
-  "e2b-dev/awesome-ai-agents",
-  "Fosowl/agenticSeek",
-  "TransformerOptimus/SuperAGI",
-  "ruvnet/claude-flow",
-  "YaoApp/yao",
-  "RayVentura/ShortGPT",
-  "aiwaves-cn/agents",
-  "strands-agents/sdk-python",
-  "adenhq/hive",
-  // Coding assistants
-  "AntonOsika/gpt-engineer",
-  "Pythagora-io/gpt-pilot",
-  "TabbyML/tabby",
-  "hesreallyhim/awesome-claude-code",
-  "qodo-ai/pr-agent",
-  "datawhalechina/vibe-vibe",
-  "cjo4m06/mcp-shrimp-task-manager",
-  "covibes/zeroshot",
-  "ferrislucas/promptr",
+  // Retry failed from batch 7
   "kodustech/kodus-ai",
-  // Prompt engineering
   "f/prompts.chat",
   "dair-ai/Prompt-Engineering-Guide",
   "asgeirtj/system_prompts_leaks",
   "langfuse/langfuse",
-  "github/awesome-copilot",
   "linshenkx/prompt-optimizer",
   "AI4Finance-Foundation/FinGPT",
   "humanlayer/12-factor-agents",
   "comet-ml/opik",
   "dottxt-ai/outlines",
+  // More prompt engineering tools
+  "elder-plinius/CL4R1T4S",
+  "langgptai/LangGPT",
+  "EmbraceAGI/awesome-chatgpt-zh",
+  "microsoft/promptflow",
+  "LouisShark/chatgpt_system_prompt",
+  "promptfoo/promptfoo",
+  "Arize-ai/phoenix",
+  "rockbenben/ChatGPT-Shortcut",
+  "ai-boost/awesome-prompts",
+  "mufeedvh/code2prompt",
+  // More autonomous agents
+  "neomjs/neo",
+  "semanser/codel",
+  "melih-unsal/DemoGPT",
+  "HumanSignal/Adala",
+  "SmythOS/sre",
+  "KwaiKEG/KwaiAgents",
+  "tmgthb/Autonomous-Agents",
+  "microsoft/ToRA",
+  "vxcontrol/pentagi",
+  "TransformerOptimus/SuperCoder",
 ];
 
 // Category inference
