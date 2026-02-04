@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-02-04T00:34:22.970Z",
-  "totalSkills": 10933,
+  "lastSync": "2026-02-04T01:04:34.911Z",
+  "totalSkills": 10943,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -122555,6 +122555,212 @@
       "stars": 3,
       "updatedAt": "2026-02-03T18:38:14Z",
       "repoUrl": "https://github.com/platxa/platxa-skill-generator"
+    },
+    {
+      "id": "thedotmack-claude-mem",
+      "name": "claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "anthropic",
+        "artificial-intelligence",
+        "chromadb",
+        "claude",
+        "claude-agent-sdk",
+        "claude-agents",
+        "claude-code"
+      ],
+      "stars": 20281,
+      "updatedAt": "2026-02-04T01:02:53Z",
+      "repoUrl": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "id": "yusufkaraaslan-skill-seekers",
+      "name": "Skill_Seekers",
+      "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-tools",
+        "ast-parser",
+        "automation",
+        "claude-ai",
+        "claude-skills",
+        "code-analysis",
+        "conflict-detection",
+        "documentation",
+        "documentation-generator",
+        "github"
+      ],
+      "stars": 8861,
+      "updatedAt": "2026-02-04T00:58:20Z",
+      "repoUrl": "https://github.com/yusufkaraaslan/Skill_Seekers"
+    },
+    {
+      "id": "nevamind-ai-memu",
+      "name": "memU",
+      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+      "category": "ai-data-science",
+      "tags": [
+        "agent-memory",
+        "agentic-workflow",
+        "claude",
+        "claude-skills",
+        "clawdbot",
+        "clawdbot-skill",
+        "mcp",
+        "memory",
+        "proactive",
+        "proactive-ai"
+      ],
+      "stars": 7348,
+      "updatedAt": "2026-02-04T01:03:41Z",
+      "repoUrl": "https://github.com/NevaMind-AI/memU"
+    },
+    {
+      "id": "travisvn-awesome-claude-skills",
+      "name": "awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
+      "category": "ai-data-science",
+      "tags": [
+        "agentic-coding",
+        "anthropic",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-desktop",
+        "claude-skills"
+      ],
+      "stars": 6513,
+      "updatedAt": "2026-02-04T00:11:33Z",
+      "repoUrl": "https://github.com/travisvn/awesome-claude-skills"
+    },
+    {
+      "id": "voltagent-awesome-agent-skills",
+      "name": "awesome-agent-skills",
+      "description": "Claude Code Skills and 200+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.",
+      "category": "ai-data-science",
+      "tags": [
+        "agent-skills",
+        "ai-agents",
+        "antigravity-skills",
+        "awesome-list",
+        "claude-code",
+        "claude-code-skills",
+        "claude-skills",
+        "codex-skills",
+        "cursor-skills",
+        "gemini-skills"
+      ],
+      "stars": 5945,
+      "updatedAt": "2026-02-04T00:37:08Z",
+      "repoUrl": "https://github.com/VoltAgent/awesome-agent-skills"
+    },
+    {
+      "id": "orchestra-research-ai-research-skills",
+      "name": "AI-research-SKILLs",
+      "description": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "ai-research",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "gemini",
+        "gpt-5",
+        "grpo",
+        "huggingface"
+      ],
+      "stars": 2264,
+      "updatedAt": "2026-02-04T00:42:18Z",
+      "repoUrl": "https://github.com/Orchestra-Research/AI-research-SKILLs"
+    },
+    {
+      "id": "khazp-vibe-coding-prompt-template",
+      "name": "vibe-coding-prompt-template",
+      "description": "Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agents",
+        "ai-workflow",
+        "beginner-friendly",
+        "claude-code",
+        "claude-code-skills",
+        "claude-skills",
+        "dev-tools",
+        "development-workflows",
+        "llm-tools",
+        "llm-workflow"
+      ],
+      "stars": 1677,
+      "updatedAt": "2026-02-03T21:15:44Z",
+      "repoUrl": "https://github.com/KhazP/vibe-coding-prompt-template"
+    },
+    {
+      "id": "feiskyer-claude-code-settings",
+      "name": "claude-code-settings",
+      "description": "Claude Code settings, commands and agents for vibe coding",
+      "category": "ai-data-science",
+      "tags": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "copilot",
+        "kiro",
+        "litellm",
+        "spec-driven-development"
+      ],
+      "stars": 1175,
+      "updatedAt": "2026-02-03T23:35:34Z",
+      "repoUrl": "https://github.com/feiskyer/claude-code-settings"
+    },
+    {
+      "id": "antonbabenko-terraform-skill",
+      "name": "terraform-skill",
+      "description": "Use when working with Terraform or OpenTofu - creating modules, writing tests (native test framework, Terratest), setting up CI/CD pipelines, reviewing configurations, choosing between testing approaches, debugging state issues, implementing security scanning (trivy, checkov), or making infrastructure-as-code architecture decisions",
+      "category": "ai-data-science",
+      "tags": [
+        "best-practices",
+        "claude-code",
+        "claude-skills",
+        "devops",
+        "infrastructure-as-code",
+        "modules",
+        "opentofu",
+        "terraform",
+        "testing"
+      ],
+      "stars": 891,
+      "updatedAt": "2026-02-04T00:49:55Z",
+      "repoUrl": "https://github.com/antonbabenko/terraform-skill"
+    },
+    {
+      "id": "zscole-adversarial-spec",
+      "name": "adversarial-spec",
+      "description": "A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus.",
+      "category": "ai-data-science",
+      "tags": [
+        "anthropic",
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "llm",
+        "orchestration"
+      ],
+      "stars": 473,
+      "updatedAt": "2026-02-03T22:23:19Z",
+      "repoUrl": "https://github.com/zscole/adversarial-spec"
     }
   ]
 }
