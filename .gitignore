@@ -43,3 +43,6 @@ sync.log
 
 # Tasks
 tasks/
+
+# Large data files (use split files instead)
+data/skills/skills-full.json

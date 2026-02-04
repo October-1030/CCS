@@ -30,13 +30,25 @@ export async function loadSkillsIndex(): Promise<SkillsIndex> {
 
 /**
  * Load full skill data by ID
+ * Uses split category files for better performance and to avoid Git LFS
  */
 export async function loadSkillById(id: string): Promise<Skill | null> {
-  const fullDataPath = path.join(DATA_DIR, "skills", "skills-full.json");
-
   try {
-    const content = await fs.readFile(fullDataPath, "utf-8");
+    // First, load the ID-to-category mapping
+    const mapPath = path.join(DATA_DIR, "skills", "id-to-category.json");
+    const mapContent = await fs.readFile(mapPath, "utf-8");
+    const idToCategoryMap: Record<string, string> = JSON.parse(mapContent);
+
+    const category = idToCategoryMap[id];
+    if (!category) {
+      return null;
+    }
+
+    // Load the category-specific full data file
+    const categoryPath = path.join(DATA_DIR, "skills", "full-by-category", `${category}.json`);
+    const content = await fs.readFile(categoryPath, "utf-8");
     const data: Record<string, Skill> = JSON.parse(content);
+
     return data[id] || null;
   } catch (error) {
     return null;
@@ -45,17 +57,34 @@ export async function loadSkillById(id: string): Promise<Skill | null> {
 
 /**
  * Load all full skills data
+ * Uses split category files for better performance
  */
 export async function loadAllSkills(): Promise<Skill[]> {
-  const fullDataPath = path.join(DATA_DIR, "skills", "skills-full.json");
+  const categories = [
+    "ai-data-science",
+    "frontend-development",
+    "backend-development",
+    "devops-infrastructure",
+    "tools-productivity",
+    "testing-quality",
+    "business-marketing",
+    "specialized",
+  ];
 
-  try {
-    const content = await fs.readFile(fullDataPath, "utf-8");
-    const data: Record<string, Skill> = JSON.parse(content);
-    return Object.values(data);
-  } catch (error) {
-    return [];
+  const allSkills: Skill[] = [];
+
+  for (const category of categories) {
+    try {
+      const categoryPath = path.join(DATA_DIR, "skills", "full-by-category", `${category}.json`);
+      const content = await fs.readFile(categoryPath, "utf-8");
+      const data: Record<string, Skill> = JSON.parse(content);
+      allSkills.push(...Object.values(data));
+    } catch (error) {
+      // Category file might not exist, continue
+    }
   }
+
+  return allSkills;
 }
 
 /**
