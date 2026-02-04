@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-02-04T02:55:38.749Z",
-  "totalSkills": 11137,
+  "lastSync": "2026-02-04T02:58:54.157Z",
+  "totalSkills": 11165,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -126370,6 +126370,573 @@
       "stars": 967,
       "updatedAt": "2026-02-02T14:01:49Z",
       "repoUrl": "https://github.com/TransformerOptimus/SuperCoder"
+    },
+    {
+      "id": "langchain-ai-langchain",
+      "name": "langchain",
+      "description": "🦜🔗 The platform for reliable agents.",
+      "category": "ai-data-science",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai"
+      ],
+      "stars": 125845,
+      "updatedAt": "2026-02-04T02:56:28Z",
+      "repoUrl": "https://github.com/langchain-ai/langchain"
+    },
+    {
+      "id": "open-webui-open-webui",
+      "name": "open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai"
+      ],
+      "stars": 122823,
+      "updatedAt": "2026-02-04T02:35:24Z",
+      "repoUrl": "https://github.com/open-webui/open-webui"
+    },
+    {
+      "id": "shubhamsaboo-awesome-llm-apps",
+      "name": "awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "category": "ai-data-science",
+      "tags": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "stars": 91969,
+      "updatedAt": "2026-02-04T02:39:05Z",
+      "repoUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "id": "infiniflow-ragflow",
+      "name": "ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "agentic",
+        "agentic-ai",
+        "agentic-workflow",
+        "ai",
+        "ai-search",
+        "deep-learning",
+        "deep-research",
+        "deepseek",
+        "deepseek-r1"
+      ],
+      "stars": 72707,
+      "updatedAt": "2026-02-04T02:48:02Z",
+      "repoUrl": "https://github.com/infiniflow/ragflow"
+    },
+    {
+      "id": "pathwaycom-llm-app",
+      "name": "llm-app",
+      "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+      "category": "ai-data-science",
+      "tags": [
+        "chatbot",
+        "hugging-face",
+        "llm",
+        "llm-local",
+        "llm-prompting",
+        "llm-security",
+        "llmops",
+        "machine-learning",
+        "open-ai",
+        "pathway"
+      ],
+      "stars": 55914,
+      "updatedAt": "2026-02-04T02:55:43Z",
+      "repoUrl": "https://github.com/pathwaycom/llm-app"
+    },
+    {
+      "id": "mintplex-labs-anything-llm",
+      "name": "anything-llm",
+      "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agents",
+        "custom-ai-agents",
+        "deepseek",
+        "kimi",
+        "llama3",
+        "llm",
+        "lmstudio",
+        "local-llm",
+        "localai",
+        "mcp"
+      ],
+      "stars": 54146,
+      "updatedAt": "2026-02-04T02:50:32Z",
+      "repoUrl": "https://github.com/Mintplex-Labs/anything-llm"
+    },
+    {
+      "id": "flowiseai-flowise",
+      "name": "Flowise",
+      "description": "Build AI Agents, Visually",
+      "category": "ai-data-science",
+      "tags": [
+        "agentic-ai",
+        "agentic-workflow",
+        "agents",
+        "artificial-intelligence",
+        "chatbot",
+        "chatgpt",
+        "javascript",
+        "langchain",
+        "large-language-models",
+        "low-code"
+      ],
+      "stars": 48789,
+      "updatedAt": "2026-02-04T02:47:53Z",
+      "repoUrl": "https://github.com/FlowiseAI/Flowise"
+    },
+    {
+      "id": "run-llama-llama-index",
+      "name": "llama_index",
+      "description": "LlamaIndex is the leading framework for building LLM-powered agents over your data.",
+      "category": "ai-data-science",
+      "tags": [
+        "agents",
+        "application",
+        "data",
+        "fine-tuning",
+        "framework",
+        "llamaindex",
+        "llm",
+        "multi-agents",
+        "rag",
+        "vector-database"
+      ],
+      "stars": 46771,
+      "updatedAt": "2026-02-04T02:56:58Z",
+      "repoUrl": "https://github.com/run-llama/llama_index"
+    },
+    {
+      "id": "mem0ai-mem0",
+      "name": "mem0",
+      "description": "Universal memory layer for AI Agents",
+      "category": "ai-data-science",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots",
+        "chatgpt",
+        "genai",
+        "llm",
+        "long-term-memory",
+        "memory"
+      ],
+      "stars": 46534,
+      "updatedAt": "2026-02-04T02:55:42Z",
+      "repoUrl": "https://github.com/mem0ai/mem0"
+    },
+    {
+      "id": "milvus-io-milvus",
+      "name": "milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "category": "ai-data-science",
+      "tags": [
+        "anns",
+        "cloud-native",
+        "diskann",
+        "distributed",
+        "embedding-database",
+        "embedding-similarity",
+        "embedding-store",
+        "faiss",
+        "golang",
+        "hnsw"
+      ],
+      "stars": 42605,
+      "updatedAt": "2026-02-04T02:53:43Z",
+      "repoUrl": "https://github.com/milvus-io/milvus"
+    },
+    {
+      "id": "quivrhq-quivr",
+      "name": "quivr",
+      "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "api",
+        "chatbot",
+        "chatgpt",
+        "database",
+        "docker",
+        "framework",
+        "frontend",
+        "groq",
+        "html"
+      ],
+      "stars": 38911,
+      "updatedAt": "2026-02-04T01:07:01Z",
+      "repoUrl": "https://github.com/QuivrHQ/quivr"
+    },
+    {
+      "id": "mindsdb-mindsdb",
+      "name": "mindsdb",
+      "description": "Federated Query Engine for AI - The only MCP Server you'll ever need",
+      "category": "ai-data-science",
+      "tags": [
+        "agents",
+        "ai",
+        "analytics",
+        "artificial-inteligence",
+        "bigquery",
+        "business-intelligence",
+        "databases",
+        "hacktoberfest",
+        "llms",
+        "mcp"
+      ],
+      "stars": 38388,
+      "updatedAt": "2026-02-04T01:48:35Z",
+      "repoUrl": "https://github.com/mindsdb/mindsdb"
+    },
+    {
+      "id": "chatchat-space-langchain-chatchat",
+      "name": "Langchain-Chatchat",
+      "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
+      "category": "ai-data-science",
+      "tags": [
+        "chatbot",
+        "chatchat",
+        "chatglm",
+        "chatgpt",
+        "embedding",
+        "faiss",
+        "fastchat",
+        "gpt",
+        "knowledge-base",
+        "langchain"
+      ],
+      "stars": 37237,
+      "updatedAt": "2026-02-04T02:46:15Z",
+      "repoUrl": "https://github.com/chatchat-space/Langchain-Chatchat"
+    },
+    {
+      "id": "khoj-ai-khoj",
+      "name": "khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "ai",
+        "assistant",
+        "chat",
+        "chatgpt",
+        "emacs",
+        "image-generation",
+        "llama3",
+        "llamacpp",
+        "llm"
+      ],
+      "stars": 32407,
+      "updatedAt": "2026-02-04T02:55:18Z",
+      "repoUrl": "https://github.com/khoj-ai/khoj"
+    },
+    {
+      "id": "microsoft-graphrag",
+      "name": "graphrag",
+      "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+      "category": "ai-data-science",
+      "tags": [
+        "gpt",
+        "gpt-4",
+        "gpt4",
+        "graphrag",
+        "llm",
+        "llms",
+        "rag"
+      ],
+      "stars": 30723,
+      "updatedAt": "2026-02-04T02:55:27Z",
+      "repoUrl": "https://github.com/microsoft/graphrag"
+    },
+    {
+      "id": "itzcrazykns-perplexica",
+      "name": "Perplexica",
+      "description": "Perplexica is an AI-powered answering engine.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agents",
+        "ai-search-engine",
+        "answering-engine",
+        "artificial-intelligence",
+        "llm",
+        "machine-learning",
+        "open-source-ai-search-engine",
+        "perplexica",
+        "rag",
+        "search-engine"
+      ],
+      "stars": 28701,
+      "updatedAt": "2026-02-04T01:07:38Z",
+      "repoUrl": "https://github.com/ItzCrazyKns/Perplexica"
+    },
+    {
+      "id": "patchy631-ai-engineering-hub",
+      "name": "ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "category": "ai-data-science",
+      "tags": [
+        "agents",
+        "ai",
+        "llms",
+        "machine-learning",
+        "mcp",
+        "rag"
+      ],
+      "stars": 27893,
+      "updatedAt": "2026-02-04T02:51:45Z",
+      "repoUrl": "https://github.com/patchy631/ai-engineering-hub"
+    },
+    {
+      "id": "hkuds-lightrag",
+      "name": "LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "category": "ai-data-science",
+      "tags": [
+        "genai",
+        "gpt",
+        "gpt-4",
+        "graphrag",
+        "knowledge-graph",
+        "large-language-models",
+        "llm",
+        "rag",
+        "retrieval-augmented-generation"
+      ],
+      "stars": 27869,
+      "updatedAt": "2026-02-04T02:44:39Z",
+      "repoUrl": "https://github.com/HKUDS/LightRAG"
+    },
+    {
+      "id": "simstudioai-sim",
+      "name": "sim",
+      "description": "Open-source platform to build and deploy AI agent workflows.",
+      "category": "ai-data-science",
+      "tags": [
+        "agent-workflow",
+        "agentic-workflow",
+        "agents",
+        "ai",
+        "aiagents",
+        "anthropic",
+        "artificial-intelligence",
+        "automation",
+        "chatbot",
+        "deepseek"
+      ],
+      "stars": 26328,
+      "updatedAt": "2026-02-03T20:09:36Z",
+      "repoUrl": "https://github.com/simstudioai/sim"
+    },
+    {
+      "id": "chroma-core-chroma",
+      "name": "chroma",
+      "description": "Open-source search and retrieval database for AI applications.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "database",
+        "document-retrieval",
+        "embeddings",
+        "llm",
+        "llms",
+        "rag",
+        "rust",
+        "rust-lang",
+        "vector-database"
+      ],
+      "stars": 25947,
+      "updatedAt": "2026-02-04T02:22:35Z",
+      "repoUrl": "https://github.com/chroma-core/chroma"
+    },
+    {
+      "id": "cinnamon-kotaemon",
+      "name": "kotaemon",
+      "description": "An open-source RAG-based tool for chatting with your documents.",
+      "category": "ai-data-science",
+      "tags": [
+        "chatbot",
+        "llms",
+        "open-source",
+        "rag"
+      ],
+      "stars": 24990,
+      "updatedAt": "2026-02-04T02:23:44Z",
+      "repoUrl": "https://github.com/Cinnamon/kotaemon"
+    },
+    {
+      "id": "nirdiamant-rag-techniques",
+      "name": "RAG_Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "langchain",
+        "llama-index",
+        "llm",
+        "llms",
+        "opeani",
+        "python",
+        "rag",
+        "tutorials"
+      ],
+      "stars": 24513,
+      "updatedAt": "2026-02-04T02:28:42Z",
+      "repoUrl": "https://github.com/NirDiamant/RAG_Techniques"
+    },
+    {
+      "id": "langchain-ai-langgraph",
+      "name": "langgraph",
+      "description": "Build resilient language agents as graphs.",
+      "category": "ai-data-science",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain"
+      ],
+      "stars": 24208,
+      "updatedAt": "2026-02-04T02:46:59Z",
+      "repoUrl": "https://github.com/langchain-ai/langgraph"
+    },
+    {
+      "id": "deepset-ai-haystack",
+      "name": "haystack",
+      "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "agents",
+        "ai",
+        "gemini",
+        "generative-ai",
+        "gpt-4",
+        "information-retrieval",
+        "large-language-models",
+        "llm",
+        "machine-learning"
+      ],
+      "stars": 24070,
+      "updatedAt": "2026-02-03T21:46:13Z",
+      "repoUrl": "https://github.com/deepset-ai/haystack"
+    },
+    {
+      "id": "meilisearch-meilisearch",
+      "name": "meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "api",
+        "app-search",
+        "database",
+        "enterprise-search",
+        "faceting",
+        "full-text-search",
+        "fuzzy-search",
+        "geosearch",
+        "hybrid-search"
+      ],
+      "stars": 55735,
+      "updatedAt": "2026-02-04T02:22:06Z",
+      "repoUrl": "https://github.com/meilisearch/meilisearch"
+    },
+    {
+      "id": "qdrant-qdrant",
+      "name": "qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-search",
+        "ai-search-engine",
+        "embeddings-similarity",
+        "hnsw",
+        "image-search",
+        "knn-algorithm",
+        "machine-learning",
+        "mlops",
+        "nearest-neighbor-search",
+        "neural-network"
+      ],
+      "stars": 28565,
+      "updatedAt": "2026-02-04T01:08:03Z",
+      "repoUrl": "https://github.com/qdrant/qdrant"
+    },
+    {
+      "id": "weaviate-weaviate",
+      "name": "weaviate",
+      "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+      "category": "ai-data-science",
+      "tags": [
+        "approximate-nearest-neighbor-search",
+        "generative-search",
+        "grpc",
+        "hnsw",
+        "hybrid-search",
+        "image-search",
+        "information-retrieval",
+        "mlops",
+        "nearest-neighbor-search",
+        "neural-search"
+      ],
+      "stars": 15520,
+      "updatedAt": "2026-02-03T19:43:31Z",
+      "repoUrl": "https://github.com/weaviate/weaviate"
+    },
+    {
+      "id": "memvid-memvid",
+      "name": "memvid",
+      "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "context",
+        "embedded",
+        "faiss",
+        "knowledge-base",
+        "knowledge-graph",
+        "llm",
+        "machine-learning",
+        "memory",
+        "memvid"
+      ],
+      "stars": 12907,
+      "updatedAt": "2026-02-04T02:48:10Z",
+      "repoUrl": "https://github.com/memvid/memvid"
     }
   ]
 }

@@ -15,41 +15,41 @@ config({ path: resolve(process.cwd(), ".env.local") });
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 const DATA_DIR = path.join(process.cwd(), "data", "skills");
 
-// Hot repos to add (batch 8) - Prompt engineering and LLM tools
+// Hot repos to add (batch 9) - RAG and vector databases
 const HOT_REPOS = [
-  // Retry failed from batch 7
-  "kodustech/kodus-ai",
-  "f/prompts.chat",
-  "dair-ai/Prompt-Engineering-Guide",
-  "asgeirtj/system_prompts_leaks",
-  "langfuse/langfuse",
-  "linshenkx/prompt-optimizer",
-  "AI4Finance-Foundation/FinGPT",
-  "humanlayer/12-factor-agents",
-  "comet-ml/opik",
-  "dottxt-ai/outlines",
-  // More prompt engineering tools
-  "elder-plinius/CL4R1T4S",
-  "langgptai/LangGPT",
-  "EmbraceAGI/awesome-chatgpt-zh",
-  "microsoft/promptflow",
-  "LouisShark/chatgpt_system_prompt",
-  "promptfoo/promptfoo",
-  "Arize-ai/phoenix",
-  "rockbenben/ChatGPT-Shortcut",
-  "ai-boost/awesome-prompts",
-  "mufeedvh/code2prompt",
-  // More autonomous agents
-  "neomjs/neo",
-  "semanser/codel",
-  "melih-unsal/DemoGPT",
-  "HumanSignal/Adala",
-  "SmythOS/sre",
-  "KwaiKEG/KwaiAgents",
-  "tmgthb/Autonomous-Agents",
-  "microsoft/ToRA",
-  "vxcontrol/pentagi",
-  "TransformerOptimus/SuperCoder",
+  // Top RAG frameworks
+  "langgenius/dify",
+  "langchain-ai/langchain",
+  "open-webui/open-webui",
+  "Shubhamsaboo/awesome-llm-apps",
+  "infiniflow/ragflow",
+  "pathwaycom/llm-app",
+  "Mintplex-Labs/anything-llm",
+  "FlowiseAI/Flowise",
+  "run-llama/llama_index",
+  "mem0ai/mem0",
+  // Vector databases
+  "milvus-io/milvus",
+  "QuivrHQ/quivr",
+  "mindsdb/mindsdb",
+  "chatchat-space/Langchain-Chatchat",
+  "khoj-ai/khoj",
+  "microsoft/graphrag",
+  "ItzCrazyKns/Perplexica",
+  "patchy631/ai-engineering-hub",
+  "HKUDS/LightRAG",
+  "labring/FastGPT",
+  // More vector DBs and search
+  "simstudioai/sim",
+  "chroma-core/chroma",
+  "Cinnamon/kotaemon",
+  "NirDiamant/RAG_Techniques",
+  "langchain-ai/langgraph",
+  "deepset-ai/haystack",
+  "meilisearch/meilisearch",
+  "qdrant/qdrant",
+  "weaviate/weaviate",
+  "memvid/memvid",
 ];
 
 // Category inference
