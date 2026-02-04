@@ -18398,5 +18398,487 @@
     "stars": 12907,
     "updatedAt": "2026-02-04T02:48:10Z",
     "repoUrl": "https://github.com/memvid/memvid"
+  },
+  {
+    "id": "plandex-ai-plandex",
+    "name": "plandex",
+    "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-developer-tools",
+      "ai-tools",
+      "cli",
+      "command-line",
+      "developer-tools",
+      "git",
+      "golang",
+      "gpt-4"
+    ],
+    "stars": 14967,
+    "updatedAt": "2026-02-03T20:04:07Z",
+    "repoUrl": "https://github.com/plandex-ai/plandex"
+  },
+  {
+    "id": "nanobrowser-nanobrowser",
+    "name": "nanobrowser",
+    "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "automation",
+      "browser",
+      "browser-automation",
+      "browser-use",
+      "chrome-extension",
+      "comet"
+    ],
+    "stars": 12143,
+    "updatedAt": "2026-02-04T00:24:49Z",
+    "repoUrl": "https://github.com/nanobrowser/nanobrowser"
+  },
+  {
+    "id": "bytebot-ai-bytebot",
+    "name": "bytebot",
+    "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "anthropic",
+      "automation",
+      "bytebot",
+      "computer-use"
+    ],
+    "stars": 10352,
+    "updatedAt": "2026-02-03T22:24:06Z",
+    "repoUrl": "https://github.com/bytebot-ai/bytebot"
+  },
+  {
+    "id": "steel-dev-steel-browser",
+    "name": "steel-browser",
+    "description": "🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "llm"
+    ],
+    "stars": 6355,
+    "updatedAt": "2026-02-04T02:53:14Z",
+    "repoUrl": "https://github.com/steel-dev/steel-browser"
+  },
+  {
+    "id": "pydantic-logfire",
+    "name": "logfire",
+    "description": "AI observability platform for production LLM and agent systems.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent-observability",
+      "ai",
+      "ai-observability",
+      "ai-tools",
+      "evals",
+      "fastapi",
+      "llm-observability",
+      "logging",
+      "metrics",
+      "observability"
+    ],
+    "stars": 3982,
+    "updatedAt": "2026-02-03T16:15:06Z",
+    "repoUrl": "https://github.com/pydantic/logfire"
+  },
+  {
+    "id": "judge0-judge0",
+    "name": "judge0",
+    "description": "Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-agent-tools",
+      "ai-agents",
+      "ai-tools",
+      "code-execution",
+      "code-executor",
+      "code-runner",
+      "competitive-programming",
+      "online-compiler",
+      "online-judge",
+      "online-judges"
+    ],
+    "stars": 3936,
+    "updatedAt": "2026-02-03T15:18:29Z",
+    "repoUrl": "https://github.com/judge0/judge0"
+  },
+  {
+    "id": "nguyenphutrong-quotio",
+    "name": "quotio",
+    "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-tools",
+      "developer-tools",
+      "proxy",
+      "quota-monitor"
+    ],
+    "stars": 3367,
+    "updatedAt": "2026-02-04T02:40:37Z",
+    "repoUrl": "https://github.com/nguyenphutrong/quotio"
+  },
+  {
+    "id": "glitternetwork-pinme",
+    "name": "pinme",
+    "description": "Deploy Your Frontend in a Single Command. Claude Code Skills supported.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-tools",
+      "claude-code-skill",
+      "claude-skills",
+      "deployment",
+      "deployment-tools",
+      "frontend",
+      "frontend-deployment",
+      "hosting",
+      "serverless",
+      "skills"
+    ],
+    "stars": 2723,
+    "updatedAt": "2026-02-03T20:18:00Z",
+    "repoUrl": "https://github.com/glitternetwork/pinme"
+  },
+  {
+    "id": "oxylabs-oxylabs-ai-studio-py",
+    "name": "oxylabs-ai-studio-py",
+    "description": "Structured data gathering from any website using AI-powered scraper, crawler, and browser automation. Scraping and crawling with natural language prompts. Equip your LLM agents with fresh data. AI Studio python SDK for intelligent web data gathering. ",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-crawler",
+      "ai-scraper",
+      "ai-scraping",
+      "ai-search",
+      "ai-tools",
+      "ai-web-scraper",
+      "proxy-scraper",
+      "python-ai",
+      "web-scraping",
+      "web-scraping-ai"
+    ],
+    "stars": 2399,
+    "updatedAt": "2026-02-02T18:47:43Z",
+    "repoUrl": "https://github.com/oxylabs/oxylabs-ai-studio-py"
+  },
+  {
+    "id": "dw-dengwei-daily-arxiv-ai-enhanced",
+    "name": "daily-arXiv-ai-enhanced",
+    "description": "Automatically crawl arXiv papers daily and summarize them using AI. Illustrating them using GitHub Pages.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-tools",
+      "arxiv",
+      "llms",
+      "read-papers",
+      "research-tool"
+    ],
+    "stars": 2326,
+    "updatedAt": "2026-02-03T01:32:48Z",
+    "repoUrl": "https://github.com/dw-dengwei/daily-arXiv-ai-enhanced"
+  },
+  {
+    "id": "kayba-ai-agentic-context-engine",
+    "name": "agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent-learning",
+      "agent-memory",
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "machine-learning",
+      "memory"
+    ],
+    "stars": 1813,
+    "updatedAt": "2026-02-04T00:21:28Z",
+    "repoUrl": "https://github.com/kayba-ai/agentic-context-engine"
+  },
+  {
+    "id": "lackeyjb-playwright-skill",
+    "name": "playwright-skill",
+    "description": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-tools",
+      "automation",
+      "browser-automation",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "claude-skills",
+      "developer-tools",
+      "e2e-testing",
+      "model-invoked"
+    ],
+    "stars": 1575,
+    "updatedAt": "2026-02-03T18:10:04Z",
+    "repoUrl": "https://github.com/lackeyjb/playwright-skill"
+  },
+  {
+    "id": "zhouxiaoka-autoclip",
+    "name": "autoclip",
+    "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "ai-video",
+      "ai-video-editor",
+      "auto",
+      "auto-highlight",
+      "highlight",
+      "llm",
+      "video"
+    ],
+    "stars": 1524,
+    "updatedAt": "2026-02-03T11:44:19Z",
+    "repoUrl": "https://github.com/zhouxiaoka/autoclip"
+  },
+  {
+    "id": "davialabs-davia",
+    "name": "davia",
+    "description": "Interactive, editable docs designed for coding agents",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-tools",
+      "documentation",
+      "documentation-generator",
+      "knowledge-base",
+      "knowledge-representation",
+      "local",
+      "open-sou",
+      "wiki",
+      "wiki-engine"
+    ],
+    "stars": 1449,
+    "updatedAt": "2026-02-02T18:48:47Z",
+    "repoUrl": "https://github.com/davialabs/davia"
+  },
+  {
+    "id": "ai-for-developers-awesome-ai-coding-tools",
+    "name": "awesome-ai-coding-tools",
+    "description": "A curated list of AI-powered coding tools",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-code-generation",
+      "ai-code-generator",
+      "ai-coding",
+      "ai-coding-assistant",
+      "ai-coding-tools",
+      "ai-developer-tools",
+      "ai-development",
+      "ai-devtools",
+      "ai-security",
+      "ai-tools"
+    ],
+    "stars": 1432,
+    "updatedAt": "2026-02-03T14:29:05Z",
+    "repoUrl": "https://github.com/ai-for-developers/awesome-ai-coding-tools"
+  },
+  {
+    "id": "trustgraph-ai-trustgraph",
+    "name": "trustgraph",
+    "description": "The Context Graph Engine for AI. Build, manage, and deploy AI-optimized Context Graphs.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-infra",
+      "ai-tools",
+      "chatbot",
+      "context",
+      "context-engineering",
+      "context-graph",
+      "data-annotation",
+      "data-science"
+    ],
+    "stars": 1138,
+    "updatedAt": "2026-02-03T17:11:08Z",
+    "repoUrl": "https://github.com/trustgraph-ai/trustgraph"
+  },
+  {
+    "id": "browserable-browserable",
+    "name": "browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "browser-use-js",
+      "deep-research",
+      "javascript",
+      "llm",
+      "playwright"
+    ],
+    "stars": 1132,
+    "updatedAt": "2026-02-01T03:06:13Z",
+    "repoUrl": "https://github.com/browserable/browserable"
+  },
+  {
+    "id": "streetlamb-tribe",
+    "name": "tribe",
+    "description": "Low code tool to rapidly build and coordinate multi-agent teams",
+    "category": "ai-data-science",
+    "tags": [
+      "agent-based-framework",
+      "agent-oriented-programming",
+      "agentic",
+      "agentic-agi",
+      "ai",
+      "ai-tools",
+      "chat",
+      "chatbot",
+      "gpt",
+      "gpt-35-turbo"
+    ],
+    "stars": 1067,
+    "updatedAt": "2026-01-27T05:17:19Z",
+    "repoUrl": "https://github.com/StreetLamb/tribe"
+  },
+  {
+    "id": "leoning60-browsernode",
+    "name": "browsernode",
+    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browsernode",
+      "javascript",
+      "llm",
+      "playwright",
+      "typescript"
+    ],
+    "stars": 1029,
+    "updatedAt": "2026-01-30T08:38:22Z",
+    "repoUrl": "https://github.com/leoning60/browsernode"
+  },
+  {
+    "id": "neuml-txtai",
+    "name": "txtai",
+    "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "category": "ai-data-science",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "embeddings",
+      "information-retrieval",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python"
+    ],
+    "stars": 12100,
+    "updatedAt": "2026-02-03T22:51:24Z",
+    "repoUrl": "https://github.com/neuml/txtai"
+  },
+  {
+    "id": "topoteretes-cognee",
+    "name": "cognee",
+    "description": "Memory for AI Agents in 6 lines of code",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "cognitive-architecture",
+      "cognitive-memory",
+      "context-engineering",
+      "contributions-welcome",
+      "good-first-issue",
+      "good-first-pr",
+      "graph-database"
+    ],
+    "stars": 11566,
+    "updatedAt": "2026-02-04T02:48:47Z",
+    "repoUrl": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "id": "langchain4j-langchain4j",
+    "name": "langchain4j",
+    "description": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.",
+    "category": "ai-data-science",
+    "tags": [
+      "anthropic",
+      "chatgpt",
+      "chroma",
+      "embeddings",
+      "gemini",
+      "gpt",
+      "huggingface",
+      "java",
+      "langchain",
+      "llama"
+    ],
+    "stars": 10623,
+    "updatedAt": "2026-02-04T02:23:40Z",
+    "repoUrl": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "id": "oramasearch-orama",
+    "name": "orama",
+    "description": "🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.",
+    "category": "ai-data-science",
+    "tags": [
+      "algiorithm",
+      "data-structures",
+      "full-text",
+      "javascript",
+      "node",
+      "search",
+      "search-algorithm",
+      "search-engine",
+      "typescript",
+      "typo-tolerance"
+    ],
+    "stars": 10126,
+    "updatedAt": "2026-02-03T15:55:55Z",
+    "repoUrl": "https://github.com/oramasearch/orama"
+  },
+  {
+    "id": "lancedb-lancedb",
+    "name": "lancedb",
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "category": "ai-data-science",
+    "tags": [
+      "approximate-nearest-neighbor-search",
+      "image-search",
+      "nearest-neighbor-search",
+      "recommender-system",
+      "search-engine",
+      "semantic-search",
+      "similarity-search",
+      "vector-database"
+    ],
+    "stars": 8741,
+    "updatedAt": "2026-02-04T01:56:33Z",
+    "repoUrl": "https://github.com/lancedb/lancedb"
   }
 ]

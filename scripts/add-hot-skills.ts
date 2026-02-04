@@ -15,41 +15,41 @@ config({ path: resolve(process.cwd(), ".env.local") });
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 const DATA_DIR = path.join(process.cwd(), "data", "skills");
 
-// Hot repos to add (batch 9) - RAG and vector databases
+// Hot repos to add (batch 10) - AI tools and browser automation
 const HOT_REPOS = [
-  // Top RAG frameworks
-  "langgenius/dify",
-  "langchain-ai/langchain",
-  "open-webui/open-webui",
-  "Shubhamsaboo/awesome-llm-apps",
-  "infiniflow/ragflow",
-  "pathwaycom/llm-app",
-  "Mintplex-Labs/anything-llm",
-  "FlowiseAI/Flowise",
-  "run-llama/llama_index",
-  "mem0ai/mem0",
-  // Vector databases
-  "milvus-io/milvus",
-  "QuivrHQ/quivr",
-  "mindsdb/mindsdb",
-  "chatchat-space/Langchain-Chatchat",
-  "khoj-ai/khoj",
-  "microsoft/graphrag",
-  "ItzCrazyKns/Perplexica",
-  "patchy631/ai-engineering-hub",
-  "HKUDS/LightRAG",
-  "labring/FastGPT",
-  // More vector DBs and search
-  "simstudioai/sim",
-  "chroma-core/chroma",
-  "Cinnamon/kotaemon",
-  "NirDiamant/RAG_Techniques",
-  "langchain-ai/langgraph",
-  "deepset-ai/haystack",
-  "meilisearch/meilisearch",
-  "qdrant/qdrant",
-  "weaviate/weaviate",
-  "memvid/memvid",
+  // Browser automation for AI
+  "browser-use/browser-use",
+  "farion1231/cc-switch",
+  "plandex-ai/plandex",
+  "nanobrowser/nanobrowser",
+  "bytebot-ai/bytebot",
+  "yusufkaraaslan/Skill_Seekers",
+  "steel-dev/steel-browser",
+  "pydantic/logfire",
+  "judge0/judge0",
+  "sirmalloc/ccstatusline",
+  // AI tools
+  "nguyenphutrong/quotio",
+  "glitternetwork/pinme",
+  "oxylabs/oxylabs-ai-studio-py",
+  "dw-dengwei/daily-arXiv-ai-enhanced",
+  "kayba-ai/agentic-context-engine",
+  "lackeyjb/playwright-skill",
+  "zhouxiaoka/autoclip",
+  "davialabs/davia",
+  "ai-for-developers/awesome-ai-coding-tools",
+  "trustgraph-ai/trustgraph",
+  // More AI tools
+  "browserable/browserable",
+  "StreetLamb/tribe",
+  "leoning60/browsernode",
+  "bfly123/claude_code_bridge",
+  "qdhenry/Claude-Command-Suite",
+  "neuml/txtai",
+  "topoteretes/cognee",
+  "langchain4j/langchain4j",
+  "oramasearch/orama",
+  "lancedb/lancedb",
 ];
 
 // Category inference
