@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-02-04T01:41:28.600Z",
-  "totalSkills": 11022,
+  "lastSync": "2026-02-04T01:46:32.901Z",
+  "totalSkills": 11061,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -124096,6 +124096,768 @@
       "stars": 2953,
       "updatedAt": "2026-02-04T01:22:50Z",
       "repoUrl": "https://github.com/jarrodwatts/claude-hud"
+    },
+    {
+      "id": "sansan0-trendradar",
+      "name": "TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "bark",
+        "data-analysis",
+        "docker",
+        "hot-news",
+        "llm",
+        "mail",
+        "mcp",
+        "mcp-server",
+        "news"
+      ],
+      "stars": 45419,
+      "updatedAt": "2026-02-04T01:45:42Z",
+      "repoUrl": "https://github.com/sansan0/TrendRadar"
+    },
+    {
+      "id": "upstash-context7",
+      "name": "context7",
+      "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+      "category": "ai-data-science",
+      "tags": [
+        "llm",
+        "mcp",
+        "mcp-server",
+        "vibe-coding"
+      ],
+      "stars": 44625,
+      "updatedAt": "2026-02-04T01:28:25Z",
+      "repoUrl": "https://github.com/upstash/context7"
+    },
+    {
+      "id": "github-github-mcp-server",
+      "name": "github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "category": "devops-infrastructure",
+      "tags": [
+        "github",
+        "mcp",
+        "mcp-server"
+      ],
+      "stars": 26614,
+      "updatedAt": "2026-02-04T01:00:51Z",
+      "repoUrl": "https://github.com/github/github-mcp-server"
+    },
+    {
+      "id": "bytedance-ui-tars-desktop",
+      "name": "UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "agent-tars",
+        "browser-use",
+        "computer-use",
+        "cowork",
+        "gui-agent",
+        "gui-operator",
+        "mcp",
+        "mcp-server",
+        "multimodal"
+      ],
+      "stars": 25401,
+      "updatedAt": "2026-02-04T01:44:52Z",
+      "repoUrl": "https://github.com/bytedance/UI-TARS-desktop"
+    },
+    {
+      "id": "assafelovic-gpt-researcher",
+      "name": "gpt-researcher",
+      "description": "An autonomous agent that conducts deep research on any data using any LLM providers.",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "ai",
+        "automation",
+        "deepresearch",
+        "llms",
+        "mcp",
+        "mcp-server",
+        "python",
+        "research",
+        "search"
+      ],
+      "stars": 25193,
+      "updatedAt": "2026-02-04T00:54:41Z",
+      "repoUrl": "https://github.com/assafelovic/gpt-researcher"
+    },
+    {
+      "id": "chromedevtools-chrome-devtools-mcp",
+      "name": "chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "category": "ai-data-science",
+      "tags": [
+        "browser",
+        "chrome",
+        "chrome-devtools",
+        "debugging",
+        "devtools",
+        "mcp",
+        "mcp-server",
+        "puppeteer"
+      ],
+      "stars": 23159,
+      "updatedAt": "2026-02-04T01:45:28Z",
+      "repoUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "id": "activepieces-activepieces",
+      "name": "activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agent",
+        "ai-agent-tools",
+        "ai-agents",
+        "ai-agents-framework",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "mcps",
+        "n8n-alternative",
+        "no-code-automation"
+      ],
+      "stars": 20681,
+      "updatedAt": "2026-02-04T01:11:25Z",
+      "repoUrl": "https://github.com/activepieces/activepieces"
+    },
+    {
+      "id": "1panel-dev-maxkb",
+      "name": "MaxKB",
+      "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "agentic-ai",
+        "chatbot",
+        "deepseek-r1",
+        "knowledgebase",
+        "langchain",
+        "llama3",
+        "llm",
+        "maxkb",
+        "mcp-server"
+      ],
+      "stars": 20026,
+      "updatedAt": "2026-02-04T01:18:27Z",
+      "repoUrl": "https://github.com/1Panel-dev/MaxKB"
+    },
+    {
+      "id": "microsoft-mcp-for-beginners",
+      "name": "mcp-for-beginners",
+      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+      "category": "ai-data-science",
+      "tags": [
+        "csharp",
+        "java",
+        "javascript",
+        "javascript-applications",
+        "mcp",
+        "mcp-client",
+        "mcp-security",
+        "mcp-server",
+        "model",
+        "model-context-protocol"
+      ],
+      "stars": 14233,
+      "updatedAt": "2026-02-04T00:00:56Z",
+      "repoUrl": "https://github.com/microsoft/mcp-for-beginners"
+    },
+    {
+      "id": "triggerdotdev-trigger-dev",
+      "name": "trigger.dev",
+      "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "ai-agent-framework",
+        "ai-agents",
+        "automation",
+        "background-jobs",
+        "mcp",
+        "mcp-server",
+        "nextjs",
+        "orchestration",
+        "scheduler"
+      ],
+      "stars": 13541,
+      "updatedAt": "2026-02-03T23:49:23Z",
+      "repoUrl": "https://github.com/triggerdotdev/trigger.dev"
+    },
+    {
+      "id": "czlonkowski-n8n-mcp",
+      "name": "n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
+      "category": "ai-data-science",
+      "tags": [
+        "mcp",
+        "mcp-server",
+        "n8n",
+        "workflows"
+      ],
+      "stars": 13137,
+      "updatedAt": "2026-02-04T01:34:33Z",
+      "repoUrl": "https://github.com/czlonkowski/n8n-mcp"
+    },
+    {
+      "id": "tadata-org-fastapi-mcp",
+      "name": "fastapi_mcp",
+      "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "authentication",
+        "authorization",
+        "claude",
+        "cursor",
+        "fastapi",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "mcp-servers"
+      ],
+      "stars": 11490,
+      "updatedAt": "2026-02-03T11:33:31Z",
+      "repoUrl": "https://github.com/tadata-org/fastapi_mcp"
+    },
+    {
+      "id": "0xjacky-nginx-ui",
+      "name": "nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "category": "ai-data-science",
+      "tags": [
+        "chatgpt-app",
+        "code-completion",
+        "copilot",
+        "cron",
+        "deepseek-r1",
+        "docker",
+        "go",
+        "letsencrypt",
+        "linux",
+        "macos"
+      ],
+      "stars": 10516,
+      "updatedAt": "2026-02-04T01:11:04Z",
+      "repoUrl": "https://github.com/0xJacky/nginx-ui"
+    },
+    {
+      "id": "joeanamier-xhs-downloader",
+      "name": "XHS-Downloader",
+      "description": "小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件",
+      "category": "devops-infrastructure",
+      "tags": [
+        "api",
+        "docker",
+        "download",
+        "fastapi",
+        "httpx",
+        "javascript",
+        "json",
+        "linux",
+        "macos",
+        "mcp-server"
+      ],
+      "stars": 9978,
+      "updatedAt": "2026-02-03T16:50:17Z",
+      "repoUrl": "https://github.com/JoeanAmier/XHS-Downloader"
+    },
+    {
+      "id": "d4vinci-scrapling",
+      "name": "Scrapling",
+      "description": "🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "ai-scraping",
+        "automation",
+        "crawler",
+        "crawling",
+        "crawling-python",
+        "data",
+        "data-extraction",
+        "mcp",
+        "mcp-server"
+      ],
+      "stars": 8895,
+      "updatedAt": "2026-02-03T21:42:43Z",
+      "repoUrl": "https://github.com/D4Vinci/Scrapling"
+    },
+    {
+      "id": "xinnan-tech-xiaozhi-esp32-server",
+      "name": "xiaozhi-esp32-server",
+      "description": "本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.",
+      "category": "ai-data-science",
+      "tags": [
+        "dify",
+        "esp32",
+        "mcp-server",
+        "xiaozhi",
+        "xiaozhi-ai",
+        "xiaozhi-esp32",
+        "xiaozhi-server"
+      ],
+      "stars": 8530,
+      "updatedAt": "2026-02-04T00:53:40Z",
+      "repoUrl": "https://github.com/xinnan-tech/xiaozhi-esp32-server"
+    },
+    {
+      "id": "xpzouying-xiaohongshu-mcp",
+      "name": "xiaohongshu-mcp",
+      "description": "MCP for xiaohongshu.com",
+      "category": "backend-development",
+      "tags": [
+        "mcp",
+        "mcp-server",
+        "xiaohongshu-mcp"
+      ],
+      "stars": 8474,
+      "updatedAt": "2026-02-04T01:15:37Z",
+      "repoUrl": "https://github.com/xpzouying/xiaohongshu-mcp"
+    },
+    {
+      "id": "awslabs-mcp",
+      "name": "mcp",
+      "description": "Official AWS MCP Servers",
+      "category": "devops-infrastructure",
+      "tags": [
+        "aws",
+        "mcp",
+        "mcp-client",
+        "mcp-clients",
+        "mcp-host",
+        "mcp-server",
+        "mcp-servers",
+        "mcp-tools",
+        "modelcontextprotocol"
+      ],
+      "stars": 8039,
+      "updatedAt": "2026-02-04T01:23:53Z",
+      "repoUrl": "https://github.com/awslabs/mcp"
+    },
+    {
+      "id": "firerpa-lamda",
+      "name": "lamda",
+      "description": " The most powerful Android RPA agent framework, next generation of mobile automation robots.",
+      "category": "ai-data-science",
+      "tags": [
+        "adb",
+        "agents",
+        "ai",
+        "android",
+        "appium",
+        "automation",
+        "dynamic-analysis",
+        "frida",
+        "magisk",
+        "mcp"
+      ],
+      "stars": 7596,
+      "updatedAt": "2026-02-04T00:56:31Z",
+      "repoUrl": "https://github.com/firerpa/lamda"
+    },
+    {
+      "id": "agentdeskai-browser-tools-mcp",
+      "name": "browser-tools-mcp",
+      "description": "Monitor browser logs directly from Cursor and other MCP compatible IDEs.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "anthropic",
+        "cursor",
+        "mcp",
+        "mcp-server"
+      ],
+      "stars": 7042,
+      "updatedAt": "2026-02-03T12:37:10Z",
+      "repoUrl": "https://github.com/AgentDeskAI/browser-tools-mcp"
+    },
+    {
+      "id": "0x4m4-hexstrike-ai",
+      "name": "hexstrike-ai",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+      "category": "ai-data-science",
+      "tags": [
+        "0x4m4",
+        "ai",
+        "ai-agents",
+        "ai-cybersecurity",
+        "ai-hacking",
+        "ai-penetration-testing",
+        "ai-security-tool",
+        "artificial-intelligence",
+        "ctf-tools",
+        "generative-ai"
+      ],
+      "stars": 6602,
+      "updatedAt": "2026-02-03T23:53:57Z",
+      "repoUrl": "https://github.com/0x4m4/hexstrike-ai"
+    },
+    {
+      "id": "yzfly-awesome-mcp-zh",
+      "name": "Awesome-MCP-ZH",
+      "description": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients",
+      "category": "ai-data-science",
+      "tags": [
+        "claude",
+        "claude-mcp",
+        "deepseek",
+        "deepseek-mcp",
+        "mcp",
+        "mcp-clients",
+        "mcp-host",
+        "mcp-server",
+        "mcp-servers",
+        "mcp-servers-directory"
+      ],
+      "stars": 6035,
+      "updatedAt": "2026-02-03T18:49:14Z",
+      "repoUrl": "https://github.com/yzfly/Awesome-MCP-ZH"
+    },
+    {
+      "id": "browsermcp-mcp",
+      "name": "mcp",
+      "description": "Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser",
+      "category": "ai-data-science",
+      "tags": [
+        "browser-automation",
+        "browser-extension",
+        "claude",
+        "cursor",
+        "mcp",
+        "mcp-server"
+      ],
+      "stars": 5686,
+      "updatedAt": "2026-02-04T01:39:31Z",
+      "repoUrl": "https://github.com/BrowserMCP/mcp"
+    },
+    {
+      "id": "klavis-ai-klavis",
+      "name": "klavis",
+      "description": "Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale",
+      "category": "ai-data-science",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "api",
+        "developer-tools",
+        "discord",
+        "function-calling",
+        "integration",
+        "llm",
+        "mcp"
+      ],
+      "stars": 5622,
+      "updatedAt": "2026-02-03T05:44:28Z",
+      "repoUrl": "https://github.com/Klavis-AI/klavis"
+    },
+    {
+      "id": "firecrawl-firecrawl-mcp-server",
+      "name": "firecrawl-mcp-server",
+      "description": "🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
+      "category": "ai-data-science",
+      "tags": [
+        "batch-processing",
+        "claude",
+        "content-extraction",
+        "data-collection",
+        "firecrawl",
+        "firecrawl-ai",
+        "javascript-rendering",
+        "llm-tools",
+        "mcp",
+        "mcp-server"
+      ],
+      "stars": 5405,
+      "updatedAt": "2026-02-04T01:30:37Z",
+      "repoUrl": "https://github.com/firecrawl/firecrawl-mcp-server"
+    },
+    {
+      "id": "mrexodia-ida-pro-mcp",
+      "name": "ida-pro-mcp",
+      "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "aiagent",
+        "binary-analysis",
+        "ida-plugin",
+        "ida-pro",
+        "mcp",
+        "mcp-server",
+        "modelcontextprotocol",
+        "reverse-engineering"
+      ],
+      "stars": 5336,
+      "updatedAt": "2026-02-03T23:56:39Z",
+      "repoUrl": "https://github.com/mrexodia/ida-pro-mcp"
+    },
+    {
+      "id": "u14app-deep-research",
+      "name": "deep-research",
+      "description": "Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.",
+      "category": "ai-data-science",
+      "tags": [
+        "anthropic",
+        "deep-research",
+        "deep-research-api",
+        "deepresearch",
+        "deepseek",
+        "gemini",
+        "grok",
+        "mcp-server",
+        "ollama",
+        "openai"
+      ],
+      "stars": 4374,
+      "updatedAt": "2026-02-03T22:42:16Z",
+      "repoUrl": "https://github.com/u14app/deep-research"
+    },
+    {
+      "id": "cameroncooke-xcodebuildmcp",
+      "name": "XcodeBuildMCP",
+      "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
+      "category": "ai-data-science",
+      "tags": [
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "model-context-protocol-servers",
+        "xcode",
+        "xcodebuild"
+      ],
+      "stars": 4031,
+      "updatedAt": "2026-02-04T01:33:14Z",
+      "repoUrl": "https://github.com/cameroncooke/XcodeBuildMCP"
+    },
+    {
+      "id": "open-webui-mcpo",
+      "name": "mcpo",
+      "description": "A simple, secure MCP-to-OpenAPI proxy server",
+      "category": "frontend-development",
+      "tags": [
+        "mcp",
+        "mcp-server",
+        "mcp-to-openapi",
+        "open-webui",
+        "openapi"
+      ],
+      "stars": 3943,
+      "updatedAt": "2026-02-03T15:15:55Z",
+      "repoUrl": "https://github.com/open-webui/mcpo"
+    },
+    {
+      "id": "chaterm-chaterm",
+      "name": "Chaterm",
+      "description": "Open source AI terminal and SSH Client for EC2, Database and Kubernetes.",
+      "category": "ai-data-science",
+      "tags": [
+        "aiagent",
+        "bastion",
+        "codex-cli",
+        "cursor",
+        "cyberark",
+        "devops",
+        "pam",
+        "putty",
+        "security",
+        "sre"
+      ],
+      "stars": 2378,
+      "updatedAt": "2026-02-03T15:14:59Z",
+      "repoUrl": "https://github.com/chaterm/Chaterm"
+    },
+    {
+      "id": "folke-sidekick-nvim",
+      "name": "sidekick.nvim",
+      "description": "Your Neovim AI sidekick",
+      "category": "ai-data-science",
+      "tags": [
+        "claude-code",
+        "codex-cli",
+        "copilot",
+        "copilot-cli",
+        "gemini-cli",
+        "neovim",
+        "neovim-plugin",
+        "nvim",
+        "nvim-plugin"
+      ],
+      "stars": 2242,
+      "updatedAt": "2026-02-03T23:38:42Z",
+      "repoUrl": "https://github.com/folke/sidekick.nvim"
+    },
+    {
+      "id": "mikeyobrien-ralph-orchestrator",
+      "name": "ralph-orchestrator",
+      "description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "ai-agents",
+        "ai-agents-framework",
+        "ai-developer-tools",
+        "claude-code",
+        "claude-code-cli",
+        "codex-cli",
+        "development-tools",
+        "development-workflow",
+        "gemini-cli"
+      ],
+      "stars": 1626,
+      "updatedAt": "2026-02-03T23:07:50Z",
+      "repoUrl": "https://github.com/mikeyobrien/ralph-orchestrator"
+    },
+    {
+      "id": "pchalasani-claude-code-tools",
+      "name": "claude-code-tools",
+      "description": "Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.",
+      "category": "ai-data-science",
+      "tags": [
+        "claude-code",
+        "cli",
+        "cli-agent",
+        "code-agent",
+        "codex",
+        "codex-cli",
+        "context",
+        "llm",
+        "tmux"
+      ],
+      "stars": 1356,
+      "updatedAt": "2026-02-03T22:57:13Z",
+      "repoUrl": "https://github.com/pchalasani/claude-code-tools"
+    },
+    {
+      "id": "codergamester-mcp-unity",
+      "name": "mcp-unity",
+      "description": "Model Context Protocol (MCP) plugin to connect with Unity Editor — designed for Cursor, Claude Code, Codex, Windsurf and other IDEs",
+      "category": "ai-data-science",
+      "tags": [
+        "antigravity-ide",
+        "claudecode",
+        "codex-cli",
+        "copilot",
+        "cursor",
+        "game-development",
+        "gemini",
+        "mcp",
+        "model-context-protocol",
+        "openai"
+      ],
+      "stars": 1285,
+      "updatedAt": "2026-02-03T18:45:36Z",
+      "repoUrl": "https://github.com/CoderGamester/mcp-unity"
+    },
+    {
+      "id": "m0n0x41d-quint-code",
+      "name": "quint-code",
+      "description": "Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with auditable evidence trails",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agents",
+        "ai-coding",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cli",
+        "codex-cli",
+        "context-memory",
+        "cursor",
+        "cursor-ai"
+      ],
+      "stars": 1125,
+      "updatedAt": "2026-02-03T15:12:46Z",
+      "repoUrl": "https://github.com/m0n0x41d/quint-code"
+    },
+    {
+      "id": "specstoryai-getspecstory",
+      "name": "getspecstory",
+      "description": "Install our local first extensions for your favorite AI IDE or Terminal Agent. Sync your conversations to the cloud. File issues and requests.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "chat-history",
+        "claude",
+        "claude-code",
+        "codex",
+        "codex-cli",
+        "copilot",
+        "copilot-chat",
+        "cursor-ai",
+        "cursor-cli"
+      ],
+      "stars": 1027,
+      "updatedAt": "2026-02-04T01:21:09Z",
+      "repoUrl": "https://github.com/specstoryai/getspecstory"
+    },
+    {
+      "id": "deepmyst-mysti",
+      "name": "Mysti",
+      "description": "AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "agentic",
+        "agentic-ai",
+        "agentic-coding",
+        "agentic-framework",
+        "agentic-workflow",
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "stars": 873,
+      "updatedAt": "2026-02-03T21:53:03Z",
+      "repoUrl": "https://github.com/DeepMyst/Mysti"
+    },
+    {
+      "id": "loocor-codmate",
+      "name": "codmate",
+      "description": "CodMate is a macOS SwiftUI app for managing CLI AI sessions: browse, search, organize, resume, and review work produced by Codex, Claude Code, and Gemini CLI.  It focuses on speed, a compact three-column UI, and “ship it” workflows like Project Review (Git Changes) and one-click Resume/New.",
+      "category": "ai-data-science",
+      "tags": [
+        "claude-code",
+        "codex-cli",
+        "codmate",
+        "gemini-cli",
+        "swift",
+        "swiftui"
+      ],
+      "stars": 588,
+      "updatedAt": "2026-02-03T10:03:09Z",
+      "repoUrl": "https://github.com/loocor/codmate"
+    },
+    {
+      "id": "botingw-rulebook-ai",
+      "name": "rulebook-ai",
+      "description": "Elevate vibe coding to vibe engineering: Get consistent Github Copilot custom instructions, Cursor, Roo Code, Cline, Windsurf, Claude Code, Gemini Cli, Codex CLI, kilo code, warp custom rules via a universal, managed template. Features vibe coding memory bank & best practices for large codebases.",
+      "category": "ai-data-science",
+      "tags": [
+        "claude-code",
+        "cline",
+        "codex-cli",
+        "context-en",
+        "cursor",
+        "gemini-cli",
+        "github-cop",
+        "kilo-code",
+        "roo-code",
+        "vibe-coding"
+      ],
+      "stars": 569,
+      "updatedAt": "2026-02-01T05:28:45Z",
+      "repoUrl": "https://github.com/botingw/rulebook-ai"
     }
   ]
 }

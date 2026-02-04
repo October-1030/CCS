@@ -21801,5 +21801,19 @@
     "stars": 23,
     "updatedAt": "2026-01-24T11:43:12Z",
     "repoUrl": "https://github.com/bearcove/pikru"
+  },
+  {
+    "id": "xpzouying-xiaohongshu-mcp",
+    "name": "xiaohongshu-mcp",
+    "description": "MCP for xiaohongshu.com",
+    "category": "backend-development",
+    "tags": [
+      "mcp",
+      "mcp-server",
+      "xiaohongshu-mcp"
+    ],
+    "stars": 8474,
+    "updatedAt": "2026-02-04T01:15:37Z",
+    "repoUrl": "https://github.com/xpzouying/xiaohongshu-mcp"
   }
 ]

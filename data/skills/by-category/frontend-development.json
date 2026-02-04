@@ -32857,5 +32857,21 @@
     "stars": 2,
     "updatedAt": "2026-01-06T08:04:01Z",
     "repoUrl": "https://github.com/Syedaashnaghazanfar/todo-app"
+  },
+  {
+    "id": "open-webui-mcpo",
+    "name": "mcpo",
+    "description": "A simple, secure MCP-to-OpenAPI proxy server",
+    "category": "frontend-development",
+    "tags": [
+      "mcp",
+      "mcp-server",
+      "mcp-to-openapi",
+      "open-webui",
+      "openapi"
+    ],
+    "stars": 3943,
+    "updatedAt": "2026-02-03T15:15:55Z",
+    "repoUrl": "https://github.com/open-webui/mcpo"
   }
 ]
