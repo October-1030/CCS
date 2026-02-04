@@ -15,39 +15,41 @@ config({ path: resolve(process.cwd(), ".env.local") });
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 const DATA_DIR = path.join(process.cwd(), "data", "skills");
 
-// Hot repos to add (batch 6) - AI agents and tools
+// Hot repos to add (batch 7) - Autonomous agents and coding assistants
 const HOT_REPOS = [
-  // AI agents - high stars
-  "zhayujie/chatgpt-on-wechat",
-  "CopilotKit/CopilotKit",
-  "trycua/cua",
-  "e2b-dev/E2B",
-  "crestalnetwork/intentkit",
-  "Integuru-AI/Integuru",
-  "mahseema/awesome-ai-tools",
-  "UnicomAI/wanwu",
-  "FedML-AI/FedML",
-  "presenton/presenton",
-  "groupultra/telegram-search",
-  "LazyAGI/LazyLLM",
-  "smallcloudai/refact",
-  "Intelligent-Internet/ii-agent",
-  "i-am-bee/beeai-framework",
-  "filipecalegario/awesome-vibe-coding",
-  "SciSharp/BotSharp",
-  "WeThinkIn/AIGC-Interview-Book",
-  "memodb-io/Acontext",
-  "SWE-agent/mini-swe-agent",
-  "BAAI-Agents/Cradle",
-  "miantiao-me/hacker-podcast",
-  "FullAgent/fulling",
-  "lmnr-ai/index",
-  "aiflowy/aiflowy",
-  "mindfold-ai/Trellis",
-  "EgoAlpha/prompt-in-context-learning",
-  "adongwanai/AgentGuide",
-  "agi-inc/agent-protocol",
-  "jim-schwoebel/awesome_ai_agents",
+  // Autonomous agents - very high stars
+  "Significant-Gravitas/AutoGPT",
+  "e2b-dev/awesome-ai-agents",
+  "Fosowl/agenticSeek",
+  "TransformerOptimus/SuperAGI",
+  "ruvnet/claude-flow",
+  "YaoApp/yao",
+  "RayVentura/ShortGPT",
+  "aiwaves-cn/agents",
+  "strands-agents/sdk-python",
+  "adenhq/hive",
+  // Coding assistants
+  "AntonOsika/gpt-engineer",
+  "Pythagora-io/gpt-pilot",
+  "TabbyML/tabby",
+  "hesreallyhim/awesome-claude-code",
+  "qodo-ai/pr-agent",
+  "datawhalechina/vibe-vibe",
+  "cjo4m06/mcp-shrimp-task-manager",
+  "covibes/zeroshot",
+  "ferrislucas/promptr",
+  "kodustech/kodus-ai",
+  // Prompt engineering
+  "f/prompts.chat",
+  "dair-ai/Prompt-Engineering-Guide",
+  "asgeirtj/system_prompts_leaks",
+  "langfuse/langfuse",
+  "github/awesome-copilot",
+  "linshenkx/prompt-optimizer",
+  "AI4Finance-Foundation/FinGPT",
+  "humanlayer/12-factor-agents",
+  "comet-ml/opik",
+  "dottxt-ai/outlines",
 ];
 
 // Category inference

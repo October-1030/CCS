@@ -16919,5 +16919,319 @@
     "stars": 1408,
     "updatedAt": "2026-02-03T15:50:52Z",
     "repoUrl": "https://github.com/jim-schwoebel/awesome_ai_agents"
+  },
+  {
+    "id": "significant-gravitas-autogpt",
+    "name": "AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "gpt-4",
+      "llama-api",
+      "openai",
+      "python"
+    ],
+    "stars": 181682,
+    "updatedAt": "2026-02-04T02:25:27Z",
+    "repoUrl": "https://github.com/Significant-Gravitas/AutoGPT"
+  },
+  {
+    "id": "e2b-dev-awesome-ai-agents",
+    "name": "awesome-ai-agents",
+    "description": "A list of AI autonomous agents",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "ai",
+      "artificial-intelligence",
+      "autogpt",
+      "autonomous-agents",
+      "awesome",
+      "babyagi",
+      "copilot",
+      "gpt",
+      "gpt-4"
+    ],
+    "stars": 25587,
+    "updatedAt": "2026-02-04T01:57:38Z",
+    "repoUrl": "https://github.com/e2b-dev/awesome-ai-agents"
+  },
+  {
+    "id": "fosowl-agenticseek",
+    "name": "agenticSeek",
+    "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)",
+    "category": "ai-data-science",
+    "tags": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "autonomous-agents",
+      "deepseek-r1",
+      "llm",
+      "llm-agents",
+      "voice-assistant"
+    ],
+    "stars": 24924,
+    "updatedAt": "2026-02-04T01:51:02Z",
+    "repoUrl": "https://github.com/Fosowl/agenticSeek"
+  },
+  {
+    "id": "transformeroptimus-superagi",
+    "name": "SuperAGI",
+    "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+    "category": "ai-data-science",
+    "tags": [
+      "agents",
+      "agi",
+      "ai",
+      "artificial-general-intelligence",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "gpt-4",
+      "hacktoberfest",
+      "llm",
+      "llmops"
+    ],
+    "stars": 17153,
+    "updatedAt": "2026-02-04T01:13:24Z",
+    "repoUrl": "https://github.com/TransformerOptimus/SuperAGI"
+  },
+  {
+    "id": "yaoapp-yao",
+    "name": "yao",
+    "description": "✨ Yao is an open-source engine for autonomous agents — event-driven, proactive, and self-scheduling.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-applications",
+      "ai-dev",
+      "ai-developer-tools",
+      "ai-generated-code",
+      "ai-native",
+      "ai-native-development"
+    ],
+    "stars": 7490,
+    "updatedAt": "2026-02-03T16:31:22Z",
+    "repoUrl": "https://github.com/YaoApp/yao"
+  },
+  {
+    "id": "rayventura-shortgpt",
+    "name": "ShortGPT",
+    "description": "🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "automation",
+      "autonomous-agents",
+      "content",
+      "gpt-4",
+      "openai",
+      "python",
+      "video",
+      "video-editing"
+    ],
+    "stars": 7069,
+    "updatedAt": "2026-02-04T01:48:41Z",
+    "repoUrl": "https://github.com/RayVentura/ShortGPT"
+  },
+  {
+    "id": "aiwaves-cn-agents",
+    "name": "agents",
+    "description": "An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents",
+    "category": "ai-data-science",
+    "tags": [
+      "autonomous-agents",
+      "language-model",
+      "llm"
+    ],
+    "stars": 5857,
+    "updatedAt": "2026-02-03T14:16:43Z",
+    "repoUrl": "https://github.com/aiwaves-cn/agents"
+  },
+  {
+    "id": "strands-agents-sdk-python",
+    "name": "sdk-python",
+    "description": "A model-driven approach to building AI agents in just a few lines of code.",
+    "category": "ai-data-science",
+    "tags": [
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "anthropic",
+      "autonomous-agents",
+      "bedrock",
+      "genai",
+      "litellm",
+      "llama"
+    ],
+    "stars": 5028,
+    "updatedAt": "2026-02-03T23:52:22Z",
+    "repoUrl": "https://github.com/strands-agents/sdk-python"
+  },
+  {
+    "id": "antonosika-gpt-engineer",
+    "name": "gpt-engineer",
+    "description": "CLI platform to experiment with codegen. Precursor to: https://lovable.dev",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "autonomous-agent",
+      "code-generation",
+      "codebase-generation",
+      "codegen",
+      "coding-assistant",
+      "gpt-4",
+      "gpt-engineer",
+      "openai",
+      "python"
+    ],
+    "stars": 55211,
+    "updatedAt": "2026-02-04T02:02:57Z",
+    "repoUrl": "https://github.com/AntonOsika/gpt-engineer"
+  },
+  {
+    "id": "pythagora-io-gpt-pilot",
+    "name": "gpt-pilot",
+    "description": "The first real AI developer",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "codegen",
+      "coding-assistant",
+      "developer-tools",
+      "gpt-4",
+      "research-project"
+    ],
+    "stars": 33760,
+    "updatedAt": "2026-02-03T22:11:39Z",
+    "repoUrl": "https://github.com/Pythagora-io/gpt-pilot"
+  },
+  {
+    "id": "tabbyml-tabby",
+    "name": "tabby",
+    "description": "Self-hosted AI coding assistant",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "codegen",
+      "coding-assistant",
+      "coding-language",
+      "developer-experience",
+      "developer-tools",
+      "gen-ai",
+      "ide",
+      "llms"
+    ],
+    "stars": 32833,
+    "updatedAt": "2026-02-04T00:10:53Z",
+    "repoUrl": "https://github.com/TabbyML/tabby"
+  },
+  {
+    "id": "qodo-ai-pr-agent",
+    "name": "pr-agent",
+    "description": "🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website. ",
+    "category": "ai-data-science",
+    "tags": [
+      "code-review",
+      "codereview",
+      "coding-assistant",
+      "devtools",
+      "gpt-4",
+      "openai",
+      "pull-request",
+      "pull-requests"
+    ],
+    "stars": 10030,
+    "updatedAt": "2026-02-04T01:38:22Z",
+    "repoUrl": "https://github.com/qodo-ai/pr-agent"
+  },
+  {
+    "id": "datawhalechina-vibe-vibe",
+    "name": "vibe-vibe",
+    "description": "AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn   ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "coding-assistant",
+      "programming",
+      "vibe-coding",
+      "vibecoding"
+    ],
+    "stars": 2848,
+    "updatedAt": "2026-02-04T01:48:11Z",
+    "repoUrl": "https://github.com/datawhalechina/vibe-vibe"
+  },
+  {
+    "id": "cjo4m06-mcp-shrimp-task-manager",
+    "name": "mcp-shrimp-task-manager",
+    "description": "Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "ai",
+      "codeagent",
+      "coding-assistant",
+      "cursor-ai",
+      "cursorai",
+      "mcp",
+      "mcp-server",
+      "roocode",
+      "task-list"
+    ],
+    "stars": 2013,
+    "updatedAt": "2026-02-02T22:41:47Z",
+    "repoUrl": "https://github.com/cjo4m06/mcp-shrimp-task-manager"
+  },
+  {
+    "id": "covibes-zeroshot",
+    "name": "zeroshot",
+    "description": "Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent-orchestration",
+      "agentic-workflow",
+      "ai-agent",
+      "ai-agents",
+      "autonomous-agents",
+      "claude",
+      "cli",
+      "codex",
+      "coding-assistant",
+      "developer-tools"
+    ],
+    "stars": 1108,
+    "updatedAt": "2026-02-04T02:40:40Z",
+    "repoUrl": "https://github.com/covibes/zeroshot"
+  },
+  {
+    "id": "ferrislucas-promptr",
+    "name": "promptr",
+    "description": "Promptr is a CLI tool that applies plain language instructions to the filesystem. Instructions can utilize a liquidjs based templating system. Use cases include refactoring, code generation, and experimentation.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "cli",
+      "codegen",
+      "coding-assistant",
+      "command-line",
+      "gpt-4",
+      "gpt-4o",
+      "gpt4",
+      "gpt4o"
+    ],
+    "stars": 945,
+    "updatedAt": "2026-01-28T07:01:54Z",
+    "repoUrl": "https://github.com/ferrislucas/promptr"
   }
 ]
