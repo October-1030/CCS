@@ -15002,5 +15002,645 @@
     "stars": 146,
     "updatedAt": "2026-02-03T14:27:46Z",
     "repoUrl": "https://github.com/smallnest/goskills"
+  },
+  {
+    "id": "cherryhq-cherry-studio",
+    "name": "cherry-studio",
+    "description": "AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-agent",
+      "claude-code",
+      "code-agent",
+      "codex",
+      "moltbot",
+      "openclaw",
+      "opencode",
+      "skills",
+      "supermemory",
+      "vibe-coding"
+    ],
+    "stars": 39235,
+    "updatedAt": "2026-02-04T01:39:05Z",
+    "repoUrl": "https://github.com/CherryHQ/cherry-studio"
+  },
+  {
+    "id": "nextlevelbuilder-ui-ux-pro-max-skill",
+    "name": "ui-ux-pro-max-skill",
+    "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-skills",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "codex",
+      "command-line",
+      "copilot",
+      "cursor-ai",
+      "html5",
+      "kiro"
+    ],
+    "stars": 26913,
+    "updatedAt": "2026-02-04T01:38:14Z",
+    "repoUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+  },
+  {
+    "id": "hesreallyhim-awesome-claude-code",
+    "name": "awesome-claude-code",
+    "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+    "category": "ai-data-science",
+    "tags": [
+      "agent-skills",
+      "agentic-code",
+      "agentic-coding",
+      "ai-workflow-optimization",
+      "ai-workflows",
+      "anthropic",
+      "anthropic-claude",
+      "awesome",
+      "awesome-list",
+      "awesome-lists"
+    ],
+    "stars": 22735,
+    "updatedAt": "2026-02-04T01:20:53Z",
+    "repoUrl": "https://github.com/hesreallyhim/awesome-claude-code"
+  },
+  {
+    "id": "winfunc-opcode",
+    "name": "opcode",
+    "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
+    "category": "ai-data-science",
+    "tags": [
+      "anthropic",
+      "anthropic-claude",
+      "claude",
+      "claude-4",
+      "claude-4-opus",
+      "claude-4-sonnet",
+      "claude-ai",
+      "claude-code",
+      "claude-code-sdk",
+      "cursor"
+    ],
+    "stars": 20370,
+    "updatedAt": "2026-02-04T01:06:12Z",
+    "repoUrl": "https://github.com/winfunc/opcode"
+  },
+  {
+    "id": "oraios-serena",
+    "name": "serena",
+    "description": "A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "language-server",
+      "llms",
+      "mcp-server",
+      "programming",
+      "vibe-coding"
+    ],
+    "stars": 19656,
+    "updatedAt": "2026-02-04T01:33:19Z",
+    "repoUrl": "https://github.com/oraios/serena"
+  },
+  {
+    "id": "shareai-lab-learn-claude-code",
+    "name": "learn-claude-code",
+    "description": "Bash is all You need - Write a nano Claude Code 0 - 1",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "agent-development",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "educational",
+      "llm",
+      "python",
+      "teaching",
+      "tutorial"
+    ],
+    "stars": 16276,
+    "updatedAt": "2026-02-04T01:41:04Z",
+    "repoUrl": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "id": "farion1231-cc-switch",
+    "name": "cc-switch",
+    "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "desktop-app",
+      "kimi-k2-thiking",
+      "mcp",
+      "minimax",
+      "open-source",
+      "opencode",
+      "provider-management"
+    ],
+    "stars": 15870,
+    "updatedAt": "2026-02-04T01:40:57Z",
+    "repoUrl": "https://github.com/farion1231/cc-switch"
+  },
+  {
+    "id": "steveyegge-beads",
+    "name": "beads",
+    "description": "Beads - A memory upgrade for your coding agent",
+    "category": "ai-data-science",
+    "tags": [
+      "agents",
+      "claude-code",
+      "coding"
+    ],
+    "stars": 14619,
+    "updatedAt": "2026-02-04T01:36:36Z",
+    "repoUrl": "https://github.com/steveyegge/beads"
+  },
+  {
+    "id": "iofficeai-aionui",
+    "name": "AionUi",
+    "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+    "category": "ai-data-science",
+    "tags": [
+      "acp",
+      "ai",
+      "ai-agent",
+      "chat",
+      "chatbot",
+      "claude-code",
+      "clawd",
+      "clawdbot",
+      "codex",
+      "cowork"
+    ],
+    "stars": 12212,
+    "updatedAt": "2026-02-04T01:02:33Z",
+    "repoUrl": "https://github.com/iOfficeAI/AionUi"
+  },
+  {
+    "id": "glittercowboy-get-shit-done",
+    "name": "get-shit-done",
+    "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
+    "category": "ai-data-science",
+    "tags": [
+      "claude-code",
+      "context-engineering",
+      "meta-prompting",
+      "spec-driven-development"
+    ],
+    "stars": 11182,
+    "updatedAt": "2026-02-04T01:16:57Z",
+    "repoUrl": "https://github.com/glittercowboy/get-shit-done"
+  },
+  {
+    "id": "slopus-happy",
+    "name": "happy",
+    "description": "Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured",
+    "category": "ai-data-science",
+    "tags": [
+      "claude-code",
+      "claude-desktop",
+      "claude-mobile",
+      "codex",
+      "codex-cli",
+      "hacktoberfest"
+    ],
+    "stars": 10292,
+    "updatedAt": "2026-02-04T01:21:53Z",
+    "repoUrl": "https://github.com/slopus/happy"
+  },
+  {
+    "id": "router-for-me-cliproxyapi",
+    "name": "CLIProxyAPI",
+    "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API",
+    "category": "ai-data-science",
+    "tags": [
+      "antigravity",
+      "claude-code",
+      "cluade",
+      "codex",
+      "gemini",
+      "openai",
+      "qwen3-coder"
+    ],
+    "stars": 9167,
+    "updatedAt": "2026-02-04T01:31:48Z",
+    "repoUrl": "https://github.com/router-for-me/CLIProxyAPI"
+  },
+  {
+    "id": "humanlayer-humanlayer",
+    "name": "humanlayer",
+    "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
+    "category": "ai-data-science",
+    "tags": [
+      "agents",
+      "ai",
+      "amp",
+      "claude-code",
+      "codex",
+      "human-in-the-loop",
+      "humanlayer",
+      "llm",
+      "llms",
+      "opencode"
+    ],
+    "stars": 9122,
+    "updatedAt": "2026-02-04T00:57:14Z",
+    "repoUrl": "https://github.com/humanlayer/humanlayer"
+  },
+  {
+    "id": "mcp-use-mcp-use",
+    "name": "mcp-use",
+    "description": "mcp-use is the easiest way to interact with mcp servers with custom agents",
+    "category": "ai-data-science",
+    "tags": [
+      "agentic-framework",
+      "ai",
+      "apps-sdk",
+      "chatgpt",
+      "claude-code",
+      "llms",
+      "mcp",
+      "mcp-apps",
+      "mcp-client",
+      "mcp-gateway"
+    ],
+    "stars": 9066,
+    "updatedAt": "2026-02-04T01:21:14Z",
+    "repoUrl": "https://github.com/mcp-use/mcp-use"
+  },
+  {
+    "id": "wei-shaw-claude-relay-service",
+    "name": "claude-relay-service",
+    "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+    "category": "ai-data-science",
+    "tags": [
+      "claude",
+      "claude-api",
+      "claude-code",
+      "claude-proxy",
+      "codex-cli",
+      "crs",
+      "droid",
+      "droid-cli",
+      "droid2api",
+      "gemini-cli"
+    ],
+    "stars": 7863,
+    "updatedAt": "2026-02-04T01:39:24Z",
+    "repoUrl": "https://github.com/Wei-Shaw/claude-relay-service"
+  },
+  {
+    "id": "automazeio-ccpm",
+    "name": "ccpm",
+    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-agents",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "project-management",
+      "vibe-coding"
+    ],
+    "stars": 6719,
+    "updatedAt": "2026-02-04T01:38:45Z",
+    "repoUrl": "https://github.com/automazeio/ccpm"
+  },
+  {
+    "id": "maciek-roboblog-claude-code-usage-monitor",
+    "name": "Claude-Code-Usage-Monitor",
+    "description": "Real-time Claude Code usage monitor with predictions and warnings",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "analytics",
+      "claude",
+      "claude-code",
+      "claude-usage",
+      "limits",
+      "monitoring",
+      "terminal",
+      "usage-tracking"
+    ],
+    "stars": 6402,
+    "updatedAt": "2026-02-04T00:00:51Z",
+    "repoUrl": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor"
+  },
+  {
+    "id": "frankbria-ralph-claude-code",
+    "name": "ralph-claude-code",
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-development",
+      "ai-development-tools",
+      "claude-code",
+      "claude-code-cli",
+      "development-tools",
+      "development-workflow"
+    ],
+    "stars": 6226,
+    "updatedAt": "2026-02-04T01:38:28Z",
+    "repoUrl": "https://github.com/frankbria/ralph-claude-code"
+  },
+  {
+    "id": "olimorris-codecompanion-nvim",
+    "name": "codecompanion.nvim",
+    "description": "✨ AI Coding, Vim Style",
+    "category": "ai-data-science",
+    "tags": [
+      "acp",
+      "agent-client-protocol",
+      "anthropic",
+      "claude-code",
+      "copilot",
+      "copilot-chat",
+      "deepseek",
+      "gemini",
+      "google-gemini",
+      "llm"
+    ],
+    "stars": 6071,
+    "updatedAt": "2026-02-04T01:18:49Z",
+    "repoUrl": "https://github.com/olimorris/codecompanion.nvim"
+  },
+  {
+    "id": "siteboon-claudecodeui",
+    "name": "claudecodeui",
+    "description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
+    "category": "ai-data-science",
+    "tags": [
+      "anthropic",
+      "anthropic-ai",
+      "anthropic-claude",
+      "claude",
+      "claude-api",
+      "claude-code",
+      "claude-code-ui",
+      "claudecode",
+      "gui",
+      "mobile-first"
+    ],
+    "stars": 5904,
+    "updatedAt": "2026-02-04T01:32:44Z",
+    "repoUrl": "https://github.com/siteboon/claudecodeui"
+  },
+  {
+    "id": "smtg-ai-claude-squad",
+    "name": "claude-squad",
+    "description": "Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.",
+    "category": "ai-data-science",
+    "tags": [
+      "aider",
+      "claude-code",
+      "cli",
+      "codex",
+      "vibe-coding"
+    ],
+    "stars": 5898,
+    "updatedAt": "2026-02-04T01:30:20Z",
+    "repoUrl": "https://github.com/smtg-ai/claude-squad"
+  },
+  {
+    "id": "ufomiao-zcf",
+    "name": "zcf",
+    "description": "Zero-Config Code Flow for Claude code & Codex",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "bmad-method",
+      "ccr",
+      "claude",
+      "claude-4",
+      "claude-ai",
+      "claude-code",
+      "cli"
+    ],
+    "stars": 5406,
+    "updatedAt": "2026-02-03T17:15:03Z",
+    "repoUrl": "https://github.com/UfoMiao/zcf"
+  },
+  {
+    "id": "zilliztech-claude-context",
+    "name": "claude-context",
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "agentic-rag",
+      "ai-coding",
+      "claude-code",
+      "code-generation",
+      "code-search",
+      "cursor",
+      "embedding",
+      "gemini-cli",
+      "mcp"
+    ],
+    "stars": 5249,
+    "updatedAt": "2026-02-04T00:38:12Z",
+    "repoUrl": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "id": "adenhq-hive",
+    "name": "hive",
+    "description": "Outcome driven agent development framework that evolves",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "agent-framework",
+      "agent-skills",
+      "ai-evaluation",
+      "anthropic",
+      "automation",
+      "autonomous-agents",
+      "awesome",
+      "claude",
+      "claude-code"
+    ],
+    "stars": 4827,
+    "updatedAt": "2026-02-04T01:03:12Z",
+    "repoUrl": "https://github.com/adenhq/hive"
+  },
+  {
+    "id": "steipete-codexbar",
+    "name": "CodexBar",
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "claude-code",
+      "codex",
+      "swift"
+    ],
+    "stars": 4462,
+    "updatedAt": "2026-02-04T01:26:21Z",
+    "repoUrl": "https://github.com/steipete/CodexBar"
+  },
+  {
+    "id": "rowboatlabs-rowboat",
+    "name": "rowboat",
+    "description": "Local-first AI coworker, with memory",
+    "category": "ai-data-science",
+    "tags": [
+      "agents",
+      "agents-sdk",
+      "ai",
+      "ai-agents",
+      "ai-agents-automation",
+      "chatgpt",
+      "claude-code",
+      "claude-cowork",
+      "generative-ai",
+      "llm"
+    ],
+    "stars": 4343,
+    "updatedAt": "2026-02-03T17:47:57Z",
+    "repoUrl": "https://github.com/rowboatlabs/rowboat"
+  },
+  {
+    "id": "piebald-ai-claude-code-system-prompts",
+    "name": "claude-code-system-prompts",
+    "description": "All parts of Claude Code's system prompt, 18 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.",
+    "category": "ai-data-science",
+    "tags": [
+      "claude-code",
+      "claude-code-system-prompts",
+      "system-prompts"
+    ],
+    "stars": 4000,
+    "updatedAt": "2026-02-03T23:51:39Z",
+    "repoUrl": "https://github.com/Piebald-AI/claude-code-system-prompts"
+  },
+  {
+    "id": "opactorai-claudable",
+    "name": "Claudable",
+    "description": "Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "claude",
+      "claude-code",
+      "codex",
+      "codingagent",
+      "free",
+      "gemini",
+      "local",
+      "lovable",
+      "qwen"
+    ],
+    "stars": 3723,
+    "updatedAt": "2026-02-03T14:05:41Z",
+    "repoUrl": "https://github.com/opactorai/Claudable"
+  },
+  {
+    "id": "su-kaka-gcli2api",
+    "name": "gcli2api",
+    "description": "将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口",
+    "category": "ai-data-science",
+    "tags": [
+      "antigravity-ide",
+      "antigravity2api",
+      "claude",
+      "claude-api",
+      "claude-code",
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "gemini-pro"
+    ],
+    "stars": 3609,
+    "updatedAt": "2026-02-03T21:49:08Z",
+    "repoUrl": "https://github.com/su-kaka/gcli2api"
+  },
+  {
+    "id": "sirmalloc-ccstatusline",
+    "name": "ccstatusline",
+    "description": "🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-tools",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "git",
+      "powerline",
+      "statusbar",
+      "statusline",
+      "terminal",
+      "themeing"
+    ],
+    "stars": 3455,
+    "updatedAt": "2026-02-03T23:48:05Z",
+    "repoUrl": "https://github.com/sirmalloc/ccstatusline"
+  },
+  {
+    "id": "breaking-brake-cc-wf-studio",
+    "name": "cc-wf-studio",
+    "description": "CC Workflow Studio",
+    "category": "ai-data-science",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "mcp-tools",
+      "slash-commands",
+      "sub-agents",
+      "vscode-extension",
+      "workflow-automation"
+    ],
+    "stars": 3275,
+    "updatedAt": "2026-02-03T15:44:53Z",
+    "repoUrl": "https://github.com/breaking-brake/cc-wf-studio"
+  },
+  {
+    "id": "composiohq-open-claude-cowork",
+    "name": "open-claude-cowork",
+    "description": "Open Source version of Claude Cowork with 500+ SaaS app integrations",
+    "category": "ai-data-science",
+    "tags": [
+      "aiagents",
+      "anthropic",
+      "anthropic-claude",
+      "claude-code",
+      "claude-cowork",
+      "eclectron-app",
+      "opencode",
+      "workflow-automation"
+    ],
+    "stars": 3011,
+    "updatedAt": "2026-02-04T01:04:10Z",
+    "repoUrl": "https://github.com/ComposioHQ/open-claude-cowork"
+  },
+  {
+    "id": "jarrodwatts-claude-hud",
+    "name": "claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+    "category": "ai-data-science",
+    "tags": [
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli",
+      "plugin",
+      "statusline",
+      "typescript"
+    ],
+    "stars": 2953,
+    "updatedAt": "2026-02-04T01:22:50Z",
+    "repoUrl": "https://github.com/jarrodwatts/claude-hud"
   }
 ]
