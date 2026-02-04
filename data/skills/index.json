@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastSync": "2026-02-04T01:46:32.901Z",
-  "totalSkills": 11061,
+  "lastSync": "2026-02-04T01:54:26.894Z",
+  "totalSkills": 11091,
   "skills": [
     {
       "id": "junayedahmedd-gemini-cli-skill",
@@ -124858,6 +124858,606 @@
       "stars": 569,
       "updatedAt": "2026-02-01T05:28:45Z",
       "repoUrl": "https://github.com/botingw/rulebook-ai"
+    },
+    {
+      "id": "zhayujie-chatgpt-on-wechat",
+      "name": "chatgpt-on-wechat",
+      "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "ai-agent",
+        "chatgpt",
+        "claude-4",
+        "clawdbot",
+        "deepseek",
+        "dingtalk",
+        "feishu-bot",
+        "gemini",
+        "gpt-4"
+      ],
+      "stars": 40979,
+      "updatedAt": "2026-02-04T01:30:40Z",
+      "repoUrl": "https://github.com/zhayujie/chatgpt-on-wechat"
+    },
+    {
+      "id": "copilotkit-copilotkit",
+      "name": "CopilotKit",
+      "description": "Framework for building agent-native applications with Generative UI, shared state, and human-in-the-loop workflows. ",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "agent-native",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-assistant",
+        "assistant",
+        "assistant-chat-bots",
+        "copilot"
+      ],
+      "stars": 28448,
+      "updatedAt": "2026-02-04T00:03:49Z",
+      "repoUrl": "https://github.com/CopilotKit/CopilotKit"
+    },
+    {
+      "id": "trycua-cua",
+      "name": "cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "ai-agent",
+        "apple",
+        "computer-use",
+        "computer-use-agent",
+        "containerization",
+        "cua",
+        "desktop-automation",
+        "hacktoberfest",
+        "lume"
+      ],
+      "stars": 12281,
+      "updatedAt": "2026-02-04T00:59:15Z",
+      "repoUrl": "https://github.com/trycua/cua"
+    },
+    {
+      "id": "e2b-dev-e2b",
+      "name": "E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "code-interpreter",
+        "copilot",
+        "development",
+        "devtools",
+        "gpt",
+        "gpt-4"
+      ],
+      "stars": 10742,
+      "updatedAt": "2026-02-03T22:28:08Z",
+      "repoUrl": "https://github.com/e2b-dev/E2B"
+    },
+    {
+      "id": "crestalnetwork-intentkit",
+      "name": "intentkit",
+      "description": "An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!",
+      "category": "ai-data-science",
+      "tags": [
+        "agentic-workflow",
+        "ai",
+        "ai-agent",
+        "ai-agent-framework",
+        "blockchain",
+        "intents",
+        "launchpad",
+        "python",
+        "web3"
+      ],
+      "stars": 6485,
+      "updatedAt": "2026-02-03T17:43:28Z",
+      "repoUrl": "https://github.com/crestalnetwork/intentkit"
+    },
+    {
+      "id": "integuru-ai-integuru",
+      "name": "Integuru",
+      "description": "The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "agents",
+        "ai-agent",
+        "ai-agents",
+        "api",
+        "apis",
+        "automation",
+        "integration",
+        "integrations",
+        "llm"
+      ],
+      "stars": 4535,
+      "updatedAt": "2026-02-03T19:02:55Z",
+      "repoUrl": "https://github.com/Integuru-AI/Integuru"
+    },
+    {
+      "id": "mahseema-awesome-ai-tools",
+      "name": "awesome-ai-tools",
+      "description": "A curated list of Artificial Intelligence Top Tools",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "ai-tools",
+        "ai-tools-list",
+        "ai-top-tools",
+        "awesome",
+        "awesome-ai",
+        "awesome-ai-tools"
+      ],
+      "stars": 4309,
+      "updatedAt": "2026-02-03T16:15:58Z",
+      "repoUrl": "https://github.com/mahseema/awesome-ai-tools"
+    },
+    {
+      "id": "unicomai-wanwu",
+      "name": "wanwu",
+      "description": "China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and also supports model management. The platform features a developer-friendly license, and we welcome all developers to build upon the platform.",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "ai",
+        "ai-agent",
+        "ai-agent-development-framework",
+        "ai-agents-framework",
+        "development",
+        "genai",
+        "golang"
+      ],
+      "stars": 4096,
+      "updatedAt": "2026-01-30T10:26:24Z",
+      "repoUrl": "https://github.com/UnicomAI/wanwu"
+    },
+    {
+      "id": "fedml-ai-fedml",
+      "name": "FedML",
+      "description": "FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on any GPU cloud or on-premise cluster. Built on this library, TensorOpera AI (https://TensorOpera.ai) is your generative AI platform at scale.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agent",
+        "deep-learning",
+        "distributed-training",
+        "edge-ai",
+        "federated-learning",
+        "inference-engine",
+        "machine-learning",
+        "mlops",
+        "model-deployment",
+        "model-serving"
+      ],
+      "stars": 4001,
+      "updatedAt": "2026-02-02T08:52:30Z",
+      "repoUrl": "https://github.com/FedML-AI/FedML"
+    },
+    {
+      "id": "presenton-presenton",
+      "name": "presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agent",
+        "ai-presentation",
+        "api",
+        "gamma",
+        "powerpoint-automation",
+        "powerpoint-free",
+        "powerpoint-generation",
+        "presentation"
+      ],
+      "stars": 3909,
+      "updatedAt": "2026-02-03T21:46:06Z",
+      "repoUrl": "https://github.com/presenton/presenton"
+    },
+    {
+      "id": "groupultra-telegram-search",
+      "name": "telegram-search",
+      "description": "🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "ai-agent",
+        "embedding",
+        "mcp",
+        "telegram",
+        "telegram-bot"
+      ],
+      "stars": 3727,
+      "updatedAt": "2026-02-03T21:14:50Z",
+      "repoUrl": "https://github.com/groupultra/telegram-search"
+    },
+    {
+      "id": "lazyagi-lazyllm",
+      "name": "LazyLLM",
+      "description": "Easiest and laziest way for  building multi-agent LLMs applications.",
+      "category": "ai-data-science",
+      "tags": [
+        "agents",
+        "ai-agent",
+        "data",
+        "deep-learning",
+        "documentation-tool",
+        "finetuning",
+        "framework",
+        "knowlege-graph",
+        "langchain",
+        "lazyllm"
+      ],
+      "stars": 3712,
+      "updatedAt": "2026-02-04T01:27:50Z",
+      "repoUrl": "https://github.com/LazyAGI/LazyLLM"
+    },
+    {
+      "id": "smallcloudai-refact",
+      "name": "refact",
+      "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agent",
+        "developer-tools",
+        "enterprise",
+        "fine-tuning",
+        "on-prem",
+        "open-source",
+        "rag",
+        "self-hosted",
+        "swe-bench",
+        "vscode"
+      ],
+      "stars": 3468,
+      "updatedAt": "2026-02-03T18:14:04Z",
+      "repoUrl": "https://github.com/smallcloudai/refact"
+    },
+    {
+      "id": "intelligent-internet-ii-agent",
+      "name": "ii-agent",
+      "description": "II-Agent: a new open-source framework to build and deploy intelligent agents",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-agent-framework",
+        "llm",
+        "manus"
+      ],
+      "stars": 3110,
+      "updatedAt": "2026-02-02T18:47:16Z",
+      "repoUrl": "https://github.com/Intelligent-Internet/ii-agent"
+    },
+    {
+      "id": "i-am-bee-beeai-framework",
+      "name": "beeai-framework",
+      "description": "Build production-ready AI agents in both Python and Typescript.",
+      "category": "ai-data-science",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agent",
+        "beeai",
+        "framework",
+        "llm",
+        "multiagent",
+        "python",
+        "typescript"
+      ],
+      "stars": 3083,
+      "updatedAt": "2026-02-04T01:47:59Z",
+      "repoUrl": "https://github.com/i-am-bee/beeai-framework"
+    },
+    {
+      "id": "filipecalegario-awesome-vibe-coding",
+      "name": "awesome-vibe-coding",
+      "description": "A curated list of vibe coding references, collaborating with AI to write code.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agent",
+        "ai-agents",
+        "ai-coding-assistant",
+        "ai-coding-tools",
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "lovable",
+        "vibe-coding"
+      ],
+      "stars": 3022,
+      "updatedAt": "2026-02-03T22:16:17Z",
+      "repoUrl": "https://github.com/filipecalegario/awesome-vibe-coding"
+    },
+    {
+      "id": "scisharp-botsharp",
+      "name": "BotSharp",
+      "description": "AI Multi-Agent Framework in .NET",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agent",
+        "chatbot",
+        "multi-agent"
+      ],
+      "stars": 2995,
+      "updatedAt": "2026-02-03T23:06:19Z",
+      "repoUrl": "https://github.com/SciSharp/BotSharp"
+    },
+    {
+      "id": "wethinkin-aigc-interview-book",
+      "name": "AIGC-Interview-Book",
+      "description": "【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、传统深度学习、自动驾驶、AI Agent、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agent",
+        "aigc",
+        "computer-vision",
+        "deep-learning",
+        "interview",
+        "interview-preparation",
+        "interview-questions",
+        "interviews-solutions",
+        "large-language-models",
+        "machine-learning"
+      ],
+      "stars": 2884,
+      "updatedAt": "2026-02-03T17:35:05Z",
+      "repoUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book"
+    },
+    {
+      "id": "memodb-io-acontext",
+      "name": "Acontext",
+      "description": "Simple Context Storage for Cloud Agents.",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "agent-development-kit",
+        "agent-observability",
+        "ai-agent",
+        "anthropic",
+        "context-data-platform",
+        "context-engineering",
+        "data-platform",
+        "llm",
+        "llm-observability"
+      ],
+      "stars": 2788,
+      "updatedAt": "2026-02-03T20:09:03Z",
+      "repoUrl": "https://github.com/memodb-io/Acontext"
+    },
+    {
+      "id": "swe-agent-mini-swe-agent",
+      "name": "mini-swe-agent",
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+      "category": "ai-data-science",
+      "tags": [
+        "agent",
+        "agentic-ai",
+        "agentic-ai-cli",
+        "ai",
+        "ai-agent",
+        "textual"
+      ],
+      "stars": 2703,
+      "updatedAt": "2026-02-03T22:09:51Z",
+      "repoUrl": "https://github.com/SWE-agent/mini-swe-agent"
+    },
+    {
+      "id": "baai-agents-cradle",
+      "name": "Cradle",
+      "description": "The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "ai-agent",
+        "ai-agents-framework",
+        "computer-control",
+        "cradle",
+        "foundation-agent",
+        "gcc",
+        "general-computer-control",
+        "generative-ai",
+        "grounding"
+      ],
+      "stars": 2444,
+      "updatedAt": "2026-02-04T01:03:37Z",
+      "repoUrl": "https://github.com/BAAI-Agents/Cradle"
+    },
+    {
+      "id": "miantiao-me-hacker-podcast",
+      "name": "hacker-podcast",
+      "description": "一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "ai-agent",
+        "ai-workflow",
+        "cloudflare",
+        "cloudflare-workers",
+        "cloudflare-workflows",
+        "hacker-news",
+        "nextjs"
+      ],
+      "stars": 2421,
+      "updatedAt": "2026-02-04T01:30:10Z",
+      "repoUrl": "https://github.com/miantiao-me/hacker-podcast"
+    },
+    {
+      "id": "fullagent-fulling",
+      "name": "fulling",
+      "description": "Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra.",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agent",
+        "claude",
+        "claude-code",
+        "docker",
+        "kubernetes",
+        "llm",
+        "nextjs",
+        "pgsql",
+        "postgresql",
+        "prisma"
+      ],
+      "stars": 2366,
+      "updatedAt": "2026-02-02T18:48:34Z",
+      "repoUrl": "https://github.com/FullAgent/fulling"
+    },
+    {
+      "id": "lmnr-ai-index",
+      "name": "index",
+      "description": "The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web",
+      "category": "ai-data-science",
+      "tags": [
+        "ai",
+        "ai-agent",
+        "browser-agent",
+        "claude-3-7-sonnet",
+        "gemini-pro",
+        "llm",
+        "sota"
+      ],
+      "stars": 2334,
+      "updatedAt": "2026-02-03T17:24:03Z",
+      "repoUrl": "https://github.com/lmnr-ai/index"
+    },
+    {
+      "id": "aiflowy-aiflowy",
+      "name": "aiflowy",
+      "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.",
+      "category": "ai-data-science",
+      "tags": [
+        "agentic-ai",
+        "ai-agent",
+        "aiflowy",
+        "coze",
+        "dify",
+        "langchain4j",
+        "n8n",
+        "n8n-workflow",
+        "ragflow",
+        "springai"
+      ],
+      "stars": 1785,
+      "updatedAt": "2026-02-04T01:52:19Z",
+      "repoUrl": "https://github.com/aiflowy/aiflowy"
+    },
+    {
+      "id": "mindfold-ai-trellis",
+      "name": "Trellis",
+      "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agent",
+        "ai-coding",
+        "claude-code",
+        "cli",
+        "cursor",
+        "developer-tools",
+        "typescript",
+        "workflow"
+      ],
+      "stars": 1684,
+      "updatedAt": "2026-02-04T01:37:01Z",
+      "repoUrl": "https://github.com/mindfold-ai/Trellis"
+    },
+    {
+      "id": "egoalpha-prompt-in-context-learning",
+      "name": "prompt-in-context-learning",
+      "description": "Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates. ",
+      "category": "ai-data-science",
+      "tags": [
+        "ai-agent",
+        "chain-of-thought",
+        "chatbot",
+        "chatgpt",
+        "chatgpt-api",
+        "cot",
+        "in-context-learning",
+        "language-modeling",
+        "large-language-model",
+        "llm"
+      ],
+      "stars": 1680,
+      "updatedAt": "2026-02-02T08:40:59Z",
+      "repoUrl": "https://github.com/EgoAlpha/prompt-in-context-learning"
+    },
+    {
+      "id": "adongwanai-agentguide",
+      "name": "AgentGuide",
+      "description": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
+      "category": "ai-data-science",
+      "tags": [
+        "agenticrag",
+        "ai-agent",
+        "crewai",
+        "graphrag",
+        "grpo",
+        "interview",
+        "job-hunting",
+        "langchain",
+        "llm",
+        "multi-agent"
+      ],
+      "stars": 1661,
+      "updatedAt": "2026-02-04T01:53:32Z",
+      "repoUrl": "https://github.com/adongwanai/AgentGuide"
+    },
+    {
+      "id": "agi-inc-agent-protocol",
+      "name": "agent-protocol",
+      "description": "Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.",
+      "category": "ai-data-science",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agent",
+        "api",
+        "auto-gpt",
+        "gpt-4",
+        "javascript",
+        "llms",
+        "openapi",
+        "protocol"
+      ],
+      "stars": 1439,
+      "updatedAt": "2026-01-27T06:12:19Z",
+      "repoUrl": "https://github.com/agi-inc/agent-protocol"
+    },
+    {
+      "id": "jim-schwoebel-awesome-ai-agents",
+      "name": "awesome_ai_agents",
+      "description": "🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.",
+      "category": "ai-data-science",
+      "tags": [
+        "agent-based-modeling",
+        "agentic",
+        "agentic-ai",
+        "agentic-workflow",
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-agent-framework",
+        "ai-agent-tools",
+        "ai-agents-cli"
+      ],
+      "stars": 1408,
+      "updatedAt": "2026-02-03T15:50:52Z",
+      "repoUrl": "https://github.com/jim-schwoebel/awesome_ai_agents"
     }
   ]
 }
