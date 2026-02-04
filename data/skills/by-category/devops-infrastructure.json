@@ -18031,5 +18031,15 @@
     "stars": 8,
     "updatedAt": "2026-01-21T13:07:57Z",
     "repoUrl": "https://github.com/tbartel74/Vigil-Code"
+  },
+  {
+    "id": "platxa-platxa-skill-generator",
+    "name": "platxa-skill-generator",
+    "description": "Autonomous skill creator for Claude Code CLI. Uses multi-phase orchestrated workflow with Task tool subagents to research domains, design architecture, generate content, and validate quality. Creates production-ready skills following Anthropic's Agent Skills specification.",
+    "category": "devops-infrastructure",
+    "tags": [],
+    "stars": 3,
+    "updatedAt": "2026-02-03T18:38:14Z",
+    "repoUrl": "https://github.com/platxa/platxa-skill-generator"
   }
 ]

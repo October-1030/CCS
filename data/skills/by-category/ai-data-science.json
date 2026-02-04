@@ -14111,5 +14111,15 @@
     "stars": 6,
     "updatedAt": "2026-01-29T23:21:32Z",
     "repoUrl": "https://github.com/enuno/claude-command-and-control"
+  },
+  {
+    "id": "mbailey-metool",
+    "name": "metool",
+    "description": "Package management for modular code organization. This skill should be used when creating, installing, or modifying metool packages, working with package structure conventions, or adding Claude Code skills to packages.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 2,
+    "updatedAt": "2026-01-27T05:44:17Z",
+    "repoUrl": "https://github.com/mbailey/metool"
   }
 ]
