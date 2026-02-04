@@ -14327,5 +14327,680 @@
     "stars": 473,
     "updatedAt": "2026-02-03T22:23:19Z",
     "repoUrl": "https://github.com/zscole/adversarial-spec"
+  },
+  {
+    "id": "maxritter-claude-pilot",
+    "name": "claude-pilot",
+    "description": "✈︎ Production-Grade Development with Claude Code. Tests enforced. Context preserved. Quality automated.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-agents",
+      "ai-assistant",
+      "ai-coding",
+      "ai-coding-tools",
+      "ai-engineering",
+      "ai-tools",
+      "anthropic",
+      "anthropic-claude",
+      "claude",
+      "claude-ai"
+    ],
+    "stars": 432,
+    "updatedAt": "2026-02-04T00:48:59Z",
+    "repoUrl": "https://github.com/maxritter/claude-pilot"
+  },
+  {
+    "id": "addyosmani-web-quality-skills",
+    "name": "web-quality-skills",
+    "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
+    "category": "ai-data-science",
+    "tags": [
+      "accessibility",
+      "agent-skills",
+      "claude-skills",
+      "core-web-vitals",
+      "lighthouse",
+      "skills",
+      "testing",
+      "web-performance"
+    ],
+    "stars": 407,
+    "updatedAt": "2026-02-04T01:17:07Z",
+    "repoUrl": "https://github.com/addyosmani/web-quality-skills"
+  },
+  {
+    "id": "fcakyon-claude-codex-settings",
+    "name": "claude-codex-settings",
+    "description": "My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-agents",
+      "ai-tools",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "claudecode",
+      "claudecode-config",
+      "codex",
+      "codex-cli"
+    ],
+    "stars": 401,
+    "updatedAt": "2026-02-04T00:31:55Z",
+    "repoUrl": "https://github.com/fcakyon/claude-codex-settings"
+  },
+  {
+    "id": "geekjourneyx-md2wechat-skill",
+    "name": "md2wechat-skill",
+    "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。https://md2wechat.cn",
+    "category": "ai-data-science",
+    "tags": [
+      "claude-skills",
+      "golang",
+      "markdown-converter",
+      "skills",
+      "wechat"
+    ],
+    "stars": 365,
+    "updatedAt": "2026-02-03T06:00:14Z",
+    "repoUrl": "https://github.com/geekjourneyx/md2wechat-skill"
+  },
+  {
+    "id": "mhattingpete-claude-skills-marketplace",
+    "name": "claude-skills-marketplace",
+    "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude-code",
+      "claude-skills",
+      "developer-tools"
+    ],
+    "stars": 313,
+    "updatedAt": "2026-02-03T17:22:50Z",
+    "repoUrl": "https://github.com/mhattingpete/claude-skills-marketplace"
+  },
+  {
+    "id": "jezweb-claude-skills",
+    "name": "claude-skills",
+    "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "anthropic",
+      "automation",
+      "claude-code",
+      "claude-skills",
+      "cloudflare",
+      "devtools",
+      "productivity",
+      "react",
+      "skills"
+    ],
+    "stars": 256,
+    "updatedAt": "2026-02-04T00:13:37Z",
+    "repoUrl": "https://github.com/jezweb/claude-skills"
+  },
+  {
+    "id": "jeffallan-claude-skills",
+    "name": "claude-skills",
+    "description": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-marketplace",
+      "claude-skills"
+    ],
+    "stars": 242,
+    "updatedAt": "2026-02-04T01:18:37Z",
+    "repoUrl": "https://github.com/Jeffallan/claude-skills"
+  },
+  {
+    "id": "memvid-claude-brain",
+    "name": "claude-brain",
+    "description": "Give Claude Code photographic memory in ONE portable file. No database, no SQLite, no ChromaDB - just a single .mv2 file you can git commit, scp, or share. Native Rust core with sub-ms operations.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-tools",
+      "anthropic",
+      "claude",
+      "claude-agents",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "context-window",
+      "developer-tools",
+      "llm-memory"
+    ],
+    "stars": 185,
+    "updatedAt": "2026-02-03T22:06:31Z",
+    "repoUrl": "https://github.com/memvid/claude-brain"
+  },
+  {
+    "id": "zaloog-kanban-tui",
+    "name": "kanban-tui",
+    "description": "Task Manager with a TUI written in Python and usable by agents",
+    "category": "ai-data-science",
+    "tags": [
+      "claude-skills",
+      "jira",
+      "kanban",
+      "python",
+      "task-manager",
+      "terminal",
+      "textual",
+      "tui"
+    ],
+    "stars": 183,
+    "updatedAt": "2026-02-03T19:25:20Z",
+    "repoUrl": "https://github.com/Zaloog/kanban-tui"
+  },
+  {
+    "id": "jsonbored-claudepro-directory",
+    "name": "claudepro-directory",
+    "description": "Claude Pro Directory is a searchable collection of pre-built configurations, MCP servers, and custom rules designed to enhance Claude AI's performance for specific tasks.",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-directory",
+      "ai-tools",
+      "anthropic",
+      "artificial-intelligence",
+      "awesome-list",
+      "build-in-public",
+      "claude",
+      "claude-ai",
+      "claude-api",
+      "claude-code"
+    ],
+    "stars": 170,
+    "updatedAt": "2026-01-31T11:51:30Z",
+    "repoUrl": "https://github.com/JSONbored/claudepro-directory"
+  },
+  {
+    "id": "athola-claude-night-market",
+    "name": "claude-night-market",
+    "description": "Marketplace repo for Claude Code Plugins developed from personal projects and workflow",
+    "category": "ai-data-science",
+    "tags": [
+      "awesome-claude-code",
+      "awesome-claude-skills",
+      "bug-review",
+      "claude-code",
+      "claude-code-plugins-marketplace",
+      "claude-commands",
+      "claude-hooks",
+      "claude-skills",
+      "claude-skills-creator",
+      "code-review"
+    ],
+    "stars": 161,
+    "updatedAt": "2026-02-03T13:11:35Z",
+    "repoUrl": "https://github.com/athola/claude-night-market"
+  },
+  {
+    "id": "ancoleman-ai-design-components",
+    "name": "ai-design-components",
+    "description": "Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude",
+    "category": "ai-data-science",
+    "tags": [
+      "ai-design",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "design-system",
+      "full-stack",
+      "react",
+      "skills",
+      "typescript"
+    ],
+    "stars": 158,
+    "updatedAt": "2026-02-03T14:46:15Z",
+    "repoUrl": "https://github.com/ancoleman/ai-design-components"
+  },
+  {
+    "id": "aaron-he-zhu-seo-geo-claude-skills",
+    "name": "seo-geo-claude-skills",
+    "description": "A comprehensive collection of Claude Skills for Search Engine Optimization (SEO) and Generative Engine Optimization (GEO), organized around a proven methodology framework.",
+    "category": "ai-data-science",
+    "tags": [
+      "awesome",
+      "claude-skills",
+      "geo",
+      "seo"
+    ],
+    "stars": 146,
+    "updatedAt": "2026-02-04T01:19:21Z",
+    "repoUrl": "https://github.com/aaron-he-zhu/seo-geo-claude-skills"
+  },
+  {
+    "id": "geekjourneyx-ai-daily-skill",
+    "name": "ai-daily-skill",
+    "description": "AI 资讯日报 Claude Code Skill - 每天自动获取、分析、归类 AI 前沿资讯",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "ai-news",
+      "claude-skills"
+    ],
+    "stars": 141,
+    "updatedAt": "2026-02-03T11:04:25Z",
+    "repoUrl": "https://github.com/geekjourneyx/ai-daily-skill"
+  },
+  {
+    "id": "zxkane-aws-skills",
+    "name": "aws-skills",
+    "description": "Claude Agent Skills for AWS",
+    "category": "ai-data-science",
+    "tags": [
+      "agent-skills",
+      "aws",
+      "aws-agentc",
+      "aws-agentcore",
+      "aws-cdk",
+      "aws-serverless-architecture",
+      "claude-code",
+      "claude-plugin",
+      "claude-skills",
+      "event-driven-architecture"
+    ],
+    "stars": 126,
+    "updatedAt": "2026-02-03T15:58:14Z",
+    "repoUrl": "https://github.com/zxkane/aws-skills"
+  },
+  {
+    "id": "feiskyer-codex-settings",
+    "name": "codex-settings",
+    "description": "OpenAI Codex CLI settings, configurations, skills and prompts for vibe coding",
+    "category": "ai-data-science",
+    "tags": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "copilot",
+      "litellm",
+      "openai",
+      "spec-driven-development"
+    ],
+    "stars": 116,
+    "updatedAt": "2026-01-31T01:34:27Z",
+    "repoUrl": "https://github.com/feiskyer/codex-settings"
+  },
+  {
+    "id": "prefecthq-colin",
+    "name": "colin",
+    "description": "A context engine that treats skills as software.",
+    "category": "ai-data-science",
+    "tags": [
+      "agent",
+      "agent-skills",
+      "claude",
+      "claude-skills",
+      "context",
+      "context-engineering",
+      "skills"
+    ],
+    "stars": 94,
+    "updatedAt": "2026-02-03T00:51:08Z",
+    "repoUrl": "https://github.com/PrefectHQ/colin"
+  },
+  {
+    "id": "prat011-awesome-llm-skills",
+    "name": "awesome-llm-skills",
+    "description": "A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents",
+    "category": "ai-data-science",
+    "tags": [
+      "anthropic",
+      "awesome-list",
+      "awesome-lists",
+      "claude-code",
+      "claude-skills",
+      "claude-skills-creator",
+      "codex",
+      "codex-cli",
+      "gemini",
+      "gemini-cli"
+    ],
+    "stars": 798,
+    "updatedAt": "2026-02-04T00:06:58Z",
+    "repoUrl": "https://github.com/Prat011/awesome-llm-skills"
+  },
+  {
+    "id": "instavm-coderunner",
+    "name": "coderunner",
+    "description": "A secure local sandbox to run LLM-generated code using Apple containers",
+    "category": "ai-data-science",
+    "tags": [
+      "anthropic",
+      "apple",
+      "apple-container",
+      "claude-code",
+      "claude-skills",
+      "containerization",
+      "gemini-cli",
+      "llm",
+      "llmstudio",
+      "mcp"
+    ],
+    "stars": 760,
+    "updatedAt": "2026-02-03T15:38:44Z",
+    "repoUrl": "https://github.com/instavm/coderunner"
+  },
+  {
+    "id": "behisecc-awesome-claude-skills",
+    "name": "awesome-claude-skills",
+    "description": "A curated list of Claude Skills.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 5386,
+    "updatedAt": "2026-02-04T00:57:38Z",
+    "repoUrl": "https://github.com/BehiSecc/awesome-claude-skills"
+  },
+  {
+    "id": "sawyerhood-dev-browser",
+    "name": "dev-browser",
+    "description": "A Claude Skill to give your agent the ability to use a web browser",
+    "category": "ai-data-science",
+    "tags": [
+      "claude-code",
+      "playwright",
+      "skills"
+    ],
+    "stars": 3404,
+    "updatedAt": "2026-02-04T01:22:02Z",
+    "repoUrl": "https://github.com/SawyerHood/dev-browser"
+  },
+  {
+    "id": "huangserva-skill-prompt-generator",
+    "name": "skill-prompt-generator",
+    "description": "这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 985,
+    "updatedAt": "2026-02-04T01:22:44Z",
+    "repoUrl": "https://github.com/huangserva/skill-prompt-generator"
+  },
+  {
+    "id": "simonw-claude-skills",
+    "name": "claude-skills",
+    "description": "The contents of /mnt/skills in Claude's code interpreter environment",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 913,
+    "updatedAt": "2026-02-02T21:27:36Z",
+    "repoUrl": "https://github.com/simonw/claude-skills"
+  },
+  {
+    "id": "synalinks-synalinks-skills",
+    "name": "synalinks-skills",
+    "description": "Claude skills for Synalinks",
+    "category": "ai-data-science",
+    "tags": [
+      "artificial-intelligence",
+      "large-language-models",
+      "neuro-symbolic",
+      "neuro-symbolic-ai",
+      "neurosymbolic"
+    ],
+    "stars": 895,
+    "updatedAt": "2026-02-01T21:37:33Z",
+    "repoUrl": "https://github.com/SynaLinks/synalinks-skills"
+  },
+  {
+    "id": "browserwing-browserwing",
+    "name": "browserwing-executor",
+    "description": "Control browser automation through HTTP API. Supports page navigation, element interaction (click, type, select), data extraction, accessibility snapshot analysis, screenshot, JavaScript execution, and batch operations.",
+    "category": "ai-data-science",
+    "tags": [
+      "aibrowser",
+      "golang",
+      "llm",
+      "react"
+    ],
+    "stars": 681,
+    "updatedAt": "2026-02-04T00:51:13Z",
+    "repoUrl": "https://github.com/browserwing/browserwing"
+  },
+  {
+    "id": "brownfinesecurity-iothackbot",
+    "name": "iothackbot",
+    "description": "IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 584,
+    "updatedAt": "2026-02-04T00:37:20Z",
+    "repoUrl": "https://github.com/BrownFineSecurity/iothackbot"
+  },
+  {
+    "id": "yzfly-douyin-mcp-server",
+    "name": "douyin-mcp-server",
+    "description": "提取抖音无水印视频链接，视频文案，douyin-mcp-server，mcp，claude skill",
+    "category": "ai-data-science",
+    "tags": [
+      "agentskills",
+      "claude",
+      "claudeskills",
+      "douyin",
+      "llm",
+      "mcp",
+      "skills",
+      "video",
+      "video-processing"
+    ],
+    "stars": 569,
+    "updatedAt": "2026-02-04T01:27:55Z",
+    "repoUrl": "https://github.com/yzfly/douyin-mcp-server"
+  },
+  {
+    "id": "rokpiy-auto-commenter",
+    "name": "auto-commenter",
+    "description": "A Claude skill that automatically posts personalized, authentic comments in your target communities.",
+    "category": "ai-data-science",
+    "tags": [
+      "automation",
+      "calude-ai",
+      "claude-skills",
+      "comment",
+      "mcp",
+      "playwright",
+      "reddit"
+    ],
+    "stars": 440,
+    "updatedAt": "2026-02-04T01:11:31Z",
+    "repoUrl": "https://github.com/rokpiy/auto-commenter"
+  },
+  {
+    "id": "abubakarsiddik31-claude-skills-collection",
+    "name": "claude-skills-collection",
+    "description": "A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 421,
+    "updatedAt": "2026-02-04T00:08:48Z",
+    "repoUrl": "https://github.com/abubakarsiddik31/claude-skills-collection"
+  },
+  {
+    "id": "instavm-open-skills",
+    "name": "open-skills",
+    "description": "OpenSkills: Run Claude Skills Locally using any LLM",
+    "category": "ai-data-science",
+    "tags": [
+      "ai",
+      "claude",
+      "gemini-cli",
+      "mcp",
+      "ollama",
+      "opencode",
+      "privacy",
+      "qwen-cli",
+      "skills"
+    ],
+    "stars": 360,
+    "updatedAt": "2026-02-03T23:16:52Z",
+    "repoUrl": "https://github.com/instavm/open-skills"
+  },
+  {
+    "id": "dgreenheck-webgpu-claude-skill",
+    "name": "webgpu-claude-skill",
+    "description": "A Claude skill for developing WebGPU applications with Three.js",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 353,
+    "updatedAt": "2026-02-04T00:49:11Z",
+    "repoUrl": "https://github.com/dgreenheck/webgpu-claude-skill"
+  },
+  {
+    "id": "joeseesun-anything-to-notebooklm",
+    "name": "anything-to-notebooklm",
+    "description": "多源内容智能处理器：支持微信公众号、网页、YouTube、PDF、Markdown等，自动上传到NotebookLM并生成播客/PPT/思维导图等多种格式",
+    "category": "ai-data-science",
+    "tags": [
+      "automation",
+      "claude",
+      "mcp",
+      "notebooklm",
+      "skill"
+    ],
+    "stars": 307,
+    "updatedAt": "2026-02-03T14:23:16Z",
+    "repoUrl": "https://github.com/joeseesun/anything-to-notebooklm"
+  },
+  {
+    "id": "k-dense-ai-claude-skills-mcp",
+    "name": "claude-skills-mcp",
+    "description": "MCP server for searching and retrieving Claude Agent Skills using vector search",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 302,
+    "updatedAt": "2026-02-03T16:46:56Z",
+    "repoUrl": "https://github.com/K-Dense-AI/claude-skills-mcp"
+  },
+  {
+    "id": "ailabs-393-ai-labs-claude-skills",
+    "name": "ai-labs-claude-skills",
+    "description": "This package is use to remove the hustle of finding claudeskills and shift them into any of the user project. This project become a bridge between user's usage and claude skills ",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 291,
+    "updatedAt": "2026-02-02T18:48:48Z",
+    "repoUrl": "https://github.com/ailabs-393/ai-labs-claude-skills"
+  },
+  {
+    "id": "zippoxer-subtask",
+    "name": "subtask",
+    "description": "Claude Skill to do your tasks with subagents in Git worktrees",
+    "category": "ai-data-science",
+    "tags": [
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-cli"
+    ],
+    "stars": 284,
+    "updatedAt": "2026-02-04T00:05:18Z",
+    "repoUrl": "https://github.com/zippoxer/subtask"
+  },
+  {
+    "id": "iamzhihuix-happy-claude-skills",
+    "name": "happy-claude-skills",
+    "description": "happy-claude-skills - A skill for Claude Code",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 248,
+    "updatedAt": "2026-02-03T13:13:59Z",
+    "repoUrl": "https://github.com/iamzhihuix/happy-claude-skills"
+  },
+  {
+    "id": "komal-skynet-claude-skill-homeassistant",
+    "name": "home-assistant-manager",
+    "description": "Expert-level Home Assistant configuration management with efficient deployment workflows (git and rapid scp iteration), remote CLI access via SSH and hass-cli, automation verification protocols, log analysis, reload vs restart optimization, and comprehensive Lovelace dashboard management for tablet-optimized UIs. Includes template patterns, card types, debugging strategies, and real-world examples.",
+    "category": "ai-data-science",
+    "tags": [
+      "agentic-ai",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "home-assistant"
+    ],
+    "stars": 233,
+    "updatedAt": "2026-02-03T15:38:43Z",
+    "repoUrl": "https://github.com/komal-SkyNET/claude-skill-homeassistant"
+  },
+  {
+    "id": "chujianyun-skills",
+    "name": "skills",
+    "description": "WuMing's Claude Skills",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 229,
+    "updatedAt": "2026-02-03T09:37:27Z",
+    "repoUrl": "https://github.com/chujianyun/skills"
+  },
+  {
+    "id": "ntcoding-claude-skillz",
+    "name": "claude-skillz",
+    "description": "Random Claude skills for common, simple programming tasks",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 190,
+    "updatedAt": "2026-02-04T01:03:44Z",
+    "repoUrl": "https://github.com/NTCoding/claude-skillz"
+  },
+  {
+    "id": "coleam00-second-brain-skills",
+    "name": "second-brain-skills",
+    "description": "A collection of Claude Skills to turn Claude Code into a Second Brain",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 187,
+    "updatedAt": "2026-02-04T00:50:55Z",
+    "repoUrl": "https://github.com/coleam00/second-brain-skills"
+  },
+  {
+    "id": "alonw0-web-asset-generator",
+    "name": "web-asset-generator",
+    "description": "Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration.",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 173,
+    "updatedAt": "2026-02-02T16:17:00Z",
+    "repoUrl": "https://github.com/alonw0/web-asset-generator"
+  },
+  {
+    "id": "jayzeedesign-awesome-claude-skills",
+    "name": "awesome-claude-skills",
+    "description": "awesome-claude-skills - A skill for Claude Code",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 161,
+    "updatedAt": "2026-01-30T22:53:37Z",
+    "repoUrl": "https://github.com/JayZeeDesign/awesome-claude-skills"
+  },
+  {
+    "id": "spences10-svelte-claude-skills",
+    "name": "svelte-claude-skills",
+    "description": "svelte-claude-skills - A skill for Claude Code",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 153,
+    "updatedAt": "2026-02-01T02:22:19Z",
+    "repoUrl": "https://github.com/spences10/svelte-claude-skills"
+  },
+  {
+    "id": "smallnest-goskills",
+    "name": "goskills",
+    "description": "A tool supports OPENAI and other LLMs with Claude Skills, you can also use it as a subagent",
+    "category": "ai-data-science",
+    "tags": [],
+    "stars": 146,
+    "updatedAt": "2026-02-03T14:27:46Z",
+    "repoUrl": "https://github.com/smallnest/goskills"
   }
 ]

@@ -21454,5 +21454,25 @@
     "stars": 0,
     "updatedAt": "2026-01-30T02:48:50Z",
     "repoUrl": "https://github.com/zeyxx/CYNIC"
+  },
+  {
+    "id": "zarazhangrui-youtube-to-ebook",
+    "name": "youtube-to-ebook",
+    "description": "Transform YouTube videos into beautifully formatted ebook articles with transcripts",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 183,
+    "updatedAt": "2026-02-04T00:09:40Z",
+    "repoUrl": "https://github.com/zarazhangrui/youtube-to-ebook"
+  },
+  {
+    "id": "op7418-video-wrapper-skills",
+    "name": "video-wrapper",
+    "description": "为访谈视频添加综艺特效（花字、卡片、人物条、章节标题等）。支持 4 种视觉主题，先分析字幕内容生成建议供用户审批，再渲染视频。",
+    "category": "tools-productivity",
+    "tags": [],
+    "stars": 151,
+    "updatedAt": "2026-02-03T20:00:47Z",
+    "repoUrl": "https://github.com/op7418/Video-Wrapper-Skills"
   }
 ]

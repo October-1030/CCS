@@ -15,18 +15,39 @@ config({ path: resolve(process.cwd(), ".env.local") });
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 const DATA_DIR = path.join(process.cwd(), "data", "skills");
 
-// Hot repos to add
+// Hot repos to add (batch 3)
 const HOT_REPOS = [
-  "thedotmack/claude-mem",
-  "yusufkaraaslan/Skill_Seekers",
-  "NevaMind-AI/memU",
-  "travisvn/awesome-claude-skills",
-  "VoltAgent/awesome-agent-skills",
-  "Orchestra-Research/AI-research-SKILLs",
-  "KhazP/vibe-coding-prompt-template",
-  "feiskyer/claude-code-settings",
-  "antonbabenko/terraform-skill",
-  "zscole/adversarial-spec",
+  // High stars
+  "BehiSecc/awesome-claude-skills",
+  "SawyerHood/dev-browser",
+  "mrgoonie/claudekit-skills",
+  "huangserva/skill-prompt-generator",
+  "simonw/claude-skills",
+  "SynaLinks/synalinks-skills",
+  "browserwing/browserwing",
+  "BrownFineSecurity/iothackbot",
+  "yzfly/douyin-mcp-server",
+  "rokpiy/auto-commenter",
+  "abubakarsiddik31/claude-skills-collection",
+  "instavm/open-skills",
+  "dgreenheck/webgpu-claude-skill",
+  "joeseesun/anything-to-notebooklm",
+  "K-Dense-AI/claude-skills-mcp",
+  "ailabs-393/ai-labs-claude-skills",
+  "zippoxer/subtask",
+  "iamzhihuix/happy-claude-skills",
+  "FrancyJGLisboa/agent-skill-creator",
+  "komal-SkyNET/claude-skill-homeassistant",
+  "chujianyun/skills",
+  "LeastBit/Claude_skills_zh-CN",
+  "NTCoding/claude-skillz",
+  "coleam00/second-brain-skills",
+  "zarazhangrui/youtube-to-ebook",
+  "alonw0/web-asset-generator",
+  "JayZeeDesign/awesome-claude-skills",
+  "spences10/svelte-claude-skills",
+  "op7418/Video-Wrapper-Skills",
+  "smallnest/goskills",
 ];
 
 // Category inference
