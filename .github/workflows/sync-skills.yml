@@ -35,7 +35,7 @@ jobs:
 
       - name: Run sync script
         env:
-          GITHUB_TOKEN: ${{ secrets.SYNC_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ "${{ github.event.inputs.full_sync }}" == "true" ]; then
             npm run sync:full
